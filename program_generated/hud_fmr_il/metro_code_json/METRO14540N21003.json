@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 442,
+                                   "One-Bedroom": 490,
+                                   "Two-Bedroom": 620,
+                                   "Three-Bedroom": 883,
+                                   "Four-Bedroom": 1005,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 502,
+                                   "One-Bedroom": 529,
+                                   "Two-Bedroom": 666,
+                                   "Three-Bedroom": 898,
+                                   "Four-Bedroom": 1106,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 482,
+                                   "One-Bedroom": 485,
+                                   "Two-Bedroom": 642,
+                                   "Three-Bedroom": 865,
+                                   "Four-Bedroom": 1128,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 493,
+                                   "One-Bedroom": 497,
+                                   "Two-Bedroom": 654,
+                                   "Three-Bedroom": 869,
+                                   "Four-Bedroom": 1104,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 520,
+                                   "One-Bedroom": 524,
+                                   "Two-Bedroom": 690,
+                                   "Three-Bedroom": 910,
+                                   "Four-Bedroom": 1147,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 542,
+                                   "One-Bedroom": 546,
+                                   "Two-Bedroom": 718,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 1130,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 52400,
+                            "very_low": {
+                                   "il50_p1": 18350,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23600,
+                                   "il50_p4": 26200,
+                                   "il50_p5": 28300,
+                                   "il50_p6": 30400,
+                                   "il50_p7": 32500,
+                                   "il50_p8": 34600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28300,
+                                   "il30_p6": 30400,
+                                   "il30_p7": 32500,
+                                   "il30_p8": 34600
+                            },
+                            "low": {
+                                   "il80_p1": 29350,
+                                   "il80_p2": 33550,
+                                   "il80_p3": 37750,
+                                   "il80_p4": 41900,
+                                   "il80_p5": 45300,
+                                   "il80_p6": 48650,
+                                   "il80_p7": 52000,
+                                   "il80_p8": 55350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 56100,
+                            "very_low": {
+                                   "il50_p1": 19650,
+                                   "il50_p2": 22450,
+                                   "il50_p3": 25250,
+                                   "il50_p4": 28050,
+                                   "il50_p5": 30300,
+                                   "il50_p6": 32550,
+                                   "il50_p7": 34800,
+                                   "il50_p8": 37050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32550,
+                                   "il30_p7": 34800,
+                                   "il30_p8": 37050
+                            },
+                            "low": {
+                                   "il80_p1": 31450,
+                                   "il80_p2": 35950,
+                                   "il80_p3": 40450,
+                                   "il80_p4": 44900,
+                                   "il80_p5": 48500,
+                                   "il80_p6": 52100,
+                                   "il80_p7": 55700,
+                                   "il80_p8": 59300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 55000,
+                            "very_low": {
+                                   "il50_p1": 19250,
+                                   "il50_p2": 22000,
+                                   "il50_p3": 24750,
+                                   "il50_p4": 27500,
+                                   "il50_p5": 29700,
+                                   "il50_p6": 31900,
+                                   "il50_p7": 34100,
+                                   "il50_p8": 36300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29700,
+                                   "il30_p6": 31900,
+                                   "il30_p7": 34100,
+                                   "il30_p8": 36300
+                            },
+                            "low": {
+                                   "il80_p1": 30800,
+                                   "il80_p2": 35200,
+                                   "il80_p3": 39600,
+                                   "il80_p4": 44000,
+                                   "il80_p5": 47550,
+                                   "il80_p6": 51050,
+                                   "il80_p7": 54600,
+                                   "il80_p8": 58100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 54500,
+                            "very_low": {
+                                   "il50_p1": 19100,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24550,
+                                   "il50_p4": 27250,
+                                   "il50_p5": 29450,
+                                   "il50_p6": 31650,
+                                   "il50_p7": 33800,
+                                   "il50_p8": 36000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29450,
+                                   "il30_p6": 31650,
+                                   "il30_p7": 33800,
+                                   "il30_p8": 36000
+                            },
+                            "low": {
+                                   "il80_p1": 30550,
+                                   "il80_p2": 34900,
+                                   "il80_p3": 39250,
+                                   "il80_p4": 43600,
+                                   "il80_p5": 47100,
+                                   "il80_p6": 50600,
+                                   "il80_p7": 54100,
+                                   "il80_p8": 57600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 57900,
+                            "very_low": {
+                                   "il50_p1": 20050,
+                                   "il50_p2": 22900,
+                                   "il50_p3": 25750,
+                                   "il50_p4": 28600,
+                                   "il50_p5": 30900,
+                                   "il50_p6": 33200,
+                                   "il50_p7": 35500,
+                                   "il50_p8": 37800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30900,
+                                   "il30_p6": 33200,
+                                   "il30_p7": 35500,
+                                   "il30_p8": 37800
+                            },
+                            "low": {
+                                   "il80_p1": 32050,
+                                   "il80_p2": 36600,
+                                   "il80_p3": 41200,
+                                   "il80_p4": 45750,
+                                   "il80_p5": 49450,
+                                   "il80_p6": 53100,
+                                   "il80_p7": 56750,
+                                   "il80_p8": 60400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allen County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY",
+                            "area_name": "Allen County, KY HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 61700,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24700,
+                                   "il50_p3": 27800,
+                                   "il50_p4": 30850,
+                                   "il50_p5": 33350,
+                                   "il50_p6": 35800,
+                                   "il50_p7": 38300,
+                                   "il50_p8": 40750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35800,
+                                   "il30_p7": 38300,
+                                   "il30_p8": 40750
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39500,
+                                   "il80_p3": 44450,
+                                   "il80_p4": 49350,
+                                   "il80_p5": 53300,
+                                   "il80_p6": 57250,
+                                   "il80_p7": 61200,
+                                   "il80_p8": 65150
+                            }
+                     }
+              ]
+       }
+}

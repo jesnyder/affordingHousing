@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 622,
+                                   "One-Bedroom": 626,
+                                   "Two-Bedroom": 809,
+                                   "Three-Bedroom": 1027,
+                                   "Four-Bedroom": 1115,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 566,
+                                   "Two-Bedroom": 728,
+                                   "Three-Bedroom": 926,
+                                   "Four-Bedroom": 1004,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 575,
+                                   "One-Bedroom": 579,
+                                   "Two-Bedroom": 741,
+                                   "Three-Bedroom": 959,
+                                   "Four-Bedroom": 1002,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 600,
+                                   "Two-Bedroom": 774,
+                                   "Three-Bedroom": 991,
+                                   "Four-Bedroom": 1078,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 804,
+                                   "Three-Bedroom": 1012,
+                                   "Four-Bedroom": 1111,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA",
+                            "area_name": "Monroe, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1011,
+                                   "Four-Bedroom": 1115,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "year": "2017",
+                            "median_income": 52600,
+                            "very_low": {
+                                   "il50_p1": 18450,
+                                   "il50_p2": 21050,
+                                   "il50_p3": 23700,
+                                   "il50_p4": 26300,
+                                   "il50_p5": 28450,
+                                   "il50_p6": 30550,
+                                   "il50_p7": 32650,
+                                   "il50_p8": 34750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28450,
+                                   "il30_p6": 30550,
+                                   "il30_p7": 32650,
+                                   "il30_p8": 34750
+                            },
+                            "low": {
+                                   "il80_p1": 29500,
+                                   "il80_p2": 33700,
+                                   "il80_p3": 37900,
+                                   "il80_p4": 42100,
+                                   "il80_p5": 45500,
+                                   "il80_p6": 48850,
+                                   "il80_p7": 52250,
+                                   "il80_p8": 55600
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "year": "2018",
+                            "median_income": 52200,
+                            "very_low": {
+                                   "il50_p1": 18300,
+                                   "il50_p2": 20900,
+                                   "il50_p3": 23500,
+                                   "il50_p4": 26100,
+                                   "il50_p5": 28200,
+                                   "il50_p6": 30300,
+                                   "il50_p7": 32400,
+                                   "il50_p8": 34500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28200,
+                                   "il30_p6": 30300,
+                                   "il30_p7": 32400,
+                                   "il30_p8": 34500
+                            },
+                            "low": {
+                                   "il80_p1": 29250,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37600,
+                                   "il80_p4": 41750,
+                                   "il80_p5": 45100,
+                                   "il80_p6": 48450,
+                                   "il80_p7": 51800,
+                                   "il80_p8": 55150
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "year": "2019",
+                            "median_income": 51200,
+                            "very_low": {
+                                   "il50_p1": 17950,
+                                   "il50_p2": 20500,
+                                   "il50_p3": 23050,
+                                   "il50_p4": 25600,
+                                   "il50_p5": 27650,
+                                   "il50_p6": 29700,
+                                   "il50_p7": 31750,
+                                   "il50_p8": 33800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25600,
+                                   "il30_p5": 27650,
+                                   "il30_p6": 29700,
+                                   "il30_p7": 31750,
+                                   "il30_p8": 33800
+                            },
+                            "low": {
+                                   "il80_p1": 28700,
+                                   "il80_p2": 32800,
+                                   "il80_p3": 36900,
+                                   "il80_p4": 40950,
+                                   "il80_p5": 44250,
+                                   "il80_p6": 47550,
+                                   "il80_p7": 50800,
+                                   "il80_p8": 54100
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "year": "2020",
+                            "median_income": 56700,
+                            "very_low": {
+                                   "il50_p1": 19350,
+                                   "il50_p2": 22100,
+                                   "il50_p3": 24850,
+                                   "il50_p4": 27600,
+                                   "il50_p5": 29850,
+                                   "il50_p6": 32050,
+                                   "il50_p7": 34250,
+                                   "il50_p8": 36450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29850,
+                                   "il30_p6": 32050,
+                                   "il30_p7": 34250,
+                                   "il30_p8": 36450
+                            },
+                            "low": {
+                                   "il80_p1": 30950,
+                                   "il80_p2": 35350,
+                                   "il80_p3": 39750,
+                                   "il80_p4": 44150,
+                                   "il80_p5": 47700,
+                                   "il80_p6": 51250,
+                                   "il80_p7": 54750,
+                                   "il80_p8": 58300
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA MSA",
+                            "area_name": "Monroe, LA MSA",
+                            "year": "2021",
+                            "median_income": 63800,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 28950,
+                                   "il50_p5": 31300,
+                                   "il50_p6": 33600,
+                                   "il50_p7": 35900,
+                                   "il50_p8": 38250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 33600,
+                                   "il30_p7": 35900,
+                                   "il30_p8": 38250
+                            },
+                            "low": {
+                                   "il80_p1": 32450,
+                                   "il80_p2": 37050,
+                                   "il80_p3": 41700,
+                                   "il80_p4": 46300,
+                                   "il80_p5": 50050,
+                                   "il80_p6": 53750,
+                                   "il80_p7": 57450,
+                                   "il80_p8": 61150
+                            }
+                     },
+                     {
+                            "county_name": "Ouachita Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, LA",
+                            "area_name": "Monroe, LA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 58500,
+                            "very_low": {
+                                   "il50_p1": 20500,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26350,
+                                   "il50_p4": 29250,
+                                   "il50_p5": 31600,
+                                   "il50_p6": 33950,
+                                   "il50_p7": 36300,
+                                   "il50_p8": 38650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 31600,
+                                   "il30_p6": 33950,
+                                   "il30_p7": 36300,
+                                   "il30_p8": 38650
+                            },
+                            "low": {
+                                   "il80_p1": 32800,
+                                   "il80_p2": 37450,
+                                   "il80_p3": 42150,
+                                   "il80_p4": 46800,
+                                   "il80_p5": 50550,
+                                   "il80_p6": 54300,
+                                   "il80_p7": 58050,
+                                   "il80_p8": 61800
+                            }
+                     }
+              ]
+       }
+}

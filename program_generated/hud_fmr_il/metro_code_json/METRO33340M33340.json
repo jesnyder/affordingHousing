@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 748,
+                                   "Two-Bedroom": 927,
+                                   "Three-Bedroom": 1168,
+                                   "Four-Bedroom": 1311,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 611,
+                                   "One-Bedroom": 742,
+                                   "Two-Bedroom": 911,
+                                   "Three-Bedroom": 1152,
+                                   "Four-Bedroom": 1298,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 753,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1167,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 628,
+                                   "One-Bedroom": 761,
+                                   "Two-Bedroom": 922,
+                                   "Three-Bedroom": 1177,
+                                   "Four-Bedroom": 1303,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 663,
+                                   "One-Bedroom": 803,
+                                   "Two-Bedroom": 973,
+                                   "Three-Bedroom": 1242,
+                                   "Four-Bedroom": 1362,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha, WI",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 687,
+                                   "One-Bedroom": 827,
+                                   "Two-Bedroom": 999,
+                                   "Three-Bedroom": 1269,
+                                   "Four-Bedroom": 1384,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "year": "2017",
+                            "median_income": 72400,
+                            "very_low": {
+                                   "il50_p1": 25350,
+                                   "il50_p2": 29000,
+                                   "il50_p3": 32600,
+                                   "il50_p4": 36200,
+                                   "il50_p5": 39100,
+                                   "il50_p6": 42000,
+                                   "il50_p7": 44900,
+                                   "il50_p8": 47800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17400,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40550,
+                                   "il80_p2": 46350,
+                                   "il80_p3": 52150,
+                                   "il80_p4": 57900,
+                                   "il80_p5": 62550,
+                                   "il80_p6": 67200,
+                                   "il80_p7": 71800,
+                                   "il80_p8": 76450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "year": "2018",
+                            "median_income": 77300,
+                            "very_low": {
+                                   "il50_p1": 27100,
+                                   "il50_p2": 30950,
+                                   "il50_p3": 34800,
+                                   "il50_p4": 38650,
+                                   "il50_p5": 41750,
+                                   "il50_p6": 44850,
+                                   "il50_p7": 47950,
+                                   "il50_p8": 51050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 20900,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43300,
+                                   "il80_p2": 49500,
+                                   "il80_p3": 55700,
+                                   "il80_p4": 61850,
+                                   "il80_p5": 66800,
+                                   "il80_p6": 71750,
+                                   "il80_p7": 76700,
+                                   "il80_p8": 81650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "year": "2019",
+                            "median_income": 82300,
+                            "very_low": {
+                                   "il50_p1": 28850,
+                                   "il50_p2": 32950,
+                                   "il50_p3": 37050,
+                                   "il50_p4": 41150,
+                                   "il50_p5": 44450,
+                                   "il50_p6": 47750,
+                                   "il50_p7": 51050,
+                                   "il50_p8": 54350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19800,
+                                   "il30_p3": 22250,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46100,
+                                   "il80_p2": 52700,
+                                   "il80_p3": 59300,
+                                   "il80_p4": 65850,
+                                   "il80_p5": 71150,
+                                   "il80_p6": 76400,
+                                   "il80_p7": 81700,
+                                   "il80_p8": 86950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "year": "2020",
+                            "median_income": 83800,
+                            "very_low": {
+                                   "il50_p1": 29350,
+                                   "il50_p2": 33550,
+                                   "il50_p3": 37750,
+                                   "il50_p4": 41900,
+                                   "il50_p5": 45300,
+                                   "il50_p6": 48650,
+                                   "il50_p7": 52000,
+                                   "il50_p8": 55350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17650,
+                                   "il30_p2": 20150,
+                                   "il30_p3": 22650,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46950,
+                                   "il80_p2": 53650,
+                                   "il80_p3": 60350,
+                                   "il80_p4": 67050,
+                                   "il80_p5": 72450,
+                                   "il80_p6": 77800,
+                                   "il80_p7": 83150,
+                                   "il80_p8": 88550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "year": "2021",
+                            "median_income": 84400,
+                            "very_low": {
+                                   "il50_p1": 29550,
+                                   "il50_p2": 33800,
+                                   "il50_p3": 38000,
+                                   "il50_p4": 42200,
+                                   "il50_p5": 45600,
+                                   "il50_p6": 49000,
+                                   "il50_p7": 52350,
+                                   "il50_p8": 55750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20250,
+                                   "il30_p3": 22800,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47250,
+                                   "il80_p2": 54000,
+                                   "il80_p3": 60750,
+                                   "il80_p4": 67500,
+                                   "il80_p5": 72900,
+                                   "il80_p6": 78300,
+                                   "il80_p7": 83700,
+                                   "il80_p8": 89100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Milwaukee County, WI; Ozaukee County, WI; Washington County, WI; and Waukesha County, WI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Milwaukee-Waukesha, WI",
+                            "area_name": "Milwaukee-Waukesha-West Allis, WI MSA",
+                            "year": "2022",
+                            "median_income": 96100,
+                            "very_low": {
+                                   "il50_p1": 33050,
+                                   "il50_p2": 37800,
+                                   "il50_p3": 42500,
+                                   "il50_p4": 47200,
+                                   "il50_p5": 51000,
+                                   "il50_p6": 54800,
+                                   "il50_p7": 58550,
+                                   "il50_p8": 62350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19850,
+                                   "il30_p2": 22650,
+                                   "il30_p3": 25500,
+                                   "il30_p4": 28300,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 570,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 892,
+                                   "Three-Bedroom": 1167,
+                                   "Four-Bedroom": 1245,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 612,
+                                   "One-Bedroom": 728,
+                                   "Two-Bedroom": 946,
+                                   "Three-Bedroom": 1229,
+                                   "Four-Bedroom": 1299,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 611,
+                                   "One-Bedroom": 722,
+                                   "Two-Bedroom": 946,
+                                   "Three-Bedroom": 1212,
+                                   "Four-Bedroom": 1297,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 634,
+                                   "One-Bedroom": 739,
+                                   "Two-Bedroom": 973,
+                                   "Three-Bedroom": 1230,
+                                   "Four-Bedroom": 1333,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 639,
+                                   "One-Bedroom": 736,
+                                   "Two-Bedroom": 969,
+                                   "Three-Bedroom": 1225,
+                                   "Four-Bedroom": 1345,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 785,
+                                   "Two-Bedroom": 1024,
+                                   "Three-Bedroom": 1300,
+                                   "Four-Bedroom": 1415,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "year": "2017",
+                            "median_income": 70800,
+                            "very_low": {
+                                   "il50_p1": 24800,
+                                   "il50_p2": 28350,
+                                   "il50_p3": 31900,
+                                   "il50_p4": 35400,
+                                   "il50_p5": 38250,
+                                   "il50_p6": 41100,
+                                   "il50_p7": 43900,
+                                   "il50_p8": 46750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 17000,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45350,
+                                   "il80_p3": 51000,
+                                   "il80_p4": 56650,
+                                   "il80_p5": 61200,
+                                   "il80_p6": 65750,
+                                   "il80_p7": 70250,
+                                   "il80_p8": 74800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "year": "2018",
+                            "median_income": 74300,
+                            "very_low": {
+                                   "il50_p1": 26050,
+                                   "il50_p2": 29750,
+                                   "il50_p3": 33450,
+                                   "il50_p4": 37150,
+                                   "il50_p5": 40150,
+                                   "il50_p6": 43100,
+                                   "il50_p7": 46100,
+                                   "il50_p8": 49050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17850,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41650,
+                                   "il80_p2": 47600,
+                                   "il80_p3": 53550,
+                                   "il80_p4": 59450,
+                                   "il80_p5": 64250,
+                                   "il80_p6": 69000,
+                                   "il80_p7": 73750,
+                                   "il80_p8": 78500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "year": "2019",
+                            "median_income": 76600,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "year": "2020",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 28800,
+                                   "il50_p2": 32900,
+                                   "il50_p3": 37000,
+                                   "il50_p4": 41100,
+                                   "il50_p5": 44400,
+                                   "il50_p6": 47700,
+                                   "il50_p7": 51000,
+                                   "il50_p8": 54300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 22200,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46050,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59200,
+                                   "il80_p4": 65750,
+                                   "il80_p5": 71050,
+                                   "il80_p6": 76300,
+                                   "il80_p7": 81550,
+                                   "il80_p8": 86800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA MSA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "year": "2021",
+                            "median_income": 81800,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65450,
+                                   "il80_p5": 70700,
+                                   "il80_p6": 75950,
+                                   "il80_p7": 81200,
+                                   "il80_p8": 86400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "York County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "York-Hanover, PA",
+                            "area_name": "York-Hanover, PA MSA",
+                            "year": "2022",
+                            "median_income": 93300,
+                            "very_low": {
+                                   "il50_p1": 32050,
+                                   "il50_p2": 36600,
+                                   "il50_p3": 41200,
+                                   "il50_p4": 45750,
+                                   "il50_p5": 49450,
+                                   "il50_p6": 53100,
+                                   "il50_p7": 56750,
+                                   "il50_p8": 60400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51250,
+                                   "il80_p2": 58600,
+                                   "il80_p3": 65900,
+                                   "il80_p4": 73200,
+                                   "il80_p5": 79100,
+                                   "il80_p6": 84950,
+                                   "il80_p7": 90800,
+                                   "il80_p8": 96650
+                            }
+                     }
+              ]
+       }
+}

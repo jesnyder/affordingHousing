@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 518,
+                                   "Two-Bedroom": 689,
+                                   "Three-Bedroom": 862,
+                                   "Four-Bedroom": 951,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 580,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 759,
+                                   "Three-Bedroom": 952,
+                                   "Four-Bedroom": 1047,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 773,
+                                   "Three-Bedroom": 968,
+                                   "Four-Bedroom": 1083,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 803,
+                                   "Three-Bedroom": 1001,
+                                   "Four-Bedroom": 1332,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 597,
+                                   "One-Bedroom": 601,
+                                   "Two-Bedroom": 792,
+                                   "Three-Bedroom": 987,
+                                   "Four-Bedroom": 1254,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 629,
+                                   "Two-Bedroom": 828,
+                                   "Three-Bedroom": 1054,
+                                   "Four-Bedroom": 1262,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 54000,
+                            "very_low": {
+                                   "il50_p1": 18500,
+                                   "il50_p2": 21150,
+                                   "il50_p3": 23800,
+                                   "il50_p4": 26400,
+                                   "il50_p5": 28550,
+                                   "il50_p6": 30650,
+                                   "il50_p7": 32750,
+                                   "il50_p8": 34850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28550,
+                                   "il30_p6": 30650,
+                                   "il30_p7": 32750,
+                                   "il30_p8": 34850
+                            },
+                            "low": {
+                                   "il80_p1": 29600,
+                                   "il80_p2": 33800,
+                                   "il80_p3": 38050,
+                                   "il80_p4": 42250,
+                                   "il80_p5": 45650,
+                                   "il80_p6": 49050,
+                                   "il80_p7": 52400,
+                                   "il80_p8": 55800
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 57600,
+                            "very_low": {
+                                   "il50_p1": 20200,
+                                   "il50_p2": 23050,
+                                   "il50_p3": 25950,
+                                   "il50_p4": 28800,
+                                   "il50_p5": 31150,
+                                   "il50_p6": 33450,
+                                   "il50_p7": 35750,
+                                   "il50_p8": 38050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33450,
+                                   "il30_p7": 35750,
+                                   "il30_p8": 38050
+                            },
+                            "low": {
+                                   "il80_p1": 32300,
+                                   "il80_p2": 36900,
+                                   "il80_p3": 41500,
+                                   "il80_p4": 46100,
+                                   "il80_p5": 49800,
+                                   "il80_p6": 53500,
+                                   "il80_p7": 57200,
+                                   "il80_p8": 60900
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 48300,
+                            "very_low": {
+                                   "il50_p1": 19200,
+                                   "il50_p2": 21950,
+                                   "il50_p3": 24700,
+                                   "il50_p4": 27400,
+                                   "il50_p5": 29600,
+                                   "il50_p6": 31800,
+                                   "il50_p7": 34000,
+                                   "il50_p8": 36200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29600,
+                                   "il30_p6": 31800,
+                                   "il30_p7": 34000,
+                                   "il30_p8": 36200
+                            },
+                            "low": {
+                                   "il80_p1": 30700,
+                                   "il80_p2": 35100,
+                                   "il80_p3": 39500,
+                                   "il80_p4": 43850,
+                                   "il80_p5": 47400,
+                                   "il80_p6": 50900,
+                                   "il80_p7": 54400,
+                                   "il80_p8": 57900
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 54800,
+                            "very_low": {
+                                   "il50_p1": 19200,
+                                   "il50_p2": 21950,
+                                   "il50_p3": 24700,
+                                   "il50_p4": 27400,
+                                   "il50_p5": 29600,
+                                   "il50_p6": 31800,
+                                   "il50_p7": 34000,
+                                   "il50_p8": 36200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29600,
+                                   "il30_p6": 31800,
+                                   "il30_p7": 34000,
+                                   "il30_p8": 36200
+                            },
+                            "low": {
+                                   "il80_p1": 30700,
+                                   "il80_p2": 35100,
+                                   "il80_p3": 39500,
+                                   "il80_p4": 43850,
+                                   "il80_p5": 47400,
+                                   "il80_p6": 50900,
+                                   "il80_p7": 54400,
+                                   "il80_p8": 57900
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 56600,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22650,
+                                   "il50_p3": 25500,
+                                   "il50_p4": 28300,
+                                   "il50_p5": 30600,
+                                   "il50_p6": 32850,
+                                   "il50_p7": 35100,
+                                   "il50_p8": 37400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30600,
+                                   "il30_p6": 32850,
+                                   "il30_p7": 35100,
+                                   "il30_p8": 37400
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36250,
+                                   "il80_p3": 40800,
+                                   "il80_p4": 45300,
+                                   "il80_p5": 48950,
+                                   "il80_p6": 52550,
+                                   "il80_p7": 56200,
+                                   "il80_p8": 59800
+                            }
+                     },
+                     {
+                            "county_name": "Iberia Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA",
+                            "area_name": "Iberia Parish, LA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 60000,
+                            "very_low": {
+                                   "il50_p1": 21000,
+                                   "il50_p2": 24000,
+                                   "il50_p3": 27000,
+                                   "il50_p4": 30000,
+                                   "il50_p5": 32400,
+                                   "il50_p6": 34800,
+                                   "il50_p7": 37200,
+                                   "il50_p8": 39600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32400,
+                                   "il30_p6": 34800,
+                                   "il30_p7": 37200,
+                                   "il30_p8": 39600
+                            },
+                            "low": {
+                                   "il80_p1": 33600,
+                                   "il80_p2": 38400,
+                                   "il80_p3": 43200,
+                                   "il80_p4": 48000,
+                                   "il80_p5": 51850,
+                                   "il80_p6": 55700,
+                                   "il80_p7": 59550,
+                                   "il80_p8": 63400
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 641,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1037,
+                                   "Four-Bedroom": 1123,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 581,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1037,
+                                   "Four-Bedroom": 1099,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 630,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 834,
+                                   "Three-Bedroom": 1074,
+                                   "Four-Bedroom": 1127,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 647,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 839,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1146,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 729,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 924,
+                                   "Three-Bedroom": 1220,
+                                   "Four-Bedroom": 1283,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY",
+                            "area_name": "Elmira, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 738,
+                                   "One-Bedroom": 743,
+                                   "Two-Bedroom": 944,
+                                   "Three-Bedroom": 1241,
+                                   "Four-Bedroom": 1339,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "year": "2017",
+                            "median_income": 64600,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25850,
+                                   "il50_p3": 29100,
+                                   "il50_p4": 32300,
+                                   "il50_p5": 34900,
+                                   "il50_p6": 37500,
+                                   "il50_p7": 40100,
+                                   "il50_p8": 42650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36200,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46550,
+                                   "il80_p4": 51700,
+                                   "il80_p5": 55850,
+                                   "il80_p6": 60000,
+                                   "il80_p7": 64150,
+                                   "il80_p8": 68250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "year": "2018",
+                            "median_income": 71000,
+                            "very_low": {
+                                   "il50_p1": 24850,
+                                   "il50_p2": 28400,
+                                   "il50_p3": 31950,
+                                   "il50_p4": 35500,
+                                   "il50_p5": 38350,
+                                   "il50_p6": 41200,
+                                   "il50_p7": 44050,
+                                   "il50_p8": 46900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17050,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39800,
+                                   "il80_p2": 45450,
+                                   "il80_p3": 51150,
+                                   "il80_p4": 56800,
+                                   "il80_p5": 61350,
+                                   "il80_p6": 65900,
+                                   "il80_p7": 70450,
+                                   "il80_p8": 75000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "year": "2019",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 37000,
+                                   "il50_p5": 40000,
+                                   "il50_p6": 42950,
+                                   "il50_p7": 45900,
+                                   "il50_p8": 48850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41450,
+                                   "il80_p2": 47400,
+                                   "il80_p3": 53300,
+                                   "il80_p4": 59200,
+                                   "il80_p5": 63950,
+                                   "il80_p6": 68700,
+                                   "il80_p7": 73450,
+                                   "il80_p8": 78150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "year": "2020",
+                            "median_income": 73600,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29450,
+                                   "il50_p3": 33150,
+                                   "il50_p4": 36800,
+                                   "il50_p5": 39750,
+                                   "il50_p6": 42700,
+                                   "il50_p7": 45650,
+                                   "il50_p8": 48600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 17700,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41250,
+                                   "il80_p2": 47150,
+                                   "il80_p3": 53050,
+                                   "il80_p4": 58900,
+                                   "il80_p5": 63650,
+                                   "il80_p6": 68350,
+                                   "il80_p7": 73050,
+                                   "il80_p8": 77750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY MSA",
+                            "area_name": "Elmira, NY MSA",
+                            "year": "2021",
+                            "median_income": 67600,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 35000,
+                                   "il50_p5": 37800,
+                                   "il50_p6": 40600,
+                                   "il50_p7": 43400,
+                                   "il50_p8": 46200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39200,
+                                   "il80_p2": 44800,
+                                   "il80_p3": 50400,
+                                   "il80_p4": 56000,
+                                   "il80_p5": 60500,
+                                   "il80_p6": 65000,
+                                   "il80_p7": 69450,
+                                   "il80_p8": 73950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chemung County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elmira, NY",
+                            "area_name": "Elmira, NY MSA",
+                            "year": "2022",
+                            "median_income": 77900,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     }
+              ]
+       }
+}

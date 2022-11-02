@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 488,
+                                   "One-Bedroom": 561,
+                                   "Two-Bedroom": 745,
+                                   "Three-Bedroom": 1023,
+                                   "Four-Bedroom": 1027,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 504,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 790,
+                                   "Three-Bedroom": 1060,
+                                   "Four-Bedroom": 1107,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 540,
+                                   "One-Bedroom": 636,
+                                   "Two-Bedroom": 841,
+                                   "Three-Bedroom": 1098,
+                                   "Four-Bedroom": 1195,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 552,
+                                   "One-Bedroom": 643,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1074,
+                                   "Four-Bedroom": 1222,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 575,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 871,
+                                   "Three-Bedroom": 1100,
+                                   "Four-Bedroom": 1183,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring-Avon Park, FL",
+                            "area_name": "Sebring, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 642,
+                                   "One-Bedroom": 709,
+                                   "Two-Bedroom": 933,
+                                   "Three-Bedroom": 1178,
+                                   "Four-Bedroom": 1329,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "year": "2017",
+                            "median_income": 42200,
+                            "very_low": {
+                                   "il50_p1": 16950,
+                                   "il50_p2": 19400,
+                                   "il50_p3": 21800,
+                                   "il50_p4": 24200,
+                                   "il50_p5": 26150,
+                                   "il50_p6": 28100,
+                                   "il50_p7": 30050,
+                                   "il50_p8": 31950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24200,
+                                   "il30_p5": 26150,
+                                   "il30_p6": 28100,
+                                   "il30_p7": 30050,
+                                   "il30_p8": 31950
+                            },
+                            "low": {
+                                   "il80_p1": 27100,
+                                   "il80_p2": 31000,
+                                   "il80_p3": 34850,
+                                   "il80_p4": 38700,
+                                   "il80_p5": 41800,
+                                   "il80_p6": 44900,
+                                   "il80_p7": 48000,
+                                   "il80_p8": 51100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "year": "2018",
+                            "median_income": 43800,
+                            "very_low": {
+                                   "il50_p1": 18250,
+                                   "il50_p2": 20850,
+                                   "il50_p3": 23450,
+                                   "il50_p4": 26050,
+                                   "il50_p5": 28150,
+                                   "il50_p6": 30250,
+                                   "il50_p7": 32350,
+                                   "il50_p8": 34400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28150,
+                                   "il30_p6": 30250,
+                                   "il30_p7": 32350,
+                                   "il30_p8": 34400
+                            },
+                            "low": {
+                                   "il80_p1": 29200,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37550,
+                                   "il80_p4": 41700,
+                                   "il80_p5": 45050,
+                                   "il80_p6": 48400,
+                                   "il80_p7": 51750,
+                                   "il80_p8": 55050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "year": "2019",
+                            "median_income": 46300,
+                            "very_low": {
+                                   "il50_p1": 18100,
+                                   "il50_p2": 20700,
+                                   "il50_p3": 23300,
+                                   "il50_p4": 25850,
+                                   "il50_p5": 27950,
+                                   "il50_p6": 30000,
+                                   "il50_p7": 32100,
+                                   "il50_p8": 34150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 27950,
+                                   "il30_p6": 30000,
+                                   "il30_p7": 32100,
+                                   "il30_p8": 34150
+                            },
+                            "low": {
+                                   "il80_p1": 28950,
+                                   "il80_p2": 33100,
+                                   "il80_p3": 37250,
+                                   "il80_p4": 41350,
+                                   "il80_p5": 44700,
+                                   "il80_p6": 48000,
+                                   "il80_p7": 51300,
+                                   "il80_p8": 54600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "year": "2020",
+                            "median_income": 49600,
+                            "very_low": {
+                                   "il50_p1": 18500,
+                                   "il50_p2": 21150,
+                                   "il50_p3": 23800,
+                                   "il50_p4": 26400,
+                                   "il50_p5": 28550,
+                                   "il50_p6": 30650,
+                                   "il50_p7": 32750,
+                                   "il50_p8": 34850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 28550,
+                                   "il30_p6": 30650,
+                                   "il30_p7": 32750,
+                                   "il30_p8": 34850
+                            },
+                            "low": {
+                                   "il80_p1": 29600,
+                                   "il80_p2": 33800,
+                                   "il80_p3": 38050,
+                                   "il80_p4": 42250,
+                                   "il80_p5": 45650,
+                                   "il80_p6": 49050,
+                                   "il80_p7": 52400,
+                                   "il80_p8": 55800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring, FL MSA",
+                            "area_name": "Sebring, FL MSA",
+                            "year": "2021",
+                            "median_income": 51000,
+                            "very_low": {
+                                   "il50_p1": 19400,
+                                   "il50_p2": 22200,
+                                   "il50_p3": 24950,
+                                   "il50_p4": 27700,
+                                   "il50_p5": 29950,
+                                   "il50_p6": 32150,
+                                   "il50_p7": 34350,
+                                   "il50_p8": 36600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29950,
+                                   "il30_p6": 32150,
+                                   "il30_p7": 34350,
+                                   "il30_p8": 36600
+                            },
+                            "low": {
+                                   "il80_p1": 31050,
+                                   "il80_p2": 35450,
+                                   "il80_p3": 39900,
+                                   "il80_p4": 44300,
+                                   "il80_p5": 47850,
+                                   "il80_p6": 51400,
+                                   "il80_p7": 54950,
+                                   "il80_p8": 58500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Highlands County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebring-Avon Park, FL",
+                            "area_name": "Sebring, FL MSA",
+                            "year": "2022",
+                            "median_income": 63500,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 30950,
+                                   "il50_p5": 33450,
+                                   "il50_p6": 35950,
+                                   "il50_p7": 38400,
+                                   "il50_p8": 40900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35950,
+                                   "il30_p7": 38400,
+                                   "il30_p8": 40900
+                            },
+                            "low": {
+                                   "il80_p1": 34650,
+                                   "il80_p2": 39600,
+                                   "il80_p3": 44550,
+                                   "il80_p4": 49500,
+                                   "il80_p5": 53500,
+                                   "il80_p6": 57450,
+                                   "il80_p7": 61400,
+                                   "il80_p8": 65350
+                            }
+                     }
+              ]
+       }
+}

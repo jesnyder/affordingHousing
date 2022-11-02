@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 887,
+                                   "One-Bedroom": 972,
+                                   "Two-Bedroom": 1254,
+                                   "Three-Bedroom": 1679,
+                                   "Four-Bedroom": 2057,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 927,
+                                   "One-Bedroom": 959,
+                                   "Two-Bedroom": 1276,
+                                   "Three-Bedroom": 1657,
+                                   "Four-Bedroom": 2057,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 935,
+                                   "One-Bedroom": 940,
+                                   "Two-Bedroom": 1244,
+                                   "Three-Bedroom": 1589,
+                                   "Four-Bedroom": 1944,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 866,
+                                   "One-Bedroom": 937,
+                                   "Two-Bedroom": 1234,
+                                   "Three-Bedroom": 1546,
+                                   "Four-Bedroom": 1921,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 866,
+                                   "One-Bedroom": 961,
+                                   "Two-Bedroom": 1266,
+                                   "Three-Bedroom": 1575,
+                                   "Four-Bedroom": 1993,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 928,
+                                   "One-Bedroom": 1062,
+                                   "Two-Bedroom": 1397,
+                                   "Three-Bedroom": 1789,
+                                   "Four-Bedroom": 2210,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 120200,
+                            "very_low": {
+                                   "il50_p1": 38100,
+                                   "il50_p2": 43550,
+                                   "il50_p3": 49000,
+                                   "il50_p4": 54400,
+                                   "il50_p5": 58800,
+                                   "il50_p6": 63150,
+                                   "il50_p7": 67500,
+                                   "il50_p8": 71850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22900,
+                                   "il30_p2": 26150,
+                                   "il30_p3": 29400,
+                                   "il30_p4": 32650,
+                                   "il30_p5": 35300,
+                                   "il30_p6": 37900,
+                                   "il30_p7": 40500,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 112300,
+                            "very_low": {
+                                   "il50_p1": 39350,
+                                   "il50_p2": 44950,
+                                   "il50_p3": 50550,
+                                   "il50_p4": 56150,
+                                   "il50_p5": 60650,
+                                   "il50_p6": 65150,
+                                   "il50_p7": 69650,
+                                   "il50_p8": 74150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23600,
+                                   "il30_p2": 27000,
+                                   "il30_p3": 30350,
+                                   "il30_p4": 33700,
+                                   "il30_p5": 36400,
+                                   "il30_p6": 39100,
+                                   "il30_p7": 41800,
+                                   "il30_p8": 44500
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 116200,
+                            "very_low": {
+                                   "il50_p1": 40700,
+                                   "il50_p2": 46500,
+                                   "il50_p3": 52300,
+                                   "il50_p4": 58100,
+                                   "il50_p5": 62750,
+                                   "il50_p6": 67400,
+                                   "il50_p7": 72050,
+                                   "il50_p8": 76700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24400,
+                                   "il30_p2": 27900,
+                                   "il30_p3": 31400,
+                                   "il30_p4": 34850,
+                                   "il30_p5": 37650,
+                                   "il30_p6": 40450,
+                                   "il30_p7": 43250,
+                                   "il30_p8": 46050
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 111600,
+                            "very_low": {
+                                   "il50_p1": 39100,
+                                   "il50_p2": 44650,
+                                   "il50_p3": 50250,
+                                   "il50_p4": 55800,
+                                   "il50_p5": 60300,
+                                   "il50_p6": 64750,
+                                   "il50_p7": 69200,
+                                   "il50_p8": 73700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23450,
+                                   "il30_p2": 26800,
+                                   "il30_p3": 30150,
+                                   "il30_p4": 33500,
+                                   "il30_p5": 36200,
+                                   "il30_p6": 38900,
+                                   "il30_p7": 41550,
+                                   "il30_p8": 44250
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 126500,
+                            "very_low": {
+                                   "il50_p1": 41000,
+                                   "il50_p2": 46850,
+                                   "il50_p3": 52700,
+                                   "il50_p4": 58550,
+                                   "il50_p5": 63250,
+                                   "il50_p6": 67950,
+                                   "il50_p7": 72650,
+                                   "il50_p8": 77300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24650,
+                                   "il30_p2": 28150,
+                                   "il30_p3": 31650,
+                                   "il30_p4": 35150,
+                                   "il30_p5": 38000,
+                                   "il30_p6": 40800,
+                                   "il30_p7": 43600,
+                                   "il30_p8": 46400
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Southborough town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT",
+                            "area_name": "Eastern Worcester County, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 135000,
+                            "very_low": {
+                                   "il50_p1": 45850,
+                                   "il50_p2": 52400,
+                                   "il50_p3": 58950,
+                                   "il50_p4": 65500,
+                                   "il50_p5": 70750,
+                                   "il50_p6": 76000,
+                                   "il50_p7": 81250,
+                                   "il50_p8": 86500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 27550,
+                                   "il30_p2": 31450,
+                                   "il30_p3": 35400,
+                                   "il30_p4": 39300,
+                                   "il30_p5": 42450,
+                                   "il30_p6": 45600,
+                                   "il30_p7": 48750,
+                                   "il30_p8": 51900
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

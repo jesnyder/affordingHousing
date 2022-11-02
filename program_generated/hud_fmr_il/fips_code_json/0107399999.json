@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 665,
+                                   "One-Bedroom": 751,
+                                   "Two-Bedroom": 866,
+                                   "Three-Bedroom": 1163,
+                                   "Four-Bedroom": 1298,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 768,
+                                   "Two-Bedroom": 882,
+                                   "Three-Bedroom": 1176,
+                                   "Four-Bedroom": 1315,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 706,
+                                   "One-Bedroom": 763,
+                                   "Two-Bedroom": 873,
+                                   "Three-Bedroom": 1154,
+                                   "Four-Bedroom": 1282,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 804,
+                                   "One-Bedroom": 861,
+                                   "Two-Bedroom": 986,
+                                   "Three-Bedroom": 1291,
+                                   "Four-Bedroom": 1425,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 817,
+                                   "One-Bedroom": 871,
+                                   "Two-Bedroom": 1002,
+                                   "Three-Bedroom": 1303,
+                                   "Four-Bedroom": 1409,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 765,
+                                   "One-Bedroom": 820,
+                                   "Two-Bedroom": 943,
+                                   "Three-Bedroom": 1220,
+                                   "Four-Bedroom": 1316,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 63100,
+                            "very_low": {
+                                   "il50_p1": 22100,
+                                   "il50_p2": 25250,
+                                   "il50_p3": 28400,
+                                   "il50_p4": 31550,
+                                   "il50_p5": 34100,
+                                   "il50_p6": 36600,
+                                   "il50_p7": 39150,
+                                   "il50_p8": 41650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35350,
+                                   "il80_p2": 40400,
+                                   "il80_p3": 45450,
+                                   "il80_p4": 50500,
+                                   "il80_p5": 54550,
+                                   "il80_p6": 58600,
+                                   "il80_p7": 62650,
+                                   "il80_p8": 66700
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 71000,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28150,
+                                   "il50_p3": 31650,
+                                   "il50_p4": 35150,
+                                   "il50_p5": 38000,
+                                   "il50_p6": 40800,
+                                   "il50_p7": 43600,
+                                   "il50_p8": 46400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 16900,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39400,
+                                   "il80_p2": 45000,
+                                   "il80_p3": 50650,
+                                   "il80_p4": 56250,
+                                   "il80_p5": 60750,
+                                   "il80_p6": 65250,
+                                   "il80_p7": 69750,
+                                   "il80_p8": 74250
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 74400,
+                            "very_low": {
+                                   "il50_p1": 26050,
+                                   "il50_p2": 29800,
+                                   "il50_p3": 33500,
+                                   "il50_p4": 37200,
+                                   "il50_p5": 40200,
+                                   "il50_p6": 43200,
+                                   "il50_p7": 46150,
+                                   "il50_p8": 49150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17850,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41650,
+                                   "il80_p2": 47600,
+                                   "il80_p3": 53550,
+                                   "il80_p4": 59500,
+                                   "il80_p5": 64300,
+                                   "il80_p6": 69050,
+                                   "il80_p7": 73800,
+                                   "il80_p8": 78550
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 73100,
+                            "very_low": {
+                                   "il50_p1": 25600,
+                                   "il50_p2": 29250,
+                                   "il50_p3": 32900,
+                                   "il50_p4": 36550,
+                                   "il50_p5": 39500,
+                                   "il50_p6": 42400,
+                                   "il50_p7": 45350,
+                                   "il50_p8": 48250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40950,
+                                   "il80_p2": 46800,
+                                   "il80_p3": 52650,
+                                   "il80_p4": 58500,
+                                   "il80_p5": 63200,
+                                   "il80_p6": 67900,
+                                   "il80_p7": 72550,
+                                   "il80_p8": 77250
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 78000,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL",
+                            "area_name": "Birmingham-Hoover, AL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 84800,
+                            "very_low": {
+                                   "il50_p1": 29700,
+                                   "il50_p2": 33950,
+                                   "il50_p3": 38200,
+                                   "il50_p4": 42400,
+                                   "il50_p5": 45800,
+                                   "il50_p6": 49200,
+                                   "il50_p7": 52600,
+                                   "il50_p8": 56000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47500,
+                                   "il80_p2": 54300,
+                                   "il80_p3": 61100,
+                                   "il80_p4": 67850,
+                                   "il80_p5": 73300,
+                                   "il80_p6": 78750,
+                                   "il80_p7": 84150,
+                                   "il80_p8": 89600
+                            }
+                     }
+              ]
+       }
+}

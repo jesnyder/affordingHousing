@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 562,
+                                   "One-Bedroom": 679,
+                                   "Two-Bedroom": 783,
+                                   "Three-Bedroom": 1140,
+                                   "Four-Bedroom": 1277,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 533,
+                                   "One-Bedroom": 651,
+                                   "Two-Bedroom": 748,
+                                   "Three-Bedroom": 1026,
+                                   "Four-Bedroom": 1269,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 505,
+                                   "One-Bedroom": 628,
+                                   "Two-Bedroom": 719,
+                                   "Three-Bedroom": 937,
+                                   "Four-Bedroom": 1219,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 494,
+                                   "One-Bedroom": 632,
+                                   "Two-Bedroom": 719,
+                                   "Three-Bedroom": 915,
+                                   "Four-Bedroom": 1240,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 493,
+                                   "One-Bedroom": 623,
+                                   "Two-Bedroom": 710,
+                                   "Three-Bedroom": 887,
+                                   "Four-Bedroom": 1229,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon-Bibb County, GA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 764,
+                                   "Three-Bedroom": 944,
+                                   "Four-Bedroom": 1308,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60900,
+                            "very_low": {
+                                   "il50_p1": 21350,
+                                   "il50_p2": 24400,
+                                   "il50_p3": 27450,
+                                   "il50_p4": 30450,
+                                   "il50_p5": 32900,
+                                   "il50_p6": 35350,
+                                   "il50_p7": 37800,
+                                   "il50_p8": 40200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12800,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37800,
+                                   "il30_p8": 40200
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 39000,
+                                   "il80_p3": 43850,
+                                   "il80_p4": 48700,
+                                   "il80_p5": 52600,
+                                   "il80_p6": 56500,
+                                   "il80_p7": 60400,
+                                   "il80_p8": 64300
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 63800,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42150
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 70600,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon, GA MSA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 75000,
+                            "very_low": {
+                                   "il50_p1": 25300,
+                                   "il50_p2": 28900,
+                                   "il50_p3": 32500,
+                                   "il50_p4": 36100,
+                                   "il50_p5": 39000,
+                                   "il50_p6": 41900,
+                                   "il50_p7": 44800,
+                                   "il50_p8": 47700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40450,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 52000,
+                                   "il80_p4": 57750,
+                                   "il80_p5": 62400,
+                                   "il80_p6": 67000,
+                                   "il80_p7": 71650,
+                                   "il80_p8": 76250
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Macon-Bibb County, GA",
+                            "area_name": "Monroe County, GA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 88500,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     }
+              ]
+       }
+}

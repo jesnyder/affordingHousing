@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 429,
+                                   "One-Bedroom": 509,
+                                   "Two-Bedroom": 659,
+                                   "Three-Bedroom": 824,
+                                   "Four-Bedroom": 1002,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 479,
+                                   "One-Bedroom": 537,
+                                   "Two-Bedroom": 691,
+                                   "Three-Bedroom": 866,
+                                   "Four-Bedroom": 1076,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 545,
+                                   "Two-Bedroom": 716,
+                                   "Three-Bedroom": 897,
+                                   "Four-Bedroom": 1127,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 519,
+                                   "One-Bedroom": 541,
+                                   "Two-Bedroom": 713,
+                                   "Three-Bedroom": 891,
+                                   "Four-Bedroom": 1104,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 542,
+                                   "One-Bedroom": 553,
+                                   "Two-Bedroom": 729,
+                                   "Three-Bedroom": 919,
+                                   "Four-Bedroom": 1091,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 578,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 950,
+                                   "Four-Bedroom": 1097,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "year": "2017",
+                            "median_income": 47700,
+                            "very_low": {
+                                   "il50_p1": 16700,
+                                   "il50_p2": 19100,
+                                   "il50_p3": 21500,
+                                   "il50_p4": 23850,
+                                   "il50_p5": 25800,
+                                   "il50_p6": 27700,
+                                   "il50_p7": 29600,
+                                   "il50_p8": 31500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 23850,
+                                   "il30_p5": 25800,
+                                   "il30_p6": 27700,
+                                   "il30_p7": 29600,
+                                   "il30_p8": 31500
+                            },
+                            "low": {
+                                   "il80_p1": 26750,
+                                   "il80_p2": 30550,
+                                   "il80_p3": 34350,
+                                   "il80_p4": 38150,
+                                   "il80_p5": 41250,
+                                   "il80_p6": 44300,
+                                   "il80_p7": 47350,
+                                   "il80_p8": 50400
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "year": "2018",
+                            "median_income": 47900,
+                            "very_low": {
+                                   "il50_p1": 16900,
+                                   "il50_p2": 19300,
+                                   "il50_p3": 21700,
+                                   "il50_p4": 24100,
+                                   "il50_p5": 26050,
+                                   "il50_p6": 28000,
+                                   "il50_p7": 29900,
+                                   "il50_p8": 31850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24100,
+                                   "il30_p5": 26050,
+                                   "il30_p6": 28000,
+                                   "il30_p7": 29900,
+                                   "il30_p8": 31850
+                            },
+                            "low": {
+                                   "il80_p1": 27000,
+                                   "il80_p2": 30850,
+                                   "il80_p3": 34700,
+                                   "il80_p4": 38550,
+                                   "il80_p5": 41650,
+                                   "il80_p6": 44750,
+                                   "il80_p7": 47850,
+                                   "il80_p8": 50900
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "year": "2019",
+                            "median_income": 51000,
+                            "very_low": {
+                                   "il50_p1": 18250,
+                                   "il50_p2": 20850,
+                                   "il50_p3": 23450,
+                                   "il50_p4": 26050,
+                                   "il50_p5": 28150,
+                                   "il50_p6": 30250,
+                                   "il50_p7": 32350,
+                                   "il50_p8": 34400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28150,
+                                   "il30_p6": 30250,
+                                   "il30_p7": 32350,
+                                   "il30_p8": 34400
+                            },
+                            "low": {
+                                   "il80_p1": 29200,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37550,
+                                   "il80_p4": 41700,
+                                   "il80_p5": 45050,
+                                   "il80_p6": 48400,
+                                   "il80_p7": 51750,
+                                   "il80_p8": 55050
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "year": "2020",
+                            "median_income": 52600,
+                            "very_low": {
+                                   "il50_p1": 18450,
+                                   "il50_p2": 21050,
+                                   "il50_p3": 23700,
+                                   "il50_p4": 26300,
+                                   "il50_p5": 28450,
+                                   "il50_p6": 30550,
+                                   "il50_p7": 32650,
+                                   "il50_p8": 34750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 28450,
+                                   "il30_p6": 30550,
+                                   "il30_p7": 32650,
+                                   "il30_p8": 34750
+                            },
+                            "low": {
+                                   "il80_p1": 29500,
+                                   "il80_p2": 33700,
+                                   "il80_p3": 37900,
+                                   "il80_p4": 42100,
+                                   "il80_p5": 45500,
+                                   "il80_p6": 48850,
+                                   "il80_p7": 52250,
+                                   "il80_p8": 55600
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR MSA",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "year": "2021",
+                            "median_income": 60100,
+                            "very_low": {
+                                   "il50_p1": 19350,
+                                   "il50_p2": 22100,
+                                   "il50_p3": 24850,
+                                   "il50_p4": 27600,
+                                   "il50_p5": 29850,
+                                   "il50_p6": 32050,
+                                   "il50_p7": 34250,
+                                   "il50_p8": 36450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29850,
+                                   "il30_p6": 32050,
+                                   "il30_p7": 34250,
+                                   "il30_p8": 36450
+                            },
+                            "low": {
+                                   "il80_p1": 30950,
+                                   "il80_p2": 35350,
+                                   "il80_p3": 39750,
+                                   "il80_p4": 44150,
+                                   "il80_p5": 47700,
+                                   "il80_p6": 51250,
+                                   "il80_p7": 54750,
+                                   "il80_p8": 58300
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pine Bluff, AR",
+                            "area_name": "Pine Bluff, AR MSA",
+                            "year": "2022",
+                            "median_income": 60000,
+                            "very_low": {
+                                   "il50_p1": 21100,
+                                   "il50_p2": 24100,
+                                   "il50_p3": 27100,
+                                   "il50_p4": 30100,
+                                   "il50_p5": 32550,
+                                   "il50_p6": 34950,
+                                   "il50_p7": 37350,
+                                   "il50_p8": 39750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 37350,
+                                   "il30_p8": 39750
+                            },
+                            "low": {
+                                   "il80_p1": 33750,
+                                   "il80_p2": 38550,
+                                   "il80_p3": 43350,
+                                   "il80_p4": 48150,
+                                   "il80_p5": 52050,
+                                   "il80_p6": 55900,
+                                   "il80_p7": 59750,
+                                   "il80_p8": 63600
+                            }
+                     }
+              ]
+       }
+}

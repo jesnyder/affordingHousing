@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 500,
+                                   "One-Bedroom": 519,
+                                   "Two-Bedroom": 641,
+                                   "Three-Bedroom": 847,
+                                   "Four-Bedroom": 979,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 502,
+                                   "One-Bedroom": 505,
+                                   "Two-Bedroom": 655,
+                                   "Three-Bedroom": 828,
+                                   "Four-Bedroom": 979,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 499,
+                                   "One-Bedroom": 502,
+                                   "Two-Bedroom": 664,
+                                   "Three-Bedroom": 832,
+                                   "Four-Bedroom": 999,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 570,
+                                   "Two-Bedroom": 751,
+                                   "Three-Bedroom": 936,
+                                   "Four-Bedroom": 1044,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 546,
+                                   "One-Bedroom": 549,
+                                   "Two-Bedroom": 724,
+                                   "Three-Bedroom": 901,
+                                   "Four-Bedroom": 982,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Walker County, AL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 530,
+                                   "One-Bedroom": 536,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 900,
+                                   "Four-Bedroom": 956,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 46800,
+                            "very_low": {
+                                   "il50_p1": 16400,
+                                   "il50_p2": 18750,
+                                   "il50_p3": 21100,
+                                   "il50_p4": 23400,
+                                   "il50_p5": 25300,
+                                   "il50_p6": 27150,
+                                   "il50_p7": 29050,
+                                   "il50_p8": 30900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 23400,
+                                   "il30_p5": 25300,
+                                   "il30_p6": 27150,
+                                   "il30_p7": 29050,
+                                   "il30_p8": 30900
+                            },
+                            "low": {
+                                   "il80_p1": 26250,
+                                   "il80_p2": 30000,
+                                   "il80_p3": 33750,
+                                   "il80_p4": 37450,
+                                   "il80_p5": 40450,
+                                   "il80_p6": 43450,
+                                   "il80_p7": 46450,
+                                   "il80_p8": 49450
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 51700,
+                            "very_low": {
+                                   "il50_p1": 18100,
+                                   "il50_p2": 20700,
+                                   "il50_p3": 23300,
+                                   "il50_p4": 25850,
+                                   "il50_p5": 27950,
+                                   "il50_p6": 30000,
+                                   "il50_p7": 32100,
+                                   "il50_p8": 34150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 27950,
+                                   "il30_p6": 30000,
+                                   "il30_p7": 32100,
+                                   "il30_p8": 34150
+                            },
+                            "low": {
+                                   "il80_p1": 28950,
+                                   "il80_p2": 33100,
+                                   "il80_p3": 37250,
+                                   "il80_p4": 41350,
+                                   "il80_p5": 44700,
+                                   "il80_p6": 48000,
+                                   "il80_p7": 51300,
+                                   "il80_p8": 54600
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 50600,
+                            "very_low": {
+                                   "il50_p1": 18050,
+                                   "il50_p2": 20600,
+                                   "il50_p3": 23200,
+                                   "il50_p4": 25750,
+                                   "il50_p5": 27850,
+                                   "il50_p6": 29900,
+                                   "il50_p7": 31950,
+                                   "il50_p8": 34000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 27850,
+                                   "il30_p6": 29900,
+                                   "il30_p7": 31950,
+                                   "il30_p8": 34000
+                            },
+                            "low": {
+                                   "il80_p1": 28850,
+                                   "il80_p2": 33000,
+                                   "il80_p3": 37100,
+                                   "il80_p4": 41200,
+                                   "il80_p5": 44500,
+                                   "il80_p6": 47800,
+                                   "il80_p7": 51100,
+                                   "il80_p8": 54400
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 64100,
+                            "very_low": {
+                                   "il50_p1": 19450,
+                                   "il50_p2": 22200,
+                                   "il50_p3": 25000,
+                                   "il50_p4": 27750,
+                                   "il50_p5": 30000,
+                                   "il50_p6": 32200,
+                                   "il50_p7": 34450,
+                                   "il50_p8": 36650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30000,
+                                   "il30_p6": 32200,
+                                   "il30_p7": 34450,
+                                   "il30_p8": 36650
+                            },
+                            "low": {
+                                   "il80_p1": 31100,
+                                   "il80_p2": 35550,
+                                   "il80_p3": 40000,
+                                   "il80_p4": 44400,
+                                   "il80_p5": 48000,
+                                   "il80_p6": 51550,
+                                   "il80_p7": 55100,
+                                   "il80_p8": 58650
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Walker County, AL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 20400,
+                                   "il50_p2": 23300,
+                                   "il50_p3": 26200,
+                                   "il50_p4": 29100,
+                                   "il50_p5": 31450,
+                                   "il50_p6": 33800,
+                                   "il50_p7": 36100,
+                                   "il50_p8": 38450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 33800,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 32600,
+                                   "il80_p2": 37250,
+                                   "il80_p3": 41900,
+                                   "il80_p4": 46550,
+                                   "il80_p5": 50300,
+                                   "il80_p6": 54000,
+                                   "il80_p7": 57750,
+                                   "il80_p8": 61450
+                            }
+                     },
+                     {
+                            "county_name": "Walker County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Walker County, AL",
+                            "year": "2022",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37100,
+                                   "il30_p7": 39650,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     }
+              ]
+       }
+}

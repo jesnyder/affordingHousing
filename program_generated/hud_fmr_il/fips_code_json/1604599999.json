@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 464,
+                                   "One-Bedroom": 550,
+                                   "Two-Bedroom": 731,
+                                   "Three-Bedroom": 1037,
+                                   "Four-Bedroom": 1056,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 504,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 790,
+                                   "Three-Bedroom": 1082,
+                                   "Four-Bedroom": 1095,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 608,
+                                   "Two-Bedroom": 804,
+                                   "Three-Bedroom": 1072,
+                                   "Four-Bedroom": 1107,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 648,
+                                   "Two-Bedroom": 854,
+                                   "Three-Bedroom": 1112,
+                                   "Four-Bedroom": 1218,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 718,
+                                   "Two-Bedroom": 899,
+                                   "Three-Bedroom": 1182,
+                                   "Four-Bedroom": 1300,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 682,
+                                   "One-Bedroom": 779,
+                                   "Two-Bedroom": 971,
+                                   "Three-Bedroom": 1284,
+                                   "Four-Bedroom": 1431,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 51500,
+                            "very_low": {
+                                   "il50_p1": 19350,
+                                   "il50_p2": 22100,
+                                   "il50_p3": 24850,
+                                   "il50_p4": 27600,
+                                   "il50_p5": 29850,
+                                   "il50_p6": 32050,
+                                   "il50_p7": 34250,
+                                   "il50_p8": 36450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32050,
+                                   "il30_p7": 34250,
+                                   "il30_p8": 36450
+                            },
+                            "low": {
+                                   "il80_p1": 30950,
+                                   "il80_p2": 35350,
+                                   "il80_p3": 39750,
+                                   "il80_p4": 44150,
+                                   "il80_p5": 47700,
+                                   "il80_p6": 51250,
+                                   "il80_p7": 54750,
+                                   "il80_p8": 58300
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 50700,
+                            "very_low": {
+                                   "il50_p1": 19950,
+                                   "il50_p2": 22800,
+                                   "il50_p3": 25650,
+                                   "il50_p4": 28500,
+                                   "il50_p5": 30800,
+                                   "il50_p6": 33100,
+                                   "il50_p7": 35350,
+                                   "il50_p8": 37650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33100,
+                                   "il30_p7": 35350,
+                                   "il30_p8": 37650
+                            },
+                            "low": {
+                                   "il80_p1": 31950,
+                                   "il80_p2": 36500,
+                                   "il80_p3": 41050,
+                                   "il80_p4": 45600,
+                                   "il80_p5": 49250,
+                                   "il80_p6": 52900,
+                                   "il80_p7": 56550,
+                                   "il80_p8": 60200
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 49200,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38550,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 53200,
+                            "very_low": {
+                                   "il50_p1": 21350,
+                                   "il50_p2": 24400,
+                                   "il50_p3": 27450,
+                                   "il50_p4": 30450,
+                                   "il50_p5": 32900,
+                                   "il50_p6": 35350,
+                                   "il50_p7": 37800,
+                                   "il50_p8": 40200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12800,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 37800,
+                                   "il30_p8": 40200
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 39000,
+                                   "il80_p3": 43850,
+                                   "il80_p4": 48700,
+                                   "il80_p5": 52600,
+                                   "il80_p6": 56500,
+                                   "il80_p7": 60400,
+                                   "il80_p8": 64300
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID MSA",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 52900,
+                            "very_low": {
+                                   "il50_p1": 20850,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26800,
+                                   "il50_p4": 29750,
+                                   "il50_p5": 32150,
+                                   "il50_p6": 34550,
+                                   "il50_p7": 36900,
+                                   "il50_p8": 39300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 34550,
+                                   "il30_p7": 36900,
+                                   "il30_p8": 39300
+                            },
+                            "low": {
+                                   "il80_p1": 33350,
+                                   "il80_p2": 38100,
+                                   "il80_p3": 42850,
+                                   "il80_p4": 47600,
+                                   "il80_p5": 51450,
+                                   "il80_p6": 55250,
+                                   "il80_p7": 59050,
+                                   "il80_p8": 62850
+                            }
+                     },
+                     {
+                            "county_name": "Gem County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boise City, ID",
+                            "area_name": "Gem County, ID HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 62200,
+                            "very_low": {
+                                   "il50_p1": 23300,
+                                   "il50_p2": 26600,
+                                   "il50_p3": 29950,
+                                   "il50_p4": 33250,
+                                   "il50_p5": 35950,
+                                   "il50_p6": 38600,
+                                   "il50_p7": 41250,
+                                   "il50_p8": 43900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41250,
+                                   "il30_p8": 43900
+                            },
+                            "low": {
+                                   "il80_p1": 37250,
+                                   "il80_p2": 42600,
+                                   "il80_p3": 47900,
+                                   "il80_p4": 53200,
+                                   "il80_p5": 57500,
+                                   "il80_p6": 61750,
+                                   "il80_p7": 66000,
+                                   "il80_p8": 70250
+                            }
+                     }
+              ]
+       }
+}

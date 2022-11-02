@@ -1,0 +1,36 @@
+name,path
+
+# admin referenced
+ref_variable,user_provided admin ref_variables.csv
+
+# admin created
+saved_values,program_generated values saved_values.csv
+
+
+# build dataset_referenced
+auth_token,user_provided admin auth_token.csv
+porland_oregon_zips,user_provided admin portland_zips.csv
+
+# build_dataset created
+hud_ref,program_generated refs
+hud_download,program_generated hud_download
+listCounties,program_generated refs list_counties each_state
+state_code_df,program_generated refs state_codes.csv
+metro_code_df,program_generated refs metro_codes.csv
+fips_code_df,program_generated refs fips_codes.csv
+hud_fmr,program_generated hud_fmr
+fmr_fips_code,program_generated hud_fmr fmr_fips_code_json
+fmr_il_fips_code,program_generated hud_fmr_il fips_code_json
+fmr_il_metro_code,program_generated hud_fmr_il metro_code_json
+fmr_il_state_code,program_generated hud_fmr_il state_code_json
+
+# analyze_dataset referenced
+downloadHUD,user_provided downloadHUD
+
+# analyze_dataset created
+metro_fmr,program_generated metro_fmr
+js_fmr,docs js
+chart_js,docs js
+template_html,docs template_html.html
+fids_json,program_generated json_compiled fids.json
+slopes,program_generated df_compiled slopes.csv

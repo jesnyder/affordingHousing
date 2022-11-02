@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 500,
+                                   "One-Bedroom": 566,
+                                   "Two-Bedroom": 687,
+                                   "Three-Bedroom": 948,
+                                   "Four-Bedroom": 1097,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 530,
+                                   "One-Bedroom": 603,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 1019,
+                                   "Four-Bedroom": 1167,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 498,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 775,
+                                   "Three-Bedroom": 1085,
+                                   "Four-Bedroom": 1172,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 516,
+                                   "One-Bedroom": 648,
+                                   "Two-Bedroom": 792,
+                                   "Three-Bedroom": 1129,
+                                   "Four-Bedroom": 1133,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 549,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 832,
+                                   "Three-Bedroom": 1147,
+                                   "Four-Bedroom": 1152,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 651,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1165,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 53400,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24050,
+                                   "il50_p4": 26700,
+                                   "il50_p5": 28850,
+                                   "il50_p6": 31000,
+                                   "il50_p7": 33150,
+                                   "il50_p8": 35250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31000,
+                                   "il30_p7": 33150,
+                                   "il30_p8": 35250
+                            },
+                            "low": {
+                                   "il80_p1": 29900,
+                                   "il80_p2": 34200,
+                                   "il80_p3": 38450,
+                                   "il80_p4": 42700,
+                                   "il80_p5": 46150,
+                                   "il80_p6": 49550,
+                                   "il80_p7": 52950,
+                                   "il80_p8": 56400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 58600,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23450,
+                                   "il50_p3": 26400,
+                                   "il50_p4": 29300,
+                                   "il50_p5": 31650,
+                                   "il50_p6": 34000,
+                                   "il50_p7": 36350,
+                                   "il50_p8": 38700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12350,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36350,
+                                   "il30_p8": 38700
+                            },
+                            "low": {
+                                   "il80_p1": 32850,
+                                   "il80_p2": 37550,
+                                   "il80_p3": 42250,
+                                   "il80_p4": 46900,
+                                   "il80_p5": 50700,
+                                   "il80_p6": 54450,
+                                   "il80_p7": 58200,
+                                   "il80_p8": 61950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 53100,
+                            "very_low": {
+                                   "il50_p1": 19500,
+                                   "il50_p2": 22300,
+                                   "il50_p3": 25100,
+                                   "il50_p4": 27850,
+                                   "il50_p5": 30100,
+                                   "il50_p6": 32350,
+                                   "il50_p7": 34550,
+                                   "il50_p8": 36800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30100,
+                                   "il30_p6": 32350,
+                                   "il30_p7": 34550,
+                                   "il30_p8": 36800
+                            },
+                            "low": {
+                                   "il80_p1": 31250,
+                                   "il80_p2": 35700,
+                                   "il80_p3": 40150,
+                                   "il80_p4": 44600,
+                                   "il80_p5": 48200,
+                                   "il80_p6": 51750,
+                                   "il80_p7": 55350,
+                                   "il80_p8": 58900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 59600,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23850,
+                                   "il50_p3": 26850,
+                                   "il50_p4": 29800,
+                                   "il50_p5": 32200,
+                                   "il50_p6": 34600,
+                                   "il50_p7": 37000,
+                                   "il50_p8": 39350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34600,
+                                   "il30_p7": 37000,
+                                   "il30_p8": 39350
+                            },
+                            "low": {
+                                   "il80_p1": 33400,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 42950,
+                                   "il80_p4": 47700,
+                                   "il80_p5": 51550,
+                                   "il80_p6": 55350,
+                                   "il80_p7": 59150,
+                                   "il80_p8": 63000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN MSA",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 63400,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 38750,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 50000,
+                                   "il80_p5": 54000,
+                                   "il80_p6": 58000,
+                                   "il80_p7": 62000,
+                                   "il80_p8": 66000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chester County, TN; Madison County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jackson, TN",
+                            "area_name": "Jackson, TN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25900,
+                                   "il50_p3": 29150,
+                                   "il50_p4": 32350,
+                                   "il50_p5": 34950,
+                                   "il50_p6": 37550,
+                                   "il50_p7": 40150,
+                                   "il50_p8": 42750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40150,
+                                   "il30_p8": 42750
+                            },
+                            "low": {
+                                   "il80_p1": 36250,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46600,
+                                   "il80_p4": 51750,
+                                   "il80_p5": 55900,
+                                   "il80_p6": 60050,
+                                   "il80_p7": 64200,
+                                   "il80_p8": 68350
+                            }
+                     }
+              ]
+       }
+}

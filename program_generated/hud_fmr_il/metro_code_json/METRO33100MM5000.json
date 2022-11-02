@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 831,
+                                   "One-Bedroom": 1020,
+                                   "Two-Bedroom": 1295,
+                                   "Three-Bedroom": 1728,
+                                   "Four-Bedroom": 2073,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 871,
+                                   "One-Bedroom": 1066,
+                                   "Two-Bedroom": 1351,
+                                   "Three-Bedroom": 1796,
+                                   "Four-Bedroom": 2173,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 951,
+                                   "One-Bedroom": 1147,
+                                   "Two-Bedroom": 1454,
+                                   "Three-Bedroom": 1934,
+                                   "Four-Bedroom": 2354,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1084,
+                                   "One-Bedroom": 1285,
+                                   "Two-Bedroom": 1625,
+                                   "Three-Bedroom": 2164,
+                                   "Four-Bedroom": 2621,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1057,
+                                   "One-Bedroom": 1231,
+                                   "Two-Bedroom": 1551,
+                                   "Three-Bedroom": 2068,
+                                   "Four-Bedroom": 2483,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-Pompano Beach, FL",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1162,
+                                   "One-Bedroom": 1332,
+                                   "Two-Bedroom": 1672,
+                                   "Three-Bedroom": 2220,
+                                   "Four-Bedroom": 2631,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 51800,
+                            "very_low": {
+                                   "il50_p1": 26450,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 34000,
+                                   "il50_p4": 37750,
+                                   "il50_p5": 40800,
+                                   "il50_p6": 43800,
+                                   "il50_p7": 46850,
+                                   "il50_p8": 49850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18150,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42300,
+                                   "il80_p2": 48350,
+                                   "il80_p3": 54400,
+                                   "il80_p4": 60400,
+                                   "il80_p5": 65250,
+                                   "il80_p6": 70100,
+                                   "il80_p7": 74900,
+                                   "il80_p8": 79750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 52300,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31500,
+                                   "il50_p3": 35450,
+                                   "il50_p4": 39350,
+                                   "il50_p5": 42500,
+                                   "il50_p6": 45650,
+                                   "il50_p7": 48800,
+                                   "il50_p8": 51950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 21250,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44100,
+                                   "il80_p2": 50400,
+                                   "il80_p3": 56700,
+                                   "il80_p4": 62950,
+                                   "il80_p5": 68000,
+                                   "il80_p6": 73050,
+                                   "il80_p7": 78100,
+                                   "il80_p8": 83100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 54900,
+                            "very_low": {
+                                   "il50_p1": 29650,
+                                   "il50_p2": 33900,
+                                   "il50_p3": 38150,
+                                   "il50_p4": 42350,
+                                   "il50_p5": 45750,
+                                   "il50_p6": 49150,
+                                   "il50_p7": 52550,
+                                   "il50_p8": 55950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17800,
+                                   "il30_p2": 20350,
+                                   "il30_p3": 22900,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47450,
+                                   "il80_p2": 54200,
+                                   "il80_p3": 61000,
+                                   "il80_p4": 67750,
+                                   "il80_p5": 73200,
+                                   "il80_p6": 78600,
+                                   "il80_p7": 84050,
+                                   "il80_p8": 89450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 32000,
+                                   "il50_p2": 36600,
+                                   "il50_p3": 41150,
+                                   "il50_p4": 45700,
+                                   "il50_p5": 49400,
+                                   "il50_p6": 53050,
+                                   "il50_p7": 56700,
+                                   "il50_p8": 60350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19200,
+                                   "il30_p2": 21950,
+                                   "il30_p3": 24700,
+                                   "il30_p4": 27400,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 51200,
+                                   "il80_p2": 58500,
+                                   "il80_p3": 65800,
+                                   "il80_p4": 73100,
+                                   "il80_p5": 78950,
+                                   "il80_p6": 84800,
+                                   "il80_p7": 90650,
+                                   "il80_p8": 96500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 61000,
+                            "very_low": {
+                                   "il50_p1": 31650,
+                                   "il50_p2": 36200,
+                                   "il50_p3": 40700,
+                                   "il50_p4": 45200,
+                                   "il50_p5": 48850,
+                                   "il50_p6": 52450,
+                                   "il50_p7": 56050,
+                                   "il50_p8": 59700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19000,
+                                   "il30_p2": 21700,
+                                   "il30_p3": 24400,
+                                   "il30_p4": 27100,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 50650,
+                                   "il80_p2": 57850,
+                                   "il80_p3": 65100,
+                                   "il80_p4": 72300,
+                                   "il80_p5": 78100,
+                                   "il80_p6": 83900,
+                                   "il80_p7": 89700,
+                                   "il80_p8": 95450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Miami-Dade County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Miami-Fort Lauderdale-Pompano Beach, FL",
+                            "area_name": "Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 68300,
+                            "very_low": {
+                                   "il50_p1": 34150,
+                                   "il50_p2": 39000,
+                                   "il50_p3": 43900,
+                                   "il50_p4": 48750,
+                                   "il50_p5": 52650,
+                                   "il50_p6": 56550,
+                                   "il50_p7": 60450,
+                                   "il50_p8": 64350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20500,
+                                   "il30_p2": 23400,
+                                   "il30_p3": 26350,
+                                   "il30_p4": 29250,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54600,
+                                   "il80_p2": 62400,
+                                   "il80_p3": 70200,
+                                   "il80_p4": 78000,
+                                   "il80_p5": 84250,
+                                   "il80_p6": 90500,
+                                   "il80_p7": 96750,
+                                   "il80_p8": 103000
+                            }
+                     }
+              ]
+       }
+}

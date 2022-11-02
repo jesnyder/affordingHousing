@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 599,
+                                   "One-Bedroom": 693,
+                                   "Two-Bedroom": 897,
+                                   "Three-Bedroom": 1306,
+                                   "Four-Bedroom": 1581,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 625,
+                                   "One-Bedroom": 744,
+                                   "Two-Bedroom": 937,
+                                   "Three-Bedroom": 1363,
+                                   "Four-Bedroom": 1650,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 658,
+                                   "One-Bedroom": 796,
+                                   "Two-Bedroom": 992,
+                                   "Three-Bedroom": 1434,
+                                   "Four-Bedroom": 1742,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 709,
+                                   "One-Bedroom": 845,
+                                   "Two-Bedroom": 1046,
+                                   "Three-Bedroom": 1509,
+                                   "Four-Bedroom": 1833,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 827,
+                                   "One-Bedroom": 937,
+                                   "Two-Bedroom": 1184,
+                                   "Three-Bedroom": 1694,
+                                   "Four-Bedroom": 1988,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO",
+                            "area_name": "Greeley, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 897,
+                                   "One-Bedroom": 990,
+                                   "Two-Bedroom": 1272,
+                                   "Three-Bedroom": 1801,
+                                   "Four-Bedroom": 2022,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "year": "2017",
+                            "median_income": 75700,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33050,
+                                   "il50_p4": 36700,
+                                   "il50_p5": 39650,
+                                   "il50_p6": 42600,
+                                   "il50_p7": 45550,
+                                   "il50_p8": 48450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 47000,
+                                   "il80_p3": 52850,
+                                   "il80_p4": 58700,
+                                   "il80_p5": 63400,
+                                   "il80_p6": 68100,
+                                   "il80_p7": 72800,
+                                   "il80_p8": 77500
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "year": "2018",
+                            "median_income": 82400,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45800,
+                                   "il80_p2": 52350,
+                                   "il80_p3": 58900,
+                                   "il80_p4": 65400,
+                                   "il80_p5": 70650,
+                                   "il80_p6": 75900,
+                                   "il80_p7": 81100,
+                                   "il80_p8": 86350
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "year": "2019",
+                            "median_income": 79200,
+                            "very_low": {
+                                   "il50_p1": 27750,
+                                   "il50_p2": 31700,
+                                   "il50_p3": 35650,
+                                   "il50_p4": 39600,
+                                   "il50_p5": 42800,
+                                   "il50_p6": 45950,
+                                   "il50_p7": 49150,
+                                   "il50_p8": 52300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21400,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50700,
+                                   "il80_p3": 57050,
+                                   "il80_p4": 63350,
+                                   "il80_p5": 68450,
+                                   "il80_p6": 73500,
+                                   "il80_p7": 78600,
+                                   "il80_p8": 83650
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "year": "2020",
+                            "median_income": 84300,
+                            "very_low": {
+                                   "il50_p1": 29550,
+                                   "il50_p2": 33750,
+                                   "il50_p3": 37950,
+                                   "il50_p4": 42150,
+                                   "il50_p5": 45550,
+                                   "il50_p6": 48900,
+                                   "il50_p7": 52300,
+                                   "il50_p8": 55650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20250,
+                                   "il30_p3": 22800,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 47250,
+                                   "il80_p2": 54000,
+                                   "il80_p3": 60750,
+                                   "il80_p4": 67450,
+                                   "il80_p5": 72850,
+                                   "il80_p6": 78250,
+                                   "il80_p7": 83650,
+                                   "il80_p8": 89050
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO MSA",
+                            "area_name": "Greeley, CO MSA",
+                            "year": "2021",
+                            "median_income": 89700,
+                            "very_low": {
+                                   "il50_p1": 31000,
+                                   "il50_p2": 35400,
+                                   "il50_p3": 39850,
+                                   "il50_p4": 44250,
+                                   "il50_p5": 47800,
+                                   "il50_p6": 51350,
+                                   "il50_p7": 54900,
+                                   "il50_p8": 58450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18600,
+                                   "il30_p2": 21250,
+                                   "il30_p3": 23900,
+                                   "il30_p4": 26550,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 49600,
+                                   "il80_p2": 56650,
+                                   "il80_p3": 63750,
+                                   "il80_p4": 70800,
+                                   "il80_p5": 76500,
+                                   "il80_p6": 82150,
+                                   "il80_p7": 87800,
+                                   "il80_p8": 93500
+                            }
+                     },
+                     {
+                            "county_name": "Weld County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greeley, CO",
+                            "area_name": "Greeley, CO MSA",
+                            "year": "2022",
+                            "median_income": 102500,
+                            "very_low": {
+                                   "il50_p1": 34650,
+                                   "il50_p2": 39600,
+                                   "il50_p3": 44550,
+                                   "il50_p4": 49500,
+                                   "il50_p5": 53500,
+                                   "il50_p6": 57450,
+                                   "il50_p7": 61400,
+                                   "il50_p8": 65350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20800,
+                                   "il30_p2": 23800,
+                                   "il30_p3": 26750,
+                                   "il30_p4": 29700,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 55450,
+                                   "il80_p2": 63400,
+                                   "il80_p3": 71300,
+                                   "il80_p4": 79200,
+                                   "il80_p5": 85550,
+                                   "il80_p6": 91900,
+                                   "il80_p7": 98250,
+                                   "il80_p8": 104550
+                            }
+                     }
+              ]
+       }
+}

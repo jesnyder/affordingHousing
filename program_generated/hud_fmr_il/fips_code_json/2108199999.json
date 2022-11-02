@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 484,
+                                   "One-Bedroom": 557,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 1077,
+                                   "Four-Bedroom": 1162,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 514,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 1136,
+                                   "Four-Bedroom": 1259,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 630,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 799,
+                                   "Three-Bedroom": 1155,
+                                   "Four-Bedroom": 1388,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 629,
+                                   "One-Bedroom": 649,
+                                   "Two-Bedroom": 776,
+                                   "Three-Bedroom": 1119,
+                                   "Four-Bedroom": 1362,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 639,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 786,
+                                   "Three-Bedroom": 1125,
+                                   "Four-Bedroom": 1361,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 672,
+                                   "One-Bedroom": 728,
+                                   "Two-Bedroom": 829,
+                                   "Three-Bedroom": 1168,
+                                   "Four-Bedroom": 1419,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 54200,
+                            "very_low": {
+                                   "il50_p1": 19000,
+                                   "il50_p2": 21700,
+                                   "il50_p3": 24400,
+                                   "il50_p4": 27100,
+                                   "il50_p5": 29300,
+                                   "il50_p6": 31450,
+                                   "il50_p7": 33650,
+                                   "il50_p8": 35800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31450,
+                                   "il30_p7": 33650,
+                                   "il30_p8": 35800
+                            },
+                            "low": {
+                                   "il80_p1": 30350,
+                                   "il80_p2": 34700,
+                                   "il80_p3": 39050,
+                                   "il80_p4": 43350,
+                                   "il80_p5": 46850,
+                                   "il80_p6": 50300,
+                                   "il80_p7": 53800,
+                                   "il80_p8": 57250
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 52500,
+                            "very_low": {
+                                   "il50_p1": 18400,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23650,
+                                   "il50_p4": 26250,
+                                   "il50_p5": 28350,
+                                   "il50_p6": 30450,
+                                   "il50_p7": 32550,
+                                   "il50_p8": 34650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28350,
+                                   "il30_p6": 30450,
+                                   "il30_p7": 32550,
+                                   "il30_p8": 34650
+                            },
+                            "low": {
+                                   "il80_p1": 29400,
+                                   "il80_p2": 33600,
+                                   "il80_p3": 37800,
+                                   "il80_p4": 42000,
+                                   "il80_p5": 45400,
+                                   "il80_p6": 48750,
+                                   "il80_p7": 52100,
+                                   "il80_p8": 55450
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 53100,
+                            "very_low": {
+                                   "il50_p1": 18600,
+                                   "il50_p2": 21250,
+                                   "il50_p3": 23900,
+                                   "il50_p4": 26550,
+                                   "il50_p5": 28700,
+                                   "il50_p6": 30800,
+                                   "il50_p7": 32950,
+                                   "il50_p8": 35050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28700,
+                                   "il30_p6": 30800,
+                                   "il30_p7": 32950,
+                                   "il30_p8": 35050
+                            },
+                            "low": {
+                                   "il80_p1": 29750,
+                                   "il80_p2": 34000,
+                                   "il80_p3": 38250,
+                                   "il80_p4": 42500,
+                                   "il80_p5": 45900,
+                                   "il80_p6": 49300,
+                                   "il80_p7": 52700,
+                                   "il80_p8": 56100
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 52900,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24050,
+                                   "il50_p4": 26700,
+                                   "il50_p5": 28850,
+                                   "il50_p6": 31000,
+                                   "il50_p7": 33150,
+                                   "il50_p8": 35250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 28850,
+                                   "il30_p6": 31000,
+                                   "il30_p7": 33150,
+                                   "il30_p8": 35250
+                            },
+                            "low": {
+                                   "il80_p1": 29900,
+                                   "il80_p2": 34200,
+                                   "il80_p3": 38450,
+                                   "il80_p4": 42700,
+                                   "il80_p5": 46150,
+                                   "il80_p6": 49550,
+                                   "il80_p7": 52950,
+                                   "il80_p8": 56400
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 19600,
+                                   "il50_p2": 22400,
+                                   "il50_p3": 25200,
+                                   "il50_p4": 28000,
+                                   "il50_p5": 30250,
+                                   "il50_p6": 32500,
+                                   "il50_p7": 34750,
+                                   "il50_p8": 37000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30250,
+                                   "il30_p6": 32500,
+                                   "il30_p7": 34750,
+                                   "il30_p8": 37000
+                            },
+                            "low": {
+                                   "il80_p1": 31400,
+                                   "il80_p2": 35850,
+                                   "il80_p3": 40350,
+                                   "il80_p4": 44800,
+                                   "il80_p5": 48400,
+                                   "il80_p6": 52000,
+                                   "il80_p7": 55600,
+                                   "il80_p8": 59150
+                            }
+                     },
+                     {
+                            "county_name": "Grant County, KY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN",
+                            "area_name": "Grant County, KY HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 64100,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25050,
+                                   "il50_p3": 28200,
+                                   "il50_p4": 31300,
+                                   "il50_p5": 33850,
+                                   "il50_p6": 36350,
+                                   "il50_p7": 38850,
+                                   "il50_p8": 41350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36350,
+                                   "il30_p7": 38850,
+                                   "il30_p8": 41350
+                            },
+                            "low": {
+                                   "il80_p1": 35100,
+                                   "il80_p2": 40100,
+                                   "il80_p3": 45100,
+                                   "il80_p4": 50100,
+                                   "il80_p5": 54150,
+                                   "il80_p6": 58150,
+                                   "il80_p7": 62150,
+                                   "il80_p8": 66150
+                            }
+                     }
+              ]
+       }
+}

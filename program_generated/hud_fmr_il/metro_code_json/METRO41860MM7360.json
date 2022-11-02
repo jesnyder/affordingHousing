@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1915,
+                                   "One-Bedroom": 2411,
+                                   "Two-Bedroom": 3018,
+                                   "Three-Bedroom": 3927,
+                                   "Four-Bedroom": 4829,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2014,
+                                   "One-Bedroom": 2499,
+                                   "Two-Bedroom": 3121,
+                                   "Three-Bedroom": 4070,
+                                   "Four-Bedroom": 4346,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1822,
+                                   "One-Bedroom": 2255,
+                                   "Two-Bedroom": 2809,
+                                   "Three-Bedroom": 3663,
+                                   "Four-Bedroom": 3912,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2197,
+                                   "One-Bedroom": 2720,
+                                   "Two-Bedroom": 3339,
+                                   "Three-Bedroom": 4365,
+                                   "Four-Bedroom": 4657,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2350,
+                                   "One-Bedroom": 2923,
+                                   "Two-Bedroom": 3553,
+                                   "Three-Bedroom": 4567,
+                                   "Four-Bedroom": 4970,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Berkeley, CA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2115,
+                                   "One-Bedroom": 2631,
+                                   "Two-Bedroom": 3198,
+                                   "Three-Bedroom": 4111,
+                                   "Four-Bedroom": 4473,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 115300,
+                            "very_low": {
+                                   "il50_p1": 46100,
+                                   "il50_p2": 52650,
+                                   "il50_p3": 59250,
+                                   "il50_p4": 65800,
+                                   "il50_p5": 71100,
+                                   "il50_p6": 76350,
+                                   "il50_p7": 81600,
+                                   "il50_p8": 86900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 27650,
+                                   "il30_p2": 31600,
+                                   "il30_p3": 35550,
+                                   "il30_p4": 39500,
+                                   "il30_p5": 42700,
+                                   "il30_p6": 45850,
+                                   "il30_p7": 49000,
+                                   "il30_p8": 52150
+                            },
+                            "low": {
+                                   "il80_p1": 73750,
+                                   "il80_p2": 84300,
+                                   "il80_p3": 94850,
+                                   "il80_p4": 105350,
+                                   "il80_p5": 113800,
+                                   "il80_p6": 122250,
+                                   "il80_p7": 130650,
+                                   "il80_p8": 139100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 118400,
+                            "very_low": {
+                                   "il50_p1": 51350,
+                                   "il50_p2": 58650,
+                                   "il50_p3": 66000,
+                                   "il50_p4": 73300,
+                                   "il50_p5": 79200,
+                                   "il50_p6": 85050,
+                                   "il50_p7": 90900,
+                                   "il50_p8": 96800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 30800,
+                                   "il30_p2": 35200,
+                                   "il30_p3": 39600,
+                                   "il30_p4": 44000,
+                                   "il30_p5": 47550,
+                                   "il30_p6": 51050,
+                                   "il30_p7": 54600,
+                                   "il30_p8": 58100
+                            },
+                            "low": {
+                                   "il80_p1": 82200,
+                                   "il80_p2": 93950,
+                                   "il80_p3": 105700,
+                                   "il80_p4": 117400,
+                                   "il80_p5": 126800,
+                                   "il80_p6": 136200,
+                                   "il80_p7": 145600,
+                                   "il80_p8": 155000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 136800,
+                            "very_low": {
+                                   "il50_p1": 56450,
+                                   "il50_p2": 64500,
+                                   "il50_p3": 72550,
+                                   "il50_p4": 80600,
+                                   "il50_p5": 87050,
+                                   "il50_p6": 93500,
+                                   "il50_p7": 99950,
+                                   "il50_p8": 106400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 33850,
+                                   "il30_p2": 38700,
+                                   "il30_p3": 43550,
+                                   "il30_p4": 48350,
+                                   "il30_p5": 52250,
+                                   "il30_p6": 56100,
+                                   "il30_p7": 60000,
+                                   "il30_p8": 63850
+                            },
+                            "low": {
+                                   "il80_p1": 90450,
+                                   "il80_p2": 103350,
+                                   "il80_p3": 116250,
+                                   "il80_p4": 129150,
+                                   "il80_p5": 139500,
+                                   "il80_p6": 149850,
+                                   "il80_p7": 160150,
+                                   "il80_p8": 170500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 143100,
+                            "very_low": {
+                                   "il50_p1": 60900,
+                                   "il50_p2": 69600,
+                                   "il50_p3": 78300,
+                                   "il50_p4": 87000,
+                                   "il50_p5": 94000,
+                                   "il50_p6": 100950,
+                                   "il50_p7": 107900,
+                                   "il50_p8": 114850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 36550,
+                                   "il30_p2": 41800,
+                                   "il30_p3": 47000,
+                                   "il30_p4": 52200,
+                                   "il30_p5": 56400,
+                                   "il30_p6": 60600,
+                                   "il30_p7": 64750,
+                                   "il30_p8": 68950
+                            },
+                            "low": {
+                                   "il80_p1": 97600,
+                                   "il80_p2": 111550,
+                                   "il80_p3": 125500,
+                                   "il80_p4": 139400,
+                                   "il80_p5": 150600,
+                                   "il80_p6": 161750,
+                                   "il80_p7": 172900,
+                                   "il80_p8": 184050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 149600,
+                            "very_low": {
+                                   "il50_p1": 63950,
+                                   "il50_p2": 73100,
+                                   "il50_p3": 82250,
+                                   "il50_p4": 91350,
+                                   "il50_p5": 98700,
+                                   "il50_p6": 106000,
+                                   "il50_p7": 113300,
+                                   "il50_p8": 120600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 38400,
+                                   "il30_p2": 43850,
+                                   "il30_p3": 49350,
+                                   "il30_p4": 54800,
+                                   "il30_p5": 59200,
+                                   "il30_p6": 63600,
+                                   "il30_p7": 68000,
+                                   "il30_p8": 72350
+                            },
+                            "low": {
+                                   "il80_p1": 102450,
+                                   "il80_p2": 117100,
+                                   "il80_p3": 131750,
+                                   "il80_p4": 146350,
+                                   "il80_p5": 158100,
+                                   "il80_p6": 169800,
+                                   "il80_p7": 181500,
+                                   "il80_p8": 193200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marin County, CA; San Francisco County, CA; and San Mateo County, CA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Berkeley, CA",
+                            "area_name": "San Francisco, CA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 166000,
+                            "very_low": {
+                                   "il50_p1": 65250,
+                                   "il50_p2": 74600,
+                                   "il50_p3": 83900,
+                                   "il50_p4": 93200,
+                                   "il50_p5": 100700,
+                                   "il50_p6": 108150,
+                                   "il50_p7": 115600,
+                                   "il50_p8": 123050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 39150,
+                                   "il30_p2": 44750,
+                                   "il30_p3": 50350,
+                                   "il30_p4": 55900,
+                                   "il30_p5": 60400,
+                                   "il30_p6": 64850,
+                                   "il30_p7": 69350,
+                                   "il30_p8": 73800
+                            },
+                            "low": {
+                                   "il80_p1": 104400,
+                                   "il80_p2": 119300,
+                                   "il80_p3": 134200,
+                                   "il80_p4": 149100,
+                                   "il80_p5": 161050,
+                                   "il80_p6": 173000,
+                                   "il80_p7": 184900,
+                                   "il80_p8": 196850
+                            }
+                     }
+              ]
+       }
+}

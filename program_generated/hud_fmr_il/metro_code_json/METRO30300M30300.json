@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Asotin County, WA; Nez Perce County, ID; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 469,
+                                   "One-Bedroom": 538,
+                                   "Two-Bedroom": 715,
+                                   "Three-Bedroom": 917,
+                                   "Four-Bedroom": 1150,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Asotin County, WA; Nez Perce County, ID; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 511,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 777,
+                                   "Three-Bedroom": 1012,
+                                   "Four-Bedroom": 1264,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Asotin County, WA; Nez Perce County, ID; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 519,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 808,
+                                   "Three-Bedroom": 1072,
+                                   "Four-Bedroom": 1316,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Asotin County, WA; Nez Perce County, ID; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 659,
+                                   "Two-Bedroom": 868,
+                                   "Three-Bedroom": 1174,
+                                   "Four-Bedroom": 1443,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Asotin County, WA; Nez Perce County, ID; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 584,
+                                   "One-Bedroom": 672,
+                                   "Two-Bedroom": 885,
+                                   "Three-Bedroom": 1223,
+                                   "Four-Bedroom": 1468,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Asotin County, WA; Nez Perce County, ID; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 717,
+                                   "Two-Bedroom": 925,
+                                   "Three-Bedroom": 1314,
+                                   "Four-Bedroom": 1583,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Nez Perce County, ID; Asotin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "year": "2017",
+                            "median_income": 54200,
+                            "very_low": {
+                                   "il50_p1": 19800,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25450,
+                                   "il50_p4": 28250,
+                                   "il50_p5": 30550,
+                                   "il50_p6": 32800,
+                                   "il50_p7": 35050,
+                                   "il50_p8": 37300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32800,
+                                   "il30_p7": 35050,
+                                   "il30_p8": 37300
+                            },
+                            "low": {
+                                   "il80_p1": 31650,
+                                   "il80_p2": 36200,
+                                   "il80_p3": 40700,
+                                   "il80_p4": 45200,
+                                   "il80_p5": 48850,
+                                   "il80_p6": 52450,
+                                   "il80_p7": 56050,
+                                   "il80_p8": 59700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Nez Perce County, ID; Asotin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "year": "2018",
+                            "median_income": 69200,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31450,
+                                   "il50_p5": 34000,
+                                   "il50_p6": 36500,
+                                   "il50_p7": 39000,
+                                   "il50_p8": 41550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41550
+                            },
+                            "low": {
+                                   "il80_p1": 35250,
+                                   "il80_p2": 40250,
+                                   "il80_p3": 45300,
+                                   "il80_p4": 50300,
+                                   "il80_p5": 54350,
+                                   "il80_p6": 58350,
+                                   "il80_p7": 62400,
+                                   "il80_p8": 66400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Nez Perce County, ID; Asotin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "year": "2019",
+                            "median_income": 63100,
+                            "very_low": {
+                                   "il50_p1": 22100,
+                                   "il50_p2": 25250,
+                                   "il50_p3": 28400,
+                                   "il50_p4": 31550,
+                                   "il50_p5": 34100,
+                                   "il50_p6": 36600,
+                                   "il50_p7": 39150,
+                                   "il50_p8": 41650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 41650
+                            },
+                            "low": {
+                                   "il80_p1": 35350,
+                                   "il80_p2": 40400,
+                                   "il80_p3": 45450,
+                                   "il80_p4": 50500,
+                                   "il80_p5": 54550,
+                                   "il80_p6": 58600,
+                                   "il80_p7": 62650,
+                                   "il80_p8": 66700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Nez Perce County, ID; Asotin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "year": "2020",
+                            "median_income": 73900,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54500,
+                                   "il80_p5": 58900,
+                                   "il80_p6": 63250,
+                                   "il80_p7": 67600,
+                                   "il80_p8": 71950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Nez Perce County, ID; Asotin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA MSA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "year": "2021",
+                            "median_income": 72100,
+                            "very_low": {
+                                   "il50_p1": 25050,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32200,
+                                   "il50_p4": 35750,
+                                   "il50_p5": 38650,
+                                   "il50_p6": 41500,
+                                   "il50_p7": 44350,
+                                   "il50_p8": 47200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40050,
+                                   "il80_p2": 45800,
+                                   "il80_p3": 51500,
+                                   "il80_p4": 57200,
+                                   "il80_p5": 61800,
+                                   "il80_p6": 66400,
+                                   "il80_p7": 70950,
+                                   "il80_p8": 75550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Nez Perce County, ID; Asotin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston, ID-WA",
+                            "area_name": "Lewiston, ID-WA MSA",
+                            "year": "2022",
+                            "median_income": 80800,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     }
+              ]
+       }
+}

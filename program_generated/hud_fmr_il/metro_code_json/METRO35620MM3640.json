@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1151,
+                                   "One-Bedroom": 1278,
+                                   "Two-Bedroom": 1519,
+                                   "Three-Bedroom": 1946,
+                                   "Four-Bedroom": 2094,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1201,
+                                   "One-Bedroom": 1351,
+                                   "Two-Bedroom": 1614,
+                                   "Three-Bedroom": 2042,
+                                   "Four-Bedroom": 2198,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1178,
+                                   "One-Bedroom": 1322,
+                                   "Two-Bedroom": 1573,
+                                   "Three-Bedroom": 1971,
+                                   "Four-Bedroom": 2126,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1292,
+                                   "One-Bedroom": 1439,
+                                   "Two-Bedroom": 1691,
+                                   "Three-Bedroom": 2107,
+                                   "Four-Bedroom": 2291,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1550,
+                                   "One-Bedroom": 1686,
+                                   "Two-Bedroom": 1958,
+                                   "Three-Bedroom": 2435,
+                                   "Four-Bedroom": 2655,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1610,
+                                   "One-Bedroom": 1711,
+                                   "Two-Bedroom": 1972,
+                                   "Three-Bedroom": 2438,
+                                   "Four-Bedroom": 2674,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 63100,
+                            "very_low": {
+                                   "il50_p1": 30100,
+                                   "il50_p2": 34400,
+                                   "il50_p3": 38700,
+                                   "il50_p4": 43000,
+                                   "il50_p5": 46450,
+                                   "il50_p6": 49900,
+                                   "il50_p7": 53350,
+                                   "il50_p8": 56800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18100,
+                                   "il30_p2": 20650,
+                                   "il30_p3": 23250,
+                                   "il30_p4": 25800,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 48200,
+                                   "il80_p2": 55050,
+                                   "il80_p3": 61950,
+                                   "il80_p4": 68800,
+                                   "il80_p5": 74350,
+                                   "il80_p6": 79850,
+                                   "il80_p7": 85350,
+                                   "il80_p8": 90850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 66500,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 30550,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 52750,
+                                   "il80_p2": 60250,
+                                   "il80_p3": 67800,
+                                   "il80_p4": 75300,
+                                   "il80_p5": 81350,
+                                   "il80_p6": 87350,
+                                   "il80_p7": 93400,
+                                   "il80_p8": 99400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 70600,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36700,
+                                   "il50_p3": 41300,
+                                   "il50_p4": 45850,
+                                   "il50_p5": 49550,
+                                   "il50_p6": 53200,
+                                   "il50_p7": 56900,
+                                   "il50_p8": 60550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27500,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 51350,
+                                   "il80_p2": 58700,
+                                   "il80_p3": 66050,
+                                   "il80_p4": 73350,
+                                   "il80_p5": 79250,
+                                   "il80_p6": 85100,
+                                   "il80_p7": 91000,
+                                   "il80_p8": 96850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 76900,
+                            "very_low": {
+                                   "il50_p1": 34550,
+                                   "il50_p2": 39450,
+                                   "il50_p3": 44400,
+                                   "il50_p4": 49300,
+                                   "il50_p5": 53250,
+                                   "il50_p6": 57200,
+                                   "il50_p7": 61150,
+                                   "il50_p8": 65100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20750,
+                                   "il30_p2": 23700,
+                                   "il30_p3": 26650,
+                                   "il30_p4": 29600,
+                                   "il30_p5": 32000,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 55250,
+                                   "il80_p2": 63150,
+                                   "il80_p3": 71050,
+                                   "il80_p4": 78900,
+                                   "il80_p5": 85250,
+                                   "il80_p6": 91550,
+                                   "il80_p7": 97850,
+                                   "il80_p8": 104150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 84700,
+                            "very_low": {
+                                   "il50_p1": 36250,
+                                   "il50_p2": 41400,
+                                   "il50_p3": 46600,
+                                   "il50_p4": 51750,
+                                   "il50_p5": 55900,
+                                   "il50_p6": 60050,
+                                   "il50_p7": 64200,
+                                   "il50_p8": 68350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21750,
+                                   "il30_p2": 24850,
+                                   "il30_p3": 27950,
+                                   "il30_p4": 31050,
+                                   "il30_p5": 33550,
+                                   "il30_p6": 36050,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 58000,
+                                   "il80_p2": 66250,
+                                   "il80_p3": 74550,
+                                   "il80_p4": 82800,
+                                   "il80_p5": 89450,
+                                   "il80_p6": 96050,
+                                   "il80_p7": 102700,
+                                   "il80_p8": 109300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hudson County, NJ; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "Jersey City, NJ HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 93800,
+                            "very_low": {
+                                   "il50_p1": 40250,
+                                   "il50_p2": 46000,
+                                   "il50_p3": 51750,
+                                   "il50_p4": 57450,
+                                   "il50_p5": 62050,
+                                   "il50_p6": 66650,
+                                   "il50_p7": 71250,
+                                   "il50_p8": 75850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24150,
+                                   "il30_p2": 27600,
+                                   "il30_p3": 31050,
+                                   "il30_p4": 34450,
+                                   "il30_p5": 37250,
+                                   "il30_p6": 40000,
+                                   "il30_p7": 42750,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 64350,
+                                   "il80_p2": 73550,
+                                   "il80_p3": 82750,
+                                   "il80_p4": 91900,
+                                   "il80_p5": 99300,
+                                   "il80_p6": 106650,
+                                   "il80_p7": 114000,
+                                   "il80_p8": 121350
+                            }
+                     }
+              ]
+       }
+}

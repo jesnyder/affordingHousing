@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 781,
+                                   "One-Bedroom": 851,
+                                   "Two-Bedroom": 1092,
+                                   "Three-Bedroom": 1381,
+                                   "Four-Bedroom": 1505,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 827,
+                                   "One-Bedroom": 928,
+                                   "Two-Bedroom": 1187,
+                                   "Three-Bedroom": 1489,
+                                   "Four-Bedroom": 1683,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 793,
+                                   "One-Bedroom": 956,
+                                   "Two-Bedroom": 1219,
+                                   "Three-Bedroom": 1529,
+                                   "Four-Bedroom": 1686,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 785,
+                                   "One-Bedroom": 953,
+                                   "Two-Bedroom": 1205,
+                                   "Three-Bedroom": 1543,
+                                   "Four-Bedroom": 1715,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 833,
+                                   "One-Bedroom": 996,
+                                   "Two-Bedroom": 1263,
+                                   "Three-Bedroom": 1639,
+                                   "Four-Bedroom": 1794,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 952,
+                                   "One-Bedroom": 1110,
+                                   "Two-Bedroom": 1433,
+                                   "Three-Bedroom": 1836,
+                                   "Four-Bedroom": 2052,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 94400,
+                            "very_low": {
+                                   "il50_p1": 31500,
+                                   "il50_p2": 36000,
+                                   "il50_p3": 40500,
+                                   "il50_p4": 45000,
+                                   "il50_p5": 48600,
+                                   "il50_p6": 52200,
+                                   "il50_p7": 55800,
+                                   "il50_p8": 59400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 27000,
+                                   "il30_p5": 29200,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 88600,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35450,
+                                   "il50_p3": 39900,
+                                   "il50_p4": 44300,
+                                   "il50_p5": 47850,
+                                   "il50_p6": 51400,
+                                   "il50_p7": 54950,
+                                   "il50_p8": 58500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 49650,
+                                   "il80_p2": 56750,
+                                   "il80_p3": 63850,
+                                   "il80_p4": 70900,
+                                   "il80_p5": 76600,
+                                   "il80_p6": 82250,
+                                   "il80_p7": 87950,
+                                   "il80_p8": 93600
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 106500,
+                            "very_low": {
+                                   "il50_p1": 34100,
+                                   "il50_p2": 39000,
+                                   "il50_p3": 43850,
+                                   "il50_p4": 48700,
+                                   "il50_p5": 52600,
+                                   "il50_p6": 56500,
+                                   "il50_p7": 60400,
+                                   "il50_p8": 64300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20450,
+                                   "il30_p2": 23400,
+                                   "il30_p3": 26300,
+                                   "il30_p4": 29200,
+                                   "il30_p5": 31550,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 111900,
+                            "very_low": {
+                                   "il50_p1": 36800,
+                                   "il50_p2": 42050,
+                                   "il50_p3": 47300,
+                                   "il50_p4": 52550,
+                                   "il50_p5": 56800,
+                                   "il50_p6": 61000,
+                                   "il50_p7": 65200,
+                                   "il50_p8": 69400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22100,
+                                   "il30_p2": 25250,
+                                   "il30_p3": 28400,
+                                   "il30_p4": 31550,
+                                   "il30_p5": 34100,
+                                   "il30_p6": 36600,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 94000,
+                            "very_low": {
+                                   "il50_p1": 35000,
+                                   "il50_p2": 40000,
+                                   "il50_p3": 45000,
+                                   "il50_p4": 49950,
+                                   "il50_p5": 53950,
+                                   "il50_p6": 57950,
+                                   "il50_p7": 61950,
+                                   "il50_p8": 65950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21000,
+                                   "il30_p2": 24000,
+                                   "il30_p3": 27000,
+                                   "il30_p4": 29950,
+                                   "il30_p5": 32350,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Bristol County, MA",
+                            "counties_msa": "",
+                            "town_name": "Taunton city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Taunton-Mansfield-Norton, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 117700,
+                            "very_low": {
+                                   "il50_p1": 39100,
+                                   "il50_p2": 44700,
+                                   "il50_p3": 50300,
+                                   "il50_p4": 55850,
+                                   "il50_p5": 60350,
+                                   "il50_p6": 64800,
+                                   "il50_p7": 69300,
+                                   "il50_p8": 73750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23450,
+                                   "il30_p2": 26800,
+                                   "il30_p3": 30150,
+                                   "il30_p4": 33500,
+                                   "il30_p5": 36200,
+                                   "il30_p6": 38900,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62550,
+                                   "il80_p2": 71500,
+                                   "il80_p3": 80450,
+                                   "il80_p4": 89350,
+                                   "il80_p5": 96500,
+                                   "il80_p6": 103650,
+                                   "il80_p7": 110800,
+                                   "il80_p8": 117950
+                            }
+                     }
+              ]
+       }
+}

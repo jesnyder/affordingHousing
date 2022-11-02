@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 479,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 755,
+                                   "Three-Bedroom": 996,
+                                   "Four-Bedroom": 1041,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 469,
+                                   "One-Bedroom": 578,
+                                   "Two-Bedroom": 736,
+                                   "Three-Bedroom": 964,
+                                   "Four-Bedroom": 1013,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 513,
+                                   "One-Bedroom": 628,
+                                   "Two-Bedroom": 798,
+                                   "Three-Bedroom": 1034,
+                                   "Four-Bedroom": 1134,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 504,
+                                   "One-Bedroom": 603,
+                                   "Two-Bedroom": 773,
+                                   "Three-Bedroom": 980,
+                                   "Four-Bedroom": 1090,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 546,
+                                   "One-Bedroom": 632,
+                                   "Two-Bedroom": 827,
+                                   "Three-Bedroom": 1030,
+                                   "Four-Bedroom": 1139,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI",
+                            "area_name": "Saginaw, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 633,
+                                   "Two-Bedroom": 833,
+                                   "Three-Bedroom": 1041,
+                                   "Four-Bedroom": 1130,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "year": "2017",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 22950,
+                                   "il50_p3": 25800,
+                                   "il50_p4": 28650,
+                                   "il50_p5": 30950,
+                                   "il50_p6": 33250,
+                                   "il50_p7": 35550,
+                                   "il50_p8": 37850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35550,
+                                   "il30_p8": 37850
+                            },
+                            "low": {
+                                   "il80_p1": 32100,
+                                   "il80_p2": 36700,
+                                   "il80_p3": 41300,
+                                   "il80_p4": 45850,
+                                   "il80_p5": 49550,
+                                   "il80_p6": 53200,
+                                   "il80_p7": 56900,
+                                   "il80_p8": 60550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "year": "2018",
+                            "median_income": 56500,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23500,
+                                   "il50_p3": 26450,
+                                   "il50_p4": 29350,
+                                   "il50_p5": 31700,
+                                   "il50_p6": 34050,
+                                   "il50_p7": 36400,
+                                   "il50_p8": 38750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12350,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36400,
+                                   "il30_p8": 38750
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 46950,
+                                   "il80_p5": 50750,
+                                   "il80_p6": 54500,
+                                   "il80_p7": 58250,
+                                   "il80_p8": 62000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "year": "2019",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42000
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "year": "2020",
+                            "median_income": 62900,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI MSA",
+                            "area_name": "Saginaw, MI MSA",
+                            "year": "2021",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40000,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Saginaw County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Saginaw, MI",
+                            "area_name": "Saginaw, MI MSA",
+                            "year": "2022",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 25050,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32200,
+                                   "il50_p4": 35750,
+                                   "il50_p5": 38650,
+                                   "il50_p6": 41500,
+                                   "il50_p7": 44350,
+                                   "il50_p8": 47200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40050,
+                                   "il80_p2": 45800,
+                                   "il80_p3": 51500,
+                                   "il80_p4": 57200,
+                                   "il80_p5": 61800,
+                                   "il80_p6": 66400,
+                                   "il80_p7": 70950,
+                                   "il80_p8": 75550
+                            }
+                     }
+              ]
+       }
+}

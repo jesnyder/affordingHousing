@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 550,
+                                   "One-Bedroom": 554,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 948,
+                                   "Four-Bedroom": 1086,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 803,
+                                   "Three-Bedroom": 1007,
+                                   "Four-Bedroom": 1200,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 686,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 825,
+                                   "Three-Bedroom": 1034,
+                                   "Four-Bedroom": 1247,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 697,
+                                   "Two-Bedroom": 834,
+                                   "Three-Bedroom": 1053,
+                                   "Four-Bedroom": 1305,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 653,
+                                   "One-Bedroom": 657,
+                                   "Two-Bedroom": 789,
+                                   "Three-Bedroom": 1061,
+                                   "Four-Bedroom": 1322,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Alpharetta, GA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 649,
+                                   "One-Bedroom": 653,
+                                   "Two-Bedroom": 801,
+                                   "Three-Bedroom": 1138,
+                                   "Four-Bedroom": 1371,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 52700,
+                            "very_low": {
+                                   "il50_p1": 18450,
+                                   "il50_p2": 21100,
+                                   "il50_p3": 23750,
+                                   "il50_p4": 26350,
+                                   "il50_p5": 28500,
+                                   "il50_p6": 30600,
+                                   "il50_p7": 32700,
+                                   "il50_p8": 34800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28500,
+                                   "il30_p6": 30600,
+                                   "il30_p7": 32700,
+                                   "il30_p8": 34800
+                            },
+                            "low": {
+                                   "il80_p1": 29550,
+                                   "il80_p2": 33750,
+                                   "il80_p3": 37950,
+                                   "il80_p4": 42150,
+                                   "il80_p5": 45550,
+                                   "il80_p6": 48900,
+                                   "il80_p7": 52300,
+                                   "il80_p8": 55650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 56500,
+                            "very_low": {
+                                   "il50_p1": 19800,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25450,
+                                   "il50_p4": 28250,
+                                   "il50_p5": 30550,
+                                   "il50_p6": 32800,
+                                   "il50_p7": 35050,
+                                   "il50_p8": 37300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32800,
+                                   "il30_p7": 35050,
+                                   "il30_p8": 37300
+                            },
+                            "low": {
+                                   "il80_p1": 31650,
+                                   "il80_p2": 36200,
+                                   "il80_p3": 40700,
+                                   "il80_p4": 45200,
+                                   "il80_p5": 48850,
+                                   "il80_p6": 52450,
+                                   "il80_p7": 56050,
+                                   "il80_p8": 59700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 54600,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21850,
+                                   "il50_p3": 24600,
+                                   "il50_p4": 27300,
+                                   "il50_p5": 29500,
+                                   "il50_p6": 31700,
+                                   "il50_p7": 33900,
+                                   "il50_p8": 36050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29500,
+                                   "il30_p6": 31700,
+                                   "il30_p7": 33900,
+                                   "il30_p8": 36050
+                            },
+                            "low": {
+                                   "il80_p1": 30600,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39350,
+                                   "il80_p4": 43700,
+                                   "il80_p5": 47200,
+                                   "il80_p6": 50700,
+                                   "il80_p7": 54200,
+                                   "il80_p8": 57700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 22950,
+                                   "il50_p3": 25800,
+                                   "il50_p4": 28650,
+                                   "il50_p5": 30950,
+                                   "il50_p6": 33250,
+                                   "il50_p7": 35550,
+                                   "il50_p8": 37850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 33250,
+                                   "il30_p7": 35550,
+                                   "il30_p8": 37850
+                            },
+                            "low": {
+                                   "il80_p1": 32100,
+                                   "il80_p2": 36700,
+                                   "il80_p3": 41300,
+                                   "il80_p4": 45850,
+                                   "il80_p5": 49550,
+                                   "il80_p6": 53200,
+                                   "il80_p7": 56900,
+                                   "il80_p8": 60550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 58300,
+                            "very_low": {
+                                   "il50_p1": 20450,
+                                   "il50_p2": 23350,
+                                   "il50_p3": 26250,
+                                   "il50_p4": 29150,
+                                   "il50_p5": 31500,
+                                   "il50_p6": 33850,
+                                   "il50_p7": 36150,
+                                   "il50_p8": 38500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 33850,
+                                   "il30_p7": 36150,
+                                   "il30_p8": 38500
+                            },
+                            "low": {
+                                   "il80_p1": 32700,
+                                   "il80_p2": 37350,
+                                   "il80_p3": 42000,
+                                   "il80_p4": 46650,
+                                   "il80_p5": 50400,
+                                   "il80_p6": 54150,
+                                   "il80_p7": 57850,
+                                   "il80_p8": 61600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haralson County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Alpharetta, GA",
+                            "area_name": "Haralson County, GA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 66900,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40450,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     }
+              ]
+       }
+}

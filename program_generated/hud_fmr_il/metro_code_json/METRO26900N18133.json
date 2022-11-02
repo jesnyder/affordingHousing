@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 540,
+                                   "One-Bedroom": 544,
+                                   "Two-Bedroom": 690,
+                                   "Three-Bedroom": 1004,
+                                   "Four-Bedroom": 1110,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 539,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 979,
+                                   "Four-Bedroom": 999,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 566,
+                                   "Two-Bedroom": 737,
+                                   "Three-Bedroom": 1051,
+                                   "Four-Bedroom": 1055,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 570,
+                                   "One-Bedroom": 581,
+                                   "Two-Bedroom": 754,
+                                   "Three-Bedroom": 1088,
+                                   "Four-Bedroom": 1101,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 572,
+                                   "One-Bedroom": 590,
+                                   "Two-Bedroom": 762,
+                                   "Three-Bedroom": 1091,
+                                   "Four-Bedroom": 1156,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 589,
+                                   "One-Bedroom": 600,
+                                   "Two-Bedroom": 769,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1197,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 60800,
+                            "very_low": {
+                                   "il50_p1": 21300,
+                                   "il50_p2": 24350,
+                                   "il50_p3": 27400,
+                                   "il50_p4": 30400,
+                                   "il50_p5": 32850,
+                                   "il50_p6": 35300,
+                                   "il50_p7": 37700,
+                                   "il50_p8": 40150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12800,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40150
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 38950,
+                                   "il80_p3": 43800,
+                                   "il80_p4": 48650,
+                                   "il80_p5": 52550,
+                                   "il80_p6": 56450,
+                                   "il80_p7": 60350,
+                                   "il80_p8": 64250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 64700,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25900,
+                                   "il50_p3": 29150,
+                                   "il50_p4": 32350,
+                                   "il50_p5": 34950,
+                                   "il50_p6": 37550,
+                                   "il50_p7": 40150,
+                                   "il50_p8": 42750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36250,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46600,
+                                   "il80_p4": 51750,
+                                   "il80_p5": 55900,
+                                   "il80_p6": 60050,
+                                   "il80_p7": 64200,
+                                   "il80_p8": 68350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 69600,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27850,
+                                   "il50_p3": 31350,
+                                   "il50_p4": 34800,
+                                   "il50_p5": 37600,
+                                   "il50_p6": 40400,
+                                   "il50_p7": 43200,
+                                   "il50_p8": 45950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39000,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50150,
+                                   "il80_p4": 55700,
+                                   "il80_p5": 60200,
+                                   "il80_p6": 64650,
+                                   "il80_p7": 69100,
+                                   "il80_p8": 73550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 24550,
+                                   "il50_p2": 28050,
+                                   "il50_p3": 31550,
+                                   "il50_p4": 35050,
+                                   "il50_p5": 37900,
+                                   "il50_p6": 40700,
+                                   "il50_p7": 43500,
+                                   "il50_p8": 46300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39300,
+                                   "il80_p2": 44900,
+                                   "il80_p3": 50500,
+                                   "il80_p4": 56100,
+                                   "il80_p5": 60600,
+                                   "il80_p6": 65100,
+                                   "il80_p7": 69600,
+                                   "il80_p8": 74100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 72200,
+                            "very_low": {
+                                   "il50_p1": 25300,
+                                   "il50_p2": 28900,
+                                   "il50_p3": 32500,
+                                   "il50_p4": 36100,
+                                   "il50_p5": 39000,
+                                   "il50_p6": 41900,
+                                   "il50_p7": 44800,
+                                   "il50_p8": 47700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40450,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 52000,
+                                   "il80_p4": 57750,
+                                   "il80_p5": 62400,
+                                   "il80_p6": 67000,
+                                   "il80_p7": 71650,
+                                   "il80_p8": 76250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Putnam County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN",
+                            "area_name": "Putnam County, IN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 81700,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     }
+              ]
+       }
+}

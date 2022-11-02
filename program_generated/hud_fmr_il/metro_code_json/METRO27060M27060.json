@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 842,
+                                   "One-Bedroom": 911,
+                                   "Two-Bedroom": 1071,
+                                   "Three-Bedroom": 1383,
+                                   "Four-Bedroom": 1750,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 935,
+                                   "One-Bedroom": 978,
+                                   "Two-Bedroom": 1164,
+                                   "Three-Bedroom": 1495,
+                                   "Four-Bedroom": 1898,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 913,
+                                   "One-Bedroom": 941,
+                                   "Two-Bedroom": 1135,
+                                   "Three-Bedroom": 1448,
+                                   "Four-Bedroom": 1729,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 919,
+                                   "One-Bedroom": 969,
+                                   "Two-Bedroom": 1172,
+                                   "Three-Bedroom": 1496,
+                                   "Four-Bedroom": 1748,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 980,
+                                   "One-Bedroom": 1048,
+                                   "Two-Bedroom": 1269,
+                                   "Three-Bedroom": 1619,
+                                   "Four-Bedroom": 1812,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY",
+                            "area_name": "Ithaca, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1053,
+                                   "One-Bedroom": 1127,
+                                   "Two-Bedroom": 1365,
+                                   "Three-Bedroom": 1743,
+                                   "Four-Bedroom": 1851,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "year": "2017",
+                            "median_income": 75600,
+                            "very_low": {
+                                   "il50_p1": 26500,
+                                   "il50_p2": 30250,
+                                   "il50_p3": 34050,
+                                   "il50_p4": 37800,
+                                   "il50_p5": 40850,
+                                   "il50_p6": 43850,
+                                   "il50_p7": 46900,
+                                   "il50_p8": 49900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 20450,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42350,
+                                   "il80_p2": 48400,
+                                   "il80_p3": 54450,
+                                   "il80_p4": 60500,
+                                   "il80_p5": 65350,
+                                   "il80_p6": 70200,
+                                   "il80_p7": 75050,
+                                   "il80_p8": 79900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "year": "2018",
+                            "median_income": 89000,
+                            "very_low": {
+                                   "il50_p1": 29500,
+                                   "il50_p2": 33700,
+                                   "il50_p3": 37900,
+                                   "il50_p4": 42100,
+                                   "il50_p5": 45500,
+                                   "il50_p6": 48850,
+                                   "il50_p7": 52250,
+                                   "il50_p8": 55600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 25250,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53900,
+                                   "il80_p3": 60650,
+                                   "il80_p4": 67350,
+                                   "il80_p5": 72750,
+                                   "il80_p6": 78150,
+                                   "il80_p7": 83550,
+                                   "il80_p8": 88950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "year": "2019",
+                            "median_income": 83900,
+                            "very_low": {
+                                   "il50_p1": 29400,
+                                   "il50_p2": 33600,
+                                   "il50_p3": 37800,
+                                   "il50_p4": 41950,
+                                   "il50_p5": 45350,
+                                   "il50_p6": 48700,
+                                   "il50_p7": 52050,
+                                   "il50_p8": 55400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17650,
+                                   "il30_p2": 20150,
+                                   "il30_p3": 22650,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47000,
+                                   "il80_p2": 53700,
+                                   "il80_p3": 60400,
+                                   "il80_p4": 67100,
+                                   "il80_p5": 72500,
+                                   "il80_p6": 77850,
+                                   "il80_p7": 83250,
+                                   "il80_p8": 88600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "year": "2020",
+                            "median_income": 85600,
+                            "very_low": {
+                                   "il50_p1": 30000,
+                                   "il50_p2": 34250,
+                                   "il50_p3": 38550,
+                                   "il50_p4": 42800,
+                                   "il50_p5": 46250,
+                                   "il50_p6": 49650,
+                                   "il50_p7": 53100,
+                                   "il50_p8": 56500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18000,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23150,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 47950,
+                                   "il80_p2": 54800,
+                                   "il80_p3": 61650,
+                                   "il80_p4": 68500,
+                                   "il80_p5": 74000,
+                                   "il80_p6": 79500,
+                                   "il80_p7": 84950,
+                                   "il80_p8": 90450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY MSA",
+                            "area_name": "Ithaca, NY MSA",
+                            "year": "2021",
+                            "median_income": 89600,
+                            "very_low": {
+                                   "il50_p1": 31400,
+                                   "il50_p2": 35850,
+                                   "il50_p3": 40350,
+                                   "il50_p4": 44800,
+                                   "il50_p5": 48400,
+                                   "il50_p6": 52000,
+                                   "il50_p7": 55600,
+                                   "il50_p8": 59150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18850,
+                                   "il30_p2": 21550,
+                                   "il30_p3": 24250,
+                                   "il30_p4": 26900,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 50200,
+                                   "il80_p2": 57400,
+                                   "il80_p3": 64550,
+                                   "il80_p4": 71700,
+                                   "il80_p5": 77450,
+                                   "il80_p6": 83200,
+                                   "il80_p7": 88950,
+                                   "il80_p8": 94650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tompkins County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ithaca, NY",
+                            "area_name": "Ithaca, NY MSA",
+                            "year": "2022",
+                            "median_income": 100300,
+                            "very_low": {
+                                   "il50_p1": 35100,
+                                   "il50_p2": 40100,
+                                   "il50_p3": 45100,
+                                   "il50_p4": 50100,
+                                   "il50_p5": 54150,
+                                   "il50_p6": 58150,
+                                   "il50_p7": 62150,
+                                   "il50_p8": 66150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21050,
+                                   "il30_p2": 24050,
+                                   "il30_p3": 27050,
+                                   "il30_p4": 30050,
+                                   "il30_p5": 32500,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 56150,
+                                   "il80_p2": 64150,
+                                   "il80_p3": 72150,
+                                   "il80_p4": 80150,
+                                   "il80_p5": 86600,
+                                   "il80_p6": 93000,
+                                   "il80_p7": 99400,
+                                   "il80_p8": 105800
+                            }
+                     }
+              ]
+       }
+}

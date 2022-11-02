@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 550,
+                                   "One-Bedroom": 554,
+                                   "Two-Bedroom": 699,
+                                   "Three-Bedroom": 913,
+                                   "Four-Bedroom": 986,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 785,
+                                   "Three-Bedroom": 1041,
+                                   "Four-Bedroom": 1069,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 673,
+                                   "Two-Bedroom": 838,
+                                   "Three-Bedroom": 1112,
+                                   "Four-Bedroom": 1133,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 653,
+                                   "One-Bedroom": 681,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1111,
+                                   "Four-Bedroom": 1141,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 715,
+                                   "One-Bedroom": 724,
+                                   "Two-Bedroom": 891,
+                                   "Three-Bedroom": 1158,
+                                   "Four-Bedroom": 1208,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 712,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1144,
+                                   "Four-Bedroom": 1185,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 56300,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22550,
+                                   "il50_p3": 25350,
+                                   "il50_p4": 28150,
+                                   "il50_p5": 30450,
+                                   "il50_p6": 32700,
+                                   "il50_p7": 34950,
+                                   "il50_p8": 37200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32700,
+                                   "il30_p7": 34950,
+                                   "il30_p8": 37200
+                            },
+                            "low": {
+                                   "il80_p1": 31550,
+                                   "il80_p2": 36050,
+                                   "il80_p3": 40550,
+                                   "il80_p4": 45050,
+                                   "il80_p5": 48700,
+                                   "il80_p6": 52300,
+                                   "il80_p7": 55900,
+                                   "il80_p8": 59500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 55900,
+                            "very_low": {
+                                   "il50_p1": 19600,
+                                   "il50_p2": 22400,
+                                   "il50_p3": 25200,
+                                   "il50_p4": 27950,
+                                   "il50_p5": 30200,
+                                   "il50_p6": 32450,
+                                   "il50_p7": 34700,
+                                   "il50_p8": 36900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32450,
+                                   "il30_p7": 34700,
+                                   "il30_p8": 36900
+                            },
+                            "low": {
+                                   "il80_p1": 31300,
+                                   "il80_p2": 35800,
+                                   "il80_p3": 40250,
+                                   "il80_p4": 44700,
+                                   "il80_p5": 48300,
+                                   "il80_p6": 51900,
+                                   "il80_p7": 55450,
+                                   "il80_p8": 59050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 59700,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23900,
+                                   "il50_p3": 26900,
+                                   "il50_p4": 29850,
+                                   "il50_p5": 32250,
+                                   "il50_p6": 34650,
+                                   "il50_p7": 37050,
+                                   "il50_p8": 39450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37050,
+                                   "il30_p8": 39450
+                            },
+                            "low": {
+                                   "il80_p1": 33450,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 43000,
+                                   "il80_p4": 47750,
+                                   "il80_p5": 51600,
+                                   "il80_p6": 55400,
+                                   "il80_p7": 59250,
+                                   "il80_p8": 63050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 64400,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29000,
+                                   "il50_p4": 32200,
+                                   "il50_p5": 34800,
+                                   "il50_p6": 37400,
+                                   "il50_p7": 39950,
+                                   "il50_p8": 42550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42550
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51500,
+                                   "il80_p5": 55650,
+                                   "il80_p6": 59750,
+                                   "il80_p7": 63900,
+                                   "il80_p8": 68000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 62300,
+                            "very_low": {
+                                   "il50_p1": 21850,
+                                   "il50_p2": 24950,
+                                   "il50_p3": 28050,
+                                   "il50_p4": 31150,
+                                   "il50_p5": 33650,
+                                   "il50_p6": 36150,
+                                   "il50_p7": 38650,
+                                   "il50_p8": 41150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 38650,
+                                   "il30_p8": 41150
+                            },
+                            "low": {
+                                   "il80_p1": 34900,
+                                   "il80_p2": 39900,
+                                   "il80_p3": 44900,
+                                   "il80_p4": 49850,
+                                   "il80_p5": 53850,
+                                   "il80_p6": 57850,
+                                   "il80_p7": 61850,
+                                   "il80_p8": 65850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Rowan County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Rowan County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 69900,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27900,
+                                   "il50_p3": 31400,
+                                   "il50_p4": 34850,
+                                   "il50_p5": 37650,
+                                   "il50_p6": 40450,
+                                   "il50_p7": 43250,
+                                   "il50_p8": 46050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46050
+                            },
+                            "low": {
+                                   "il80_p1": 39050,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50200,
+                                   "il80_p4": 55750,
+                                   "il80_p5": 60250,
+                                   "il80_p6": 64700,
+                                   "il80_p7": 69150,
+                                   "il80_p8": 73600
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 629,
+                                   "One-Bedroom": 749,
+                                   "Two-Bedroom": 944,
+                                   "Three-Bedroom": 1210,
+                                   "Four-Bedroom": 1301,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 661,
+                                   "One-Bedroom": 788,
+                                   "Two-Bedroom": 994,
+                                   "Three-Bedroom": 1268,
+                                   "Four-Bedroom": 1354,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 724,
+                                   "One-Bedroom": 869,
+                                   "Two-Bedroom": 1091,
+                                   "Three-Bedroom": 1386,
+                                   "Four-Bedroom": 1475,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 684,
+                                   "One-Bedroom": 812,
+                                   "Two-Bedroom": 1021,
+                                   "Three-Bedroom": 1293,
+                                   "Four-Bedroom": 1383,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 684,
+                                   "One-Bedroom": 809,
+                                   "Two-Bedroom": 1018,
+                                   "Three-Bedroom": 1283,
+                                   "Four-Bedroom": 1380,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA",
+                            "area_name": "Lancaster, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 783,
+                                   "One-Bedroom": 913,
+                                   "Two-Bedroom": 1148,
+                                   "Three-Bedroom": 1450,
+                                   "Four-Bedroom": 1557,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "year": "2017",
+                            "median_income": 71100,
+                            "very_low": {
+                                   "il50_p1": 24900,
+                                   "il50_p2": 28450,
+                                   "il50_p3": 32000,
+                                   "il50_p4": 35550,
+                                   "il50_p5": 38400,
+                                   "il50_p6": 41250,
+                                   "il50_p7": 44100,
+                                   "il50_p8": 46950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17100,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39850,
+                                   "il80_p2": 45550,
+                                   "il80_p3": 51250,
+                                   "il80_p4": 56900,
+                                   "il80_p5": 61500,
+                                   "il80_p6": 66050,
+                                   "il80_p7": 70600,
+                                   "il80_p8": 75150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "year": "2018",
+                            "median_income": 73800,
+                            "very_low": {
+                                   "il50_p1": 25850,
+                                   "il50_p2": 29550,
+                                   "il50_p3": 33250,
+                                   "il50_p4": 36900,
+                                   "il50_p5": 39900,
+                                   "il50_p6": 42850,
+                                   "il50_p7": 45800,
+                                   "il50_p8": 48750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41350,
+                                   "il80_p2": 47250,
+                                   "il80_p3": 53150,
+                                   "il80_p4": 59050,
+                                   "il80_p5": 63800,
+                                   "il80_p6": 68500,
+                                   "il80_p7": 73250,
+                                   "il80_p8": 77950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "year": "2019",
+                            "median_income": 76200,
+                            "very_low": {
+                                   "il50_p1": 26700,
+                                   "il50_p2": 30500,
+                                   "il50_p3": 34300,
+                                   "il50_p4": 38100,
+                                   "il50_p5": 41150,
+                                   "il50_p6": 44200,
+                                   "il50_p7": 47250,
+                                   "il50_p8": 50300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18300,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42700,
+                                   "il80_p2": 48800,
+                                   "il80_p3": 54900,
+                                   "il80_p4": 60950,
+                                   "il80_p5": 65850,
+                                   "il80_p6": 70750,
+                                   "il80_p7": 75600,
+                                   "il80_p8": 80500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "year": "2020",
+                            "median_income": 79500,
+                            "very_low": {
+                                   "il50_p1": 27850,
+                                   "il50_p2": 31800,
+                                   "il50_p3": 35800,
+                                   "il50_p4": 39750,
+                                   "il50_p5": 42950,
+                                   "il50_p6": 46150,
+                                   "il50_p7": 49300,
+                                   "il50_p8": 52500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19100,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44550,
+                                   "il80_p2": 50900,
+                                   "il80_p3": 57250,
+                                   "il80_p4": 63600,
+                                   "il80_p5": 68700,
+                                   "il80_p6": 73800,
+                                   "il80_p7": 78900,
+                                   "il80_p8": 84000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA MSA",
+                            "area_name": "Lancaster, PA MSA",
+                            "year": "2021",
+                            "median_income": 83000,
+                            "very_low": {
+                                   "il50_p1": 29050,
+                                   "il50_p2": 33200,
+                                   "il50_p3": 37350,
+                                   "il50_p4": 41500,
+                                   "il50_p5": 44850,
+                                   "il50_p6": 48150,
+                                   "il50_p7": 51500,
+                                   "il50_p8": 54800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17450,
+                                   "il30_p2": 19950,
+                                   "il30_p3": 22450,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46500,
+                                   "il80_p2": 53150,
+                                   "il80_p3": 59800,
+                                   "il80_p4": 66400,
+                                   "il80_p5": 71750,
+                                   "il80_p6": 77050,
+                                   "il80_p7": 82350,
+                                   "il80_p8": 87650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lancaster County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lancaster, PA",
+                            "area_name": "Lancaster, PA MSA",
+                            "year": "2022",
+                            "median_income": 90200,
+                            "very_low": {
+                                   "il50_p1": 31600,
+                                   "il50_p2": 36100,
+                                   "il50_p3": 40600,
+                                   "il50_p4": 45100,
+                                   "il50_p5": 48750,
+                                   "il50_p6": 52350,
+                                   "il50_p7": 55950,
+                                   "il50_p8": 59550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18950,
+                                   "il30_p2": 21650,
+                                   "il30_p3": 24350,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50550,
+                                   "il80_p2": 57750,
+                                   "il80_p3": 64950,
+                                   "il80_p4": 72150,
+                                   "il80_p5": 77950,
+                                   "il80_p6": 83700,
+                                   "il80_p7": 89500,
+                                   "il80_p8": 95250
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 809,
+                                   "One-Bedroom": 865,
+                                   "Two-Bedroom": 1150,
+                                   "Three-Bedroom": 1452,
+                                   "Four-Bedroom": 1699,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 904,
+                                   "One-Bedroom": 971,
+                                   "Two-Bedroom": 1291,
+                                   "Three-Bedroom": 1791,
+                                   "Four-Bedroom": 1932,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 850,
+                                   "One-Bedroom": 957,
+                                   "Two-Bedroom": 1225,
+                                   "Three-Bedroom": 1771,
+                                   "Four-Bedroom": 1904,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 838,
+                                   "One-Bedroom": 969,
+                                   "Two-Bedroom": 1232,
+                                   "Three-Bedroom": 1777,
+                                   "Four-Bedroom": 2014,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 846,
+                                   "One-Bedroom": 1007,
+                                   "Two-Bedroom": 1282,
+                                   "Three-Bedroom": 1835,
+                                   "Four-Bedroom": 2220,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 876,
+                                   "One-Bedroom": 1035,
+                                   "Two-Bedroom": 1318,
+                                   "Three-Bedroom": 1869,
+                                   "Four-Bedroom": 2256,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 109700,
+                            "very_low": {
+                                   "il50_p1": 38100,
+                                   "il50_p2": 43550,
+                                   "il50_p3": 49000,
+                                   "il50_p4": 54400,
+                                   "il50_p5": 58800,
+                                   "il50_p6": 63150,
+                                   "il50_p7": 67500,
+                                   "il50_p8": 71850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22900,
+                                   "il30_p2": 26150,
+                                   "il30_p3": 29400,
+                                   "il30_p4": 32650,
+                                   "il30_p5": 35300,
+                                   "il30_p6": 37900,
+                                   "il30_p7": 40500,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 110200,
+                            "very_low": {
+                                   "il50_p1": 38600,
+                                   "il50_p2": 44100,
+                                   "il50_p3": 49600,
+                                   "il50_p4": 55100,
+                                   "il50_p5": 59550,
+                                   "il50_p6": 63950,
+                                   "il50_p7": 68350,
+                                   "il50_p8": 72750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23150,
+                                   "il30_p2": 26450,
+                                   "il30_p3": 29750,
+                                   "il30_p4": 33050,
+                                   "il30_p5": 35700,
+                                   "il30_p6": 38350,
+                                   "il30_p7": 41000,
+                                   "il30_p8": 43650
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 112400,
+                            "very_low": {
+                                   "il50_p1": 39350,
+                                   "il50_p2": 45000,
+                                   "il50_p3": 50600,
+                                   "il50_p4": 56200,
+                                   "il50_p5": 60700,
+                                   "il50_p6": 65200,
+                                   "il50_p7": 69700,
+                                   "il50_p8": 74200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23600,
+                                   "il30_p2": 27000,
+                                   "il30_p3": 30350,
+                                   "il30_p4": 33700,
+                                   "il30_p5": 36400,
+                                   "il30_p6": 39100,
+                                   "il30_p7": 41800,
+                                   "il30_p8": 44500
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 115000,
+                            "very_low": {
+                                   "il50_p1": 40250,
+                                   "il50_p2": 46000,
+                                   "il50_p3": 51750,
+                                   "il50_p4": 57500,
+                                   "il50_p5": 62100,
+                                   "il50_p6": 66700,
+                                   "il50_p7": 71300,
+                                   "il50_p8": 75900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24150,
+                                   "il30_p2": 27600,
+                                   "il30_p3": 31050,
+                                   "il30_p4": 34500,
+                                   "il30_p5": 37300,
+                                   "il30_p6": 40050,
+                                   "il30_p7": 42800,
+                                   "il30_p8": 45550
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT MSA",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 115200,
+                            "very_low": {
+                                   "il50_p1": 40350,
+                                   "il50_p2": 46100,
+                                   "il50_p3": 51850,
+                                   "il50_p4": 57600,
+                                   "il50_p5": 62250,
+                                   "il50_p6": 66850,
+                                   "il50_p7": 71450,
+                                   "il50_p8": 76050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24200,
+                                   "il30_p2": 27650,
+                                   "il30_p3": 31100,
+                                   "il30_p4": 34550,
+                                   "il30_p5": 37350,
+                                   "il30_p6": 40100,
+                                   "il30_p7": 42850,
+                                   "il30_p8": 45650
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "New London County, CT",
+                            "counties_msa": "",
+                            "town_name": "Colchester town",
+                            "metro_status": "1",
+                            "metro_name": "Norwich-New London, CT",
+                            "area_name": "Colchester-Lebanon, CT HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 128500,
+                            "very_low": {
+                                   "il50_p1": 45000,
+                                   "il50_p2": 51400,
+                                   "il50_p3": 57850,
+                                   "il50_p4": 64250,
+                                   "il50_p5": 69400,
+                                   "il50_p6": 74550,
+                                   "il50_p7": 79700,
+                                   "il50_p8": 84850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 27000,
+                                   "il30_p2": 30850,
+                                   "il30_p3": 34700,
+                                   "il30_p4": 38550,
+                                   "il30_p5": 41650,
+                                   "il30_p6": 44750,
+                                   "il30_p7": 47850,
+                                   "il30_p8": 50900
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

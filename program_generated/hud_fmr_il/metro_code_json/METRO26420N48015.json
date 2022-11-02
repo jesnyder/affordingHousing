@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 630,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 877,
+                                   "Three-Bedroom": 1112,
+                                   "Four-Bedroom": 1545,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 706,
+                                   "One-Bedroom": 758,
+                                   "Two-Bedroom": 976,
+                                   "Three-Bedroom": 1224,
+                                   "Four-Bedroom": 1719,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 741,
+                                   "One-Bedroom": 792,
+                                   "Two-Bedroom": 1009,
+                                   "Three-Bedroom": 1264,
+                                   "Four-Bedroom": 1772,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 722,
+                                   "One-Bedroom": 793,
+                                   "Two-Bedroom": 961,
+                                   "Three-Bedroom": 1198,
+                                   "Four-Bedroom": 1687,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 650,
+                                   "One-Bedroom": 810,
+                                   "Two-Bedroom": 956,
+                                   "Three-Bedroom": 1242,
+                                   "Four-Bedroom": 1641,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 778,
+                                   "Two-Bedroom": 912,
+                                   "Three-Bedroom": 1258,
+                                   "Four-Bedroom": 1561,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 69800,
+                            "very_low": {
+                                   "il50_p1": 24450,
+                                   "il50_p2": 27950,
+                                   "il50_p3": 31450,
+                                   "il50_p4": 34900,
+                                   "il50_p5": 37700,
+                                   "il50_p6": 40500,
+                                   "il50_p7": 43300,
+                                   "il50_p8": 46100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39100,
+                                   "il80_p2": 44700,
+                                   "il80_p3": 50300,
+                                   "il80_p4": 55850,
+                                   "il80_p5": 60350,
+                                   "il80_p6": 64800,
+                                   "il80_p7": 69300,
+                                   "il80_p8": 73750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 72400,
+                            "very_low": {
+                                   "il50_p1": 25350,
+                                   "il50_p2": 29000,
+                                   "il50_p3": 32600,
+                                   "il50_p4": 36200,
+                                   "il50_p5": 39100,
+                                   "il50_p6": 42000,
+                                   "il50_p7": 44900,
+                                   "il50_p8": 47800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17400,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40550,
+                                   "il80_p2": 46350,
+                                   "il80_p3": 52150,
+                                   "il80_p4": 57900,
+                                   "il80_p5": 62550,
+                                   "il80_p6": 67200,
+                                   "il80_p7": 71800,
+                                   "il80_p8": 76450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 75800,
+                            "very_low": {
+                                   "il50_p1": 26550,
+                                   "il50_p2": 30350,
+                                   "il50_p3": 34150,
+                                   "il50_p4": 37900,
+                                   "il50_p5": 40950,
+                                   "il50_p6": 44000,
+                                   "il50_p7": 47000,
+                                   "il50_p8": 50050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48550,
+                                   "il80_p3": 54600,
+                                   "il80_p4": 60650,
+                                   "il80_p5": 65550,
+                                   "il80_p6": 70400,
+                                   "il80_p7": 75250,
+                                   "il80_p8": 80100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65450,
+                                   "il80_p5": 70700,
+                                   "il80_p6": 75950,
+                                   "il80_p7": 81200,
+                                   "il80_p8": 86400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX MSA",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 82700,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33100,
+                                   "il50_p3": 37250,
+                                   "il50_p4": 41350,
+                                   "il50_p5": 44700,
+                                   "il50_p6": 48000,
+                                   "il50_p7": 51300,
+                                   "il50_p8": 54600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 22350,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46350,
+                                   "il80_p2": 52950,
+                                   "il80_p3": 59550,
+                                   "il80_p4": 66150,
+                                   "il80_p5": 71450,
+                                   "il80_p6": 76750,
+                                   "il80_p7": 82050,
+                                   "il80_p8": 87350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Austin County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Houston-The Woodlands-Sugar Land, TX",
+                            "area_name": "Austin County, TX HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 86900,
+                            "very_low": {
+                                   "il50_p1": 30450,
+                                   "il50_p2": 34800,
+                                   "il50_p3": 39150,
+                                   "il50_p4": 43450,
+                                   "il50_p5": 46950,
+                                   "il50_p6": 50450,
+                                   "il50_p7": 53900,
+                                   "il50_p8": 57400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18250,
+                                   "il30_p2": 20850,
+                                   "il30_p3": 23450,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48650,
+                                   "il80_p2": 55600,
+                                   "il80_p3": 62550,
+                                   "il80_p4": 69500,
+                                   "il80_p5": 75100,
+                                   "il80_p6": 80650,
+                                   "il80_p7": 86200,
+                                   "il80_p8": 91750
+                            }
+                     }
+              ]
+       }
+}

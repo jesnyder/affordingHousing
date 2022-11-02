@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 954,
+                                   "One-Bedroom": 961,
+                                   "Two-Bedroom": 1277,
+                                   "Three-Bedroom": 1598,
+                                   "Four-Bedroom": 1958,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1060,
+                                   "One-Bedroom": 1067,
+                                   "Two-Bedroom": 1419,
+                                   "Three-Bedroom": 1779,
+                                   "Four-Bedroom": 1933,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1099,
+                                   "One-Bedroom": 1107,
+                                   "Two-Bedroom": 1464,
+                                   "Three-Bedroom": 1834,
+                                   "Four-Bedroom": 2243,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1086,
+                                   "One-Bedroom": 1098,
+                                   "Two-Bedroom": 1414,
+                                   "Three-Bedroom": 1762,
+                                   "Four-Bedroom": 2193,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1200,
+                                   "One-Bedroom": 1321,
+                                   "Two-Bedroom": 1607,
+                                   "Three-Bedroom": 2178,
+                                   "Four-Bedroom": 2530,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1340,
+                                   "One-Bedroom": 1577,
+                                   "Two-Bedroom": 1797,
+                                   "Three-Bedroom": 2553,
+                                   "Four-Bedroom": 2886,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "year": "2017",
+                            "median_income": 88600,
+                            "very_low": {
+                                   "il50_p1": 30800,
+                                   "il50_p2": 35200,
+                                   "il50_p3": 39600,
+                                   "il50_p4": 44000,
+                                   "il50_p5": 47550,
+                                   "il50_p6": 51050,
+                                   "il50_p7": 54600,
+                                   "il50_p8": 58100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18500,
+                                   "il30_p2": 21150,
+                                   "il30_p3": 23800,
+                                   "il30_p4": 26400,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "year": "2018",
+                            "median_income": 90600,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36250,
+                                   "il50_p3": 40800,
+                                   "il50_p4": 45300,
+                                   "il50_p5": 48950,
+                                   "il50_p6": 52550,
+                                   "il50_p7": 56200,
+                                   "il50_p8": 59800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27200,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "year": "2019",
+                            "median_income": 89100,
+                            "very_low": {
+                                   "il50_p1": 31200,
+                                   "il50_p2": 35650,
+                                   "il50_p3": 40100,
+                                   "il50_p4": 44550,
+                                   "il50_p5": 48150,
+                                   "il50_p6": 51700,
+                                   "il50_p7": 55250,
+                                   "il50_p8": 58850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18750,
+                                   "il30_p2": 21400,
+                                   "il30_p3": 24100,
+                                   "il30_p4": 26750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 49950,
+                                   "il80_p2": 57050,
+                                   "il80_p3": 64200,
+                                   "il80_p4": 71300,
+                                   "il80_p5": 77050,
+                                   "il80_p6": 82750,
+                                   "il80_p7": 88450,
+                                   "il80_p8": 94150
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "year": "2020",
+                            "median_income": 95900,
+                            "very_low": {
+                                   "il50_p1": 33600,
+                                   "il50_p2": 38400,
+                                   "il50_p3": 43200,
+                                   "il50_p4": 47950,
+                                   "il50_p5": 51800,
+                                   "il50_p6": 55650,
+                                   "il50_p7": 59500,
+                                   "il50_p8": 63300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20150,
+                                   "il30_p2": 23000,
+                                   "il30_p3": 25900,
+                                   "il30_p4": 28750,
+                                   "il30_p5": 31050,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 53700,
+                                   "il80_p2": 61400,
+                                   "il80_p3": 69050,
+                                   "il80_p4": 76700,
+                                   "il80_p5": 82850,
+                                   "il80_p6": 89000,
+                                   "il80_p7": 95150,
+                                   "il80_p8": 101250
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "year": "2021",
+                            "median_income": 96100,
+                            "very_low": {
+                                   "il50_p1": 33650,
+                                   "il50_p2": 38450,
+                                   "il50_p3": 43250,
+                                   "il50_p4": 48050,
+                                   "il50_p5": 51900,
+                                   "il50_p6": 55750,
+                                   "il50_p7": 59600,
+                                   "il50_p8": 63450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20200,
+                                   "il30_p2": 23100,
+                                   "il30_p3": 26000,
+                                   "il30_p4": 28850,
+                                   "il30_p5": 31200,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 53850,
+                                   "il80_p2": 61550,
+                                   "il80_p3": 69250,
+                                   "il80_p4": 76900,
+                                   "il80_p5": 83100,
+                                   "il80_p6": 89250,
+                                   "il80_p7": 95400,
+                                   "il80_p8": 101550
+                            }
+                     },
+                     {
+                            "county_name": "Summit County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Summit County, CO",
+                            "year": "2022",
+                            "median_income": 99800,
+                            "very_low": {
+                                   "il50_p1": 36650,
+                                   "il50_p2": 41900,
+                                   "il50_p3": 47150,
+                                   "il50_p4": 52350,
+                                   "il50_p5": 56550,
+                                   "il50_p6": 60750,
+                                   "il50_p7": 64950,
+                                   "il50_p8": 69150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22000,
+                                   "il30_p2": 25150,
+                                   "il30_p3": 28300,
+                                   "il30_p4": 31400,
+                                   "il30_p5": 33950,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 58650,
+                                   "il80_p2": 67000,
+                                   "il80_p3": 75400,
+                                   "il80_p4": 83750,
+                                   "il80_p5": 90450,
+                                   "il80_p6": 97150,
+                                   "il80_p7": 103850,
+                                   "il80_p8": 110550
+                            }
+                     }
+              ]
+       }
+}

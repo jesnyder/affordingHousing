@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 697,
+                                   "One-Bedroom": 779,
+                                   "Two-Bedroom": 1003,
+                                   "Three-Bedroom": 1425,
+                                   "Four-Bedroom": 1767,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 666,
+                                   "One-Bedroom": 803,
+                                   "Two-Bedroom": 1044,
+                                   "Three-Bedroom": 1503,
+                                   "Four-Bedroom": 1839,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 686,
+                                   "One-Bedroom": 807,
+                                   "Two-Bedroom": 1068,
+                                   "Three-Bedroom": 1544,
+                                   "Four-Bedroom": 1812,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 727,
+                                   "One-Bedroom": 847,
+                                   "Two-Bedroom": 1116,
+                                   "Three-Bedroom": 1610,
+                                   "Four-Bedroom": 1858,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 761,
+                                   "One-Bedroom": 875,
+                                   "Two-Bedroom": 1153,
+                                   "Three-Bedroom": 1650,
+                                   "Four-Bedroom": 1875,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 817,
+                                   "One-Bedroom": 962,
+                                   "Two-Bedroom": 1229,
+                                   "Three-Bedroom": 1746,
+                                   "Four-Bedroom": 2104,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 79100,
+                            "very_low": {
+                                   "il50_p1": 27700,
+                                   "il50_p2": 31650,
+                                   "il50_p3": 35600,
+                                   "il50_p4": 39550,
+                                   "il50_p5": 42750,
+                                   "il50_p6": 45900,
+                                   "il50_p7": 49050,
+                                   "il50_p8": 52250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21400,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50650,
+                                   "il80_p3": 57000,
+                                   "il80_p4": 63300,
+                                   "il80_p5": 68400,
+                                   "il80_p6": 73450,
+                                   "il80_p7": 78500,
+                                   "il80_p8": 83600
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 80700,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21800,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 79800,
+                            "very_low": {
+                                   "il50_p1": 27950,
+                                   "il50_p2": 31950,
+                                   "il50_p3": 35950,
+                                   "il50_p4": 39900,
+                                   "il50_p5": 43100,
+                                   "il50_p6": 46300,
+                                   "il50_p7": 49500,
+                                   "il50_p8": 52700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44700,
+                                   "il80_p2": 51100,
+                                   "il80_p3": 57500,
+                                   "il80_p4": 63850,
+                                   "il80_p5": 69000,
+                                   "il80_p6": 74100,
+                                   "il80_p7": 79200,
+                                   "il80_p8": 84300
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 81800,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65450,
+                                   "il80_p5": 70700,
+                                   "il80_p6": 75950,
+                                   "il80_p7": 81200,
+                                   "il80_p8": 86400
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO MSA",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 79900,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 39950,
+                                   "il50_p5": 43150,
+                                   "il50_p6": 46350,
+                                   "il50_p7": 49550,
+                                   "il50_p8": 52750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44750,
+                                   "il80_p2": 51150,
+                                   "il80_p3": 57550,
+                                   "il80_p4": 63900,
+                                   "il80_p5": 69050,
+                                   "il80_p6": 74150,
+                                   "il80_p7": 79250,
+                                   "il80_p8": 84350
+                            }
+                     },
+                     {
+                            "county_name": "Teller County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Colorado Springs, CO",
+                            "area_name": "Teller County, CO HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 88400,
+                            "very_low": {
+                                   "il50_p1": 30950,
+                                   "il50_p2": 35400,
+                                   "il50_p3": 39800,
+                                   "il50_p4": 44200,
+                                   "il50_p5": 47750,
+                                   "il50_p6": 51300,
+                                   "il50_p7": 54850,
+                                   "il50_p8": 58350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49500,
+                                   "il80_p2": 56600,
+                                   "il80_p3": 63650,
+                                   "il80_p4": 70700,
+                                   "il80_p5": 76400,
+                                   "il80_p6": 82050,
+                                   "il80_p7": 87700,
+                                   "il80_p8": 93350
+                            }
+                     }
+              ]
+       }
+}

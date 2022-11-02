@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 844,
+                                   "One-Bedroom": 1031,
+                                   "Two-Bedroom": 1305,
+                                   "Three-Bedroom": 1896,
+                                   "Four-Bedroom": 2196,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 938,
+                                   "One-Bedroom": 1127,
+                                   "Two-Bedroom": 1418,
+                                   "Three-Bedroom": 2031,
+                                   "Four-Bedroom": 2351,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1029,
+                                   "One-Bedroom": 1204,
+                                   "Two-Bedroom": 1508,
+                                   "Three-Bedroom": 2119,
+                                   "Four-Bedroom": 2461,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1114,
+                                   "One-Bedroom": 1260,
+                                   "Two-Bedroom": 1566,
+                                   "Three-Bedroom": 2163,
+                                   "Four-Bedroom": 2488,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1179,
+                                   "One-Bedroom": 1304,
+                                   "Two-Bedroom": 1605,
+                                   "Three-Bedroom": 2186,
+                                   "Four-Bedroom": 2486,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1236,
+                                   "One-Bedroom": 1364,
+                                   "Two-Bedroom": 1659,
+                                   "Three-Bedroom": 2226,
+                                   "Four-Bedroom": 2501,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "year": "2017",
+                            "median_income": 83900,
+                            "very_low": {
+                                   "il50_p1": 29400,
+                                   "il50_p2": 33600,
+                                   "il50_p3": 37800,
+                                   "il50_p4": 41950,
+                                   "il50_p5": 45350,
+                                   "il50_p6": 48700,
+                                   "il50_p7": 52050,
+                                   "il50_p8": 55400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17650,
+                                   "il30_p2": 20150,
+                                   "il30_p3": 22650,
+                                   "il30_p4": 25150,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47000,
+                                   "il80_p2": 53700,
+                                   "il80_p3": 60400,
+                                   "il80_p4": 67100,
+                                   "il80_p5": 72500,
+                                   "il80_p6": 77850,
+                                   "il80_p7": 83250,
+                                   "il80_p8": 88600
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "year": "2018",
+                            "median_income": 89900,
+                            "very_low": {
+                                   "il50_p1": 31500,
+                                   "il50_p2": 36000,
+                                   "il50_p3": 40500,
+                                   "il50_p4": 44950,
+                                   "il50_p5": 48550,
+                                   "il50_p6": 52150,
+                                   "il50_p7": 55750,
+                                   "il50_p8": 59350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 26950,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "year": "2019",
+                            "median_income": 92800,
+                            "very_low": {
+                                   "il50_p1": 32500,
+                                   "il50_p2": 37150,
+                                   "il50_p3": 41800,
+                                   "il50_p4": 46400,
+                                   "il50_p5": 50150,
+                                   "il50_p6": 53850,
+                                   "il50_p7": 57550,
+                                   "il50_p8": 61250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19500,
+                                   "il30_p2": 22300,
+                                   "il30_p3": 25100,
+                                   "il30_p4": 27850,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52000,
+                                   "il80_p2": 59400,
+                                   "il80_p3": 66850,
+                                   "il80_p4": 74250,
+                                   "il80_p5": 80200,
+                                   "il80_p6": 86150,
+                                   "il80_p7": 92100,
+                                   "il80_p8": 98050
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "year": "2020",
+                            "median_income": 100000,
+                            "very_low": {
+                                   "il50_p1": 35000,
+                                   "il50_p2": 40000,
+                                   "il50_p3": 45000,
+                                   "il50_p4": 50000,
+                                   "il50_p5": 54000,
+                                   "il50_p6": 58000,
+                                   "il50_p7": 62000,
+                                   "il50_p8": 66000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21000,
+                                   "il30_p2": 24000,
+                                   "il30_p3": 27000,
+                                   "il30_p4": 30000,
+                                   "il30_p5": 32400,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "year": "2021",
+                            "median_income": 104800,
+                            "very_low": {
+                                   "il50_p1": 36700,
+                                   "il50_p2": 41950,
+                                   "il50_p3": 47200,
+                                   "il50_p4": 52400,
+                                   "il50_p5": 56600,
+                                   "il50_p6": 60800,
+                                   "il50_p7": 65000,
+                                   "il50_p8": 69200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22050,
+                                   "il30_p2": 25200,
+                                   "il30_p3": 28350,
+                                   "il30_p4": 31450,
+                                   "il30_p5": 34000,
+                                   "il30_p6": 36500,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Adams County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Denver-Aurora-Lakewood, CO",
+                            "area_name": "Denver-Aurora-Lakewood, CO MSA",
+                            "year": "2022",
+                            "median_income": 117800,
+                            "very_low": {
+                                   "il50_p1": 41050,
+                                   "il50_p2": 46900,
+                                   "il50_p3": 52750,
+                                   "il50_p4": 58600,
+                                   "il50_p5": 63300,
+                                   "il50_p6": 68000,
+                                   "il50_p7": 72700,
+                                   "il50_p8": 77400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24650,
+                                   "il30_p2": 28150,
+                                   "il30_p3": 31650,
+                                   "il30_p4": 35150,
+                                   "il30_p5": 38000,
+                                   "il30_p6": 40800,
+                                   "il30_p7": 43600,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

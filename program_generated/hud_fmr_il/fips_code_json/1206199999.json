@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 586,
+                                   "One-Bedroom": 701,
+                                   "Two-Bedroom": 846,
+                                   "Three-Bedroom": 1216,
+                                   "Four-Bedroom": 1369,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 589,
+                                   "One-Bedroom": 744,
+                                   "Two-Bedroom": 892,
+                                   "Three-Bedroom": 1267,
+                                   "Four-Bedroom": 1440,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 802,
+                                   "Two-Bedroom": 961,
+                                   "Three-Bedroom": 1352,
+                                   "Four-Bedroom": 1547,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 663,
+                                   "One-Bedroom": 853,
+                                   "Two-Bedroom": 1018,
+                                   "Three-Bedroom": 1398,
+                                   "Four-Bedroom": 1625,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 699,
+                                   "One-Bedroom": 881,
+                                   "Two-Bedroom": 1059,
+                                   "Three-Bedroom": 1430,
+                                   "Four-Bedroom": 1673,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 754,
+                                   "One-Bedroom": 941,
+                                   "Two-Bedroom": 1135,
+                                   "Three-Bedroom": 1480,
+                                   "Four-Bedroom": 1889,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "year": "2017",
+                            "median_income": 61900,
+                            "very_low": {
+                                   "il50_p1": 20650,
+                                   "il50_p2": 23600,
+                                   "il50_p3": 26550,
+                                   "il50_p4": 29450,
+                                   "il50_p5": 31850,
+                                   "il50_p6": 34200,
+                                   "il50_p7": 36550,
+                                   "il50_p8": 38900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12400,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36550,
+                                   "il30_p8": 38900
+                            },
+                            "low": {
+                                   "il80_p1": 33000,
+                                   "il80_p2": 37700,
+                                   "il80_p3": 42400,
+                                   "il80_p4": 47100,
+                                   "il80_p5": 50900,
+                                   "il80_p6": 54650,
+                                   "il80_p7": 58450,
+                                   "il80_p8": 62200
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "year": "2018",
+                            "median_income": 64600,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25850,
+                                   "il50_p3": 29100,
+                                   "il50_p4": 32300,
+                                   "il50_p5": 34900,
+                                   "il50_p6": 37500,
+                                   "il50_p7": 40100,
+                                   "il50_p8": 42650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36200,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46550,
+                                   "il80_p4": 51700,
+                                   "il80_p5": 55850,
+                                   "il80_p6": 60000,
+                                   "il80_p7": 64150,
+                                   "il80_p8": 68250
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "year": "2019",
+                            "median_income": 65000,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42900
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "year": "2020",
+                            "median_income": 69600,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27850,
+                                   "il50_p3": 31350,
+                                   "il50_p4": 34800,
+                                   "il50_p5": 37600,
+                                   "il50_p6": 40400,
+                                   "il50_p7": 43200,
+                                   "il50_p8": 45950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39000,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50150,
+                                   "il80_p4": 55700,
+                                   "il80_p5": 60200,
+                                   "il80_p6": 64650,
+                                   "il80_p7": 69100,
+                                   "il80_p8": 73550
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL MSA",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "year": "2021",
+                            "median_income": 77600,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 17550,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     },
+                     {
+                            "county_name": "Indian River County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sebastian-Vero Beach, FL",
+                            "area_name": "Sebastian-Vero Beach, FL MSA",
+                            "year": "2022",
+                            "median_income": 79900,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 39950,
+                                   "il50_p5": 43150,
+                                   "il50_p6": 46350,
+                                   "il50_p7": 49550,
+                                   "il50_p8": 52750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44750,
+                                   "il80_p2": 51150,
+                                   "il80_p3": 57550,
+                                   "il80_p4": 63900,
+                                   "il80_p5": 69050,
+                                   "il80_p6": 74150,
+                                   "il80_p7": 79250,
+                                   "il80_p8": 84350
+                            }
+                     }
+              ]
+       }
+}

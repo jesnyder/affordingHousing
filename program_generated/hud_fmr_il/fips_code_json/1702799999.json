@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 896,
+                                   "Three-Bedroom": 1188,
+                                   "Four-Bedroom": 1385,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 692,
+                                   "Two-Bedroom": 896,
+                                   "Three-Bedroom": 1187,
+                                   "Four-Bedroom": 1388,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 635,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 924,
+                                   "Three-Bedroom": 1215,
+                                   "Four-Bedroom": 1430,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 633,
+                                   "One-Bedroom": 701,
+                                   "Two-Bedroom": 905,
+                                   "Three-Bedroom": 1185,
+                                   "Four-Bedroom": 1395,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 671,
+                                   "One-Bedroom": 731,
+                                   "Two-Bedroom": 938,
+                                   "Three-Bedroom": 1224,
+                                   "Four-Bedroom": 1440,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 689,
+                                   "One-Bedroom": 745,
+                                   "Two-Bedroom": 947,
+                                   "Three-Bedroom": 1230,
+                                   "Four-Bedroom": 1449,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 74500,
+                            "very_low": {
+                                   "il50_p1": 26100,
+                                   "il50_p2": 29800,
+                                   "il50_p3": 33550,
+                                   "il50_p4": 37250,
+                                   "il50_p5": 40250,
+                                   "il50_p6": 43250,
+                                   "il50_p7": 46200,
+                                   "il50_p8": 49200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17900,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41750,
+                                   "il80_p2": 47700,
+                                   "il80_p3": 53650,
+                                   "il80_p4": 59600,
+                                   "il80_p5": 64400,
+                                   "il80_p6": 69150,
+                                   "il80_p7": 73950,
+                                   "il80_p8": 78700
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 76800,
+                            "very_low": {
+                                   "il50_p1": 26900,
+                                   "il50_p2": 30750,
+                                   "il50_p3": 34600,
+                                   "il50_p4": 38400,
+                                   "il50_p5": 41500,
+                                   "il50_p6": 44550,
+                                   "il50_p7": 47650,
+                                   "il50_p8": 50700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61450,
+                                   "il80_p5": 66400,
+                                   "il80_p6": 71300,
+                                   "il80_p7": 76200,
+                                   "il80_p8": 81150
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 81300,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32550,
+                                   "il50_p3": 36600,
+                                   "il50_p4": 40650,
+                                   "il50_p5": 43950,
+                                   "il50_p6": 47200,
+                                   "il50_p7": 50450,
+                                   "il50_p8": 53700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 22000,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 45550,
+                                   "il80_p2": 52050,
+                                   "il80_p3": 58550,
+                                   "il80_p4": 65050,
+                                   "il80_p5": 70300,
+                                   "il80_p6": 75500,
+                                   "il80_p7": 80700,
+                                   "il80_p8": 85900
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 82900,
+                            "very_low": {
+                                   "il50_p1": 29050,
+                                   "il50_p2": 33200,
+                                   "il50_p3": 37350,
+                                   "il50_p4": 41450,
+                                   "il50_p5": 44800,
+                                   "il50_p6": 48100,
+                                   "il50_p7": 51400,
+                                   "il50_p8": 54750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 22400,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46450,
+                                   "il80_p2": 53050,
+                                   "il80_p3": 59700,
+                                   "il80_p4": 66300,
+                                   "il80_p5": 71650,
+                                   "il80_p6": 76950,
+                                   "il80_p7": 82250,
+                                   "il80_p8": 87550
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 84900,
+                            "very_low": {
+                                   "il50_p1": 29750,
+                                   "il50_p2": 34000,
+                                   "il50_p3": 38250,
+                                   "il50_p4": 42450,
+                                   "il50_p5": 45850,
+                                   "il50_p6": 49250,
+                                   "il50_p7": 52650,
+                                   "il50_p8": 56050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 22950,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47550,
+                                   "il80_p2": 54350,
+                                   "il80_p3": 61150,
+                                   "il80_p4": 67900,
+                                   "il80_p5": 73350,
+                                   "il80_p6": 78800,
+                                   "il80_p7": 84200,
+                                   "il80_p8": 89650
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL",
+                            "area_name": "St. Louis, MO-IL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 97200,
+                            "very_low": {
+                                   "il50_p1": 33250,
+                                   "il50_p2": 38000,
+                                   "il50_p3": 42750,
+                                   "il50_p4": 47450,
+                                   "il50_p5": 51250,
+                                   "il50_p6": 55050,
+                                   "il50_p7": 58850,
+                                   "il50_p8": 62650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19950,
+                                   "il30_p2": 22800,
+                                   "il30_p3": 25650,
+                                   "il30_p4": 28450,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 53150,
+                                   "il80_p2": 60750,
+                                   "il80_p3": 68350,
+                                   "il80_p4": 75900,
+                                   "il80_p5": 82000,
+                                   "il80_p6": 88050,
+                                   "il80_p7": 94150,
+                                   "il80_p8": 100200
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 905,
+                                   "One-Bedroom": 1021,
+                                   "Two-Bedroom": 1240,
+                                   "Three-Bedroom": 1763,
+                                   "Four-Bedroom": 2065,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1084,
+                                   "One-Bedroom": 1195,
+                                   "Two-Bedroom": 1461,
+                                   "Three-Bedroom": 2056,
+                                   "Four-Bedroom": 2350,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1130,
+                                   "One-Bedroom": 1242,
+                                   "Two-Bedroom": 1516,
+                                   "Three-Bedroom": 2126,
+                                   "Four-Bedroom": 2384,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1273,
+                                   "One-Bedroom": 1412,
+                                   "Two-Bedroom": 1717,
+                                   "Three-Bedroom": 2381,
+                                   "Four-Bedroom": 2686,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1279,
+                                   "One-Bedroom": 1428,
+                                   "Two-Bedroom": 1724,
+                                   "Three-Bedroom": 2360,
+                                   "Four-Bedroom": 2721,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO",
+                            "area_name": "Boulder, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1284,
+                                   "One-Bedroom": 1449,
+                                   "Two-Bedroom": 1748,
+                                   "Three-Bedroom": 2352,
+                                   "Four-Bedroom": 2786,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "year": "2017",
+                            "median_income": 98200,
+                            "very_low": {
+                                   "il50_p1": 34400,
+                                   "il50_p2": 39300,
+                                   "il50_p3": 44200,
+                                   "il50_p4": 49100,
+                                   "il50_p5": 53050,
+                                   "il50_p6": 57000,
+                                   "il50_p7": 60900,
+                                   "il50_p8": 64850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20650,
+                                   "il30_p2": 23600,
+                                   "il30_p3": 26550,
+                                   "il30_p4": 29450,
+                                   "il30_p5": 31850,
+                                   "il30_p6": 34200,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "year": "2018",
+                            "median_income": 108600,
+                            "very_low": {
+                                   "il50_p1": 38050,
+                                   "il50_p2": 43450,
+                                   "il50_p3": 48900,
+                                   "il50_p4": 54300,
+                                   "il50_p5": 58650,
+                                   "il50_p6": 63000,
+                                   "il50_p7": 67350,
+                                   "il50_p8": 71700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22850,
+                                   "il30_p2": 26100,
+                                   "il30_p3": 29350,
+                                   "il30_p4": 32600,
+                                   "il30_p5": 35250,
+                                   "il30_p6": 37850,
+                                   "il30_p7": 40450,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "year": "2019",
+                            "median_income": 113600,
+                            "very_low": {
+                                   "il50_p1": 39800,
+                                   "il50_p2": 45450,
+                                   "il50_p3": 51150,
+                                   "il50_p4": 56800,
+                                   "il50_p5": 61350,
+                                   "il50_p6": 65900,
+                                   "il50_p7": 70450,
+                                   "il50_p8": 75000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23900,
+                                   "il30_p2": 27300,
+                                   "il30_p3": 30700,
+                                   "il30_p4": 34100,
+                                   "il30_p5": 36850,
+                                   "il30_p6": 39600,
+                                   "il30_p7": 42300,
+                                   "il30_p8": 45050
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "year": "2020",
+                            "median_income": 115100,
+                            "very_low": {
+                                   "il50_p1": 40300,
+                                   "il50_p2": 46050,
+                                   "il50_p3": 51800,
+                                   "il50_p4": 57550,
+                                   "il50_p5": 62200,
+                                   "il50_p6": 66800,
+                                   "il50_p7": 71400,
+                                   "il50_p8": 76000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24200,
+                                   "il30_p2": 27650,
+                                   "il30_p3": 31100,
+                                   "il30_p4": 34550,
+                                   "il30_p5": 37350,
+                                   "il30_p6": 40100,
+                                   "il30_p7": 42850,
+                                   "il30_p8": 45650
+                            },
+                            "low": {
+                                   "il80_p1": 56100,
+                                   "il80_p2": 64100,
+                                   "il80_p3": 72100,
+                                   "il80_p4": 80100,
+                                   "il80_p5": 86550,
+                                   "il80_p6": 92950,
+                                   "il80_p7": 99350,
+                                   "il80_p8": 105750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO MSA",
+                            "area_name": "Boulder, CO MSA",
+                            "year": "2021",
+                            "median_income": 116900,
+                            "very_low": {
+                                   "il50_p1": 40950,
+                                   "il50_p2": 46800,
+                                   "il50_p3": 52650,
+                                   "il50_p4": 58450,
+                                   "il50_p5": 63150,
+                                   "il50_p6": 67850,
+                                   "il50_p7": 72500,
+                                   "il50_p8": 77200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24550,
+                                   "il30_p2": 28050,
+                                   "il30_p3": 31550,
+                                   "il30_p4": 35050,
+                                   "il30_p5": 37900,
+                                   "il30_p6": 40700,
+                                   "il30_p7": 43500,
+                                   "il30_p8": 46300
+                            },
+                            "low": {
+                                   "il80_p1": 56300,
+                                   "il80_p2": 64350,
+                                   "il80_p3": 72400,
+                                   "il80_p4": 80400,
+                                   "il80_p5": 86850,
+                                   "il80_p6": 93300,
+                                   "il80_p7": 99700,
+                                   "il80_p8": 106150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boulder County, CO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Boulder, CO",
+                            "area_name": "Boulder, CO MSA",
+                            "year": "2022",
+                            "median_income": 125400,
+                            "very_low": {
+                                   "il50_p1": 43900,
+                                   "il50_p2": 50200,
+                                   "il50_p3": 56450,
+                                   "il50_p4": 62700,
+                                   "il50_p5": 67750,
+                                   "il50_p6": 72750,
+                                   "il50_p7": 77750,
+                                   "il50_p8": 82800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26350,
+                                   "il30_p2": 30100,
+                                   "il30_p3": 33850,
+                                   "il30_p4": 37600,
+                                   "il30_p5": 40650,
+                                   "il30_p6": 43650,
+                                   "il30_p7": 46650,
+                                   "il30_p8": 49650
+                            },
+                            "low": {
+                                   "il80_p1": 63000,
+                                   "il80_p2": 72000,
+                                   "il80_p3": 81000,
+                                   "il80_p4": 89950,
+                                   "il80_p5": 97150,
+                                   "il80_p6": 104350,
+                                   "il80_p7": 111550,
+                                   "il80_p8": 118750
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1047,
+                                   "One-Bedroom": 1213,
+                                   "Two-Bedroom": 1572,
+                                   "Three-Bedroom": 2288,
+                                   "Four-Bedroom": 2770,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1224,
+                                   "One-Bedroom": 1420,
+                                   "Two-Bedroom": 1843,
+                                   "Three-Bedroom": 2681,
+                                   "Four-Bedroom": 3246,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1254,
+                                   "One-Bedroom": 1447,
+                                   "Two-Bedroom": 1887,
+                                   "Three-Bedroom": 2728,
+                                   "Four-Bedroom": 3298,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1302,
+                                   "One-Bedroom": 1489,
+                                   "Two-Bedroom": 1949,
+                                   "Three-Bedroom": 2798,
+                                   "Four-Bedroom": 3302,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1340,
+                                   "One-Bedroom": 1519,
+                                   "Two-Bedroom": 1996,
+                                   "Three-Bedroom": 2825,
+                                   "Four-Bedroom": 3254,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa-Petaluma, CA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1373,
+                                   "One-Bedroom": 1549,
+                                   "Two-Bedroom": 2038,
+                                   "Three-Bedroom": 2851,
+                                   "Four-Bedroom": 3163,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "year": "2017",
+                            "median_income": 83900,
+                            "very_low": {
+                                   "il50_p1": 30850,
+                                   "il50_p2": 35250,
+                                   "il50_p3": 39650,
+                                   "il50_p4": 44050,
+                                   "il50_p5": 47600,
+                                   "il50_p6": 51100,
+                                   "il50_p7": 54650,
+                                   "il50_p8": 58150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 26450,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 49350,
+                                   "il80_p2": 56400,
+                                   "il80_p3": 63450,
+                                   "il80_p4": 70500,
+                                   "il80_p5": 76150,
+                                   "il80_p6": 81800,
+                                   "il80_p7": 87450,
+                                   "il80_p8": 93100
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "year": "2018",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 34400,
+                                   "il50_p2": 39300,
+                                   "il50_p3": 44200,
+                                   "il50_p4": 49100,
+                                   "il50_p5": 53050,
+                                   "il50_p6": 57000,
+                                   "il50_p7": 60900,
+                                   "il50_p8": 64850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20650,
+                                   "il30_p2": 23600,
+                                   "il30_p3": 26550,
+                                   "il30_p4": 29450,
+                                   "il30_p5": 31850,
+                                   "il30_p6": 34200,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 55000,
+                                   "il80_p2": 62850,
+                                   "il80_p3": 70700,
+                                   "il80_p4": 78550,
+                                   "il80_p5": 84850,
+                                   "il80_p6": 91150,
+                                   "il80_p7": 97450,
+                                   "il80_p8": 103700
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "year": "2019",
+                            "median_income": 93300,
+                            "very_low": {
+                                   "il50_p1": 37800,
+                                   "il50_p2": 43200,
+                                   "il50_p3": 48600,
+                                   "il50_p4": 54000,
+                                   "il50_p5": 58350,
+                                   "il50_p6": 62650,
+                                   "il50_p7": 67000,
+                                   "il50_p8": 71300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22700,
+                                   "il30_p2": 25950,
+                                   "il30_p3": 29200,
+                                   "il30_p4": 32400,
+                                   "il30_p5": 35000,
+                                   "il30_p6": 37600,
+                                   "il30_p7": 40200,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 60500,
+                                   "il80_p2": 69150,
+                                   "il80_p3": 77800,
+                                   "il80_p4": 86400,
+                                   "il80_p5": 93350,
+                                   "il80_p6": 100250,
+                                   "il80_p7": 107150,
+                                   "il80_p8": 114050
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "year": "2020",
+                            "median_income": 102700,
+                            "very_low": {
+                                   "il50_p1": 39800,
+                                   "il50_p2": 45450,
+                                   "il50_p3": 51150,
+                                   "il50_p4": 56800,
+                                   "il50_p5": 61350,
+                                   "il50_p6": 65900,
+                                   "il50_p7": 70450,
+                                   "il50_p8": 75000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23900,
+                                   "il30_p2": 27300,
+                                   "il30_p3": 30700,
+                                   "il30_p4": 34100,
+                                   "il30_p5": 36850,
+                                   "il30_p6": 39600,
+                                   "il30_p7": 42300,
+                                   "il30_p8": 45050
+                            },
+                            "low": {
+                                   "il80_p1": 63650,
+                                   "il80_p2": 72750,
+                                   "il80_p3": 81850,
+                                   "il80_p4": 90900,
+                                   "il80_p5": 98200,
+                                   "il80_p6": 105450,
+                                   "il80_p7": 112750,
+                                   "il80_p8": 120000
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa, CA MSA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "year": "2021",
+                            "median_income": 103300,
+                            "very_low": {
+                                   "il50_p1": 40750,
+                                   "il50_p2": 46550,
+                                   "il50_p3": 52350,
+                                   "il50_p4": 58150,
+                                   "il50_p5": 62850,
+                                   "il50_p6": 67500,
+                                   "il50_p7": 72150,
+                                   "il50_p8": 76800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24450,
+                                   "il30_p2": 27950,
+                                   "il30_p3": 31450,
+                                   "il30_p4": 34900,
+                                   "il30_p5": 37700,
+                                   "il30_p6": 40500,
+                                   "il30_p7": 43300,
+                                   "il30_p8": 46100
+                            },
+                            "low": {
+                                   "il80_p1": 65150,
+                                   "il80_p2": 74450,
+                                   "il80_p3": 83750,
+                                   "il80_p4": 93050,
+                                   "il80_p5": 100500,
+                                   "il80_p6": 107950,
+                                   "il80_p7": 115400,
+                                   "il80_p8": 122850
+                            }
+                     },
+                     {
+                            "county_name": "Sonoma County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Rosa-Petaluma, CA",
+                            "area_name": "Santa Rosa, CA MSA",
+                            "year": "2022",
+                            "median_income": 112800,
+                            "very_low": {
+                                   "il50_p1": 41600,
+                                   "il50_p2": 47550,
+                                   "il50_p3": 53500,
+                                   "il50_p4": 59400,
+                                   "il50_p5": 64200,
+                                   "il50_p6": 68950,
+                                   "il50_p7": 73700,
+                                   "il50_p8": 78450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25000,
+                                   "il30_p2": 28550,
+                                   "il30_p3": 32100,
+                                   "il30_p4": 35650,
+                                   "il30_p5": 38550,
+                                   "il30_p6": 41400,
+                                   "il30_p7": 44250,
+                                   "il30_p8": 47100
+                            },
+                            "low": {
+                                   "il80_p1": 66550,
+                                   "il80_p2": 76050,
+                                   "il80_p3": 85550,
+                                   "il80_p4": 95050,
+                                   "il80_p5": 102700,
+                                   "il80_p6": 110300,
+                                   "il80_p7": 117900,
+                                   "il80_p8": 125500
+                            }
+                     }
+              ]
+       }
+}

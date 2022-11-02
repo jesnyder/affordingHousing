@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 584,
+                                   "One-Bedroom": 706,
+                                   "Two-Bedroom": 920,
+                                   "Three-Bedroom": 1339,
+                                   "Four-Bedroom": 1621,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 757,
+                                   "Two-Bedroom": 977,
+                                   "Three-Bedroom": 1421,
+                                   "Four-Bedroom": 1721,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 666,
+                                   "One-Bedroom": 811,
+                                   "Two-Bedroom": 1037,
+                                   "Three-Bedroom": 1499,
+                                   "Four-Bedroom": 1821,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 698,
+                                   "One-Bedroom": 846,
+                                   "Two-Bedroom": 1071,
+                                   "Three-Bedroom": 1545,
+                                   "Four-Bedroom": 1880,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 803,
+                                   "One-Bedroom": 964,
+                                   "Two-Bedroom": 1217,
+                                   "Three-Bedroom": 1742,
+                                   "Four-Bedroom": 2107,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV",
+                            "area_name": "Reno, NV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 926,
+                                   "One-Bedroom": 1108,
+                                   "Two-Bedroom": 1394,
+                                   "Three-Bedroom": 1980,
+                                   "Four-Bedroom": 2386,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "year": "2017",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16400,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54500,
+                                   "il80_p5": 58900,
+                                   "il80_p6": 63250,
+                                   "il80_p7": 67600,
+                                   "il80_p8": 71950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "year": "2018",
+                            "median_income": 73500,
+                            "very_low": {
+                                   "il50_p1": 25750,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33100,
+                                   "il50_p4": 36750,
+                                   "il50_p5": 39700,
+                                   "il50_p6": 42650,
+                                   "il50_p7": 45600,
+                                   "il50_p8": 48550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15450,
+                                   "il30_p2": 17650,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41200,
+                                   "il80_p2": 47050,
+                                   "il80_p3": 52950,
+                                   "il80_p4": 58800,
+                                   "il80_p5": 63550,
+                                   "il80_p6": 68250,
+                                   "il80_p7": 72950,
+                                   "il80_p8": 77650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "year": "2019",
+                            "median_income": 78100,
+                            "very_low": {
+                                   "il50_p1": 27350,
+                                   "il50_p2": 31250,
+                                   "il50_p3": 35150,
+                                   "il50_p4": 39050,
+                                   "il50_p5": 42200,
+                                   "il50_p6": 45300,
+                                   "il50_p7": 48450,
+                                   "il50_p8": 51550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43750,
+                                   "il80_p2": 50000,
+                                   "il80_p3": 56250,
+                                   "il80_p4": 62500,
+                                   "il80_p5": 67500,
+                                   "il80_p6": 72500,
+                                   "il80_p7": 77500,
+                                   "il80_p8": 82500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "year": "2020",
+                            "median_income": 79600,
+                            "very_low": {
+                                   "il50_p1": 27900,
+                                   "il50_p2": 31850,
+                                   "il50_p3": 35850,
+                                   "il50_p4": 39800,
+                                   "il50_p5": 43000,
+                                   "il50_p6": 46200,
+                                   "il50_p7": 49400,
+                                   "il50_p8": 52550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16750,
+                                   "il30_p2": 19150,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44600,
+                                   "il80_p2": 51000,
+                                   "il80_p3": 57350,
+                                   "il80_p4": 63700,
+                                   "il80_p5": 68800,
+                                   "il80_p6": 73900,
+                                   "il80_p7": 79000,
+                                   "il80_p8": 84100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV MSA",
+                            "area_name": "Reno, NV MSA",
+                            "year": "2021",
+                            "median_income": 83800,
+                            "very_low": {
+                                   "il50_p1": 29250,
+                                   "il50_p2": 33400,
+                                   "il50_p3": 37600,
+                                   "il50_p4": 41750,
+                                   "il50_p5": 45100,
+                                   "il50_p6": 48450,
+                                   "il50_p7": 51800,
+                                   "il50_p8": 55150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17550,
+                                   "il30_p2": 20050,
+                                   "il30_p3": 22550,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46800,
+                                   "il80_p2": 53450,
+                                   "il80_p3": 60150,
+                                   "il80_p4": 66800,
+                                   "il80_p5": 72150,
+                                   "il80_p6": 77500,
+                                   "il80_p7": 82850,
+                                   "il80_p8": 88200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Storey County, NV; Washoe County, NV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reno, NV",
+                            "area_name": "Reno, NV MSA",
+                            "year": "2022",
+                            "median_income": 96500,
+                            "very_low": {
+                                   "il50_p1": 32700,
+                                   "il50_p2": 37400,
+                                   "il50_p3": 42050,
+                                   "il50_p4": 46700,
+                                   "il50_p5": 50450,
+                                   "il50_p6": 54200,
+                                   "il50_p7": 57950,
+                                   "il50_p8": 61650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 25200,
+                                   "il30_p4": 28000,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52300,
+                                   "il80_p2": 59800,
+                                   "il80_p3": 67250,
+                                   "il80_p4": 74700,
+                                   "il80_p5": 80700,
+                                   "il80_p6": 86700,
+                                   "il80_p7": 92650,
+                                   "il80_p8": 98650
+                            }
+                     }
+              ]
+       }
+}

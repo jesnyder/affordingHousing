@@ -1,0 +1,293 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 717,
+                                   "Three-Bedroom": 954,
+                                   "Four-Bedroom": 988,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 533,
+                                   "One-Bedroom": 603,
+                                   "Two-Bedroom": 739,
+                                   "Three-Bedroom": 927,
+                                   "Four-Bedroom": 1087,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 701,
+                                   "Two-Bedroom": 803,
+                                   "Three-Bedroom": 1006,
+                                   "Four-Bedroom": 1410,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 691,
+                                   "Two-Bedroom": 787,
+                                   "Three-Bedroom": 981,
+                                   "Four-Bedroom": 1382,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 647,
+                                   "One-Bedroom": 685,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 1013,
+                                   "Four-Bedroom": 1352,
+                                   "year": "2021"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 49200,
+                            "very_low": {
+                                   "il50_p1": 17250,
+                                   "il50_p2": 19700,
+                                   "il50_p3": 22150,
+                                   "il50_p4": 24600,
+                                   "il50_p5": 26600,
+                                   "il50_p6": 28550,
+                                   "il50_p7": 30550,
+                                   "il50_p8": 32500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 26600,
+                                   "il30_p6": 28550,
+                                   "il30_p7": 30550,
+                                   "il30_p8": 32500
+                            },
+                            "low": {
+                                   "il80_p1": 27550,
+                                   "il80_p2": 31500,
+                                   "il80_p3": 35450,
+                                   "il80_p4": 39350,
+                                   "il80_p5": 42500,
+                                   "il80_p6": 45650,
+                                   "il80_p7": 48800,
+                                   "il80_p8": 51950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 48000,
+                            "very_low": {
+                                   "il50_p1": 17550,
+                                   "il50_p2": 20050,
+                                   "il50_p3": 22550,
+                                   "il50_p4": 25050,
+                                   "il50_p5": 27100,
+                                   "il50_p6": 29100,
+                                   "il50_p7": 31100,
+                                   "il50_p8": 33100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25050,
+                                   "il30_p5": 27100,
+                                   "il30_p6": 29100,
+                                   "il30_p7": 31100,
+                                   "il30_p8": 33100
+                            },
+                            "low": {
+                                   "il80_p1": 28100,
+                                   "il80_p2": 32100,
+                                   "il80_p3": 36100,
+                                   "il80_p4": 40100,
+                                   "il80_p5": 43350,
+                                   "il80_p6": 46550,
+                                   "il80_p7": 49750,
+                                   "il80_p8": 52950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 48500,
+                            "very_low": {
+                                   "il50_p1": 18400,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23650,
+                                   "il50_p4": 26250,
+                                   "il50_p5": 28350,
+                                   "il50_p6": 30450,
+                                   "il50_p7": 32550,
+                                   "il50_p8": 34650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28350,
+                                   "il30_p6": 30450,
+                                   "il30_p7": 32550,
+                                   "il30_p8": 34650
+                            },
+                            "low": {
+                                   "il80_p1": 29400,
+                                   "il80_p2": 33600,
+                                   "il80_p3": 37800,
+                                   "il80_p4": 42000,
+                                   "il80_p5": 45400,
+                                   "il80_p6": 48750,
+                                   "il80_p7": 52100,
+                                   "il80_p8": 55450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 50200,
+                            "very_low": {
+                                   "il50_p1": 19200,
+                                   "il50_p2": 21950,
+                                   "il50_p3": 24700,
+                                   "il50_p4": 27400,
+                                   "il50_p5": 29600,
+                                   "il50_p6": 31800,
+                                   "il50_p7": 34000,
+                                   "il50_p8": 36200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29600,
+                                   "il30_p6": 31800,
+                                   "il30_p7": 34000,
+                                   "il30_p8": 36200
+                            },
+                            "low": {
+                                   "il80_p1": 30700,
+                                   "il80_p2": 35100,
+                                   "il80_p3": 39500,
+                                   "il80_p4": 43850,
+                                   "il80_p5": 47400,
+                                   "il80_p6": 50900,
+                                   "il80_p7": 54400,
+                                   "il80_p8": 57900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Hickman County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Hickman County, TN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 54200,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25400,
+                                   "il50_p4": 28200,
+                                   "il50_p5": 30500,
+                                   "il50_p6": 32750,
+                                   "il50_p7": 35000,
+                                   "il50_p8": 37250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30500,
+                                   "il30_p6": 32750,
+                                   "il30_p7": 35000,
+                                   "il30_p8": 37250
+                            },
+                            "low": {
+                                   "il80_p1": 31600,
+                                   "il80_p2": 36100,
+                                   "il80_p3": 40600,
+                                   "il80_p4": 45100,
+                                   "il80_p5": 48750,
+                                   "il80_p6": 52350,
+                                   "il80_p7": 55950,
+                                   "il80_p8": 59550
+                            }
+                     }
+              ]
+       }
+}

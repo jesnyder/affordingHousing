@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 727,
+                                   "One-Bedroom": 754,
+                                   "Two-Bedroom": 880,
+                                   "Three-Bedroom": 1172,
+                                   "Four-Bedroom": 1345,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 788,
+                                   "One-Bedroom": 800,
+                                   "Two-Bedroom": 931,
+                                   "Three-Bedroom": 1231,
+                                   "Four-Bedroom": 1439,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 793,
+                                   "One-Bedroom": 797,
+                                   "Two-Bedroom": 932,
+                                   "Three-Bedroom": 1214,
+                                   "Four-Bedroom": 1401,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 812,
+                                   "One-Bedroom": 847,
+                                   "Two-Bedroom": 997,
+                                   "Three-Bedroom": 1288,
+                                   "Four-Bedroom": 1460,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 732,
+                                   "One-Bedroom": 763,
+                                   "Two-Bedroom": 898,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1314,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 885,
+                                   "One-Bedroom": 917,
+                                   "Two-Bedroom": 1062,
+                                   "Three-Bedroom": 1349,
+                                   "Four-Bedroom": 1526,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 52100,
+                            "very_low": {
+                                   "il50_p1": 18250,
+                                   "il50_p2": 20850,
+                                   "il50_p3": 23450,
+                                   "il50_p4": 26050,
+                                   "il50_p5": 28150,
+                                   "il50_p6": 30250,
+                                   "il50_p7": 32350,
+                                   "il50_p8": 34400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28150,
+                                   "il30_p6": 30250,
+                                   "il30_p7": 32350,
+                                   "il30_p8": 34400
+                            },
+                            "low": {
+                                   "il80_p1": 29200,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37550,
+                                   "il80_p4": 41700,
+                                   "il80_p5": 45050,
+                                   "il80_p6": 48400,
+                                   "il80_p7": 51750,
+                                   "il80_p8": 55050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60100,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 29000,
+                                   "il50_p5": 31350,
+                                   "il50_p6": 33650,
+                                   "il50_p7": 36000,
+                                   "il50_p8": 38300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12200,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33650,
+                                   "il30_p7": 36000,
+                                   "il30_p8": 38300
+                            },
+                            "low": {
+                                   "il80_p1": 32500,
+                                   "il80_p2": 37150,
+                                   "il80_p3": 41800,
+                                   "il80_p4": 46400,
+                                   "il80_p5": 50150,
+                                   "il80_p6": 53850,
+                                   "il80_p7": 57550,
+                                   "il80_p8": 61250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 61200,
+                            "very_low": {
+                                   "il50_p1": 21450,
+                                   "il50_p2": 24500,
+                                   "il50_p3": 27550,
+                                   "il50_p4": 30600,
+                                   "il50_p5": 33050,
+                                   "il50_p6": 35500,
+                                   "il50_p7": 37950,
+                                   "il50_p8": 40400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37950,
+                                   "il30_p8": 40400
+                            },
+                            "low": {
+                                   "il80_p1": 34300,
+                                   "il80_p2": 39200,
+                                   "il80_p3": 44100,
+                                   "il80_p4": 48950,
+                                   "il80_p5": 52900,
+                                   "il80_p6": 56800,
+                                   "il80_p7": 60700,
+                                   "il80_p8": 64650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 57400,
+                            "very_low": {
+                                   "il50_p1": 20400,
+                                   "il50_p2": 23300,
+                                   "il50_p3": 26200,
+                                   "il50_p4": 29100,
+                                   "il50_p5": 31450,
+                                   "il50_p6": 33800,
+                                   "il50_p7": 36100,
+                                   "il50_p8": 38450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 33800,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 32600,
+                                   "il80_p2": 37250,
+                                   "il80_p3": 41900,
+                                   "il80_p4": 46550,
+                                   "il80_p5": 50300,
+                                   "il80_p6": 54000,
+                                   "il80_p7": 57750,
+                                   "il80_p8": 61450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 61300,
+                            "very_low": {
+                                   "il50_p1": 21400,
+                                   "il50_p2": 24450,
+                                   "il50_p3": 27500,
+                                   "il50_p4": 30550,
+                                   "il50_p5": 33000,
+                                   "il50_p6": 35450,
+                                   "il50_p7": 37900,
+                                   "il50_p8": 40350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35450,
+                                   "il30_p7": 37900,
+                                   "il30_p8": 40350
+                            },
+                            "low": {
+                                   "il80_p1": 34200,
+                                   "il80_p2": 39100,
+                                   "il80_p3": 44000,
+                                   "il80_p4": 48850,
+                                   "il80_p5": 52800,
+                                   "il80_p6": 56700,
+                                   "il80_p7": 60600,
+                                   "il80_p8": 64500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Horry County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Myrtle Beach-Conway-North Myrtle Beach, SC-NC",
+                            "area_name": "Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 72600,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27350,
+                                   "il50_p3": 30750,
+                                   "il50_p4": 34150,
+                                   "il50_p5": 36900,
+                                   "il50_p6": 39650,
+                                   "il50_p7": 42350,
+                                   "il50_p8": 45100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 45100
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43750,
+                                   "il80_p3": 49200,
+                                   "il80_p4": 54650,
+                                   "il80_p5": 59050,
+                                   "il80_p6": 63400,
+                                   "il80_p7": 67800,
+                                   "il80_p8": 72150
+                            }
+                     }
+              ]
+       }
+}

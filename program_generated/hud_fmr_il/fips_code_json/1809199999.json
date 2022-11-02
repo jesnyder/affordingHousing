@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 463,
+                                   "One-Bedroom": 548,
+                                   "Two-Bedroom": 729,
+                                   "Three-Bedroom": 921,
+                                   "Four-Bedroom": 1005,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 484,
+                                   "One-Bedroom": 572,
+                                   "Two-Bedroom": 758,
+                                   "Three-Bedroom": 951,
+                                   "Four-Bedroom": 1032,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 497,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 774,
+                                   "Three-Bedroom": 986,
+                                   "Four-Bedroom": 1046,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 511,
+                                   "One-Bedroom": 607,
+                                   "Two-Bedroom": 784,
+                                   "Three-Bedroom": 1018,
+                                   "Four-Bedroom": 1062,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 505,
+                                   "One-Bedroom": 602,
+                                   "Two-Bedroom": 766,
+                                   "Three-Bedroom": 1015,
+                                   "Four-Bedroom": 1055,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 629,
+                                   "Two-Bedroom": 794,
+                                   "Three-Bedroom": 1047,
+                                   "Four-Bedroom": 1139,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "year": "2017",
+                            "median_income": 57200,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 22950,
+                                   "il50_p3": 25800,
+                                   "il50_p4": 28650,
+                                   "il50_p5": 30950,
+                                   "il50_p6": 33250,
+                                   "il50_p7": 35550,
+                                   "il50_p8": 37850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35550,
+                                   "il30_p8": 37850
+                            },
+                            "low": {
+                                   "il80_p1": 32100,
+                                   "il80_p2": 36700,
+                                   "il80_p3": 41300,
+                                   "il80_p4": 45850,
+                                   "il80_p5": 49550,
+                                   "il80_p6": 53200,
+                                   "il80_p7": 56900,
+                                   "il80_p8": 60550
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "year": "2018",
+                            "median_income": 60400,
+                            "very_low": {
+                                   "il50_p1": 21350,
+                                   "il50_p2": 24400,
+                                   "il50_p3": 27450,
+                                   "il50_p4": 30500,
+                                   "il50_p5": 32950,
+                                   "il50_p6": 35400,
+                                   "il50_p7": 37850,
+                                   "il50_p8": 40300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37850,
+                                   "il30_p8": 40300
+                            },
+                            "low": {
+                                   "il80_p1": 34200,
+                                   "il80_p2": 39050,
+                                   "il80_p3": 43950,
+                                   "il80_p4": 48800,
+                                   "il80_p5": 52750,
+                                   "il80_p6": 56650,
+                                   "il80_p7": 60550,
+                                   "il80_p8": 64450
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "year": "2019",
+                            "median_income": 70400,
+                            "very_low": {
+                                   "il50_p1": 23500,
+                                   "il50_p2": 26850,
+                                   "il50_p3": 30200,
+                                   "il50_p4": 33550,
+                                   "il50_p5": 36250,
+                                   "il50_p6": 38950,
+                                   "il50_p7": 41650,
+                                   "il50_p8": 44300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37600,
+                                   "il80_p2": 42950,
+                                   "il80_p3": 48300,
+                                   "il80_p4": 53650,
+                                   "il80_p5": 57950,
+                                   "il80_p6": 62250,
+                                   "il80_p7": 66550,
+                                   "il80_p8": 70850
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "year": "2020",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN MSA",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "year": "2021",
+                            "median_income": 69500,
+                            "very_low": {
+                                   "il50_p1": 24000,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30850,
+                                   "il50_p4": 34250,
+                                   "il50_p5": 37000,
+                                   "il50_p6": 39750,
+                                   "il50_p7": 42500,
+                                   "il50_p8": 45250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14400,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38400,
+                                   "il80_p2": 43850,
+                                   "il80_p3": 49350,
+                                   "il80_p4": 54800,
+                                   "il80_p5": 59200,
+                                   "il80_p6": 63600,
+                                   "il80_p7": 68000,
+                                   "il80_p8": 72350
+                            }
+                     },
+                     {
+                            "county_name": "LaPorte County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Michigan City-La Porte, IN",
+                            "area_name": "Michigan City-La Porte, IN MSA",
+                            "year": "2022",
+                            "median_income": 79000,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     }
+              ]
+       }
+}

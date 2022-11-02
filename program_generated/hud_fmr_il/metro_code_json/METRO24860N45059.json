@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 490,
+                                   "One-Bedroom": 507,
+                                   "Two-Bedroom": 674,
+                                   "Three-Bedroom": 850,
+                                   "Four-Bedroom": 929,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 516,
+                                   "One-Bedroom": 536,
+                                   "Two-Bedroom": 713,
+                                   "Three-Bedroom": 898,
+                                   "Four-Bedroom": 971,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 559,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 935,
+                                   "Four-Bedroom": 1000,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 560,
+                                   "One-Bedroom": 570,
+                                   "Two-Bedroom": 751,
+                                   "Three-Bedroom": 949,
+                                   "Four-Bedroom": 1017,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 804,
+                                   "Three-Bedroom": 1023,
+                                   "Four-Bedroom": 1090,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson, SC",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 783,
+                                   "Three-Bedroom": 981,
+                                   "Four-Bedroom": 1062,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 46100,
+                            "very_low": {
+                                   "il50_p1": 16150,
+                                   "il50_p2": 18450,
+                                   "il50_p3": 20750,
+                                   "il50_p4": 23050,
+                                   "il50_p5": 24900,
+                                   "il50_p6": 26750,
+                                   "il50_p7": 28600,
+                                   "il50_p8": 30450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 23050,
+                                   "il30_p5": 24900,
+                                   "il30_p6": 26750,
+                                   "il30_p7": 28600,
+                                   "il30_p8": 30450
+                            },
+                            "low": {
+                                   "il80_p1": 25850,
+                                   "il80_p2": 29550,
+                                   "il80_p3": 33250,
+                                   "il80_p4": 36900,
+                                   "il80_p5": 39900,
+                                   "il80_p6": 42850,
+                                   "il80_p7": 45800,
+                                   "il80_p8": 48750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 50800,
+                            "very_low": {
+                                   "il50_p1": 17800,
+                                   "il50_p2": 20350,
+                                   "il50_p3": 22900,
+                                   "il50_p4": 25400,
+                                   "il50_p5": 27450,
+                                   "il50_p6": 29500,
+                                   "il50_p7": 31500,
+                                   "il50_p8": 33550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 27450,
+                                   "il30_p6": 29500,
+                                   "il30_p7": 31500,
+                                   "il30_p8": 33550
+                            },
+                            "low": {
+                                   "il80_p1": 28500,
+                                   "il80_p2": 32550,
+                                   "il80_p3": 36600,
+                                   "il80_p4": 40650,
+                                   "il80_p5": 43950,
+                                   "il80_p6": 47200,
+                                   "il80_p7": 50450,
+                                   "il80_p8": 53700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 55500,
+                            "very_low": {
+                                   "il50_p1": 19450,
+                                   "il50_p2": 22200,
+                                   "il50_p3": 25000,
+                                   "il50_p4": 27750,
+                                   "il50_p5": 30000,
+                                   "il50_p6": 32200,
+                                   "il50_p7": 34450,
+                                   "il50_p8": 36650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30000,
+                                   "il30_p6": 32200,
+                                   "il30_p7": 34450,
+                                   "il30_p8": 36650
+                            },
+                            "low": {
+                                   "il80_p1": 31100,
+                                   "il80_p2": 35550,
+                                   "il80_p3": 40000,
+                                   "il80_p4": 44400,
+                                   "il80_p5": 48000,
+                                   "il80_p6": 51550,
+                                   "il80_p7": 55100,
+                                   "il80_p8": 58650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 45900,
+                            "very_low": {
+                                   "il50_p1": 18500,
+                                   "il50_p2": 21150,
+                                   "il50_p3": 23800,
+                                   "il50_p4": 26400,
+                                   "il50_p5": 28550,
+                                   "il50_p6": 30650,
+                                   "il50_p7": 32750,
+                                   "il50_p8": 34850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 28550,
+                                   "il30_p6": 30650,
+                                   "il30_p7": 32750,
+                                   "il30_p8": 34850
+                            },
+                            "low": {
+                                   "il80_p1": 29600,
+                                   "il80_p2": 33800,
+                                   "il80_p3": 38050,
+                                   "il80_p4": 42250,
+                                   "il80_p5": 45650,
+                                   "il80_p6": 49050,
+                                   "il80_p7": 52400,
+                                   "il80_p8": 55800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 47500,
+                            "very_low": {
+                                   "il50_p1": 18800,
+                                   "il50_p2": 21450,
+                                   "il50_p3": 24150,
+                                   "il50_p4": 26800,
+                                   "il50_p5": 28950,
+                                   "il50_p6": 31100,
+                                   "il50_p7": 33250,
+                                   "il50_p8": 35400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 28950,
+                                   "il30_p6": 31100,
+                                   "il30_p7": 33250,
+                                   "il30_p8": 35400
+                            },
+                            "low": {
+                                   "il80_p1": 30050,
+                                   "il80_p2": 34350,
+                                   "il80_p3": 38650,
+                                   "il80_p4": 42900,
+                                   "il80_p5": 46350,
+                                   "il80_p6": 49800,
+                                   "il80_p7": 53200,
+                                   "il80_p8": 56650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Laurens County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson, SC",
+                            "area_name": "Laurens County, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 67000,
+                            "very_low": {
+                                   "il50_p1": 21000,
+                                   "il50_p2": 24000,
+                                   "il50_p3": 27000,
+                                   "il50_p4": 29950,
+                                   "il50_p5": 32350,
+                                   "il50_p6": 34750,
+                                   "il50_p7": 37150,
+                                   "il50_p8": 39550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32350,
+                                   "il30_p6": 34750,
+                                   "il30_p7": 37150,
+                                   "il30_p8": 39550
+                            },
+                            "low": {
+                                   "il80_p1": 33550,
+                                   "il80_p2": 38350,
+                                   "il80_p3": 43150,
+                                   "il80_p4": 47900,
+                                   "il80_p5": 51750,
+                                   "il80_p6": 55600,
+                                   "il80_p7": 59400,
+                                   "il80_p8": 63250
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 573,
+                                   "One-Bedroom": 576,
+                                   "Two-Bedroom": 765,
+                                   "Three-Bedroom": 957,
+                                   "Four-Bedroom": 1344,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 611,
+                                   "One-Bedroom": 617,
+                                   "Two-Bedroom": 812,
+                                   "Three-Bedroom": 1018,
+                                   "Four-Bedroom": 1430,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 628,
+                                   "One-Bedroom": 637,
+                                   "Two-Bedroom": 824,
+                                   "Three-Bedroom": 1061,
+                                   "Four-Bedroom": 1447,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 665,
+                                   "One-Bedroom": 669,
+                                   "Two-Bedroom": 868,
+                                   "Three-Bedroom": 1117,
+                                   "Four-Bedroom": 1459,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 680,
+                                   "One-Bedroom": 685,
+                                   "Two-Bedroom": 890,
+                                   "Three-Bedroom": 1138,
+                                   "Four-Bedroom": 1317,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 686,
+                                   "One-Bedroom": 691,
+                                   "Two-Bedroom": 909,
+                                   "Three-Bedroom": 1168,
+                                   "Four-Bedroom": 1233,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 68300,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27350,
+                                   "il50_p3": 30750,
+                                   "il50_p4": 34150,
+                                   "il50_p5": 36900,
+                                   "il50_p6": 39650,
+                                   "il50_p7": 42350,
+                                   "il50_p8": 45100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16400,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43750,
+                                   "il80_p3": 49200,
+                                   "il80_p4": 54650,
+                                   "il80_p5": 59050,
+                                   "il80_p6": 63400,
+                                   "il80_p7": 67800,
+                                   "il80_p8": 72150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 67000,
+                            "very_low": {
+                                   "il50_p1": 23450,
+                                   "il50_p2": 26800,
+                                   "il50_p3": 30150,
+                                   "il50_p4": 33500,
+                                   "il50_p5": 36200,
+                                   "il50_p6": 38900,
+                                   "il50_p7": 41550,
+                                   "il50_p8": 44250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14100,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37550,
+                                   "il80_p2": 42900,
+                                   "il80_p3": 48250,
+                                   "il80_p4": 53600,
+                                   "il80_p5": 57900,
+                                   "il80_p6": 62200,
+                                   "il80_p7": 66500,
+                                   "il80_p8": 70800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 68900,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34450,
+                                   "il50_p5": 37250,
+                                   "il50_p6": 40000,
+                                   "il50_p7": 42750,
+                                   "il50_p8": 45500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38600,
+                                   "il80_p2": 44100,
+                                   "il80_p3": 49600,
+                                   "il80_p4": 55100,
+                                   "il80_p5": 59550,
+                                   "il80_p6": 63950,
+                                   "il80_p7": 68350,
+                                   "il80_p8": 72750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 69000,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34500,
+                                   "il50_p5": 37300,
+                                   "il50_p6": 40050,
+                                   "il50_p7": 42800,
+                                   "il50_p8": 45550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38650,
+                                   "il80_p2": 44200,
+                                   "il80_p3": 49700,
+                                   "il80_p4": 55200,
+                                   "il80_p5": 59650,
+                                   "il80_p6": 64050,
+                                   "il80_p7": 68450,
+                                   "il80_p8": 72900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 72300,
+                            "very_low": {
+                                   "il50_p1": 25350,
+                                   "il50_p2": 28950,
+                                   "il50_p3": 32550,
+                                   "il50_p4": 36150,
+                                   "il50_p5": 39050,
+                                   "il50_p6": 41950,
+                                   "il50_p7": 44850,
+                                   "il50_p8": 47750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40500,
+                                   "il80_p2": 46300,
+                                   "il80_p3": 52100,
+                                   "il80_p4": 57850,
+                                   "il80_p5": 62500,
+                                   "il80_p6": 67150,
+                                   "il80_p7": 71750,
+                                   "il80_p8": 76400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI",
+                            "area_name": "Jasper County, IN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 28300,
+                                   "il50_p2": 32350,
+                                   "il50_p3": 36400,
+                                   "il50_p4": 40400,
+                                   "il50_p5": 43650,
+                                   "il50_p6": 46900,
+                                   "il50_p7": 50100,
+                                   "il50_p8": 53350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17000,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45300,
+                                   "il80_p2": 51750,
+                                   "il80_p3": 58200,
+                                   "il80_p4": 64650,
+                                   "il80_p5": 69850,
+                                   "il80_p6": 75000,
+                                   "il80_p7": 80200,
+                                   "il80_p8": 85350
+                            }
+                     }
+              ]
+       }
+}

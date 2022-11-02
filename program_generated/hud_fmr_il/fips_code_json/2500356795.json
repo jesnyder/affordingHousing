@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 887,
+                                   "Three-Bedroom": 1110,
+                                   "Four-Bedroom": 1271,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 685,
+                                   "One-Bedroom": 817,
+                                   "Two-Bedroom": 1000,
+                                   "Three-Bedroom": 1254,
+                                   "Four-Bedroom": 1409,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 708,
+                                   "One-Bedroom": 843,
+                                   "Two-Bedroom": 1048,
+                                   "Three-Bedroom": 1342,
+                                   "Four-Bedroom": 1463,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 669,
+                                   "One-Bedroom": 815,
+                                   "Two-Bedroom": 1026,
+                                   "Three-Bedroom": 1309,
+                                   "Four-Bedroom": 1428,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 761,
+                                   "One-Bedroom": 916,
+                                   "Two-Bedroom": 1153,
+                                   "Three-Bedroom": 1456,
+                                   "Four-Bedroom": 1626,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 848,
+                                   "One-Bedroom": 1013,
+                                   "Two-Bedroom": 1277,
+                                   "Three-Bedroom": 1623,
+                                   "Four-Bedroom": 1759,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 67200,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 64800,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21800,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35500,
+                                   "il50_p3": 39950,
+                                   "il50_p4": 44350,
+                                   "il50_p5": 47900,
+                                   "il50_p6": 51450,
+                                   "il50_p7": 55000,
+                                   "il50_p8": 58550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 49700,
+                                   "il80_p2": 56800,
+                                   "il80_p3": 63900,
+                                   "il80_p4": 70950,
+                                   "il80_p5": 76650,
+                                   "il80_p6": 82350,
+                                   "il80_p7": 88000,
+                                   "il80_p8": 93700
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 90900,
+                            "very_low": {
+                                   "il50_p1": 31850,
+                                   "il50_p2": 36400,
+                                   "il50_p3": 40950,
+                                   "il50_p4": 45450,
+                                   "il50_p5": 49100,
+                                   "il50_p6": 52750,
+                                   "il50_p7": 56400,
+                                   "il50_p8": 60000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19100,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24550,
+                                   "il30_p4": 27250,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 50900,
+                                   "il80_p2": 58200,
+                                   "il80_p3": 65450,
+                                   "il80_p4": 72700,
+                                   "il80_p5": 78550,
+                                   "il80_p6": 84350,
+                                   "il80_p7": 90150,
+                                   "il80_p8": 96000
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 85000,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38900,
+                                   "il50_p4": 43200,
+                                   "il50_p5": 46700,
+                                   "il50_p6": 50150,
+                                   "il50_p7": 53600,
+                                   "il50_p8": 57050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48400,
+                                   "il80_p2": 55300,
+                                   "il80_p3": 62200,
+                                   "il80_p4": 69100,
+                                   "il80_p5": 74650,
+                                   "il80_p6": 80200,
+                                   "il80_p7": 85700,
+                                   "il80_p8": 91250
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Richmond town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA",
+                            "area_name": "Pittsfield, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 87300,
+                            "very_low": {
+                                   "il50_p1": 33850,
+                                   "il50_p2": 38650,
+                                   "il50_p3": 43500,
+                                   "il50_p4": 48300,
+                                   "il50_p5": 52200,
+                                   "il50_p6": 56050,
+                                   "il50_p7": 59900,
+                                   "il50_p8": 63800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20300,
+                                   "il30_p2": 23200,
+                                   "il30_p3": 26100,
+                                   "il30_p4": 29000,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54150,
+                                   "il80_p2": 61850,
+                                   "il80_p3": 69600,
+                                   "il80_p4": 77300,
+                                   "il80_p5": 83500,
+                                   "il80_p6": 89700,
+                                   "il80_p7": 95900,
+                                   "il80_p8": 102050
+                            }
+                     }
+              ]
+       }
+}

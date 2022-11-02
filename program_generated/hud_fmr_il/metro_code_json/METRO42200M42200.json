@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1131,
+                                   "One-Bedroom": 1323,
+                                   "Two-Bedroom": 1555,
+                                   "Three-Bedroom": 2128,
+                                   "Four-Bedroom": 2483,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1393,
+                                   "One-Bedroom": 1636,
+                                   "Two-Bedroom": 1917,
+                                   "Three-Bedroom": 2603,
+                                   "Four-Bedroom": 3030,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1403,
+                                   "One-Bedroom": 1667,
+                                   "Two-Bedroom": 1951,
+                                   "Three-Bedroom": 2625,
+                                   "Four-Bedroom": 3040,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1684,
+                                   "One-Bedroom": 1964,
+                                   "Two-Bedroom": 2324,
+                                   "Three-Bedroom": 3101,
+                                   "Four-Bedroom": 3572,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1728,
+                                   "One-Bedroom": 2015,
+                                   "Two-Bedroom": 2374,
+                                   "Three-Bedroom": 3137,
+                                   "Four-Bedroom": 3589,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1875,
+                                   "One-Bedroom": 2157,
+                                   "Two-Bedroom": 2516,
+                                   "Three-Bedroom": 3316,
+                                   "Four-Bedroom": 3790,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "year": "2017",
+                            "median_income": 73900,
+                            "very_low": {
+                                   "il50_p1": 31500,
+                                   "il50_p2": 36000,
+                                   "il50_p3": 40500,
+                                   "il50_p4": 45000,
+                                   "il50_p5": 48600,
+                                   "il50_p6": 52200,
+                                   "il50_p7": 55800,
+                                   "il50_p8": 59400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 27000,
+                                   "il30_p5": 29200,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 50450,
+                                   "il80_p2": 57650,
+                                   "il80_p3": 64850,
+                                   "il80_p4": 72050,
+                                   "il80_p5": 77850,
+                                   "il80_p6": 83600,
+                                   "il80_p7": 89350,
+                                   "il80_p8": 95150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "year": "2018",
+                            "median_income": 79600,
+                            "very_low": {
+                                   "il50_p1": 35150,
+                                   "il50_p2": 40150,
+                                   "il50_p3": 45150,
+                                   "il50_p4": 50150,
+                                   "il50_p5": 54200,
+                                   "il50_p6": 58200,
+                                   "il50_p7": 62200,
+                                   "il50_p8": 66200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21100,
+                                   "il30_p2": 24100,
+                                   "il30_p3": 27100,
+                                   "il30_p4": 30100,
+                                   "il30_p5": 32550,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 56250,
+                                   "il80_p2": 64250,
+                                   "il80_p3": 72300,
+                                   "il80_p4": 80300,
+                                   "il80_p5": 86750,
+                                   "il80_p6": 93150,
+                                   "il80_p7": 99600,
+                                   "il80_p8": 106000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "year": "2019",
+                            "median_income": 79300,
+                            "very_low": {
+                                   "il50_p1": 38650,
+                                   "il50_p2": 44150,
+                                   "il50_p3": 49650,
+                                   "il50_p4": 55150,
+                                   "il50_p5": 59600,
+                                   "il50_p6": 64000,
+                                   "il50_p7": 68400,
+                                   "il50_p8": 72800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23200,
+                                   "il30_p2": 26500,
+                                   "il30_p3": 29800,
+                                   "il30_p4": 33100,
+                                   "il30_p5": 35750,
+                                   "il30_p6": 38400,
+                                   "il30_p7": 41050,
+                                   "il30_p8": 43700
+                            },
+                            "low": {
+                                   "il80_p1": 61850,
+                                   "il80_p2": 70650,
+                                   "il80_p3": 79500,
+                                   "il80_p4": 88300,
+                                   "il80_p5": 95400,
+                                   "il80_p6": 102450,
+                                   "il80_p7": 109500,
+                                   "il80_p8": 116600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "year": "2020",
+                            "median_income": 87800,
+                            "very_low": {
+                                   "il50_p1": 41650,
+                                   "il50_p2": 47600,
+                                   "il50_p3": 53550,
+                                   "il50_p4": 59500,
+                                   "il50_p5": 64300,
+                                   "il50_p6": 69050,
+                                   "il50_p7": 73800,
+                                   "il50_p8": 78550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25000,
+                                   "il30_p2": 28600,
+                                   "il30_p3": 32150,
+                                   "il30_p4": 35700,
+                                   "il30_p5": 38600,
+                                   "il30_p6": 41450,
+                                   "il30_p7": 44300,
+                                   "il30_p8": 47150
+                            },
+                            "low": {
+                                   "il80_p1": 66750,
+                                   "il80_p2": 76250,
+                                   "il80_p3": 85800,
+                                   "il80_p4": 95300,
+                                   "il80_p5": 102950,
+                                   "il80_p6": 110550,
+                                   "il80_p7": 118200,
+                                   "il80_p8": 125800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "year": "2021",
+                            "median_income": 90100,
+                            "very_low": {
+                                   "il50_p1": 43750,
+                                   "il50_p2": 50000,
+                                   "il50_p3": 56250,
+                                   "il50_p4": 62450,
+                                   "il50_p5": 67450,
+                                   "il50_p6": 72450,
+                                   "il50_p7": 77450,
+                                   "il50_p8": 82450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26250,
+                                   "il30_p2": 30000,
+                                   "il30_p3": 33750,
+                                   "il30_p4": 37450,
+                                   "il30_p5": 40450,
+                                   "il30_p6": 43450,
+                                   "il30_p7": 46450,
+                                   "il30_p8": 49450
+                            },
+                            "low": {
+                                   "il80_p1": 70050,
+                                   "il80_p2": 80050,
+                                   "il80_p3": 90050,
+                                   "il80_p4": 100050,
+                                   "il80_p5": 108100,
+                                   "il80_p6": 116100,
+                                   "il80_p7": 124100,
+                                   "il80_p8": 132100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Barbara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Maria-Santa Barbara, CA",
+                            "area_name": "Santa Maria-Santa Barbara, CA MSA",
+                            "year": "2022",
+                            "median_income": 100100,
+                            "very_low": {
+                                   "il50_p1": 48900,
+                                   "il50_p2": 55900,
+                                   "il50_p3": 62900,
+                                   "il50_p4": 69850,
+                                   "il50_p5": 75450,
+                                   "il50_p6": 81050,
+                                   "il50_p7": 86650,
+                                   "il50_p8": 92250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 29350,
+                                   "il30_p2": 33550,
+                                   "il30_p3": 37750,
+                                   "il30_p4": 41900,
+                                   "il30_p5": 45300,
+                                   "il30_p6": 48650,
+                                   "il30_p7": 52000,
+                                   "il30_p8": 55350
+                            },
+                            "low": {
+                                   "il80_p1": 78350,
+                                   "il80_p2": 89550,
+                                   "il80_p3": 100750,
+                                   "il80_p4": 111900,
+                                   "il80_p5": 120900,
+                                   "il80_p6": 129850,
+                                   "il80_p7": 138800,
+                                   "il80_p8": 147750
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 578,
+                                   "One-Bedroom": 581,
+                                   "Two-Bedroom": 754,
+                                   "Three-Bedroom": 1053,
+                                   "Four-Bedroom": 1156,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 574,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 819,
+                                   "Three-Bedroom": 1135,
+                                   "Four-Bedroom": 1255,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 588,
+                                   "One-Bedroom": 735,
+                                   "Two-Bedroom": 841,
+                                   "Three-Bedroom": 1155,
+                                   "Four-Bedroom": 1288,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 552,
+                                   "One-Bedroom": 676,
+                                   "Two-Bedroom": 769,
+                                   "Three-Bedroom": 1049,
+                                   "Four-Bedroom": 1193,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 725,
+                                   "Two-Bedroom": 826,
+                                   "Three-Bedroom": 1121,
+                                   "Four-Bedroom": 1300,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 791,
+                                   "One-Bedroom": 818,
+                                   "Two-Bedroom": 932,
+                                   "Three-Bedroom": 1244,
+                                   "Four-Bedroom": 1497,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "year": "2017",
+                            "median_income": 73500,
+                            "very_low": {
+                                   "il50_p1": 25950,
+                                   "il50_p2": 29650,
+                                   "il50_p3": 33350,
+                                   "il50_p4": 37050,
+                                   "il50_p5": 40050,
+                                   "il50_p6": 43000,
+                                   "il50_p7": 45950,
+                                   "il50_p8": 48950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47450,
+                                   "il80_p3": 53400,
+                                   "il80_p4": 59300,
+                                   "il80_p5": 64050,
+                                   "il80_p6": 68800,
+                                   "il80_p7": 73550,
+                                   "il80_p8": 78300
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "year": "2018",
+                            "median_income": 77300,
+                            "very_low": {
+                                   "il50_p1": 27100,
+                                   "il50_p2": 30950,
+                                   "il50_p3": 34800,
+                                   "il50_p4": 38650,
+                                   "il50_p5": 41750,
+                                   "il50_p6": 44850,
+                                   "il50_p7": 47950,
+                                   "il50_p8": 51050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 20900,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43300,
+                                   "il80_p2": 49500,
+                                   "il80_p3": 55700,
+                                   "il80_p4": 61850,
+                                   "il80_p5": 66800,
+                                   "il80_p6": 71750,
+                                   "il80_p7": 76700,
+                                   "il80_p8": 81650
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "year": "2019",
+                            "median_income": 75300,
+                            "very_low": {
+                                   "il50_p1": 26400,
+                                   "il50_p2": 30150,
+                                   "il50_p3": 33900,
+                                   "il50_p4": 37650,
+                                   "il50_p5": 40700,
+                                   "il50_p6": 43700,
+                                   "il50_p7": 46700,
+                                   "il50_p8": 49700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15850,
+                                   "il30_p2": 18100,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42200,
+                                   "il80_p2": 48200,
+                                   "il80_p3": 54250,
+                                   "il80_p4": 60250,
+                                   "il80_p5": 65100,
+                                   "il80_p6": 69900,
+                                   "il80_p7": 74750,
+                                   "il80_p8": 79550
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "year": "2020",
+                            "median_income": 76700,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "year": "2021",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 25750,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33100,
+                                   "il50_p4": 36750,
+                                   "il50_p5": 39700,
+                                   "il50_p6": 42650,
+                                   "il50_p7": 45600,
+                                   "il50_p8": 48550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15450,
+                                   "il30_p2": 17650,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41200,
+                                   "il80_p2": 47050,
+                                   "il80_p3": 52950,
+                                   "il80_p4": 58800,
+                                   "il80_p5": 63550,
+                                   "il80_p6": 68250,
+                                   "il80_p7": 72950,
+                                   "il80_p8": 77650
+                            }
+                     },
+                     {
+                            "county_name": "Hinsdale County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hinsdale County, CO",
+                            "year": "2022",
+                            "median_income": 71400,
+                            "very_low": {
+                                   "il50_p1": 28800,
+                                   "il50_p2": 32900,
+                                   "il50_p3": 37000,
+                                   "il50_p4": 41100,
+                                   "il50_p5": 44400,
+                                   "il50_p6": 47700,
+                                   "il50_p7": 51000,
+                                   "il50_p8": 54300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46050,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59200,
+                                   "il80_p4": 65750,
+                                   "il80_p5": 71050,
+                                   "il80_p6": 76300,
+                                   "il80_p7": 81550,
+                                   "il80_p8": 86800
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,2546 @@
+{
+       "count_results": 6,
+       "results": [
+              {
+                     "returned": {
+                            "data": {
+                                   "county_name": "",
+                                   "counties_msa": "El Paso County, CO; ",
+                                   "town_name": "",
+                                   "metro_status": "1",
+                                   "metro_name": "Colorado Springs, CO MSA",
+                                   "area_name": "Colorado Springs, CO HUD Metro FMR Area",
+                                   "smallarea_status": "0",
+                                   "basicdata": {
+                                          "Efficiency": 603,
+                                          "One-Bedroom": 737,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1383,
+                                          "Four-Bedroom": 1674,
+                                          "year": "2017"
+                                   }
+                            }
+                     }
+              },
+              {
+                     "returned": {
+                            "data": {
+                                   "county_name": "",
+                                   "counties_msa": "El Paso County, CO; ",
+                                   "town_name": "",
+                                   "metro_status": "1",
+                                   "metro_name": "Colorado Springs, CO MSA",
+                                   "area_name": "Colorado Springs, CO HUD Metro FMR Area",
+                                   "smallarea_status": "1",
+                                   "year": "2018",
+                                   "basicdata": [
+                                          {
+                                                 "zip_code": "80106",
+                                                 "Efficiency": 1100,
+                                                 "One-Bedroom": 1340,
+                                                 "Two-Bedroom": 1710,
+                                                 "Three-Bedroom": 2470,
+                                                 "Four-Bedroom": 2940
+                                          },
+                                          {
+                                                 "zip_code": "80132",
+                                                 "Efficiency": 970,
+                                                 "One-Bedroom": 1180,
+                                                 "Two-Bedroom": 1520,
+                                                 "Three-Bedroom": 2210,
+                                                 "Four-Bedroom": 2680
+                                          },
+                                          {
+                                                 "zip_code": "80133",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 930,
+                                                 "Two-Bedroom": 1170,
+                                                 "Three-Bedroom": 1710,
+                                                 "Four-Bedroom": 1980
+                                          },
+                                          {
+                                                 "zip_code": "80808",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 930,
+                                                 "Two-Bedroom": 1170,
+                                                 "Three-Bedroom": 1710,
+                                                 "Four-Bedroom": 1980
+                                          },
+                                          {
+                                                 "zip_code": "80809",
+                                                 "Efficiency": 790,
+                                                 "One-Bedroom": 970,
+                                                 "Two-Bedroom": 1240,
+                                                 "Three-Bedroom": 1810,
+                                                 "Four-Bedroom": 2190
+                                          },
+                                          {
+                                                 "zip_code": "80817",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 980,
+                                                 "Two-Bedroom": 1260,
+                                                 "Three-Bedroom": 1830,
+                                                 "Four-Bedroom": 2220
+                                          },
+                                          {
+                                                 "zip_code": "80819",
+                                                 "Efficiency": 630,
+                                                 "One-Bedroom": 700,
+                                                 "Two-Bedroom": 900,
+                                                 "Three-Bedroom": 1280,
+                                                 "Four-Bedroom": 1590
+                                          },
+                                          {
+                                                 "zip_code": "80829",
+                                                 "Efficiency": 540,
+                                                 "One-Bedroom": 660,
+                                                 "Two-Bedroom": 860,
+                                                 "Three-Bedroom": 1240,
+                                                 "Four-Bedroom": 1510
+                                          },
+                                          {
+                                                 "zip_code": "80831",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1190,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2700
+                                          },
+                                          {
+                                                 "zip_code": "80832",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 930,
+                                                 "Two-Bedroom": 1170,
+                                                 "Three-Bedroom": 1710,
+                                                 "Four-Bedroom": 1980
+                                          },
+                                          {
+                                                 "zip_code": "80833",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 930,
+                                                 "Two-Bedroom": 1170,
+                                                 "Three-Bedroom": 1710,
+                                                 "Four-Bedroom": 1980
+                                          },
+                                          {
+                                                 "zip_code": "80835",
+                                                 "Efficiency": 780,
+                                                 "One-Bedroom": 940,
+                                                 "Two-Bedroom": 1180,
+                                                 "Three-Bedroom": 1710,
+                                                 "Four-Bedroom": 1980
+                                          },
+                                          {
+                                                 "zip_code": "80840",
+                                                 "Efficiency": 960,
+                                                 "One-Bedroom": 1170,
+                                                 "Two-Bedroom": 1500,
+                                                 "Three-Bedroom": 2180,
+                                                 "Four-Bedroom": 2640
+                                          },
+                                          {
+                                                 "zip_code": "80841",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80863",
+                                                 "Efficiency": 700,
+                                                 "One-Bedroom": 840,
+                                                 "Two-Bedroom": 1090,
+                                                 "Three-Bedroom": 1570,
+                                                 "Four-Bedroom": 1920
+                                          },
+                                          {
+                                                 "zip_code": "80864",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1070,
+                                                 "Three-Bedroom": 1560,
+                                                 "Four-Bedroom": 1890
+                                          },
+                                          {
+                                                 "zip_code": "80901",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80902",
+                                                 "Efficiency": 870,
+                                                 "One-Bedroom": 1060,
+                                                 "Two-Bedroom": 1370,
+                                                 "Three-Bedroom": 1990,
+                                                 "Four-Bedroom": 2410
+                                          },
+                                          {
+                                                 "zip_code": "80903",
+                                                 "Efficiency": 620,
+                                                 "One-Bedroom": 760,
+                                                 "Two-Bedroom": 980,
+                                                 "Three-Bedroom": 1420,
+                                                 "Four-Bedroom": 1730
+                                          },
+                                          {
+                                                 "zip_code": "80904",
+                                                 "Efficiency": 630,
+                                                 "One-Bedroom": 760,
+                                                 "Two-Bedroom": 980,
+                                                 "Three-Bedroom": 1430,
+                                                 "Four-Bedroom": 1730
+                                          },
+                                          {
+                                                 "zip_code": "80905",
+                                                 "Efficiency": 540,
+                                                 "One-Bedroom": 660,
+                                                 "Two-Bedroom": 860,
+                                                 "Three-Bedroom": 1240,
+                                                 "Four-Bedroom": 1510
+                                          },
+                                          {
+                                                 "zip_code": "80906",
+                                                 "Efficiency": 750,
+                                                 "One-Bedroom": 920,
+                                                 "Two-Bedroom": 1180,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80907",
+                                                 "Efficiency": 580,
+                                                 "One-Bedroom": 700,
+                                                 "Two-Bedroom": 900,
+                                                 "Three-Bedroom": 1310,
+                                                 "Four-Bedroom": 1590
+                                          },
+                                          {
+                                                 "zip_code": "80908",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1190,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80909",
+                                                 "Efficiency": 560,
+                                                 "One-Bedroom": 680,
+                                                 "Two-Bedroom": 870,
+                                                 "Three-Bedroom": 1270,
+                                                 "Four-Bedroom": 1540
+                                          },
+                                          {
+                                                 "zip_code": "80910",
+                                                 "Efficiency": 570,
+                                                 "One-Bedroom": 700,
+                                                 "Two-Bedroom": 890,
+                                                 "Three-Bedroom": 1300,
+                                                 "Four-Bedroom": 1580
+                                          },
+                                          {
+                                                 "zip_code": "80911",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 940,
+                                                 "Two-Bedroom": 1210,
+                                                 "Three-Bedroom": 1760,
+                                                 "Four-Bedroom": 2130
+                                          },
+                                          {
+                                                 "zip_code": "80913",
+                                                 "Efficiency": 930,
+                                                 "One-Bedroom": 1130,
+                                                 "Two-Bedroom": 1460,
+                                                 "Three-Bedroom": 2120,
+                                                 "Four-Bedroom": 2570
+                                          },
+                                          {
+                                                 "zip_code": "80914",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80915",
+                                                 "Efficiency": 630,
+                                                 "One-Bedroom": 770,
+                                                 "Two-Bedroom": 990,
+                                                 "Three-Bedroom": 1450,
+                                                 "Four-Bedroom": 1750
+                                          },
+                                          {
+                                                 "zip_code": "80916",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 800,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1490,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80917",
+                                                 "Efficiency": 640,
+                                                 "One-Bedroom": 780,
+                                                 "Two-Bedroom": 1010,
+                                                 "Three-Bedroom": 1460,
+                                                 "Four-Bedroom": 1770
+                                          },
+                                          {
+                                                 "zip_code": "80918",
+                                                 "Efficiency": 700,
+                                                 "One-Bedroom": 860,
+                                                 "Two-Bedroom": 1100,
+                                                 "Three-Bedroom": 1600,
+                                                 "Four-Bedroom": 1940
+                                          },
+                                          {
+                                                 "zip_code": "80919",
+                                                 "Efficiency": 690,
+                                                 "One-Bedroom": 850,
+                                                 "Two-Bedroom": 1090,
+                                                 "Three-Bedroom": 1580,
+                                                 "Four-Bedroom": 1920
+                                          },
+                                          {
+                                                 "zip_code": "80920",
+                                                 "Efficiency": 840,
+                                                 "One-Bedroom": 1020,
+                                                 "Two-Bedroom": 1310,
+                                                 "Three-Bedroom": 1910,
+                                                 "Four-Bedroom": 2310
+                                          },
+                                          {
+                                                 "zip_code": "80921",
+                                                 "Efficiency": 840,
+                                                 "One-Bedroom": 1020,
+                                                 "Two-Bedroom": 1320,
+                                                 "Three-Bedroom": 1920,
+                                                 "Four-Bedroom": 2320
+                                          },
+                                          {
+                                                 "zip_code": "80922",
+                                                 "Efficiency": 920,
+                                                 "One-Bedroom": 1120,
+                                                 "Two-Bedroom": 1440,
+                                                 "Three-Bedroom": 2100,
+                                                 "Four-Bedroom": 2540
+                                          },
+                                          {
+                                                 "zip_code": "80923",
+                                                 "Efficiency": 930,
+                                                 "One-Bedroom": 1130,
+                                                 "Two-Bedroom": 1450,
+                                                 "Three-Bedroom": 2110,
+                                                 "Four-Bedroom": 2560
+                                          },
+                                          {
+                                                 "zip_code": "80924",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1190,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80925",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1190,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80926",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80927",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1190,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80928",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 980,
+                                                 "Two-Bedroom": 1260,
+                                                 "Three-Bedroom": 1830,
+                                                 "Four-Bedroom": 2220
+                                          },
+                                          {
+                                                 "zip_code": "80929",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80930",
+                                                 "Efficiency": 840,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1320,
+                                                 "Three-Bedroom": 1920,
+                                                 "Four-Bedroom": 2330
+                                          },
+                                          {
+                                                 "zip_code": "80931",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80932",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80933",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80934",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80935",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80936",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80937",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80938",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80939",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80949",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80951",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1190,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80960",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80962",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80970",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "81008",
+                                                 "Efficiency": 730,
+                                                 "One-Bedroom": 730,
+                                                 "Two-Bedroom": 980,
+                                                 "Three-Bedroom": 1380,
+                                                 "Four-Bedroom": 1580
+                                          }
+                                   ]
+                            }
+                     }
+              },
+              {
+                     "returned": {
+                            "data": {
+                                   "county_name": "",
+                                   "counties_msa": "El Paso County, CO; ",
+                                   "town_name": "",
+                                   "metro_status": "1",
+                                   "metro_name": "Colorado Springs, CO MSA",
+                                   "area_name": "Colorado Springs, CO HUD Metro FMR Area",
+                                   "smallarea_status": "1",
+                                   "year": "2019",
+                                   "basicdata": [
+                                          {
+                                                 "zip_code": "80106",
+                                                 "Efficiency": 990,
+                                                 "One-Bedroom": 1210,
+                                                 "Two-Bedroom": 1540,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2650
+                                          },
+                                          {
+                                                 "zip_code": "80132",
+                                                 "Efficiency": 1020,
+                                                 "One-Bedroom": 1240,
+                                                 "Two-Bedroom": 1580,
+                                                 "Three-Bedroom": 2280,
+                                                 "Four-Bedroom": 2780
+                                          },
+                                          {
+                                                 "zip_code": "80133",
+                                                 "Efficiency": 690,
+                                                 "One-Bedroom": 840,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1540,
+                                                 "Four-Bedroom": 1830
+                                          },
+                                          {
+                                                 "zip_code": "80808",
+                                                 "Efficiency": 690,
+                                                 "One-Bedroom": 840,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1540,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80809",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 920,
+                                                 "Two-Bedroom": 1180,
+                                                 "Three-Bedroom": 1710,
+                                                 "Four-Bedroom": 2070
+                                          },
+                                          {
+                                                 "zip_code": "80817",
+                                                 "Efficiency": 850,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1320,
+                                                 "Three-Bedroom": 1910,
+                                                 "Four-Bedroom": 2320
+                                          },
+                                          {
+                                                 "zip_code": "80819",
+                                                 "Efficiency": 570,
+                                                 "One-Bedroom": 690,
+                                                 "Two-Bedroom": 880,
+                                                 "Three-Bedroom": 1270,
+                                                 "Four-Bedroom": 1540
+                                          },
+                                          {
+                                                 "zip_code": "80829",
+                                                 "Efficiency": 560,
+                                                 "One-Bedroom": 680,
+                                                 "Two-Bedroom": 870,
+                                                 "Three-Bedroom": 1260,
+                                                 "Four-Bedroom": 1530
+                                          },
+                                          {
+                                                 "zip_code": "80831",
+                                                 "Efficiency": 1030,
+                                                 "One-Bedroom": 1260,
+                                                 "Two-Bedroom": 1600,
+                                                 "Three-Bedroom": 2320,
+                                                 "Four-Bedroom": 2820
+                                          },
+                                          {
+                                                 "zip_code": "80832",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 930,
+                                                 "Two-Bedroom": 1180,
+                                                 "Three-Bedroom": 1690,
+                                                 "Four-Bedroom": 2030
+                                          },
+                                          {
+                                                 "zip_code": "80833",
+                                                 "Efficiency": 720,
+                                                 "One-Bedroom": 870,
+                                                 "Two-Bedroom": 1110,
+                                                 "Three-Bedroom": 1600,
+                                                 "Four-Bedroom": 1930
+                                          },
+                                          {
+                                                 "zip_code": "80835",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 890,
+                                                 "Two-Bedroom": 1120,
+                                                 "Three-Bedroom": 1570,
+                                                 "Four-Bedroom": 1830
+                                          },
+                                          {
+                                                 "zip_code": "80840",
+                                                 "Efficiency": 1020,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1590,
+                                                 "Three-Bedroom": 2300,
+                                                 "Four-Bedroom": 2790
+                                          },
+                                          {
+                                                 "zip_code": "80841",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80863",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 870,
+                                                 "Two-Bedroom": 1150,
+                                                 "Three-Bedroom": 1660,
+                                                 "Four-Bedroom": 1950
+                                          },
+                                          {
+                                                 "zip_code": "80864",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80901",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80902",
+                                                 "Efficiency": 940,
+                                                 "One-Bedroom": 1140,
+                                                 "Two-Bedroom": 1460,
+                                                 "Three-Bedroom": 2110,
+                                                 "Four-Bedroom": 2560
+                                          },
+                                          {
+                                                 "zip_code": "80903",
+                                                 "Efficiency": 640,
+                                                 "One-Bedroom": 780,
+                                                 "Two-Bedroom": 990,
+                                                 "Three-Bedroom": 1430,
+                                                 "Four-Bedroom": 1740
+                                          },
+                                          {
+                                                 "zip_code": "80904",
+                                                 "Efficiency": 660,
+                                                 "One-Bedroom": 810,
+                                                 "Two-Bedroom": 1030,
+                                                 "Three-Bedroom": 1490,
+                                                 "Four-Bedroom": 1810
+                                          },
+                                          {
+                                                 "zip_code": "80905",
+                                                 "Efficiency": 550,
+                                                 "One-Bedroom": 670,
+                                                 "Two-Bedroom": 850,
+                                                 "Three-Bedroom": 1230,
+                                                 "Four-Bedroom": 1490
+                                          },
+                                          {
+                                                 "zip_code": "80906",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 970,
+                                                 "Two-Bedroom": 1240,
+                                                 "Three-Bedroom": 1790,
+                                                 "Four-Bedroom": 2180
+                                          },
+                                          {
+                                                 "zip_code": "80907",
+                                                 "Efficiency": 600,
+                                                 "One-Bedroom": 730,
+                                                 "Two-Bedroom": 930,
+                                                 "Three-Bedroom": 1340,
+                                                 "Four-Bedroom": 1630
+                                          },
+                                          {
+                                                 "zip_code": "80908",
+                                                 "Efficiency": 1030,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1600,
+                                                 "Three-Bedroom": 2310,
+                                                 "Four-Bedroom": 2810
+                                          },
+                                          {
+                                                 "zip_code": "80909",
+                                                 "Efficiency": 580,
+                                                 "One-Bedroom": 700,
+                                                 "Two-Bedroom": 900,
+                                                 "Three-Bedroom": 1300,
+                                                 "Four-Bedroom": 1580
+                                          },
+                                          {
+                                                 "zip_code": "80910",
+                                                 "Efficiency": 620,
+                                                 "One-Bedroom": 750,
+                                                 "Two-Bedroom": 960,
+                                                 "Three-Bedroom": 1390,
+                                                 "Four-Bedroom": 1690
+                                          },
+                                          {
+                                                 "zip_code": "80911",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 970,
+                                                 "Two-Bedroom": 1240,
+                                                 "Three-Bedroom": 1790,
+                                                 "Four-Bedroom": 2180
+                                          },
+                                          {
+                                                 "zip_code": "80913",
+                                                 "Efficiency": 960,
+                                                 "One-Bedroom": 1170,
+                                                 "Two-Bedroom": 1490,
+                                                 "Three-Bedroom": 2150,
+                                                 "Four-Bedroom": 2620
+                                          },
+                                          {
+                                                 "zip_code": "80914",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80915",
+                                                 "Efficiency": 640,
+                                                 "One-Bedroom": 780,
+                                                 "Two-Bedroom": 1000,
+                                                 "Three-Bedroom": 1450,
+                                                 "Four-Bedroom": 1760
+                                          },
+                                          {
+                                                 "zip_code": "80916",
+                                                 "Efficiency": 690,
+                                                 "One-Bedroom": 840,
+                                                 "Two-Bedroom": 1070,
+                                                 "Three-Bedroom": 1550,
+                                                 "Four-Bedroom": 1880
+                                          },
+                                          {
+                                                 "zip_code": "80917",
+                                                 "Efficiency": 670,
+                                                 "One-Bedroom": 820,
+                                                 "Two-Bedroom": 1050,
+                                                 "Three-Bedroom": 1520,
+                                                 "Four-Bedroom": 1840
+                                          },
+                                          {
+                                                 "zip_code": "80918",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1150,
+                                                 "Three-Bedroom": 1660,
+                                                 "Four-Bedroom": 2020
+                                          },
+                                          {
+                                                 "zip_code": "80919",
+                                                 "Efficiency": 750,
+                                                 "One-Bedroom": 920,
+                                                 "Two-Bedroom": 1170,
+                                                 "Three-Bedroom": 1690,
+                                                 "Four-Bedroom": 2060
+                                          },
+                                          {
+                                                 "zip_code": "80920",
+                                                 "Efficiency": 870,
+                                                 "One-Bedroom": 1070,
+                                                 "Two-Bedroom": 1360,
+                                                 "Three-Bedroom": 1970,
+                                                 "Four-Bedroom": 2390
+                                          },
+                                          {
+                                                 "zip_code": "80921",
+                                                 "Efficiency": 910,
+                                                 "One-Bedroom": 1100,
+                                                 "Two-Bedroom": 1410,
+                                                 "Three-Bedroom": 2040,
+                                                 "Four-Bedroom": 2480
+                                          },
+                                          {
+                                                 "zip_code": "80922",
+                                                 "Efficiency": 950,
+                                                 "One-Bedroom": 1160,
+                                                 "Two-Bedroom": 1480,
+                                                 "Three-Bedroom": 2140,
+                                                 "Four-Bedroom": 2600
+                                          },
+                                          {
+                                                 "zip_code": "80923",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1200,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2210,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80924",
+                                                 "Efficiency": 1030,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1600,
+                                                 "Three-Bedroom": 2310,
+                                                 "Four-Bedroom": 2810
+                                          },
+                                          {
+                                                 "zip_code": "80925",
+                                                 "Efficiency": 1030,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1600,
+                                                 "Three-Bedroom": 2310,
+                                                 "Four-Bedroom": 2810
+                                          },
+                                          {
+                                                 "zip_code": "80926",
+                                                 "Efficiency": 590,
+                                                 "One-Bedroom": 720,
+                                                 "Two-Bedroom": 920,
+                                                 "Three-Bedroom": 1340,
+                                                 "Four-Bedroom": 1620
+                                          },
+                                          {
+                                                 "zip_code": "80927",
+                                                 "Efficiency": 1030,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1600,
+                                                 "Three-Bedroom": 2310,
+                                                 "Four-Bedroom": 2810
+                                          },
+                                          {
+                                                 "zip_code": "80928",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 940,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1740,
+                                                 "Four-Bedroom": 2110
+                                          },
+                                          {
+                                                 "zip_code": "80929",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80930",
+                                                 "Efficiency": 890,
+                                                 "One-Bedroom": 1080,
+                                                 "Two-Bedroom": 1380,
+                                                 "Three-Bedroom": 2000,
+                                                 "Four-Bedroom": 2420
+                                          },
+                                          {
+                                                 "zip_code": "80931",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80932",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80933",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80934",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80935",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80936",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80937",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80938",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80939",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80949",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80951",
+                                                 "Efficiency": 1030,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1600,
+                                                 "Three-Bedroom": 2310,
+                                                 "Four-Bedroom": 2810
+                                          },
+                                          {
+                                                 "zip_code": "80960",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80962",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80970",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "81008",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 800,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1690
+                                          }
+                                   ]
+                            }
+                     }
+              },
+              {
+                     "returned": {
+                            "data": {
+                                   "county_name": "",
+                                   "counties_msa": "El Paso County, CO; ",
+                                   "town_name": "",
+                                   "metro_status": "1",
+                                   "metro_name": "Colorado Springs, CO MSA",
+                                   "area_name": "Colorado Springs, CO HUD Metro FMR Area",
+                                   "smallarea_status": "1",
+                                   "year": "2020",
+                                   "basicdata": [
+                                          {
+                                                 "zip_code": "80106",
+                                                 "Efficiency": 1080,
+                                                 "One-Bedroom": 1280,
+                                                 "Two-Bedroom": 1610,
+                                                 "Three-Bedroom": 2300,
+                                                 "Four-Bedroom": 2750
+                                          },
+                                          {
+                                                 "zip_code": "80118",
+                                                 "Efficiency": 1210,
+                                                 "One-Bedroom": 1420,
+                                                 "Two-Bedroom": 1770,
+                                                 "Three-Bedroom": 2480,
+                                                 "Four-Bedroom": 2880
+                                          },
+                                          {
+                                                 "zip_code": "80132",
+                                                 "Efficiency": 1090,
+                                                 "One-Bedroom": 1320,
+                                                 "Two-Bedroom": 1680,
+                                                 "Three-Bedroom": 2420,
+                                                 "Four-Bedroom": 2950
+                                          },
+                                          {
+                                                 "zip_code": "80133",
+                                                 "Efficiency": 700,
+                                                 "One-Bedroom": 850,
+                                                 "Two-Bedroom": 1080,
+                                                 "Three-Bedroom": 1560,
+                                                 "Four-Bedroom": 1900
+                                          },
+                                          {
+                                                 "zip_code": "80808",
+                                                 "Efficiency": 670,
+                                                 "One-Bedroom": 810,
+                                                 "Two-Bedroom": 1030,
+                                                 "Three-Bedroom": 1480,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80809",
+                                                 "Efficiency": 780,
+                                                 "One-Bedroom": 940,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1730,
+                                                 "Four-Bedroom": 2110
+                                          },
+                                          {
+                                                 "zip_code": "80817",
+                                                 "Efficiency": 910,
+                                                 "One-Bedroom": 1090,
+                                                 "Two-Bedroom": 1390,
+                                                 "Three-Bedroom": 2010,
+                                                 "Four-Bedroom": 2440
+                                          },
+                                          {
+                                                 "zip_code": "80819",
+                                                 "Efficiency": 590,
+                                                 "One-Bedroom": 710,
+                                                 "Two-Bedroom": 910,
+                                                 "Three-Bedroom": 1310,
+                                                 "Four-Bedroom": 1590
+                                          },
+                                          {
+                                                 "zip_code": "80829",
+                                                 "Efficiency": 610,
+                                                 "One-Bedroom": 740,
+                                                 "Two-Bedroom": 940,
+                                                 "Three-Bedroom": 1360,
+                                                 "Four-Bedroom": 1650
+                                          },
+                                          {
+                                                 "zip_code": "80831",
+                                                 "Efficiency": 1120,
+                                                 "One-Bedroom": 1350,
+                                                 "Two-Bedroom": 1710,
+                                                 "Three-Bedroom": 2470,
+                                                 "Four-Bedroom": 3010
+                                          },
+                                          {
+                                                 "zip_code": "80832",
+                                                 "Efficiency": 750,
+                                                 "One-Bedroom": 890,
+                                                 "Two-Bedroom": 1120,
+                                                 "Three-Bedroom": 1600,
+                                                 "Four-Bedroom": 1910
+                                          },
+                                          {
+                                                 "zip_code": "80833",
+                                                 "Efficiency": 720,
+                                                 "One-Bedroom": 860,
+                                                 "Two-Bedroom": 1080,
+                                                 "Three-Bedroom": 1560,
+                                                 "Four-Bedroom": 1880
+                                          },
+                                          {
+                                                 "zip_code": "80835",
+                                                 "Efficiency": 750,
+                                                 "One-Bedroom": 850,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1460,
+                                                 "Four-Bedroom": 1680
+                                          },
+                                          {
+                                                 "zip_code": "80840",
+                                                 "Efficiency": 1080,
+                                                 "One-Bedroom": 1300,
+                                                 "Two-Bedroom": 1650,
+                                                 "Three-Bedroom": 2380,
+                                                 "Four-Bedroom": 2900
+                                          },
+                                          {
+                                                 "zip_code": "80841",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80863",
+                                                 "Efficiency": 790,
+                                                 "One-Bedroom": 930,
+                                                 "Two-Bedroom": 1220,
+                                                 "Three-Bedroom": 1760,
+                                                 "Four-Bedroom": 2030
+                                          },
+                                          {
+                                                 "zip_code": "80864",
+                                                 "Efficiency": 690,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1860
+                                          },
+                                          {
+                                                 "zip_code": "80901",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80902",
+                                                 "Efficiency": 1020,
+                                                 "One-Bedroom": 1230,
+                                                 "Two-Bedroom": 1560,
+                                                 "Three-Bedroom": 2250,
+                                                 "Four-Bedroom": 2740
+                                          },
+                                          {
+                                                 "zip_code": "80903",
+                                                 "Efficiency": 670,
+                                                 "One-Bedroom": 810,
+                                                 "Two-Bedroom": 1030,
+                                                 "Three-Bedroom": 1490,
+                                                 "Four-Bedroom": 1810
+                                          },
+                                          {
+                                                 "zip_code": "80904",
+                                                 "Efficiency": 700,
+                                                 "One-Bedroom": 850,
+                                                 "Two-Bedroom": 1080,
+                                                 "Three-Bedroom": 1560,
+                                                 "Four-Bedroom": 1900
+                                          },
+                                          {
+                                                 "zip_code": "80905",
+                                                 "Efficiency": 590,
+                                                 "One-Bedroom": 720,
+                                                 "Two-Bedroom": 910,
+                                                 "Three-Bedroom": 1310,
+                                                 "Four-Bedroom": 1600
+                                          },
+                                          {
+                                                 "zip_code": "80906",
+                                                 "Efficiency": 860,
+                                                 "One-Bedroom": 1040,
+                                                 "Two-Bedroom": 1320,
+                                                 "Three-Bedroom": 1900,
+                                                 "Four-Bedroom": 2320
+                                          },
+                                          {
+                                                 "zip_code": "80907",
+                                                 "Efficiency": 650,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1000,
+                                                 "Three-Bedroom": 1440,
+                                                 "Four-Bedroom": 1760
+                                          },
+                                          {
+                                                 "zip_code": "80908",
+                                                 "Efficiency": 1110,
+                                                 "One-Bedroom": 1340,
+                                                 "Two-Bedroom": 1710,
+                                                 "Three-Bedroom": 2470,
+                                                 "Four-Bedroom": 3000
+                                          },
+                                          {
+                                                 "zip_code": "80909",
+                                                 "Efficiency": 630,
+                                                 "One-Bedroom": 760,
+                                                 "Two-Bedroom": 970,
+                                                 "Three-Bedroom": 1400,
+                                                 "Four-Bedroom": 1700
+                                          },
+                                          {
+                                                 "zip_code": "80910",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1050,
+                                                 "Three-Bedroom": 1510,
+                                                 "Four-Bedroom": 1840
+                                          },
+                                          {
+                                                 "zip_code": "80911",
+                                                 "Efficiency": 860,
+                                                 "One-Bedroom": 1040,
+                                                 "Two-Bedroom": 1320,
+                                                 "Three-Bedroom": 1900,
+                                                 "Four-Bedroom": 2320
+                                          },
+                                          {
+                                                 "zip_code": "80913",
+                                                 "Efficiency": 1020,
+                                                 "One-Bedroom": 1230,
+                                                 "Two-Bedroom": 1570,
+                                                 "Three-Bedroom": 2260,
+                                                 "Four-Bedroom": 2760
+                                          },
+                                          {
+                                                 "zip_code": "80914",
+                                                 "Efficiency": 730,
+                                                 "One-Bedroom": 870,
+                                                 "Two-Bedroom": 1110,
+                                                 "Three-Bedroom": 1600,
+                                                 "Four-Bedroom": 1950
+                                          },
+                                          {
+                                                 "zip_code": "80915",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 820,
+                                                 "Two-Bedroom": 1040,
+                                                 "Three-Bedroom": 1500,
+                                                 "Four-Bedroom": 1830
+                                          },
+                                          {
+                                                 "zip_code": "80916",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 890,
+                                                 "Two-Bedroom": 1130,
+                                                 "Three-Bedroom": 1630,
+                                                 "Four-Bedroom": 1980
+                                          },
+                                          {
+                                                 "zip_code": "80917",
+                                                 "Efficiency": 730,
+                                                 "One-Bedroom": 880,
+                                                 "Two-Bedroom": 1120,
+                                                 "Three-Bedroom": 1620,
+                                                 "Four-Bedroom": 1970
+                                          },
+                                          {
+                                                 "zip_code": "80918",
+                                                 "Efficiency": 820,
+                                                 "One-Bedroom": 990,
+                                                 "Two-Bedroom": 1260,
+                                                 "Three-Bedroom": 1820,
+                                                 "Four-Bedroom": 2210
+                                          },
+                                          {
+                                                 "zip_code": "80919",
+                                                 "Efficiency": 830,
+                                                 "One-Bedroom": 1010,
+                                                 "Two-Bedroom": 1280,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2250
+                                          },
+                                          {
+                                                 "zip_code": "80920",
+                                                 "Efficiency": 940,
+                                                 "One-Bedroom": 1140,
+                                                 "Two-Bedroom": 1450,
+                                                 "Three-Bedroom": 2090,
+                                                 "Four-Bedroom": 2550
+                                          },
+                                          {
+                                                 "zip_code": "80921",
+                                                 "Efficiency": 1000,
+                                                 "One-Bedroom": 1200,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2210,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80922",
+                                                 "Efficiency": 1020,
+                                                 "One-Bedroom": 1230,
+                                                 "Two-Bedroom": 1570,
+                                                 "Three-Bedroom": 2260,
+                                                 "Four-Bedroom": 2760
+                                          },
+                                          {
+                                                 "zip_code": "80923",
+                                                 "Efficiency": 1070,
+                                                 "One-Bedroom": 1290,
+                                                 "Two-Bedroom": 1640,
+                                                 "Three-Bedroom": 2370,
+                                                 "Four-Bedroom": 2880
+                                          },
+                                          {
+                                                 "zip_code": "80924",
+                                                 "Efficiency": 1110,
+                                                 "One-Bedroom": 1340,
+                                                 "Two-Bedroom": 1710,
+                                                 "Three-Bedroom": 2470,
+                                                 "Four-Bedroom": 3000
+                                          },
+                                          {
+                                                 "zip_code": "80925",
+                                                 "Efficiency": 1110,
+                                                 "One-Bedroom": 1340,
+                                                 "Two-Bedroom": 1710,
+                                                 "Three-Bedroom": 2470,
+                                                 "Four-Bedroom": 3000
+                                          },
+                                          {
+                                                 "zip_code": "80926",
+                                                 "Efficiency": 540,
+                                                 "One-Bedroom": 650,
+                                                 "Two-Bedroom": 830,
+                                                 "Three-Bedroom": 1210,
+                                                 "Four-Bedroom": 1460
+                                          },
+                                          {
+                                                 "zip_code": "80927",
+                                                 "Efficiency": 1110,
+                                                 "One-Bedroom": 1340,
+                                                 "Two-Bedroom": 1710,
+                                                 "Three-Bedroom": 2470,
+                                                 "Four-Bedroom": 3000
+                                          },
+                                          {
+                                                 "zip_code": "80928",
+                                                 "Efficiency": 780,
+                                                 "One-Bedroom": 940,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1730,
+                                                 "Four-Bedroom": 2110
+                                          },
+                                          {
+                                                 "zip_code": "80929",
+                                                 "Efficiency": 960,
+                                                 "One-Bedroom": 1160,
+                                                 "Two-Bedroom": 1470,
+                                                 "Three-Bedroom": 2120,
+                                                 "Four-Bedroom": 2590
+                                          },
+                                          {
+                                                 "zip_code": "80930",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1190,
+                                                 "Two-Bedroom": 1510,
+                                                 "Three-Bedroom": 2180,
+                                                 "Four-Bedroom": 2650
+                                          },
+                                          {
+                                                 "zip_code": "80931",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80932",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80933",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80934",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80935",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80936",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80937",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80938",
+                                                 "Efficiency": 1100,
+                                                 "One-Bedroom": 1320,
+                                                 "Two-Bedroom": 1690,
+                                                 "Three-Bedroom": 2440,
+                                                 "Four-Bedroom": 2960
+                                          },
+                                          {
+                                                 "zip_code": "80939",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80949",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80951",
+                                                 "Efficiency": 1110,
+                                                 "One-Bedroom": 1340,
+                                                 "Two-Bedroom": 1710,
+                                                 "Three-Bedroom": 2470,
+                                                 "Four-Bedroom": 3000
+                                          },
+                                          {
+                                                 "zip_code": "80960",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80962",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80970",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1640,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "81008",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 780,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1390,
+                                                 "Four-Bedroom": 1610
+                                          }
+                                   ]
+                            }
+                     }
+              },
+              {
+                     "returned": {
+                            "data": {
+                                   "county_name": "",
+                                   "counties_msa": "El Paso County, CO; ",
+                                   "town_name": "",
+                                   "metro_status": "1",
+                                   "metro_name": "Colorado Springs, CO MSA",
+                                   "area_name": "Colorado Springs, CO HUD Metro FMR Area",
+                                   "smallarea_status": "1",
+                                   "year": "2021",
+                                   "basicdata": [
+                                          {
+                                                 "zip_code": "80106",
+                                                 "Efficiency": 1180,
+                                                 "One-Bedroom": 1380,
+                                                 "Two-Bedroom": 1720,
+                                                 "Three-Bedroom": 2440,
+                                                 "Four-Bedroom": 2890
+                                          },
+                                          {
+                                                 "zip_code": "80118",
+                                                 "Efficiency": 1770,
+                                                 "One-Bedroom": 1960,
+                                                 "Two-Bedroom": 2410,
+                                                 "Three-Bedroom": 3280,
+                                                 "Four-Bedroom": 3730
+                                          },
+                                          {
+                                                 "zip_code": "80132",
+                                                 "Efficiency": 1180,
+                                                 "One-Bedroom": 1400,
+                                                 "Two-Bedroom": 1770,
+                                                 "Three-Bedroom": 2530,
+                                                 "Four-Bedroom": 3060
+                                          },
+                                          {
+                                                 "zip_code": "80133",
+                                                 "Efficiency": 720,
+                                                 "One-Bedroom": 860,
+                                                 "Two-Bedroom": 1090,
+                                                 "Three-Bedroom": 1560,
+                                                 "Four-Bedroom": 1890
+                                          },
+                                          {
+                                                 "zip_code": "80808",
+                                                 "Efficiency": 690,
+                                                 "One-Bedroom": 820,
+                                                 "Two-Bedroom": 1030,
+                                                 "Three-Bedroom": 1470,
+                                                 "Four-Bedroom": 1770
+                                          },
+                                          {
+                                                 "zip_code": "80809",
+                                                 "Efficiency": 810,
+                                                 "One-Bedroom": 960,
+                                                 "Two-Bedroom": 1220,
+                                                 "Three-Bedroom": 1750,
+                                                 "Four-Bedroom": 2110
+                                          },
+                                          {
+                                                 "zip_code": "80817",
+                                                 "Efficiency": 960,
+                                                 "One-Bedroom": 1150,
+                                                 "Two-Bedroom": 1450,
+                                                 "Three-Bedroom": 2080,
+                                                 "Four-Bedroom": 2510
+                                          },
+                                          {
+                                                 "zip_code": "80819",
+                                                 "Efficiency": 620,
+                                                 "One-Bedroom": 730,
+                                                 "Two-Bedroom": 930,
+                                                 "Three-Bedroom": 1330,
+                                                 "Four-Bedroom": 1600
+                                          },
+                                          {
+                                                 "zip_code": "80829",
+                                                 "Efficiency": 660,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1000,
+                                                 "Three-Bedroom": 1430,
+                                                 "Four-Bedroom": 1730
+                                          },
+                                          {
+                                                 "zip_code": "80831",
+                                                 "Efficiency": 1200,
+                                                 "One-Bedroom": 1430,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2580,
+                                                 "Four-Bedroom": 3120
+                                          },
+                                          {
+                                                 "zip_code": "80832",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 880,
+                                                 "Two-Bedroom": 1100,
+                                                 "Three-Bedroom": 1540,
+                                                 "Four-Bedroom": 1810
+                                          },
+                                          {
+                                                 "zip_code": "80833",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 870,
+                                                 "Two-Bedroom": 1090,
+                                                 "Three-Bedroom": 1550,
+                                                 "Four-Bedroom": 1850
+                                          },
+                                          {
+                                                 "zip_code": "80835",
+                                                 "Efficiency": 730,
+                                                 "One-Bedroom": 800,
+                                                 "Two-Bedroom": 990,
+                                                 "Three-Bedroom": 1350,
+                                                 "Four-Bedroom": 1530
+                                          },
+                                          {
+                                                 "zip_code": "80840",
+                                                 "Efficiency": 1140,
+                                                 "One-Bedroom": 1360,
+                                                 "Two-Bedroom": 1720,
+                                                 "Three-Bedroom": 2460,
+                                                 "Four-Bedroom": 2980
+                                          },
+                                          {
+                                                 "zip_code": "80841",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80863",
+                                                 "Efficiency": 820,
+                                                 "One-Bedroom": 940,
+                                                 "Two-Bedroom": 1240,
+                                                 "Three-Bedroom": 1770,
+                                                 "Four-Bedroom": 2020
+                                          },
+                                          {
+                                                 "zip_code": "80864",
+                                                 "Efficiency": 720,
+                                                 "One-Bedroom": 860,
+                                                 "Two-Bedroom": 1090,
+                                                 "Three-Bedroom": 1560,
+                                                 "Four-Bedroom": 1890
+                                          },
+                                          {
+                                                 "zip_code": "80901",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80902",
+                                                 "Efficiency": 1100,
+                                                 "One-Bedroom": 1300,
+                                                 "Two-Bedroom": 1650,
+                                                 "Three-Bedroom": 2360,
+                                                 "Four-Bedroom": 2860
+                                          },
+                                          {
+                                                 "zip_code": "80903",
+                                                 "Efficiency": 700,
+                                                 "One-Bedroom": 840,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1520,
+                                                 "Four-Bedroom": 1840
+                                          },
+                                          {
+                                                 "zip_code": "80904",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 880,
+                                                 "Two-Bedroom": 1110,
+                                                 "Three-Bedroom": 1590,
+                                                 "Four-Bedroom": 1920
+                                          },
+                                          {
+                                                 "zip_code": "80905",
+                                                 "Efficiency": 640,
+                                                 "One-Bedroom": 770,
+                                                 "Two-Bedroom": 970,
+                                                 "Three-Bedroom": 1390,
+                                                 "Four-Bedroom": 1680
+                                          },
+                                          {
+                                                 "zip_code": "80906",
+                                                 "Efficiency": 910,
+                                                 "One-Bedroom": 1080,
+                                                 "Two-Bedroom": 1370,
+                                                 "Three-Bedroom": 1960,
+                                                 "Four-Bedroom": 2370
+                                          },
+                                          {
+                                                 "zip_code": "80907",
+                                                 "Efficiency": 690,
+                                                 "One-Bedroom": 820,
+                                                 "Two-Bedroom": 1040,
+                                                 "Three-Bedroom": 1490,
+                                                 "Four-Bedroom": 1800
+                                          },
+                                          {
+                                                 "zip_code": "80908",
+                                                 "Efficiency": 1200,
+                                                 "One-Bedroom": 1420,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2580,
+                                                 "Four-Bedroom": 3120
+                                          },
+                                          {
+                                                 "zip_code": "80909",
+                                                 "Efficiency": 670,
+                                                 "One-Bedroom": 800,
+                                                 "Two-Bedroom": 1010,
+                                                 "Three-Bedroom": 1450,
+                                                 "Four-Bedroom": 1750
+                                          },
+                                          {
+                                                 "zip_code": "80910",
+                                                 "Efficiency": 740,
+                                                 "One-Bedroom": 890,
+                                                 "Two-Bedroom": 1120,
+                                                 "Three-Bedroom": 1600,
+                                                 "Four-Bedroom": 1940
+                                          },
+                                          {
+                                                 "zip_code": "80911",
+                                                 "Efficiency": 900,
+                                                 "One-Bedroom": 1080,
+                                                 "Two-Bedroom": 1360,
+                                                 "Three-Bedroom": 1950,
+                                                 "Four-Bedroom": 2350
+                                          },
+                                          {
+                                                 "zip_code": "80912",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80913",
+                                                 "Efficiency": 990,
+                                                 "One-Bedroom": 1180,
+                                                 "Two-Bedroom": 1490,
+                                                 "Three-Bedroom": 2130,
+                                                 "Four-Bedroom": 2580
+                                          },
+                                          {
+                                                 "zip_code": "80914",
+                                                 "Efficiency": 1200,
+                                                 "One-Bedroom": 1420,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2580,
+                                                 "Four-Bedroom": 3120
+                                          },
+                                          {
+                                                 "zip_code": "80915",
+                                                 "Efficiency": 710,
+                                                 "One-Bedroom": 850,
+                                                 "Two-Bedroom": 1070,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1850
+                                          },
+                                          {
+                                                 "zip_code": "80916",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 920,
+                                                 "Two-Bedroom": 1160,
+                                                 "Three-Bedroom": 1660,
+                                                 "Four-Bedroom": 2010
+                                          },
+                                          {
+                                                 "zip_code": "80917",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 910,
+                                                 "Two-Bedroom": 1150,
+                                                 "Three-Bedroom": 1650,
+                                                 "Four-Bedroom": 1990
+                                          },
+                                          {
+                                                 "zip_code": "80918",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1050,
+                                                 "Two-Bedroom": 1330,
+                                                 "Three-Bedroom": 1900,
+                                                 "Four-Bedroom": 2300
+                                          },
+                                          {
+                                                 "zip_code": "80919",
+                                                 "Efficiency": 890,
+                                                 "One-Bedroom": 1060,
+                                                 "Two-Bedroom": 1340,
+                                                 "Three-Bedroom": 1920,
+                                                 "Four-Bedroom": 2320
+                                          },
+                                          {
+                                                 "zip_code": "80920",
+                                                 "Efficiency": 1020,
+                                                 "One-Bedroom": 1210,
+                                                 "Two-Bedroom": 1530,
+                                                 "Three-Bedroom": 2190,
+                                                 "Four-Bedroom": 2650
+                                          },
+                                          {
+                                                 "zip_code": "80921",
+                                                 "Efficiency": 1060,
+                                                 "One-Bedroom": 1270,
+                                                 "Two-Bedroom": 1600,
+                                                 "Three-Bedroom": 2290,
+                                                 "Four-Bedroom": 2770
+                                          },
+                                          {
+                                                 "zip_code": "80922",
+                                                 "Efficiency": 1100,
+                                                 "One-Bedroom": 1310,
+                                                 "Two-Bedroom": 1660,
+                                                 "Three-Bedroom": 2380,
+                                                 "Four-Bedroom": 2870
+                                          },
+                                          {
+                                                 "zip_code": "80923",
+                                                 "Efficiency": 1160,
+                                                 "One-Bedroom": 1380,
+                                                 "Two-Bedroom": 1740,
+                                                 "Three-Bedroom": 2490,
+                                                 "Four-Bedroom": 3010
+                                          },
+                                          {
+                                                 "zip_code": "80924",
+                                                 "Efficiency": 1200,
+                                                 "One-Bedroom": 1420,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2580,
+                                                 "Four-Bedroom": 3120
+                                          },
+                                          {
+                                                 "zip_code": "80925",
+                                                 "Efficiency": 1200,
+                                                 "One-Bedroom": 1420,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2580,
+                                                 "Four-Bedroom": 3120
+                                          },
+                                          {
+                                                 "zip_code": "80926",
+                                                 "Efficiency": 490,
+                                                 "One-Bedroom": 590,
+                                                 "Two-Bedroom": 750,
+                                                 "Three-Bedroom": 1090,
+                                                 "Four-Bedroom": 1320
+                                          },
+                                          {
+                                                 "zip_code": "80927",
+                                                 "Efficiency": 1200,
+                                                 "One-Bedroom": 1420,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2580,
+                                                 "Four-Bedroom": 3120
+                                          },
+                                          {
+                                                 "zip_code": "80928",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 920,
+                                                 "Two-Bedroom": 1160,
+                                                 "Three-Bedroom": 1660,
+                                                 "Four-Bedroom": 2010
+                                          },
+                                          {
+                                                 "zip_code": "80929",
+                                                 "Efficiency": 1010,
+                                                 "One-Bedroom": 1210,
+                                                 "Two-Bedroom": 1520,
+                                                 "Three-Bedroom": 2180,
+                                                 "Four-Bedroom": 2640
+                                          },
+                                          {
+                                                 "zip_code": "80930",
+                                                 "Efficiency": 1100,
+                                                 "One-Bedroom": 1310,
+                                                 "Two-Bedroom": 1660,
+                                                 "Three-Bedroom": 2380,
+                                                 "Four-Bedroom": 2870
+                                          },
+                                          {
+                                                 "zip_code": "80931",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80932",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80933",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80934",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80935",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80936",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80937",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80938",
+                                                 "Efficiency": 1180,
+                                                 "One-Bedroom": 1400,
+                                                 "Two-Bedroom": 1780,
+                                                 "Three-Bedroom": 2550,
+                                                 "Four-Bedroom": 3080
+                                          },
+                                          {
+                                                 "zip_code": "80939",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80949",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80951",
+                                                 "Efficiency": 1200,
+                                                 "One-Bedroom": 1420,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2580,
+                                                 "Four-Bedroom": 3120
+                                          },
+                                          {
+                                                 "zip_code": "80960",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80962",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "80970",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1720,
+                                                 "Four-Bedroom": 2080
+                                          },
+                                          {
+                                                 "zip_code": "81008",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 780,
+                                                 "Two-Bedroom": 1020,
+                                                 "Three-Bedroom": 1370,
+                                                 "Four-Bedroom": 1610
+                                          }
+                                   ]
+                            }
+                     }
+              },
+              {
+                     "returned": {
+                            "data": {
+                                   "county_name": "",
+                                   "counties_msa": "El Paso County, CO; ",
+                                   "town_name": "",
+                                   "metro_status": "1",
+                                   "metro_name": "Colorado Springs, CO",
+                                   "area_name": "Colorado Springs, CO HUD Metro FMR Area",
+                                   "smallarea_status": "1",
+                                   "year": "2022",
+                                   "basicdata": [
+                                          {
+                                                 "zip_code": "80106",
+                                                 "Efficiency": 1070,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1550,
+                                                 "Three-Bedroom": 2200,
+                                                 "Four-Bedroom": 2610
+                                          },
+                                          {
+                                                 "zip_code": "80118",
+                                                 "Efficiency": 1860,
+                                                 "One-Bedroom": 2050,
+                                                 "Two-Bedroom": 2490,
+                                                 "Three-Bedroom": 3340,
+                                                 "Four-Bedroom": 3750
+                                          },
+                                          {
+                                                 "zip_code": "80132",
+                                                 "Efficiency": 1300,
+                                                 "One-Bedroom": 1520,
+                                                 "Two-Bedroom": 1920,
+                                                 "Three-Bedroom": 2730,
+                                                 "Four-Bedroom": 3290
+                                          },
+                                          {
+                                                 "zip_code": "80133",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 930,
+                                                 "Two-Bedroom": 1170,
+                                                 "Three-Bedroom": 1660,
+                                                 "Four-Bedroom": 2000
+                                          },
+                                          {
+                                                 "zip_code": "80808",
+                                                 "Efficiency": 730,
+                                                 "One-Bedroom": 850,
+                                                 "Two-Bedroom": 1070,
+                                                 "Three-Bedroom": 1510,
+                                                 "Four-Bedroom": 1810
+                                          },
+                                          {
+                                                 "zip_code": "80809",
+                                                 "Efficiency": 1010,
+                                                 "One-Bedroom": 1170,
+                                                 "Two-Bedroom": 1480,
+                                                 "Three-Bedroom": 2100,
+                                                 "Four-Bedroom": 2530
+                                          },
+                                          {
+                                                 "zip_code": "80817",
+                                                 "Efficiency": 1070,
+                                                 "One-Bedroom": 1250,
+                                                 "Two-Bedroom": 1570,
+                                                 "Three-Bedroom": 2230,
+                                                 "Four-Bedroom": 2690
+                                          },
+                                          {
+                                                 "zip_code": "80819",
+                                                 "Efficiency": 680,
+                                                 "One-Bedroom": 790,
+                                                 "Two-Bedroom": 1000,
+                                                 "Three-Bedroom": 1420,
+                                                 "Four-Bedroom": 1710
+                                          },
+                                          {
+                                                 "zip_code": "80829",
+                                                 "Efficiency": 730,
+                                                 "One-Bedroom": 860,
+                                                 "Two-Bedroom": 1080,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1850
+                                          },
+                                          {
+                                                 "zip_code": "80831",
+                                                 "Efficiency": 1330,
+                                                 "One-Bedroom": 1550,
+                                                 "Two-Bedroom": 1950,
+                                                 "Three-Bedroom": 2770,
+                                                 "Four-Bedroom": 3340
+                                          },
+                                          {
+                                                 "zip_code": "80832",
+                                                 "Efficiency": 700,
+                                                 "One-Bedroom": 800,
+                                                 "Two-Bedroom": 990,
+                                                 "Three-Bedroom": 1390,
+                                                 "Four-Bedroom": 1630
+                                          },
+                                          {
+                                                 "zip_code": "80833",
+                                                 "Efficiency": 720,
+                                                 "One-Bedroom": 830,
+                                                 "Two-Bedroom": 1040,
+                                                 "Three-Bedroom": 1460,
+                                                 "Four-Bedroom": 1740
+                                          },
+                                          {
+                                                 "zip_code": "80835",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 860,
+                                                 "Two-Bedroom": 1040,
+                                                 "Three-Bedroom": 1400,
+                                                 "Four-Bedroom": 1570
+                                          },
+                                          {
+                                                 "zip_code": "80840",
+                                                 "Efficiency": 1260,
+                                                 "One-Bedroom": 1470,
+                                                 "Two-Bedroom": 1850,
+                                                 "Three-Bedroom": 2630,
+                                                 "Four-Bedroom": 3170
+                                          },
+                                          {
+                                                 "zip_code": "80841",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80863",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1040,
+                                                 "Two-Bedroom": 1330,
+                                                 "Three-Bedroom": 1890,
+                                                 "Four-Bedroom": 2280
+                                          },
+                                          {
+                                                 "zip_code": "80864",
+                                                 "Efficiency": 730,
+                                                 "One-Bedroom": 860,
+                                                 "Two-Bedroom": 1080,
+                                                 "Three-Bedroom": 1530,
+                                                 "Four-Bedroom": 1850
+                                          },
+                                          {
+                                                 "zip_code": "80901",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80902",
+                                                 "Efficiency": 1220,
+                                                 "One-Bedroom": 1430,
+                                                 "Two-Bedroom": 1800,
+                                                 "Three-Bedroom": 2560,
+                                                 "Four-Bedroom": 3080
+                                          },
+                                          {
+                                                 "zip_code": "80903",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1130,
+                                                 "Three-Bedroom": 1610,
+                                                 "Four-Bedroom": 1930
+                                          },
+                                          {
+                                                 "zip_code": "80904",
+                                                 "Efficiency": 820,
+                                                 "One-Bedroom": 950,
+                                                 "Two-Bedroom": 1200,
+                                                 "Three-Bedroom": 1700,
+                                                 "Four-Bedroom": 2050
+                                          },
+                                          {
+                                                 "zip_code": "80905",
+                                                 "Efficiency": 720,
+                                                 "One-Bedroom": 840,
+                                                 "Two-Bedroom": 1060,
+                                                 "Three-Bedroom": 1510,
+                                                 "Four-Bedroom": 1810
+                                          },
+                                          {
+                                                 "zip_code": "80906",
+                                                 "Efficiency": 1010,
+                                                 "One-Bedroom": 1170,
+                                                 "Two-Bedroom": 1480,
+                                                 "Three-Bedroom": 2100,
+                                                 "Four-Bedroom": 2530
+                                          },
+                                          {
+                                                 "zip_code": "80907",
+                                                 "Efficiency": 760,
+                                                 "One-Bedroom": 890,
+                                                 "Two-Bedroom": 1120,
+                                                 "Three-Bedroom": 1590,
+                                                 "Four-Bedroom": 1920
+                                          },
+                                          {
+                                                 "zip_code": "80908",
+                                                 "Efficiency": 1330,
+                                                 "One-Bedroom": 1550,
+                                                 "Two-Bedroom": 1950,
+                                                 "Three-Bedroom": 2770,
+                                                 "Four-Bedroom": 3340
+                                          },
+                                          {
+                                                 "zip_code": "80909",
+                                                 "Efficiency": 750,
+                                                 "One-Bedroom": 870,
+                                                 "Two-Bedroom": 1100,
+                                                 "Three-Bedroom": 1560,
+                                                 "Four-Bedroom": 1880
+                                          },
+                                          {
+                                                 "zip_code": "80910",
+                                                 "Efficiency": 840,
+                                                 "One-Bedroom": 980,
+                                                 "Two-Bedroom": 1240,
+                                                 "Three-Bedroom": 1760,
+                                                 "Four-Bedroom": 2120
+                                          },
+                                          {
+                                                 "zip_code": "80911",
+                                                 "Efficiency": 1000,
+                                                 "One-Bedroom": 1170,
+                                                 "Two-Bedroom": 1470,
+                                                 "Three-Bedroom": 2090,
+                                                 "Four-Bedroom": 2520
+                                          },
+                                          {
+                                                 "zip_code": "80912",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80913",
+                                                 "Efficiency": 1100,
+                                                 "One-Bedroom": 1290,
+                                                 "Two-Bedroom": 1620,
+                                                 "Three-Bedroom": 2300,
+                                                 "Four-Bedroom": 2770
+                                          },
+                                          {
+                                                 "zip_code": "80914",
+                                                 "Efficiency": 1330,
+                                                 "One-Bedroom": 1550,
+                                                 "Two-Bedroom": 1950,
+                                                 "Three-Bedroom": 2770,
+                                                 "Four-Bedroom": 3340
+                                          },
+                                          {
+                                                 "zip_code": "80915",
+                                                 "Efficiency": 800,
+                                                 "One-Bedroom": 940,
+                                                 "Two-Bedroom": 1180,
+                                                 "Three-Bedroom": 1680,
+                                                 "Four-Bedroom": 2020
+                                          },
+                                          {
+                                                 "zip_code": "80916",
+                                                 "Efficiency": 840,
+                                                 "One-Bedroom": 980,
+                                                 "Two-Bedroom": 1240,
+                                                 "Three-Bedroom": 1760,
+                                                 "Four-Bedroom": 2120
+                                          },
+                                          {
+                                                 "zip_code": "80917",
+                                                 "Efficiency": 770,
+                                                 "One-Bedroom": 900,
+                                                 "Two-Bedroom": 1140,
+                                                 "Three-Bedroom": 1620,
+                                                 "Four-Bedroom": 1950
+                                          },
+                                          {
+                                                 "zip_code": "80918",
+                                                 "Efficiency": 980,
+                                                 "One-Bedroom": 1140,
+                                                 "Two-Bedroom": 1440,
+                                                 "Three-Bedroom": 2050,
+                                                 "Four-Bedroom": 2460
+                                          },
+                                          {
+                                                 "zip_code": "80919",
+                                                 "Efficiency": 990,
+                                                 "One-Bedroom": 1150,
+                                                 "Two-Bedroom": 1450,
+                                                 "Three-Bedroom": 2060,
+                                                 "Four-Bedroom": 2480
+                                          },
+                                          {
+                                                 "zip_code": "80920",
+                                                 "Efficiency": 1130,
+                                                 "One-Bedroom": 1320,
+                                                 "Two-Bedroom": 1660,
+                                                 "Three-Bedroom": 2360,
+                                                 "Four-Bedroom": 2840
+                                          },
+                                          {
+                                                 "zip_code": "80921",
+                                                 "Efficiency": 1180,
+                                                 "One-Bedroom": 1370,
+                                                 "Two-Bedroom": 1730,
+                                                 "Three-Bedroom": 2460,
+                                                 "Four-Bedroom": 2960
+                                          },
+                                          {
+                                                 "zip_code": "80922",
+                                                 "Efficiency": 1210,
+                                                 "One-Bedroom": 1410,
+                                                 "Two-Bedroom": 1780,
+                                                 "Three-Bedroom": 2530,
+                                                 "Four-Bedroom": 3050
+                                          },
+                                          {
+                                                 "zip_code": "80923",
+                                                 "Efficiency": 1260,
+                                                 "One-Bedroom": 1480,
+                                                 "Two-Bedroom": 1860,
+                                                 "Three-Bedroom": 2640,
+                                                 "Four-Bedroom": 3180
+                                          },
+                                          {
+                                                 "zip_code": "80924",
+                                                 "Efficiency": 1330,
+                                                 "One-Bedroom": 1550,
+                                                 "Two-Bedroom": 1950,
+                                                 "Three-Bedroom": 2770,
+                                                 "Four-Bedroom": 3340
+                                          },
+                                          {
+                                                 "zip_code": "80925",
+                                                 "Efficiency": 1330,
+                                                 "One-Bedroom": 1550,
+                                                 "Two-Bedroom": 1950,
+                                                 "Three-Bedroom": 2770,
+                                                 "Four-Bedroom": 3340
+                                          },
+                                          {
+                                                 "zip_code": "80926",
+                                                 "Efficiency": 540,
+                                                 "One-Bedroom": 630,
+                                                 "Two-Bedroom": 790,
+                                                 "Three-Bedroom": 1120,
+                                                 "Four-Bedroom": 1350
+                                          },
+                                          {
+                                                 "zip_code": "80927",
+                                                 "Efficiency": 1330,
+                                                 "One-Bedroom": 1550,
+                                                 "Two-Bedroom": 1950,
+                                                 "Three-Bedroom": 2770,
+                                                 "Four-Bedroom": 3340
+                                          },
+                                          {
+                                                 "zip_code": "80928",
+                                                 "Efficiency": 790,
+                                                 "One-Bedroom": 920,
+                                                 "Two-Bedroom": 1160,
+                                                 "Three-Bedroom": 1650,
+                                                 "Four-Bedroom": 1990
+                                          },
+                                          {
+                                                 "zip_code": "80929",
+                                                 "Efficiency": 1110,
+                                                 "One-Bedroom": 1290,
+                                                 "Two-Bedroom": 1630,
+                                                 "Three-Bedroom": 2310,
+                                                 "Four-Bedroom": 2790
+                                          },
+                                          {
+                                                 "zip_code": "80930",
+                                                 "Efficiency": 1240,
+                                                 "One-Bedroom": 1450,
+                                                 "Two-Bedroom": 1830,
+                                                 "Three-Bedroom": 2600,
+                                                 "Four-Bedroom": 3130
+                                          },
+                                          {
+                                                 "zip_code": "80931",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80932",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80933",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80934",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80935",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80936",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80937",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80938",
+                                                 "Efficiency": 1290,
+                                                 "One-Bedroom": 1510,
+                                                 "Two-Bedroom": 1900,
+                                                 "Three-Bedroom": 2690,
+                                                 "Four-Bedroom": 3240
+                                          },
+                                          {
+                                                 "zip_code": "80939",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80949",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80951",
+                                                 "Efficiency": 1280,
+                                                 "One-Bedroom": 1500,
+                                                 "Two-Bedroom": 1890,
+                                                 "Three-Bedroom": 2680,
+                                                 "Four-Bedroom": 3230
+                                          },
+                                          {
+                                                 "zip_code": "80960",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80962",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "80970",
+                                                 "Efficiency": 880,
+                                                 "One-Bedroom": 1030,
+                                                 "Two-Bedroom": 1300,
+                                                 "Three-Bedroom": 1850,
+                                                 "Four-Bedroom": 2230
+                                          },
+                                          {
+                                                 "zip_code": "81008",
+                                                 "Efficiency": 990,
+                                                 "One-Bedroom": 1010,
+                                                 "Two-Bedroom": 1330,
+                                                 "Three-Bedroom": 1740,
+                                                 "Four-Bedroom": 2070
+                                          }
+                                   ]
+                            }
+                     }
+              }
+       ]
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 544,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1230,
+                                   "Four-Bedroom": 1489,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 843,
+                                   "Three-Bedroom": 1226,
+                                   "Four-Bedroom": 1485,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 652,
+                                   "One-Bedroom": 706,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1327,
+                                   "Four-Bedroom": 1612,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 693,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 930,
+                                   "Three-Bedroom": 1342,
+                                   "Four-Bedroom": 1633,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 712,
+                                   "One-Bedroom": 756,
+                                   "Two-Bedroom": 950,
+                                   "Three-Bedroom": 1360,
+                                   "Four-Bedroom": 1645,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS",
+                            "area_name": "Lawrence, KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 702,
+                                   "One-Bedroom": 753,
+                                   "Two-Bedroom": 937,
+                                   "Three-Bedroom": 1331,
+                                   "Four-Bedroom": 1565,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "year": "2017",
+                            "median_income": 68500,
+                            "very_low": {
+                                   "il50_p1": 24850,
+                                   "il50_p2": 28400,
+                                   "il50_p3": 31950,
+                                   "il50_p4": 35500,
+                                   "il50_p5": 38350,
+                                   "il50_p6": 41200,
+                                   "il50_p7": 44050,
+                                   "il50_p8": 46900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17050,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39800,
+                                   "il80_p2": 45450,
+                                   "il80_p3": 51150,
+                                   "il80_p4": 56800,
+                                   "il80_p5": 61350,
+                                   "il80_p6": 65900,
+                                   "il80_p7": 70450,
+                                   "il80_p8": 75000
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "year": "2018",
+                            "median_income": 87400,
+                            "very_low": {
+                                   "il50_p1": 27700,
+                                   "il50_p2": 31650,
+                                   "il50_p3": 35600,
+                                   "il50_p4": 39550,
+                                   "il50_p5": 42750,
+                                   "il50_p6": 45900,
+                                   "il50_p7": 49050,
+                                   "il50_p8": 52250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21400,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50650,
+                                   "il80_p3": 57000,
+                                   "il80_p4": 63300,
+                                   "il80_p5": 68400,
+                                   "il80_p6": 73450,
+                                   "il80_p7": 78500,
+                                   "il80_p8": 83600
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "year": "2019",
+                            "median_income": 81900,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 40950,
+                                   "il50_p5": 44250,
+                                   "il50_p6": 47550,
+                                   "il50_p7": 50800,
+                                   "il50_p8": 54100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65500,
+                                   "il80_p5": 70750,
+                                   "il80_p6": 76000,
+                                   "il80_p7": 81250,
+                                   "il80_p8": 86500
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "year": "2020",
+                            "median_income": 88800,
+                            "very_low": {
+                                   "il50_p1": 30950,
+                                   "il50_p2": 35400,
+                                   "il50_p3": 39800,
+                                   "il50_p4": 44200,
+                                   "il50_p5": 47750,
+                                   "il50_p6": 51300,
+                                   "il50_p7": 54850,
+                                   "il50_p8": 58350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 49500,
+                                   "il80_p2": 56600,
+                                   "il80_p3": 63650,
+                                   "il80_p4": 70700,
+                                   "il80_p5": 76400,
+                                   "il80_p6": 82050,
+                                   "il80_p7": 87700,
+                                   "il80_p8": 93350
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS MSA",
+                            "area_name": "Lawrence, KS MSA",
+                            "year": "2021",
+                            "median_income": 84500,
+                            "very_low": {
+                                   "il50_p1": 29600,
+                                   "il50_p2": 33800,
+                                   "il50_p3": 38050,
+                                   "il50_p4": 42250,
+                                   "il50_p5": 45650,
+                                   "il50_p6": 49050,
+                                   "il50_p7": 52400,
+                                   "il50_p8": 55800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20300,
+                                   "il30_p3": 22850,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47350,
+                                   "il80_p2": 54100,
+                                   "il80_p3": 60850,
+                                   "il80_p4": 67600,
+                                   "il80_p5": 73050,
+                                   "il80_p6": 78450,
+                                   "il80_p7": 83850,
+                                   "il80_p8": 89250
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, KS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawrence, KS",
+                            "area_name": "Lawrence, KS MSA",
+                            "year": "2022",
+                            "median_income": 99100,
+                            "very_low": {
+                                   "il50_p1": 33100,
+                                   "il50_p2": 37800,
+                                   "il50_p3": 42550,
+                                   "il50_p4": 47250,
+                                   "il50_p5": 51050,
+                                   "il50_p6": 54850,
+                                   "il50_p7": 58600,
+                                   "il50_p8": 62400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19850,
+                                   "il30_p2": 22700,
+                                   "il30_p3": 25550,
+                                   "il30_p4": 28350,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52950,
+                                   "il80_p2": 60500,
+                                   "il80_p3": 68050,
+                                   "il80_p4": 75600,
+                                   "il80_p5": 81650,
+                                   "il80_p6": 87700,
+                                   "il80_p7": 93750,
+                                   "il80_p8": 99800
+                            }
+                     }
+              ]
+       }
+}

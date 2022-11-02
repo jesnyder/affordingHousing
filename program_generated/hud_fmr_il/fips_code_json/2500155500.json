@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 845,
+                                   "One-Bedroom": 933,
+                                   "Two-Bedroom": 1240,
+                                   "Three-Bedroom": 1554,
+                                   "Four-Bedroom": 1709,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 956,
+                                   "One-Bedroom": 1083,
+                                   "Two-Bedroom": 1441,
+                                   "Three-Bedroom": 1817,
+                                   "Four-Bedroom": 1984,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 979,
+                                   "One-Bedroom": 1152,
+                                   "Two-Bedroom": 1524,
+                                   "Three-Bedroom": 1931,
+                                   "Four-Bedroom": 2101,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 986,
+                                   "One-Bedroom": 1149,
+                                   "Two-Bedroom": 1513,
+                                   "Three-Bedroom": 1919,
+                                   "Four-Bedroom": 2050,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1100,
+                                   "One-Bedroom": 1265,
+                                   "Two-Bedroom": 1667,
+                                   "Three-Bedroom": 2089,
+                                   "Four-Bedroom": 2261,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1248,
+                                   "One-Bedroom": 1428,
+                                   "Two-Bedroom": 1879,
+                                   "Three-Bedroom": 2323,
+                                   "Four-Bedroom": 2548,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "year": "2017",
+                            "median_income": 90200,
+                            "very_low": {
+                                   "il50_p1": 31600,
+                                   "il50_p2": 36100,
+                                   "il50_p3": 40600,
+                                   "il50_p4": 45100,
+                                   "il50_p5": 48750,
+                                   "il50_p6": 52350,
+                                   "il50_p7": 55950,
+                                   "il50_p8": 59550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18950,
+                                   "il30_p2": 21650,
+                                   "il30_p3": 24350,
+                                   "il30_p4": 27050,
+                                   "il30_p5": 29250,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "year": "2018",
+                            "median_income": 86200,
+                            "very_low": {
+                                   "il50_p1": 30200,
+                                   "il50_p2": 34500,
+                                   "il50_p3": 38800,
+                                   "il50_p4": 43100,
+                                   "il50_p5": 46550,
+                                   "il50_p6": 50000,
+                                   "il50_p7": 53450,
+                                   "il50_p8": 56900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18100,
+                                   "il30_p2": 20700,
+                                   "il30_p3": 23300,
+                                   "il30_p4": 25850,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 48300,
+                                   "il80_p2": 55200,
+                                   "il80_p3": 62100,
+                                   "il80_p4": 68950,
+                                   "il80_p5": 74500,
+                                   "il80_p6": 80000,
+                                   "il80_p7": 85500,
+                                   "il80_p8": 91050
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "year": "2019",
+                            "median_income": 91300,
+                            "very_low": {
+                                   "il50_p1": 32050,
+                                   "il50_p2": 36600,
+                                   "il50_p3": 41200,
+                                   "il50_p4": 45750,
+                                   "il50_p5": 49450,
+                                   "il50_p6": 53100,
+                                   "il50_p7": 56750,
+                                   "il50_p8": 60400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27450,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 51250,
+                                   "il80_p2": 58600,
+                                   "il80_p3": 65900,
+                                   "il80_p4": 73200,
+                                   "il80_p5": 79100,
+                                   "il80_p6": 84950,
+                                   "il80_p7": 90800,
+                                   "il80_p8": 96650
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "year": "2020",
+                            "median_income": 96600,
+                            "very_low": {
+                                   "il50_p1": 33850,
+                                   "il50_p2": 38650,
+                                   "il50_p3": 43500,
+                                   "il50_p4": 48300,
+                                   "il50_p5": 52200,
+                                   "il50_p6": 56050,
+                                   "il50_p7": 59900,
+                                   "il50_p8": 63800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20300,
+                                   "il30_p2": 23200,
+                                   "il30_p3": 26100,
+                                   "il30_p4": 29000,
+                                   "il30_p5": 31350,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54150,
+                                   "il80_p2": 61850,
+                                   "il80_p3": 69600,
+                                   "il80_p4": 77300,
+                                   "il80_p5": 83500,
+                                   "il80_p6": 89700,
+                                   "il80_p7": 95900,
+                                   "il80_p8": 102050
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA MSA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "year": "2021",
+                            "median_income": 89300,
+                            "very_low": {
+                                   "il50_p1": 34050,
+                                   "il50_p2": 38900,
+                                   "il50_p3": 43750,
+                                   "il50_p4": 48600,
+                                   "il50_p5": 52500,
+                                   "il50_p6": 56400,
+                                   "il50_p7": 60300,
+                                   "il50_p8": 64200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20450,
+                                   "il30_p2": 23350,
+                                   "il30_p3": 26250,
+                                   "il30_p4": 29150,
+                                   "il30_p5": 31500,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 54450,
+                                   "il80_p2": 62200,
+                                   "il80_p3": 70000,
+                                   "il80_p4": 77750,
+                                   "il80_p5": 84000,
+                                   "il80_p6": 90200,
+                                   "il80_p7": 96450,
+                                   "il80_p8": 102650
+                            }
+                     },
+                     {
+                            "county_name": "Barnstable County, MA",
+                            "counties_msa": "",
+                            "town_name": "Provincetown town",
+                            "metro_status": "1",
+                            "metro_name": "Barnstable Town, MA",
+                            "area_name": "Barnstable Town, MA MSA",
+                            "year": "2022",
+                            "median_income": 115600,
+                            "very_low": {
+                                   "il50_p1": 38050,
+                                   "il50_p2": 43500,
+                                   "il50_p3": 48950,
+                                   "il50_p4": 54350,
+                                   "il50_p5": 58700,
+                                   "il50_p6": 63050,
+                                   "il50_p7": 67400,
+                                   "il50_p8": 71750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22850,
+                                   "il30_p2": 26100,
+                                   "il30_p3": 29350,
+                                   "il30_p4": 32600,
+                                   "il30_p5": 35250,
+                                   "il30_p6": 37850,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 60900,
+                                   "il80_p2": 69600,
+                                   "il80_p3": 78300,
+                                   "il80_p4": 86950,
+                                   "il80_p5": 93950,
+                                   "il80_p6": 100900,
+                                   "il80_p7": 107850,
+                                   "il80_p8": 114800
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 749,
+                                   "Two-Bedroom": 869,
+                                   "Three-Bedroom": 1134,
+                                   "Four-Bedroom": 1388,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 662,
+                                   "One-Bedroom": 674,
+                                   "Two-Bedroom": 890,
+                                   "Three-Bedroom": 1122,
+                                   "Four-Bedroom": 1372,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 695,
+                                   "One-Bedroom": 700,
+                                   "Two-Bedroom": 926,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1425,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 640,
+                                   "One-Bedroom": 644,
+                                   "Two-Bedroom": 848,
+                                   "Three-Bedroom": 1057,
+                                   "Four-Bedroom": 1328,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 759,
+                                   "One-Bedroom": 764,
+                                   "Two-Bedroom": 1007,
+                                   "Three-Bedroom": 1253,
+                                   "Four-Bedroom": 1698,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Gulf County, FL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 775,
+                                   "One-Bedroom": 780,
+                                   "Two-Bedroom": 1026,
+                                   "Three-Bedroom": 1268,
+                                   "Four-Bedroom": 1716,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 49700,
+                            "very_low": {
+                                   "il50_p1": 17150,
+                                   "il50_p2": 19600,
+                                   "il50_p3": 22050,
+                                   "il50_p4": 24450,
+                                   "il50_p5": 26450,
+                                   "il50_p6": 28400,
+                                   "il50_p7": 30350,
+                                   "il50_p8": 32300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24450,
+                                   "il30_p5": 26450,
+                                   "il30_p6": 28400,
+                                   "il30_p7": 30350,
+                                   "il30_p8": 32300
+                            },
+                            "low": {
+                                   "il80_p1": 27400,
+                                   "il80_p2": 31300,
+                                   "il80_p3": 35200,
+                                   "il80_p4": 39100,
+                                   "il80_p5": 42250,
+                                   "il80_p6": 45400,
+                                   "il80_p7": 48500,
+                                   "il80_p8": 51650
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 52600,
+                            "very_low": {
+                                   "il50_p1": 18450,
+                                   "il50_p2": 21050,
+                                   "il50_p3": 23700,
+                                   "il50_p4": 26300,
+                                   "il50_p5": 28450,
+                                   "il50_p6": 30550,
+                                   "il50_p7": 32650,
+                                   "il50_p8": 34750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28450,
+                                   "il30_p6": 30550,
+                                   "il30_p7": 32650,
+                                   "il30_p8": 34750
+                            },
+                            "low": {
+                                   "il80_p1": 29500,
+                                   "il80_p2": 33700,
+                                   "il80_p3": 37900,
+                                   "il80_p4": 42100,
+                                   "il80_p5": 45500,
+                                   "il80_p6": 48850,
+                                   "il80_p7": 52250,
+                                   "il80_p8": 55600
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 54400,
+                            "very_low": {
+                                   "il50_p1": 19050,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24500,
+                                   "il50_p4": 27200,
+                                   "il50_p5": 29400,
+                                   "il50_p6": 31600,
+                                   "il50_p7": 33750,
+                                   "il50_p8": 35950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29400,
+                                   "il30_p6": 31600,
+                                   "il30_p7": 33750,
+                                   "il30_p8": 35950
+                            },
+                            "low": {
+                                   "il80_p1": 30450,
+                                   "il80_p2": 34800,
+                                   "il80_p3": 39150,
+                                   "il80_p4": 43500,
+                                   "il80_p5": 47000,
+                                   "il80_p6": 50500,
+                                   "il80_p7": 53950,
+                                   "il80_p8": 57450
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23500,
+                                   "il50_p3": 26450,
+                                   "il50_p4": 29350,
+                                   "il50_p5": 31700,
+                                   "il50_p6": 34050,
+                                   "il50_p7": 36400,
+                                   "il50_p8": 38750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34050,
+                                   "il30_p7": 36400,
+                                   "il30_p8": 38750
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 46950,
+                                   "il80_p5": 50750,
+                                   "il80_p6": 54500,
+                                   "il80_p7": 58250,
+                                   "il80_p8": 62000
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Panama City, FL MSA",
+                            "area_name": "Gulf County, FL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 56100,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23500,
+                                   "il50_p3": 26450,
+                                   "il50_p4": 29350,
+                                   "il50_p5": 31700,
+                                   "il50_p6": 34050,
+                                   "il50_p7": 36400,
+                                   "il50_p8": 38750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 34050,
+                                   "il30_p7": 36400,
+                                   "il30_p8": 38750
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 46950,
+                                   "il80_p5": 50750,
+                                   "il80_p6": 54500,
+                                   "il80_p7": 58250,
+                                   "il80_p8": 62000
+                            }
+                     },
+                     {
+                            "county_name": "Gulf County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Gulf County, FL",
+                            "year": "2022",
+                            "median_income": 61600,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24650,
+                                   "il50_p3": 27750,
+                                   "il50_p4": 30800,
+                                   "il50_p5": 33300,
+                                   "il50_p6": 35750,
+                                   "il50_p7": 38200,
+                                   "il50_p8": 40700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35750,
+                                   "il30_p7": 38200,
+                                   "il30_p8": 40700
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39450,
+                                   "il80_p3": 44400,
+                                   "il80_p4": 49300,
+                                   "il80_p5": 53250,
+                                   "il80_p6": 57200,
+                                   "il80_p7": 61150,
+                                   "il80_p8": 65100
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 490,
+                                   "One-Bedroom": 493,
+                                   "Two-Bedroom": 632,
+                                   "Three-Bedroom": 866,
+                                   "Four-Bedroom": 937,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 473,
+                                   "One-Bedroom": 476,
+                                   "Two-Bedroom": 633,
+                                   "Three-Bedroom": 859,
+                                   "Four-Bedroom": 862,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 488,
+                                   "One-Bedroom": 491,
+                                   "Two-Bedroom": 650,
+                                   "Three-Bedroom": 875,
+                                   "Four-Bedroom": 879,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 475,
+                                   "One-Bedroom": 478,
+                                   "Two-Bedroom": 630,
+                                   "Three-Bedroom": 833,
+                                   "Four-Bedroom": 911,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 493,
+                                   "One-Bedroom": 496,
+                                   "Two-Bedroom": 654,
+                                   "Three-Bedroom": 816,
+                                   "Four-Bedroom": 946,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 490,
+                                   "One-Bedroom": 493,
+                                   "Two-Bedroom": 649,
+                                   "Three-Bedroom": 802,
+                                   "Four-Bedroom": 894,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 42100,
+                            "very_low": {
+                                   "il50_p1": 16300,
+                                   "il50_p2": 18600,
+                                   "il50_p3": 20950,
+                                   "il50_p4": 23250,
+                                   "il50_p5": 25150,
+                                   "il50_p6": 27000,
+                                   "il50_p7": 28850,
+                                   "il50_p8": 30700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 23250,
+                                   "il30_p5": 25150,
+                                   "il30_p6": 27000,
+                                   "il30_p7": 28850,
+                                   "il30_p8": 30700
+                            },
+                            "low": {
+                                   "il80_p1": 26050,
+                                   "il80_p2": 29800,
+                                   "il80_p3": 33500,
+                                   "il80_p4": 37200,
+                                   "il80_p5": 40200,
+                                   "il80_p6": 43200,
+                                   "il80_p7": 46150,
+                                   "il80_p8": 49150
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 43300,
+                            "very_low": {
+                                   "il50_p1": 16900,
+                                   "il50_p2": 19300,
+                                   "il50_p3": 21700,
+                                   "il50_p4": 24100,
+                                   "il50_p5": 26050,
+                                   "il50_p6": 28000,
+                                   "il50_p7": 29900,
+                                   "il50_p8": 31850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24100,
+                                   "il30_p5": 26050,
+                                   "il30_p6": 28000,
+                                   "il30_p7": 29900,
+                                   "il30_p8": 31850
+                            },
+                            "low": {
+                                   "il80_p1": 27000,
+                                   "il80_p2": 30850,
+                                   "il80_p3": 34700,
+                                   "il80_p4": 38550,
+                                   "il80_p5": 41650,
+                                   "il80_p6": 44750,
+                                   "il80_p7": 47850,
+                                   "il80_p8": 50900
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 44800,
+                            "very_low": {
+                                   "il50_p1": 18250,
+                                   "il50_p2": 20850,
+                                   "il50_p3": 23450,
+                                   "il50_p4": 26050,
+                                   "il50_p5": 28150,
+                                   "il50_p6": 30250,
+                                   "il50_p7": 32350,
+                                   "il50_p8": 34400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28150,
+                                   "il30_p6": 30250,
+                                   "il30_p7": 32350,
+                                   "il30_p8": 34400
+                            },
+                            "low": {
+                                   "il80_p1": 29200,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37550,
+                                   "il80_p4": 41700,
+                                   "il80_p5": 45050,
+                                   "il80_p6": 48400,
+                                   "il80_p7": 51750,
+                                   "il80_p8": 55050
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 46600,
+                            "very_low": {
+                                   "il50_p1": 18400,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23650,
+                                   "il50_p4": 26250,
+                                   "il50_p5": 28350,
+                                   "il50_p6": 30450,
+                                   "il50_p7": 32550,
+                                   "il50_p8": 34650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 28350,
+                                   "il30_p6": 30450,
+                                   "il30_p7": 32550,
+                                   "il30_p8": 34650
+                            },
+                            "low": {
+                                   "il80_p1": 29400,
+                                   "il80_p2": 33600,
+                                   "il80_p3": 37800,
+                                   "il80_p4": 42000,
+                                   "il80_p5": 45400,
+                                   "il80_p6": 48750,
+                                   "il80_p7": 52100,
+                                   "il80_p8": 55450
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR MSA",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 47000,
+                            "very_low": {
+                                   "il50_p1": 18950,
+                                   "il50_p2": 21650,
+                                   "il50_p3": 24350,
+                                   "il50_p4": 27050,
+                                   "il50_p5": 29250,
+                                   "il50_p6": 31400,
+                                   "il50_p7": 33550,
+                                   "il50_p8": 35750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29250,
+                                   "il30_p6": 31400,
+                                   "il30_p7": 33550,
+                                   "il30_p8": 35750
+                            },
+                            "low": {
+                                   "il80_p1": 30350,
+                                   "il80_p2": 34650,
+                                   "il80_p3": 39000,
+                                   "il80_p4": 43300,
+                                   "il80_p5": 46800,
+                                   "il80_p6": 50250,
+                                   "il80_p7": 53700,
+                                   "il80_p8": 57200
+                            }
+                     },
+                     {
+                            "county_name": "Poinsett County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jonesboro, AR",
+                            "area_name": "Poinsett County, AR HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 55100,
+                            "very_low": {
+                                   "il50_p1": 21100,
+                                   "il50_p2": 24100,
+                                   "il50_p3": 27100,
+                                   "il50_p4": 30100,
+                                   "il50_p5": 32550,
+                                   "il50_p6": 34950,
+                                   "il50_p7": 37350,
+                                   "il50_p8": 39750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 37350,
+                                   "il30_p8": 39750
+                            },
+                            "low": {
+                                   "il80_p1": 33750,
+                                   "il80_p2": 38550,
+                                   "il80_p3": 43350,
+                                   "il80_p4": 48150,
+                                   "il80_p5": 52050,
+                                   "il80_p6": 55900,
+                                   "il80_p7": 59750,
+                                   "il80_p8": 63600
+                            }
+                     }
+              ]
+       }
+}

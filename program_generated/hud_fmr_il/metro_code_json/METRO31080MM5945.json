@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1257,
+                                   "One-Bedroom": 1436,
+                                   "Two-Bedroom": 1813,
+                                   "Three-Bedroom": 2531,
+                                   "Four-Bedroom": 2760,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1294,
+                                   "One-Bedroom": 1493,
+                                   "Two-Bedroom": 1876,
+                                   "Three-Bedroom": 2626,
+                                   "Four-Bedroom": 3045,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1415,
+                                   "One-Bedroom": 1632,
+                                   "Two-Bedroom": 2037,
+                                   "Three-Bedroom": 2862,
+                                   "Four-Bedroom": 3304,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1563,
+                                   "One-Bedroom": 1785,
+                                   "Two-Bedroom": 2216,
+                                   "Three-Bedroom": 3098,
+                                   "Four-Bedroom": 3578,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1678,
+                                   "One-Bedroom": 1888,
+                                   "Two-Bedroom": 2331,
+                                   "Three-Bedroom": 3227,
+                                   "Four-Bedroom": 3716,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1716,
+                                   "One-Bedroom": 1905,
+                                   "Two-Bedroom": 2324,
+                                   "Three-Bedroom": 3178,
+                                   "Four-Bedroom": 3674,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 88000,
+                            "very_low": {
+                                   "il50_p1": 36550,
+                                   "il50_p2": 41750,
+                                   "il50_p3": 46950,
+                                   "il50_p4": 52150,
+                                   "il50_p5": 56350,
+                                   "il50_p6": 60500,
+                                   "il50_p7": 64700,
+                                   "il50_p8": 68850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21950,
+                                   "il30_p2": 25050,
+                                   "il30_p3": 28200,
+                                   "il30_p4": 31300,
+                                   "il30_p5": 33850,
+                                   "il30_p6": 36350,
+                                   "il30_p7": 38850,
+                                   "il30_p8": 41350
+                            },
+                            "low": {
+                                   "il80_p1": 58450,
+                                   "il80_p2": 66800,
+                                   "il80_p3": 75150,
+                                   "il80_p4": 83450,
+                                   "il80_p5": 90150,
+                                   "il80_p6": 96850,
+                                   "il80_p7": 103500,
+                                   "il80_p8": 110200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 92700,
+                            "very_low": {
+                                   "il50_p1": 38300,
+                                   "il50_p2": 43750,
+                                   "il50_p3": 49200,
+                                   "il50_p4": 54650,
+                                   "il50_p5": 59050,
+                                   "il50_p6": 63400,
+                                   "il50_p7": 67800,
+                                   "il50_p8": 72150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23000,
+                                   "il30_p2": 26250,
+                                   "il30_p3": 29550,
+                                   "il30_p4": 32800,
+                                   "il30_p5": 35450,
+                                   "il30_p6": 38050,
+                                   "il30_p7": 40700,
+                                   "il30_p8": 43300
+                            },
+                            "low": {
+                                   "il80_p1": 61250,
+                                   "il80_p2": 70000,
+                                   "il80_p3": 78750,
+                                   "il80_p4": 87450,
+                                   "il80_p5": 94450,
+                                   "il80_p6": 101450,
+                                   "il80_p7": 108450,
+                                   "il80_p8": 115450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 97900,
+                            "very_low": {
+                                   "il50_p1": 41550,
+                                   "il50_p2": 47500,
+                                   "il50_p3": 53450,
+                                   "il50_p4": 59350,
+                                   "il50_p5": 64100,
+                                   "il50_p6": 68850,
+                                   "il50_p7": 73600,
+                                   "il50_p8": 78350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24950,
+                                   "il30_p2": 28500,
+                                   "il30_p3": 32050,
+                                   "il30_p4": 35600,
+                                   "il30_p5": 38450,
+                                   "il30_p6": 41300,
+                                   "il30_p7": 44150,
+                                   "il30_p8": 47000
+                            },
+                            "low": {
+                                   "il80_p1": 66500,
+                                   "il80_p2": 76000,
+                                   "il80_p3": 85500,
+                                   "il80_p4": 94950,
+                                   "il80_p5": 102550,
+                                   "il80_p6": 110150,
+                                   "il80_p7": 117750,
+                                   "il80_p8": 125350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 103000,
+                            "very_low": {
+                                   "il50_p1": 44850,
+                                   "il50_p2": 51250,
+                                   "il50_p3": 57650,
+                                   "il50_p4": 64050,
+                                   "il50_p5": 69200,
+                                   "il50_p6": 74300,
+                                   "il50_p7": 79450,
+                                   "il50_p8": 84550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26950,
+                                   "il30_p2": 30800,
+                                   "il30_p3": 34650,
+                                   "il30_p4": 38450,
+                                   "il30_p5": 41550,
+                                   "il30_p6": 44650,
+                                   "il30_p7": 47700,
+                                   "il30_p8": 50800
+                            },
+                            "low": {
+                                   "il80_p1": 71750,
+                                   "il80_p2": 82000,
+                                   "il80_p3": 92250,
+                                   "il80_p4": 102450,
+                                   "il80_p5": 110650,
+                                   "il80_p6": 118850,
+                                   "il80_p7": 127050,
+                                   "il80_p8": 135250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 106700,
+                            "very_low": {
+                                   "il50_p1": 47100,
+                                   "il50_p2": 53800,
+                                   "il50_p3": 60550,
+                                   "il50_p4": 67250,
+                                   "il50_p5": 72650,
+                                   "il50_p6": 78050,
+                                   "il50_p7": 83400,
+                                   "il50_p8": 88800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 28250,
+                                   "il30_p2": 32300,
+                                   "il30_p3": 36350,
+                                   "il30_p4": 40350,
+                                   "il30_p5": 43600,
+                                   "il30_p6": 46850,
+                                   "il30_p7": 50050,
+                                   "il30_p8": 53300
+                            },
+                            "low": {
+                                   "il80_p1": 75300,
+                                   "il80_p2": 86050,
+                                   "il80_p3": 96800,
+                                   "il80_p4": 107550,
+                                   "il80_p5": 116200,
+                                   "il80_p6": 124800,
+                                   "il80_p7": 133400,
+                                   "il80_p8": 142000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Orange County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA",
+                            "area_name": "Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 119100,
+                            "very_low": {
+                                   "il50_p1": 47450,
+                                   "il50_p2": 54200,
+                                   "il50_p3": 61000,
+                                   "il50_p4": 67750,
+                                   "il50_p5": 73200,
+                                   "il50_p6": 78600,
+                                   "il50_p7": 84050,
+                                   "il50_p8": 89450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 28500,
+                                   "il30_p2": 32550,
+                                   "il30_p3": 36600,
+                                   "il30_p4": 40650,
+                                   "il30_p5": 43950,
+                                   "il30_p6": 47200,
+                                   "il30_p7": 50450,
+                                   "il30_p8": 53700
+                            },
+                            "low": {
+                                   "il80_p1": 75900,
+                                   "il80_p2": 86750,
+                                   "il80_p3": 97600,
+                                   "il80_p4": 108400,
+                                   "il80_p5": 117100,
+                                   "il80_p6": 125750,
+                                   "il80_p7": 134450,
+                                   "il80_p8": 143100
+                            }
+                     }
+              ]
+       }
+}

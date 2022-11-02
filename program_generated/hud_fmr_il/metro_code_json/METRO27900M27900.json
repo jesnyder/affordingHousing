@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 519,
+                                   "One-Bedroom": 551,
+                                   "Two-Bedroom": 703,
+                                   "Three-Bedroom": 964,
+                                   "Four-Bedroom": 1020,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 773,
+                                   "Three-Bedroom": 1054,
+                                   "Four-Bedroom": 1106,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 721,
+                                   "Three-Bedroom": 968,
+                                   "Four-Bedroom": 1019,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 563,
+                                   "Two-Bedroom": 723,
+                                   "Three-Bedroom": 957,
+                                   "Four-Bedroom": 1001,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 783,
+                                   "Three-Bedroom": 1023,
+                                   "Four-Bedroom": 1088,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO",
+                            "area_name": "Joplin, MO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 562,
+                                   "One-Bedroom": 604,
+                                   "Two-Bedroom": 765,
+                                   "Three-Bedroom": 989,
+                                   "Four-Bedroom": 1071,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "year": "2017",
+                            "median_income": 53800,
+                            "very_low": {
+                                   "il50_p1": 18850,
+                                   "il50_p2": 21550,
+                                   "il50_p3": 24250,
+                                   "il50_p4": 26900,
+                                   "il50_p5": 29100,
+                                   "il50_p6": 31250,
+                                   "il50_p7": 33400,
+                                   "il50_p8": 35550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31250,
+                                   "il30_p7": 33400,
+                                   "il30_p8": 35550
+                            },
+                            "low": {
+                                   "il80_p1": 30150,
+                                   "il80_p2": 34450,
+                                   "il80_p3": 38750,
+                                   "il80_p4": 43050,
+                                   "il80_p5": 46500,
+                                   "il80_p6": 49950,
+                                   "il80_p7": 53400,
+                                   "il80_p8": 56850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "year": "2018",
+                            "median_income": 56700,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22700,
+                                   "il50_p3": 25550,
+                                   "il50_p4": 28350,
+                                   "il50_p5": 30650,
+                                   "il50_p6": 32900,
+                                   "il50_p7": 35200,
+                                   "il50_p8": 37450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32900,
+                                   "il30_p7": 35200,
+                                   "il30_p8": 37450
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36300,
+                                   "il80_p3": 40850,
+                                   "il80_p4": 45350,
+                                   "il80_p5": 49000,
+                                   "il80_p6": 52650,
+                                   "il80_p7": 56250,
+                                   "il80_p8": 59900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "year": "2019",
+                            "median_income": 58200,
+                            "very_low": {
+                                   "il50_p1": 20400,
+                                   "il50_p2": 23300,
+                                   "il50_p3": 26200,
+                                   "il50_p4": 29100,
+                                   "il50_p5": 31450,
+                                   "il50_p6": 33800,
+                                   "il50_p7": 36100,
+                                   "il50_p8": 38450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33800,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 32600,
+                                   "il80_p2": 37250,
+                                   "il80_p3": 41900,
+                                   "il80_p4": 46550,
+                                   "il80_p5": 50300,
+                                   "il80_p6": 54000,
+                                   "il80_p7": 57750,
+                                   "il80_p8": 61450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "year": "2020",
+                            "median_income": 63300,
+                            "very_low": {
+                                   "il50_p1": 22000,
+                                   "il50_p2": 25150,
+                                   "il50_p3": 28300,
+                                   "il50_p4": 31400,
+                                   "il50_p5": 33950,
+                                   "il50_p6": 36450,
+                                   "il50_p7": 38950,
+                                   "il50_p8": 41450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38950,
+                                   "il30_p8": 41450
+                            },
+                            "low": {
+                                   "il80_p1": 35200,
+                                   "il80_p2": 40200,
+                                   "il80_p3": 45250,
+                                   "il80_p4": 50250,
+                                   "il80_p5": 54300,
+                                   "il80_p6": 58300,
+                                   "il80_p7": 62350,
+                                   "il80_p8": 66350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO MSA",
+                            "area_name": "Joplin, MO MSA",
+                            "year": "2021",
+                            "median_income": 60200,
+                            "very_low": {
+                                   "il50_p1": 21100,
+                                   "il50_p2": 24100,
+                                   "il50_p3": 27100,
+                                   "il50_p4": 30100,
+                                   "il50_p5": 32550,
+                                   "il50_p6": 34950,
+                                   "il50_p7": 37350,
+                                   "il50_p8": 39750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 37350,
+                                   "il30_p8": 39750
+                            },
+                            "low": {
+                                   "il80_p1": 33750,
+                                   "il80_p2": 38550,
+                                   "il80_p3": 43350,
+                                   "il80_p4": 48150,
+                                   "il80_p5": 52050,
+                                   "il80_p6": 55900,
+                                   "il80_p7": 59750,
+                                   "il80_p8": 63600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jasper County, MO; Newton County, MO; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Joplin, MO",
+                            "area_name": "Joplin, MO MSA",
+                            "year": "2022",
+                            "median_income": 65000,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40300,
+                                   "il30_p8": 42900
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     }
+              ]
+       }
+}

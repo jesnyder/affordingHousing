@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 620,
+                                   "Two-Bedroom": 746,
+                                   "Three-Bedroom": 1014,
+                                   "Four-Bedroom": 1314,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 603,
+                                   "Two-Bedroom": 717,
+                                   "Three-Bedroom": 966,
+                                   "Four-Bedroom": 1263,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 586,
+                                   "One-Bedroom": 685,
+                                   "Two-Bedroom": 809,
+                                   "Three-Bedroom": 1084,
+                                   "Four-Bedroom": 1421,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 660,
+                                   "Two-Bedroom": 782,
+                                   "Three-Bedroom": 1040,
+                                   "Four-Bedroom": 1373,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 589,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 821,
+                                   "Three-Bedroom": 1089,
+                                   "Four-Bedroom": 1387,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL",
+                            "area_name": "Huntsville, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 647,
+                                   "One-Bedroom": 757,
+                                   "Two-Bedroom": 897,
+                                   "Three-Bedroom": 1189,
+                                   "Four-Bedroom": 1428,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "year": "2017",
+                            "median_income": 78200,
+                            "very_low": {
+                                   "il50_p1": 26900,
+                                   "il50_p2": 30750,
+                                   "il50_p3": 34600,
+                                   "il50_p4": 38400,
+                                   "il50_p5": 41500,
+                                   "il50_p6": 44550,
+                                   "il50_p7": 47650,
+                                   "il50_p8": 50700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 20750,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61450,
+                                   "il80_p5": 66400,
+                                   "il80_p6": 71300,
+                                   "il80_p7": 76200,
+                                   "il80_p8": 81150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "year": "2018",
+                            "median_income": 78700,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31500,
+                                   "il50_p3": 35450,
+                                   "il50_p4": 39350,
+                                   "il50_p5": 42500,
+                                   "il50_p6": 45650,
+                                   "il50_p7": 48800,
+                                   "il50_p8": 51950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 21250,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44100,
+                                   "il80_p2": 50400,
+                                   "il80_p3": 56700,
+                                   "il80_p4": 62950,
+                                   "il80_p5": 68000,
+                                   "il80_p6": 73050,
+                                   "il80_p7": 78100,
+                                   "il80_p8": 83100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "year": "2019",
+                            "median_income": 84900,
+                            "very_low": {
+                                   "il50_p1": 29750,
+                                   "il50_p2": 34000,
+                                   "il50_p3": 38250,
+                                   "il50_p4": 42450,
+                                   "il50_p5": 45850,
+                                   "il50_p6": 49250,
+                                   "il50_p7": 52650,
+                                   "il50_p8": 56050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 22950,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47550,
+                                   "il80_p2": 54350,
+                                   "il80_p3": 61150,
+                                   "il80_p4": 67900,
+                                   "il80_p5": 73350,
+                                   "il80_p6": 78800,
+                                   "il80_p7": 84200,
+                                   "il80_p8": 89650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "year": "2020",
+                            "median_income": 85300,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34150,
+                                   "il50_p3": 38400,
+                                   "il50_p4": 42650,
+                                   "il50_p5": 46100,
+                                   "il50_p6": 49500,
+                                   "il50_p7": 52900,
+                                   "il50_p8": 56300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 47800,
+                                   "il80_p2": 54600,
+                                   "il80_p3": 61450,
+                                   "il80_p4": 68250,
+                                   "il80_p5": 73750,
+                                   "il80_p6": 79200,
+                                   "il80_p7": 84650,
+                                   "il80_p8": 90100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL MSA",
+                            "area_name": "Huntsville, AL MSA",
+                            "year": "2021",
+                            "median_income": 82900,
+                            "very_low": {
+                                   "il50_p1": 29050,
+                                   "il50_p2": 33200,
+                                   "il50_p3": 37350,
+                                   "il50_p4": 41450,
+                                   "il50_p5": 44800,
+                                   "il50_p6": 48100,
+                                   "il50_p7": 51400,
+                                   "il50_p8": 54750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 22400,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46450,
+                                   "il80_p2": 53050,
+                                   "il80_p3": 59700,
+                                   "il80_p4": 66300,
+                                   "il80_p5": 71650,
+                                   "il80_p6": 76950,
+                                   "il80_p7": 82250,
+                                   "il80_p8": 87550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Limestone County, AL; Madison County, AL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntsville, AL",
+                            "area_name": "Huntsville, AL MSA",
+                            "year": "2022",
+                            "median_income": 92700,
+                            "very_low": {
+                                   "il50_p1": 32450,
+                                   "il50_p2": 37100,
+                                   "il50_p3": 41750,
+                                   "il50_p4": 46350,
+                                   "il50_p5": 50100,
+                                   "il50_p6": 53800,
+                                   "il50_p7": 57500,
+                                   "il50_p8": 61200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19500,
+                                   "il30_p2": 22250,
+                                   "il30_p3": 25050,
+                                   "il30_p4": 27800,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51950,
+                                   "il80_p2": 59350,
+                                   "il80_p3": 66750,
+                                   "il80_p4": 74150,
+                                   "il80_p5": 80100,
+                                   "il80_p6": 86050,
+                                   "il80_p7": 91950,
+                                   "il80_p8": 97900
+                            }
+                     }
+              ]
+       }
+}

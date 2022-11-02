@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 687,
+                                   "Two-Bedroom": 850,
+                                   "Three-Bedroom": 1161,
+                                   "Four-Bedroom": 1498,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 708,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1196,
+                                   "Four-Bedroom": 1539,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 634,
+                                   "One-Bedroom": 778,
+                                   "Two-Bedroom": 962,
+                                   "Three-Bedroom": 1307,
+                                   "Four-Bedroom": 1649,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 720,
+                                   "One-Bedroom": 883,
+                                   "Two-Bedroom": 1089,
+                                   "Three-Bedroom": 1477,
+                                   "Four-Bedroom": 1857,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 824,
+                                   "Two-Bedroom": 1019,
+                                   "Three-Bedroom": 1378,
+                                   "Four-Bedroom": 1721,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 704,
+                                   "One-Bedroom": 855,
+                                   "Two-Bedroom": 1060,
+                                   "Three-Bedroom": 1423,
+                                   "Four-Bedroom": 1792,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "year": "2017",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36500,
+                                   "il80_p2": 41700,
+                                   "il80_p3": 46900,
+                                   "il80_p4": 52100,
+                                   "il80_p5": 56300,
+                                   "il80_p6": 60450,
+                                   "il80_p7": 64650,
+                                   "il80_p8": 68800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "year": "2018",
+                            "median_income": 72800,
+                            "very_low": {
+                                   "il50_p1": 25400,
+                                   "il50_p2": 29000,
+                                   "il50_p3": 32650,
+                                   "il50_p4": 36250,
+                                   "il50_p5": 39150,
+                                   "il50_p6": 42050,
+                                   "il50_p7": 44950,
+                                   "il50_p8": 47850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15250,
+                                   "il30_p2": 17400,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40600,
+                                   "il80_p2": 46400,
+                                   "il80_p3": 52200,
+                                   "il80_p4": 58000,
+                                   "il80_p5": 62650,
+                                   "il80_p6": 67300,
+                                   "il80_p7": 71950,
+                                   "il80_p8": 76600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "year": "2019",
+                            "median_income": 78000,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 39000,
+                                   "il50_p5": 42150,
+                                   "il50_p6": 45250,
+                                   "il50_p7": 48400,
+                                   "il50_p8": 51500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16400,
+                                   "il30_p2": 18750,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43700,
+                                   "il80_p2": 49950,
+                                   "il80_p3": 56200,
+                                   "il80_p4": 62400,
+                                   "il80_p5": 67400,
+                                   "il80_p6": 72400,
+                                   "il80_p7": 77400,
+                                   "il80_p8": 82400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "year": "2020",
+                            "median_income": 77500,
+                            "very_low": {
+                                   "il50_p1": 27150,
+                                   "il50_p2": 31000,
+                                   "il50_p3": 34900,
+                                   "il50_p4": 38750,
+                                   "il50_p5": 41850,
+                                   "il50_p6": 44950,
+                                   "il50_p7": 48050,
+                                   "il50_p8": 51150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16300,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 43400,
+                                   "il80_p2": 49600,
+                                   "il80_p3": 55800,
+                                   "il80_p4": 62000,
+                                   "il80_p5": 67000,
+                                   "il80_p6": 71950,
+                                   "il80_p7": 76900,
+                                   "il80_p8": 81850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA MSA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "year": "2021",
+                            "median_income": 78100,
+                            "very_low": {
+                                   "il50_p1": 27350,
+                                   "il50_p2": 31250,
+                                   "il50_p3": 35150,
+                                   "il50_p4": 39050,
+                                   "il50_p5": 42200,
+                                   "il50_p6": 45300,
+                                   "il50_p7": 48450,
+                                   "il50_p8": 51550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43750,
+                                   "il80_p2": 50000,
+                                   "il80_p3": 56250,
+                                   "il80_p4": 62500,
+                                   "il80_p5": 67500,
+                                   "il80_p6": 72500,
+                                   "il80_p7": 77500,
+                                   "il80_p8": 82500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Benton County, WA; Franklin County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kennewick-Richland, WA",
+                            "area_name": "Kennewick-Richland, WA MSA",
+                            "year": "2022",
+                            "median_income": 87500,
+                            "very_low": {
+                                   "il50_p1": 30600,
+                                   "il50_p2": 34950,
+                                   "il50_p3": 39300,
+                                   "il50_p4": 43650,
+                                   "il50_p5": 47150,
+                                   "il50_p6": 50650,
+                                   "il50_p7": 54150,
+                                   "il50_p8": 57650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 21000,
+                                   "il30_p3": 23600,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48900,
+                                   "il80_p2": 55900,
+                                   "il80_p3": 62900,
+                                   "il80_p4": 69850,
+                                   "il80_p5": 75450,
+                                   "il80_p6": 81050,
+                                   "il80_p7": 86650,
+                                   "il80_p8": 92250
+                            }
+                     }
+              ]
+       }
+}

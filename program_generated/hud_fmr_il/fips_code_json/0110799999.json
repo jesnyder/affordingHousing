@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 450,
+                                   "One-Bedroom": 467,
+                                   "Two-Bedroom": 621,
+                                   "Three-Bedroom": 853,
+                                   "Four-Bedroom": 856,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 451,
+                                   "One-Bedroom": 456,
+                                   "Two-Bedroom": 606,
+                                   "Three-Bedroom": 822,
+                                   "Four-Bedroom": 825,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 478,
+                                   "One-Bedroom": 481,
+                                   "Two-Bedroom": 628,
+                                   "Three-Bedroom": 846,
+                                   "Four-Bedroom": 849,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 489,
+                                   "Two-Bedroom": 612,
+                                   "Three-Bedroom": 826,
+                                   "Four-Bedroom": 829,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 490,
+                                   "One-Bedroom": 493,
+                                   "Two-Bedroom": 634,
+                                   "Three-Bedroom": 857,
+                                   "Four-Bedroom": 860,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 538,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 952,
+                                   "Four-Bedroom": 956,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 42100,
+                            "very_low": {
+                                   "il50_p1": 16000,
+                                   "il50_p2": 18300,
+                                   "il50_p3": 20600,
+                                   "il50_p4": 22850,
+                                   "il50_p5": 24700,
+                                   "il50_p6": 26550,
+                                   "il50_p7": 28350,
+                                   "il50_p8": 30200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 22850,
+                                   "il30_p5": 24700,
+                                   "il30_p6": 26550,
+                                   "il30_p7": 28350,
+                                   "il30_p8": 30200
+                            },
+                            "low": {
+                                   "il80_p1": 25600,
+                                   "il80_p2": 29250,
+                                   "il80_p3": 32900,
+                                   "il80_p4": 36550,
+                                   "il80_p5": 39500,
+                                   "il80_p6": 42400,
+                                   "il80_p7": 45350,
+                                   "il80_p8": 48250
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 44100,
+                            "very_low": {
+                                   "il50_p1": 17000,
+                                   "il50_p2": 19400,
+                                   "il50_p3": 21850,
+                                   "il50_p4": 24250,
+                                   "il50_p5": 26200,
+                                   "il50_p6": 28150,
+                                   "il50_p7": 30100,
+                                   "il50_p8": 32050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24250,
+                                   "il30_p5": 26200,
+                                   "il30_p6": 28150,
+                                   "il30_p7": 30100,
+                                   "il30_p8": 32050
+                            },
+                            "low": {
+                                   "il80_p1": 27200,
+                                   "il80_p2": 31050,
+                                   "il80_p3": 34950,
+                                   "il80_p4": 38800,
+                                   "il80_p5": 41950,
+                                   "il80_p6": 45050,
+                                   "il80_p7": 48150,
+                                   "il80_p8": 51250
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 49100,
+                            "very_low": {
+                                   "il50_p1": 18050,
+                                   "il50_p2": 20600,
+                                   "il50_p3": 23200,
+                                   "il50_p4": 25750,
+                                   "il50_p5": 27850,
+                                   "il50_p6": 29900,
+                                   "il50_p7": 31950,
+                                   "il50_p8": 34000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 27850,
+                                   "il30_p6": 29900,
+                                   "il30_p7": 31950,
+                                   "il30_p8": 34000
+                            },
+                            "low": {
+                                   "il80_p1": 28850,
+                                   "il80_p2": 33000,
+                                   "il80_p3": 37100,
+                                   "il80_p4": 41200,
+                                   "il80_p5": 44500,
+                                   "il80_p6": 47800,
+                                   "il80_p7": 51100,
+                                   "il80_p8": 54400
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 53900,
+                            "very_low": {
+                                   "il50_p1": 18900,
+                                   "il50_p2": 21600,
+                                   "il50_p3": 24300,
+                                   "il50_p4": 26950,
+                                   "il50_p5": 29150,
+                                   "il50_p6": 31300,
+                                   "il50_p7": 33450,
+                                   "il50_p8": 35600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29150,
+                                   "il30_p6": 31300,
+                                   "il30_p7": 33450,
+                                   "il30_p8": 35600
+                            },
+                            "low": {
+                                   "il80_p1": 30200,
+                                   "il80_p2": 34500,
+                                   "il80_p3": 38800,
+                                   "il80_p4": 43100,
+                                   "il80_p5": 46550,
+                                   "il80_p6": 50000,
+                                   "il80_p7": 53450,
+                                   "il80_p8": 56900
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL MSA",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 54900,
+                            "very_low": {
+                                   "il50_p1": 19300,
+                                   "il50_p2": 22050,
+                                   "il50_p3": 24800,
+                                   "il50_p4": 27550,
+                                   "il50_p5": 29800,
+                                   "il50_p6": 32000,
+                                   "il50_p7": 34200,
+                                   "il50_p8": 36400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29800,
+                                   "il30_p6": 32000,
+                                   "il30_p7": 34200,
+                                   "il30_p8": 36400
+                            },
+                            "low": {
+                                   "il80_p1": 30900,
+                                   "il80_p2": 35300,
+                                   "il80_p3": 39700,
+                                   "il80_p4": 44100,
+                                   "il80_p5": 47650,
+                                   "il80_p6": 51200,
+                                   "il80_p7": 54700,
+                                   "il80_p8": 58250
+                            }
+                     },
+                     {
+                            "county_name": "Pickens County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tuscaloosa, AL",
+                            "area_name": "Pickens County, AL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 60100,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24650,
+                                   "il50_p3": 27750,
+                                   "il50_p4": 30800,
+                                   "il50_p5": 33300,
+                                   "il50_p6": 35750,
+                                   "il50_p7": 38200,
+                                   "il50_p8": 40700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35750,
+                                   "il30_p7": 38200,
+                                   "il30_p8": 40700
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39450,
+                                   "il80_p3": 44400,
+                                   "il80_p4": 49300,
+                                   "il80_p5": 53250,
+                                   "il80_p6": 57200,
+                                   "il80_p7": 61150,
+                                   "il80_p8": 65100
+                            }
+                     }
+              ]
+       }
+}

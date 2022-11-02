@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 741,
+                                   "One-Bedroom": 749,
+                                   "Two-Bedroom": 897,
+                                   "Three-Bedroom": 1243,
+                                   "Four-Bedroom": 1581,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 702,
+                                   "One-Bedroom": 706,
+                                   "Two-Bedroom": 846,
+                                   "Three-Bedroom": 1186,
+                                   "Four-Bedroom": 1490,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 789,
+                                   "One-Bedroom": 794,
+                                   "Two-Bedroom": 955,
+                                   "Three-Bedroom": 1342,
+                                   "Four-Bedroom": 1677,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 798,
+                                   "One-Bedroom": 803,
+                                   "Two-Bedroom": 954,
+                                   "Three-Bedroom": 1341,
+                                   "Four-Bedroom": 1675,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 776,
+                                   "One-Bedroom": 840,
+                                   "Two-Bedroom": 987,
+                                   "Three-Bedroom": 1385,
+                                   "Four-Bedroom": 1709,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 844,
+                                   "One-Bedroom": 877,
+                                   "Two-Bedroom": 1012,
+                                   "Three-Bedroom": 1424,
+                                   "Four-Bedroom": 1732,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "year": "2017",
+                            "median_income": 62000,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "year": "2018",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "year": "2019",
+                            "median_income": 69200,
+                            "very_low": {
+                                   "il50_p1": 24250,
+                                   "il50_p2": 27700,
+                                   "il50_p3": 31150,
+                                   "il50_p4": 34600,
+                                   "il50_p5": 37400,
+                                   "il50_p6": 40150,
+                                   "il50_p7": 42950,
+                                   "il50_p8": 45700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44300,
+                                   "il80_p3": 49850,
+                                   "il80_p4": 55350,
+                                   "il80_p5": 59800,
+                                   "il80_p6": 64250,
+                                   "il80_p7": 68650,
+                                   "il80_p8": 73100
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "year": "2020",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43500
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "year": "2021",
+                            "median_income": 73900,
+                            "very_low": {
+                                   "il50_p1": 24200,
+                                   "il50_p2": 27650,
+                                   "il50_p3": 31100,
+                                   "il50_p4": 34550,
+                                   "il50_p5": 37350,
+                                   "il50_p6": 40100,
+                                   "il50_p7": 42850,
+                                   "il50_p8": 45650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44250,
+                                   "il80_p3": 49800,
+                                   "il80_p4": 55300,
+                                   "il80_p5": 59750,
+                                   "il80_p6": 64150,
+                                   "il80_p7": 68600,
+                                   "il80_p8": 73000
+                            }
+                     },
+                     {
+                            "county_name": "Escambia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pensacola-Ferry Pass-Brent, FL",
+                            "area_name": "Pensacola-Ferry Pass-Brent, FL MSA",
+                            "year": "2022",
+                            "median_income": 79500,
+                            "very_low": {
+                                   "il50_p1": 27100,
+                                   "il50_p2": 30950,
+                                   "il50_p3": 34800,
+                                   "il50_p4": 38650,
+                                   "il50_p5": 41750,
+                                   "il50_p6": 44850,
+                                   "il50_p7": 47950,
+                                   "il50_p8": 51050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43300,
+                                   "il80_p2": 49500,
+                                   "il80_p3": 55700,
+                                   "il80_p4": 61850,
+                                   "il80_p5": 66800,
+                                   "il80_p6": 71750,
+                                   "il80_p7": 76700,
+                                   "il80_p8": 81650
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 613,
+                                   "Two-Bedroom": 810,
+                                   "Three-Bedroom": 1099,
+                                   "Four-Bedroom": 1408,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 613,
+                                   "One-Bedroom": 677,
+                                   "Two-Bedroom": 894,
+                                   "Three-Bedroom": 1229,
+                                   "Four-Bedroom": 1534,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 585,
+                                   "One-Bedroom": 647,
+                                   "Two-Bedroom": 846,
+                                   "Three-Bedroom": 1185,
+                                   "Four-Bedroom": 1470,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 648,
+                                   "Two-Bedroom": 827,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1423,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 682,
+                                   "Two-Bedroom": 853,
+                                   "Three-Bedroom": 1215,
+                                   "Four-Bedroom": 1477,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL",
+                            "area_name": "Bloomington, IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 703,
+                                   "Two-Bedroom": 870,
+                                   "Three-Bedroom": 1225,
+                                   "Four-Bedroom": 1474,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 79600,
+                            "very_low": {
+                                   "il50_p1": 29200,
+                                   "il50_p2": 33400,
+                                   "il50_p3": 37550,
+                                   "il50_p4": 41700,
+                                   "il50_p5": 45050,
+                                   "il50_p6": 48400,
+                                   "il50_p7": 51750,
+                                   "il50_p8": 55050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17500,
+                                   "il30_p2": 20000,
+                                   "il30_p3": 22500,
+                                   "il30_p4": 25000,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 46700,
+                                   "il80_p2": 53400,
+                                   "il80_p3": 60050,
+                                   "il80_p4": 66700,
+                                   "il80_p5": 72050,
+                                   "il80_p6": 77400,
+                                   "il80_p7": 82750,
+                                   "il80_p8": 88050
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 91600,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36650,
+                                   "il50_p3": 41250,
+                                   "il50_p4": 45800,
+                                   "il50_p5": 49500,
+                                   "il50_p6": 53150,
+                                   "il50_p7": 56800,
+                                   "il50_p8": 60500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27500,
+                                   "il30_p5": 29700,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 88300,
+                            "very_low": {
+                                   "il50_p1": 30950,
+                                   "il50_p2": 35350,
+                                   "il50_p3": 39750,
+                                   "il50_p4": 44150,
+                                   "il50_p5": 47700,
+                                   "il50_p6": 51250,
+                                   "il50_p7": 54750,
+                                   "il50_p8": 58300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 49500,
+                                   "il80_p2": 56550,
+                                   "il80_p3": 63600,
+                                   "il80_p4": 70650,
+                                   "il80_p5": 76350,
+                                   "il80_p6": 82000,
+                                   "il80_p7": 87650,
+                                   "il80_p8": 93300
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 98400,
+                            "very_low": {
+                                   "il50_p1": 33400,
+                                   "il50_p2": 38150,
+                                   "il50_p3": 42900,
+                                   "il50_p4": 47650,
+                                   "il50_p5": 51500,
+                                   "il50_p6": 55300,
+                                   "il50_p7": 59100,
+                                   "il50_p8": 62900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20050,
+                                   "il30_p2": 22900,
+                                   "il30_p3": 25750,
+                                   "il30_p4": 28600,
+                                   "il30_p5": 30900,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 53400,
+                                   "il80_p2": 61000,
+                                   "il80_p3": 68650,
+                                   "il80_p4": 76250,
+                                   "il80_p5": 82350,
+                                   "il80_p6": 88450,
+                                   "il80_p7": 94550,
+                                   "il80_p8": 100650
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL MSA",
+                            "area_name": "Bloomington, IL  HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 93200,
+                            "very_low": {
+                                   "il50_p1": 32650,
+                                   "il50_p2": 37300,
+                                   "il50_p3": 41950,
+                                   "il50_p4": 46600,
+                                   "il50_p5": 50350,
+                                   "il50_p6": 54100,
+                                   "il50_p7": 57800,
+                                   "il50_p8": 61550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 25200,
+                                   "il30_p4": 27950,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 52200,
+                                   "il80_p2": 59650,
+                                   "il80_p3": 67100,
+                                   "il80_p4": 74550,
+                                   "il80_p5": 80550,
+                                   "il80_p6": 86500,
+                                   "il80_p7": 92450,
+                                   "il80_p8": 98450
+                            }
+                     },
+                     {
+                            "county_name": "McLean County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IL",
+                            "area_name": "Bloomington, IL MSA",
+                            "year": "2022",
+                            "median_income": 108500,
+                            "very_low": {
+                                   "il50_p1": 36500,
+                                   "il50_p2": 41700,
+                                   "il50_p3": 46900,
+                                   "il50_p4": 52100,
+                                   "il50_p5": 56300,
+                                   "il50_p6": 60450,
+                                   "il50_p7": 64650,
+                                   "il50_p8": 68800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21900,
+                                   "il30_p2": 25000,
+                                   "il30_p3": 28150,
+                                   "il30_p4": 31250,
+                                   "il30_p5": 33750,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 58350,
+                                   "il80_p2": 66700,
+                                   "il80_p3": 75050,
+                                   "il80_p4": 83350,
+                                   "il80_p5": 90050,
+                                   "il80_p6": 96700,
+                                   "il80_p7": 103400,
+                                   "il80_p8": 110050
+                            }
+                     }
+              ]
+       }
+}

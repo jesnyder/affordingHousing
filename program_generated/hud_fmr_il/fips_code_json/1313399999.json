@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 449,
+                                   "One-Bedroom": 452,
+                                   "Two-Bedroom": 601,
+                                   "Three-Bedroom": 815,
+                                   "Four-Bedroom": 828,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 550,
+                                   "One-Bedroom": 553,
+                                   "Two-Bedroom": 664,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 1001,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 576,
+                                   "One-Bedroom": 590,
+                                   "Two-Bedroom": 676,
+                                   "Three-Bedroom": 910,
+                                   "Four-Bedroom": 988,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 580,
+                                   "One-Bedroom": 597,
+                                   "Two-Bedroom": 679,
+                                   "Three-Bedroom": 884,
+                                   "Four-Bedroom": 970,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 539,
+                                   "One-Bedroom": 542,
+                                   "Two-Bedroom": 689,
+                                   "Three-Bedroom": 871,
+                                   "Four-Bedroom": 978,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 575,
+                                   "One-Bedroom": 578,
+                                   "Two-Bedroom": 742,
+                                   "Three-Bedroom": 922,
+                                   "Four-Bedroom": 1041,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "year": "2017",
+                            "median_income": 50900,
+                            "very_low": {
+                                   "il50_p1": 17850,
+                                   "il50_p2": 20400,
+                                   "il50_p3": 22950,
+                                   "il50_p4": 25450,
+                                   "il50_p5": 27500,
+                                   "il50_p6": 29550,
+                                   "il50_p7": 31600,
+                                   "il50_p8": 33600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27500,
+                                   "il30_p6": 29550,
+                                   "il30_p7": 31600,
+                                   "il30_p8": 33600
+                            },
+                            "low": {
+                                   "il80_p1": 28500,
+                                   "il80_p2": 32600,
+                                   "il80_p3": 36650,
+                                   "il80_p4": 40700,
+                                   "il80_p5": 44000,
+                                   "il80_p6": 47250,
+                                   "il80_p7": 50500,
+                                   "il80_p8": 53750
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "year": "2018",
+                            "median_income": 55300,
+                            "very_low": {
+                                   "il50_p1": 19400,
+                                   "il50_p2": 22150,
+                                   "il50_p3": 24900,
+                                   "il50_p4": 27650,
+                                   "il50_p5": 29900,
+                                   "il50_p6": 32100,
+                                   "il50_p7": 34300,
+                                   "il50_p8": 36500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32100,
+                                   "il30_p7": 34300,
+                                   "il30_p8": 36500
+                            },
+                            "low": {
+                                   "il80_p1": 31000,
+                                   "il80_p2": 35400,
+                                   "il80_p3": 39850,
+                                   "il80_p4": 44250,
+                                   "il80_p5": 47800,
+                                   "il80_p6": 51350,
+                                   "il80_p7": 54900,
+                                   "il80_p8": 58450
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "year": "2019",
+                            "median_income": 57900,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 28950,
+                                   "il50_p5": 31300,
+                                   "il50_p6": 33600,
+                                   "il50_p7": 35900,
+                                   "il50_p8": 38250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33600,
+                                   "il30_p7": 35900,
+                                   "il30_p8": 38250
+                            },
+                            "low": {
+                                   "il80_p1": 32450,
+                                   "il80_p2": 37050,
+                                   "il80_p3": 41700,
+                                   "il80_p4": 46300,
+                                   "il80_p5": 50050,
+                                   "il80_p6": 53750,
+                                   "il80_p7": 57450,
+                                   "il80_p8": 61150
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "year": "2020",
+                            "median_income": 63500,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38750,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 49950,
+                                   "il80_p5": 53950,
+                                   "il80_p6": 57950,
+                                   "il80_p7": 61950,
+                                   "il80_p8": 65950
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "year": "2021",
+                            "median_income": 67900,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26250,
+                                   "il50_p3": 29550,
+                                   "il50_p4": 32800,
+                                   "il50_p5": 35450,
+                                   "il50_p6": 38050,
+                                   "il50_p7": 40700,
+                                   "il50_p8": 43300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43300
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, GA",
+                            "year": "2022",
+                            "median_income": 77000,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33050,
+                                   "il50_p4": 36700,
+                                   "il50_p5": 39650,
+                                   "il50_p6": 42600,
+                                   "il50_p7": 45550,
+                                   "il50_p8": 48450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41050,
+                                   "il80_p2": 46900,
+                                   "il80_p3": 52750,
+                                   "il80_p4": 58600,
+                                   "il80_p5": 63300,
+                                   "il80_p6": 68000,
+                                   "il80_p7": 72700,
+                                   "il80_p8": 77400
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,293 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 545,
+                                   "Two-Bedroom": 725,
+                                   "Three-Bedroom": 966,
+                                   "Four-Bedroom": 1109,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 626,
+                                   "Two-Bedroom": 833,
+                                   "Three-Bedroom": 1115,
+                                   "Four-Bedroom": 1135,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 604,
+                                   "One-Bedroom": 701,
+                                   "Two-Bedroom": 927,
+                                   "Three-Bedroom": 1223,
+                                   "Four-Bedroom": 1253,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 652,
+                                   "One-Bedroom": 760,
+                                   "Two-Bedroom": 1001,
+                                   "Three-Bedroom": 1281,
+                                   "Four-Bedroom": 1356,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 685,
+                                   "One-Bedroom": 788,
+                                   "Two-Bedroom": 1038,
+                                   "Three-Bedroom": 1298,
+                                   "Four-Bedroom": 1517,
+                                   "year": "2021"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 51900,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 52900,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 56600,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25750,
+                                   "il50_p3": 28950,
+                                   "il50_p4": 32150,
+                                   "il50_p5": 34750,
+                                   "il50_p6": 37300,
+                                   "il50_p7": 39900,
+                                   "il50_p8": 42450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42450
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51450,
+                                   "il80_p5": 55600,
+                                   "il80_p6": 59700,
+                                   "il80_p7": 63800,
+                                   "il80_p8": 67950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 66300,
+                            "very_low": {
+                                   "il50_p1": 23600,
+                                   "il50_p2": 26950,
+                                   "il50_p3": 30300,
+                                   "il50_p4": 33650,
+                                   "il50_p5": 36350,
+                                   "il50_p6": 39050,
+                                   "il50_p7": 41750,
+                                   "il50_p8": 44450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 37700,
+                                   "il80_p2": 43100,
+                                   "il80_p3": 48500,
+                                   "il80_p4": 53850,
+                                   "il80_p5": 58200,
+                                   "il80_p6": 62500,
+                                   "il80_p7": 66800,
+                                   "il80_p8": 71100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Walla Walla, WA MSA",
+                            "area_name": "Columbia County, WA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 72400,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28250,
+                                   "il50_p3": 31800,
+                                   "il50_p4": 35300,
+                                   "il50_p5": 38150,
+                                   "il50_p6": 40950,
+                                   "il50_p7": 43800,
+                                   "il50_p8": 46600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39550,
+                                   "il80_p2": 45200,
+                                   "il80_p3": 50850,
+                                   "il80_p4": 56500,
+                                   "il80_p5": 61050,
+                                   "il80_p6": 65550,
+                                   "il80_p7": 70100,
+                                   "il80_p8": 74600
+                            }
+                     }
+              ]
+       }
+}

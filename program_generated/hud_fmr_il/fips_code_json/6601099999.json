@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 681,
+                                   "One-Bedroom": 734,
+                                   "Two-Bedroom": 983,
+                                   "Three-Bedroom": 1433,
+                                   "Four-Bedroom": 1716,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 751,
+                                   "Two-Bedroom": 999,
+                                   "Three-Bedroom": 1453,
+                                   "Four-Bedroom": 1760,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 728,
+                                   "One-Bedroom": 795,
+                                   "Two-Bedroom": 1051,
+                                   "Three-Bedroom": 1520,
+                                   "Four-Bedroom": 1846,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 952,
+                                   "One-Bedroom": 1043,
+                                   "Two-Bedroom": 1374,
+                                   "Three-Bedroom": 1982,
+                                   "Four-Bedroom": 2412,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 975,
+                                   "One-Bedroom": 1068,
+                                   "Two-Bedroom": 1408,
+                                   "Three-Bedroom": 2015,
+                                   "Four-Bedroom": 2438,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1016,
+                                   "One-Bedroom": 1115,
+                                   "Two-Bedroom": 1467,
+                                   "Three-Bedroom": 2084,
+                                   "Four-Bedroom": 2511,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "year": "2017",
+                            "median_income": 56300,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 22950,
+                                   "il50_p3": 25800,
+                                   "il50_p4": 28650,
+                                   "il50_p5": 30950,
+                                   "il50_p6": 33250,
+                                   "il50_p7": 35550,
+                                   "il50_p8": 37850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12050,
+                                   "il30_p2": 13800,
+                                   "il30_p3": 15500,
+                                   "il30_p4": 17200,
+                                   "il30_p5": 18600,
+                                   "il30_p6": 20000,
+                                   "il30_p7": 21350,
+                                   "il30_p8": 22750
+                            },
+                            "low": {
+                                   "il80_p1": 32100,
+                                   "il80_p2": 36700,
+                                   "il80_p3": 41300,
+                                   "il80_p4": 45850,
+                                   "il80_p5": 49550,
+                                   "il80_p6": 53200,
+                                   "il80_p7": 56900,
+                                   "il80_p8": 60550
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "year": "2018",
+                            "median_income": 59600,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23850,
+                                   "il50_p3": 26850,
+                                   "il50_p4": 29800,
+                                   "il50_p5": 32200,
+                                   "il50_p6": 34600,
+                                   "il50_p7": 37000,
+                                   "il50_p8": 39350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 14350,
+                                   "il30_p3": 16150,
+                                   "il30_p4": 17900,
+                                   "il30_p5": 19350,
+                                   "il30_p6": 20800,
+                                   "il30_p7": 22200,
+                                   "il30_p8": 23650
+                            },
+                            "low": {
+                                   "il80_p1": 33400,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 42950,
+                                   "il80_p4": 47700,
+                                   "il80_p5": 51550,
+                                   "il80_p6": 55350,
+                                   "il80_p7": 59150,
+                                   "il80_p8": 63000
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "year": "2019",
+                            "median_income": 62600,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25050,
+                                   "il50_p3": 28200,
+                                   "il50_p4": 31300,
+                                   "il50_p5": 33850,
+                                   "il50_p6": 36350,
+                                   "il50_p7": 38850,
+                                   "il50_p8": 41350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 15050,
+                                   "il30_p3": 16950,
+                                   "il30_p4": 18800,
+                                   "il30_p5": 20350,
+                                   "il30_p6": 21850,
+                                   "il30_p7": 23350,
+                                   "il30_p8": 24850
+                            },
+                            "low": {
+                                   "il80_p1": 35100,
+                                   "il80_p2": 40100,
+                                   "il80_p3": 45100,
+                                   "il80_p4": 50100,
+                                   "il80_p5": 54150,
+                                   "il80_p6": 58150,
+                                   "il80_p7": 62150,
+                                   "il80_p8": 66150
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "year": "2020",
+                            "median_income": 65000,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 15600,
+                                   "il30_p3": 17550,
+                                   "il30_p4": 19500,
+                                   "il30_p5": 21100,
+                                   "il30_p6": 22650,
+                                   "il30_p7": 24200,
+                                   "il30_p8": 25750
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "year": "2021",
+                            "median_income": 66200,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16400,
+                                   "il30_p3": 18450,
+                                   "il30_p4": 20450,
+                                   "il30_p5": 22100,
+                                   "il30_p6": 23750,
+                                   "il30_p7": 25400,
+                                   "il30_p8": 27000
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     },
+                     {
+                            "county_name": "Guam, GU",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Guam",
+                            "year": "2022",
+                            "median_income": 74500,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30550,
+                                   "il50_p3": 34350,
+                                   "il50_p4": 38150,
+                                   "il50_p5": 41250,
+                                   "il50_p6": 44300,
+                                   "il50_p7": 47350,
+                                   "il50_p8": 50400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 20650,
+                                   "il30_p4": 22900,
+                                   "il30_p5": 24750,
+                                   "il30_p6": 26600,
+                                   "il30_p7": 28400,
+                                   "il30_p8": 30250
+                            },
+                            "low": {
+                                   "il80_p1": 42700,
+                                   "il80_p2": 48800,
+                                   "il80_p3": 54900,
+                                   "il80_p4": 61000,
+                                   "il80_p5": 65900,
+                                   "il80_p6": 70800,
+                                   "il80_p7": 75650,
+                                   "il80_p8": 80550
+                            }
+                     }
+              ]
+       }
+}

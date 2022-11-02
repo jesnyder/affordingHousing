@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 501,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 790,
+                                   "Three-Bedroom": 1141,
+                                   "Four-Bedroom": 1163,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 550,
+                                   "One-Bedroom": 648,
+                                   "Two-Bedroom": 862,
+                                   "Three-Bedroom": 1246,
+                                   "Four-Bedroom": 1255,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 657,
+                                   "Two-Bedroom": 869,
+                                   "Three-Bedroom": 1246,
+                                   "Four-Bedroom": 1250,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 695,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1296,
+                                   "Four-Bedroom": 1301,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 697,
+                                   "Two-Bedroom": 919,
+                                   "Three-Bedroom": 1306,
+                                   "Four-Bedroom": 1311,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 628,
+                                   "One-Bedroom": 718,
+                                   "Two-Bedroom": 945,
+                                   "Three-Bedroom": 1342,
+                                   "Four-Bedroom": 1381,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 37000,
+                                   "il50_p5": 40000,
+                                   "il50_p6": 42950,
+                                   "il50_p7": 45900,
+                                   "il50_p8": 48850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41450,
+                                   "il80_p2": 47400,
+                                   "il80_p3": 53300,
+                                   "il80_p4": 59200,
+                                   "il80_p5": 63950,
+                                   "il80_p6": 68700,
+                                   "il80_p7": 73450,
+                                   "il80_p8": 78150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 75900,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 37950,
+                                   "il50_p5": 41000,
+                                   "il50_p6": 44050,
+                                   "il50_p7": 47100,
+                                   "il50_p8": 50100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48600,
+                                   "il80_p3": 54650,
+                                   "il80_p4": 60700,
+                                   "il80_p5": 65600,
+                                   "il80_p6": 70450,
+                                   "il80_p7": 75300,
+                                   "il80_p8": 80150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 78300,
+                            "very_low": {
+                                   "il50_p1": 27450,
+                                   "il50_p2": 31350,
+                                   "il50_p3": 35250,
+                                   "il50_p4": 39150,
+                                   "il50_p5": 42300,
+                                   "il50_p6": 45450,
+                                   "il50_p7": 48550,
+                                   "il50_p8": 51700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43900,
+                                   "il80_p2": 50150,
+                                   "il80_p3": 56400,
+                                   "il80_p4": 62650,
+                                   "il80_p5": 67700,
+                                   "il80_p6": 72700,
+                                   "il80_p7": 77700,
+                                   "il80_p8": 82700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 81800,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65450,
+                                   "il80_p5": 70700,
+                                   "il80_p6": 75950,
+                                   "il80_p7": 81200,
+                                   "il80_p8": 86400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 83200,
+                            "very_low": {
+                                   "il50_p1": 29150,
+                                   "il50_p2": 33300,
+                                   "il50_p3": 37450,
+                                   "il50_p4": 41600,
+                                   "il50_p5": 44950,
+                                   "il50_p6": 48300,
+                                   "il50_p7": 51600,
+                                   "il50_p8": 54950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17500,
+                                   "il30_p2": 20000,
+                                   "il30_p3": 22500,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46600,
+                                   "il80_p2": 53250,
+                                   "il80_p3": 59900,
+                                   "il80_p4": 66550,
+                                   "il80_p5": 71900,
+                                   "il80_p6": 77200,
+                                   "il80_p7": 82550,
+                                   "il80_p8": 87850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Columbia County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Columbia County, WI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 92500,
+                            "very_low": {
+                                   "il50_p1": 32400,
+                                   "il50_p2": 37000,
+                                   "il50_p3": 41650,
+                                   "il50_p4": 46250,
+                                   "il50_p5": 49950,
+                                   "il50_p6": 53650,
+                                   "il50_p7": 57350,
+                                   "il50_p8": 61050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19450,
+                                   "il30_p2": 22200,
+                                   "il30_p3": 25000,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51800,
+                                   "il80_p2": 59200,
+                                   "il80_p3": 66600,
+                                   "il80_p4": 74000,
+                                   "il80_p5": 79950,
+                                   "il80_p6": 85850,
+                                   "il80_p7": 91800,
+                                   "il80_p8": 97700
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 412,
+                                   "One-Bedroom": 488,
+                                   "Two-Bedroom": 649,
+                                   "Three-Bedroom": 857,
+                                   "Four-Bedroom": 1015,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 417,
+                                   "One-Bedroom": 491,
+                                   "Two-Bedroom": 653,
+                                   "Three-Bedroom": 852,
+                                   "Four-Bedroom": 1005,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 427,
+                                   "One-Bedroom": 503,
+                                   "Two-Bedroom": 665,
+                                   "Three-Bedroom": 905,
+                                   "Four-Bedroom": 1017,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 448,
+                                   "One-Bedroom": 522,
+                                   "Two-Bedroom": 687,
+                                   "Three-Bedroom": 944,
+                                   "Four-Bedroom": 991,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 472,
+                                   "One-Bedroom": 543,
+                                   "Two-Bedroom": 715,
+                                   "Three-Bedroom": 966,
+                                   "Four-Bedroom": 970,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 491,
+                                   "One-Bedroom": 562,
+                                   "Two-Bedroom": 739,
+                                   "Three-Bedroom": 998,
+                                   "Four-Bedroom": 1002,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 67100,
+                            "very_low": {
+                                   "il50_p1": 23500,
+                                   "il50_p2": 26850,
+                                   "il50_p3": 30200,
+                                   "il50_p4": 33550,
+                                   "il50_p5": 36250,
+                                   "il50_p6": 38950,
+                                   "il50_p7": 41650,
+                                   "il50_p8": 44300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37600,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48350,
+                                   "il80_p4": 53700,
+                                   "il80_p5": 58000,
+                                   "il80_p6": 62300,
+                                   "il80_p7": 66600,
+                                   "il80_p8": 70900
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 69700,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27900,
+                                   "il50_p3": 31400,
+                                   "il50_p4": 34850,
+                                   "il50_p5": 37650,
+                                   "il50_p6": 40450,
+                                   "il50_p7": 43250,
+                                   "il50_p8": 46050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 16750,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39050,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50200,
+                                   "il80_p4": 55750,
+                                   "il80_p5": 60250,
+                                   "il80_p6": 64700,
+                                   "il80_p7": 69150,
+                                   "il80_p8": 73600
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73600,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29450,
+                                   "il50_p3": 33150,
+                                   "il50_p4": 36800,
+                                   "il50_p5": 39750,
+                                   "il50_p6": 42700,
+                                   "il50_p7": 45650,
+                                   "il50_p8": 48600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 17700,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41250,
+                                   "il80_p2": 47150,
+                                   "il80_p3": 53050,
+                                   "il80_p4": 58900,
+                                   "il80_p5": 63650,
+                                   "il80_p6": 68350,
+                                   "il80_p7": 73050,
+                                   "il80_p8": 77750
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 76200,
+                            "very_low": {
+                                   "il50_p1": 26700,
+                                   "il50_p2": 30500,
+                                   "il50_p3": 34300,
+                                   "il50_p4": 38100,
+                                   "il50_p5": 41150,
+                                   "il50_p6": 44200,
+                                   "il50_p7": 47250,
+                                   "il50_p8": 50300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18300,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42700,
+                                   "il80_p2": 48800,
+                                   "il80_p3": 54900,
+                                   "il80_p4": 60950,
+                                   "il80_p5": 65850,
+                                   "il80_p6": 70750,
+                                   "il80_p7": 75600,
+                                   "il80_p8": 80500
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 76300,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30550,
+                                   "il50_p3": 34350,
+                                   "il50_p4": 38150,
+                                   "il50_p5": 41250,
+                                   "il50_p6": 44300,
+                                   "il50_p7": 47350,
+                                   "il50_p8": 50400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42750,
+                                   "il80_p2": 48850,
+                                   "il80_p3": 54950,
+                                   "il80_p4": 61050,
+                                   "il80_p5": 65950,
+                                   "il80_p6": 70850,
+                                   "il80_p7": 75750,
+                                   "il80_p8": 80600
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA",
+                            "area_name": "Jones County, IA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 83400,
+                            "very_low": {
+                                   "il50_p1": 29200,
+                                   "il50_p2": 33400,
+                                   "il50_p3": 37550,
+                                   "il50_p4": 41700,
+                                   "il50_p5": 45050,
+                                   "il50_p6": 48400,
+                                   "il50_p7": 51750,
+                                   "il50_p8": 55050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17500,
+                                   "il30_p2": 20000,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46700,
+                                   "il80_p2": 53400,
+                                   "il80_p3": 60050,
+                                   "il80_p4": 66700,
+                                   "il80_p5": 72050,
+                                   "il80_p6": 77400,
+                                   "il80_p7": 82750,
+                                   "il80_p8": 88050
+                            }
+                     }
+              ]
+       }
+}

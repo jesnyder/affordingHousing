@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 485,
+                                   "One-Bedroom": 575,
+                                   "Two-Bedroom": 764,
+                                   "Three-Bedroom": 1041,
+                                   "Four-Bedroom": 1206,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 609,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1103,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 506,
+                                   "One-Bedroom": 598,
+                                   "Two-Bedroom": 787,
+                                   "Three-Bedroom": 1073,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 536,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1121,
+                                   "Four-Bedroom": 1372,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 658,
+                                   "Two-Bedroom": 854,
+                                   "Three-Bedroom": 1153,
+                                   "Four-Bedroom": 1412,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 547,
+                                   "One-Bedroom": 635,
+                                   "Two-Bedroom": 823,
+                                   "Three-Bedroom": 1103,
+                                   "Four-Bedroom": 1345,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 66400,
+                            "very_low": {
+                                   "il50_p1": 23250,
+                                   "il50_p2": 26600,
+                                   "il50_p3": 29900,
+                                   "il50_p4": 33200,
+                                   "il50_p5": 35900,
+                                   "il50_p6": 38550,
+                                   "il50_p7": 41200,
+                                   "il50_p8": 43850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13950,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37200,
+                                   "il80_p2": 42500,
+                                   "il80_p3": 47800,
+                                   "il80_p4": 53100,
+                                   "il80_p5": 57350,
+                                   "il80_p6": 61600,
+                                   "il80_p7": 65850,
+                                   "il80_p8": 70100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 69400,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31250,
+                                   "il50_p4": 34700,
+                                   "il50_p5": 37500,
+                                   "il50_p6": 40300,
+                                   "il50_p7": 43050,
+                                   "il50_p8": 45850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 16650,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55500,
+                                   "il80_p5": 59950,
+                                   "il80_p6": 64400,
+                                   "il80_p7": 68850,
+                                   "il80_p8": 73300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 72900,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36450,
+                                   "il50_p5": 39400,
+                                   "il50_p6": 42300,
+                                   "il50_p7": 45200,
+                                   "il50_p8": 48150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40850,
+                                   "il80_p2": 46650,
+                                   "il80_p3": 52500,
+                                   "il80_p4": 58300,
+                                   "il80_p5": 63000,
+                                   "il80_p6": 67650,
+                                   "il80_p7": 72300,
+                                   "il80_p8": 77000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 72600,
+                            "very_low": {
+                                   "il50_p1": 25450,
+                                   "il50_p2": 29050,
+                                   "il50_p3": 32700,
+                                   "il50_p4": 36300,
+                                   "il50_p5": 39250,
+                                   "il50_p6": 42150,
+                                   "il50_p7": 45050,
+                                   "il50_p8": 47950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17450,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40700,
+                                   "il80_p2": 46500,
+                                   "il80_p3": 52300,
+                                   "il80_p4": 58100,
+                                   "il80_p5": 62750,
+                                   "il80_p6": 67400,
+                                   "il80_p7": 72050,
+                                   "il80_p8": 76700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS MSA",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 75800,
+                            "very_low": {
+                                   "il50_p1": 26550,
+                                   "il50_p2": 30350,
+                                   "il50_p3": 34150,
+                                   "il50_p4": 37900,
+                                   "il50_p5": 40950,
+                                   "il50_p6": 44000,
+                                   "il50_p7": 47000,
+                                   "il50_p8": 50050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48550,
+                                   "il80_p3": 54600,
+                                   "il80_p4": 60650,
+                                   "il80_p5": 65550,
+                                   "il80_p6": 70400,
+                                   "il80_p7": 75250,
+                                   "il80_p8": 80100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butler County, KS; Harvey County, KS; and Sedgwick County, KS",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita, KS",
+                            "area_name": "Wichita, KS HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 86200,
+                            "very_low": {
+                                   "il50_p1": 29700,
+                                   "il50_p2": 33950,
+                                   "il50_p3": 38200,
+                                   "il50_p4": 42400,
+                                   "il50_p5": 45800,
+                                   "il50_p6": 49200,
+                                   "il50_p7": 52600,
+                                   "il50_p8": 56000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47500,
+                                   "il80_p2": 54300,
+                                   "il80_p3": 61100,
+                                   "il80_p4": 67850,
+                                   "il80_p5": 73300,
+                                   "il80_p6": 78750,
+                                   "il80_p7": 84150,
+                                   "il80_p8": 89600
+                            }
+                     }
+              ]
+       }
+}

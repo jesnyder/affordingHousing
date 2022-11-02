@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 988,
+                                   "One-Bedroom": 1195,
+                                   "Two-Bedroom": 1545,
+                                   "Three-Bedroom": 2079,
+                                   "Four-Bedroom": 2303,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1067,
+                                   "One-Bedroom": 1284,
+                                   "Two-Bedroom": 1663,
+                                   "Three-Bedroom": 2231,
+                                   "Four-Bedroom": 2467,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1158,
+                                   "One-Bedroom": 1384,
+                                   "Two-Bedroom": 1791,
+                                   "Three-Bedroom": 2401,
+                                   "Four-Bedroom": 2641,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1279,
+                                   "One-Bedroom": 1517,
+                                   "Two-Bedroom": 1956,
+                                   "Three-Bedroom": 2614,
+                                   "Four-Bedroom": 2857,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1369,
+                                   "One-Bedroom": 1605,
+                                   "Two-Bedroom": 2058,
+                                   "Three-Bedroom": 2735,
+                                   "Four-Bedroom": 2982,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1384,
+                                   "One-Bedroom": 1604,
+                                   "Two-Bedroom": 2044,
+                                   "Three-Bedroom": 2693,
+                                   "Four-Bedroom": 2933,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 64300,
+                            "very_low": {
+                                   "il50_p1": 31550,
+                                   "il50_p2": 36050,
+                                   "il50_p3": 40550,
+                                   "il50_p4": 45050,
+                                   "il50_p5": 48700,
+                                   "il50_p6": 52300,
+                                   "il50_p7": 55900,
+                                   "il50_p8": 59500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18950,
+                                   "il30_p2": 21650,
+                                   "il30_p3": 24350,
+                                   "il30_p4": 27050,
+                                   "il30_p5": 29250,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 50500,
+                                   "il80_p2": 57700,
+                                   "il80_p3": 64900,
+                                   "il80_p4": 72100,
+                                   "il80_p5": 77900,
+                                   "il80_p6": 83650,
+                                   "il80_p7": 89450,
+                                   "il80_p8": 95200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 69300,
+                            "very_low": {
+                                   "il50_p1": 33950,
+                                   "il50_p2": 38800,
+                                   "il50_p3": 43650,
+                                   "il50_p4": 48450,
+                                   "il50_p5": 52350,
+                                   "il50_p6": 56250,
+                                   "il50_p7": 60100,
+                                   "il50_p8": 64000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20350,
+                                   "il30_p2": 23250,
+                                   "il30_p3": 26150,
+                                   "il30_p4": 29050,
+                                   "il30_p5": 31400,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 54250,
+                                   "il80_p2": 62000,
+                                   "il80_p3": 69750,
+                                   "il80_p4": 77500,
+                                   "il80_p5": 83700,
+                                   "il80_p6": 89900,
+                                   "il80_p7": 96100,
+                                   "il80_p8": 102300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73100,
+                            "very_low": {
+                                   "il50_p1": 36550,
+                                   "il50_p2": 41800,
+                                   "il50_p3": 47000,
+                                   "il50_p4": 52200,
+                                   "il50_p5": 56400,
+                                   "il50_p6": 60600,
+                                   "il50_p7": 64750,
+                                   "il50_p8": 68950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21950,
+                                   "il30_p2": 25050,
+                                   "il30_p3": 28200,
+                                   "il30_p4": 31300,
+                                   "il30_p5": 33850,
+                                   "il30_p6": 36350,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 58450,
+                                   "il80_p2": 66800,
+                                   "il80_p3": 75150,
+                                   "il80_p4": 83500,
+                                   "il80_p5": 90200,
+                                   "il80_p6": 96900,
+                                   "il80_p7": 103550,
+                                   "il80_p8": 110250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 77300,
+                            "very_low": {
+                                   "il50_p1": 39450,
+                                   "il50_p2": 45050,
+                                   "il50_p3": 50700,
+                                   "il50_p4": 56300,
+                                   "il50_p5": 60850,
+                                   "il50_p6": 65350,
+                                   "il50_p7": 69850,
+                                   "il50_p8": 74350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23700,
+                                   "il30_p2": 27050,
+                                   "il30_p3": 30450,
+                                   "il30_p4": 33800,
+                                   "il30_p5": 36550,
+                                   "il30_p6": 39250,
+                                   "il30_p7": 41950,
+                                   "il30_p8": 44650
+                            },
+                            "low": {
+                                   "il80_p1": 63100,
+                                   "il80_p2": 72100,
+                                   "il80_p3": 81100,
+                                   "il80_p4": 90100,
+                                   "il80_p5": 97350,
+                                   "il80_p6": 104550,
+                                   "il80_p7": 111750,
+                                   "il80_p8": 118950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA MSA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 41400,
+                                   "il50_p2": 47300,
+                                   "il50_p3": 53200,
+                                   "il50_p4": 59100,
+                                   "il50_p5": 63850,
+                                   "il50_p6": 68600,
+                                   "il50_p7": 73300,
+                                   "il50_p8": 78050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24850,
+                                   "il30_p2": 28400,
+                                   "il30_p3": 31950,
+                                   "il30_p4": 35450,
+                                   "il30_p5": 38300,
+                                   "il30_p6": 41150,
+                                   "il30_p7": 44000,
+                                   "il30_p8": 46800
+                            },
+                            "low": {
+                                   "il80_p1": 66250,
+                                   "il80_p2": 75700,
+                                   "il80_p3": 85150,
+                                   "il80_p4": 94600,
+                                   "il80_p5": 102200,
+                                   "il80_p6": 109750,
+                                   "il80_p7": 117350,
+                                   "il80_p8": 124900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Los Angeles County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Los Angeles-Long Beach-Anaheim, CA",
+                            "area_name": "Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 91100,
+                            "very_low": {
+                                   "il50_p1": 41700,
+                                   "il50_p2": 47650,
+                                   "il50_p3": 53600,
+                                   "il50_p4": 59550,
+                                   "il50_p5": 64350,
+                                   "il50_p6": 69100,
+                                   "il50_p7": 73850,
+                                   "il50_p8": 78650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25050,
+                                   "il30_p2": 28600,
+                                   "il30_p3": 32200,
+                                   "il30_p4": 35750,
+                                   "il30_p5": 38650,
+                                   "il30_p6": 41500,
+                                   "il30_p7": 44350,
+                                   "il30_p8": 47200
+                            },
+                            "low": {
+                                   "il80_p1": 66750,
+                                   "il80_p2": 76250,
+                                   "il80_p3": 85800,
+                                   "il80_p4": 95300,
+                                   "il80_p5": 102950,
+                                   "il80_p6": 110550,
+                                   "il80_p7": 118200,
+                                   "il80_p8": 125800
+                            }
+                     }
+              ]
+       }
+}

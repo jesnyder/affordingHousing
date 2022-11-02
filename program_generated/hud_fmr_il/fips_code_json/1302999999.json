@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 706,
+                                   "One-Bedroom": 801,
+                                   "Two-Bedroom": 924,
+                                   "Three-Bedroom": 1260,
+                                   "Four-Bedroom": 1472,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 853,
+                                   "One-Bedroom": 926,
+                                   "Two-Bedroom": 1063,
+                                   "Three-Bedroom": 1453,
+                                   "Four-Bedroom": 1697,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 827,
+                                   "One-Bedroom": 870,
+                                   "Two-Bedroom": 996,
+                                   "Three-Bedroom": 1364,
+                                   "Four-Bedroom": 1554,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 838,
+                                   "One-Bedroom": 887,
+                                   "Two-Bedroom": 1010,
+                                   "Three-Bedroom": 1385,
+                                   "Four-Bedroom": 1589,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 877,
+                                   "One-Bedroom": 921,
+                                   "Two-Bedroom": 1050,
+                                   "Three-Bedroom": 1442,
+                                   "Four-Bedroom": 1671,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA",
+                            "area_name": "Savannah, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 880,
+                                   "One-Bedroom": 937,
+                                   "Two-Bedroom": 1067,
+                                   "Three-Bedroom": 1466,
+                                   "Four-Bedroom": 1713,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "year": "2017",
+                            "median_income": 64900,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "year": "2018",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "year": "2019",
+                            "median_income": 75400,
+                            "very_low": {
+                                   "il50_p1": 25100,
+                                   "il50_p2": 28700,
+                                   "il50_p3": 32300,
+                                   "il50_p4": 35850,
+                                   "il50_p5": 38750,
+                                   "il50_p6": 41600,
+                                   "il50_p7": 44500,
+                                   "il50_p8": 47350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17200,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40150,
+                                   "il80_p2": 45900,
+                                   "il80_p3": 51650,
+                                   "il80_p4": 57350,
+                                   "il80_p5": 61950,
+                                   "il80_p6": 66550,
+                                   "il80_p7": 71150,
+                                   "il80_p8": 75750
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "year": "2020",
+                            "median_income": 72000,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 36000,
+                                   "il50_p5": 38900,
+                                   "il50_p6": 41800,
+                                   "il50_p7": 44650,
+                                   "il50_p8": 47550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15150,
+                                   "il30_p2": 17300,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40350,
+                                   "il80_p2": 46100,
+                                   "il80_p3": 51850,
+                                   "il80_p4": 57600,
+                                   "il80_p5": 62250,
+                                   "il80_p6": 66850,
+                                   "il80_p7": 71450,
+                                   "il80_p8": 76050
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA MSA",
+                            "area_name": "Savannah, GA MSA",
+                            "year": "2021",
+                            "median_income": 79400,
+                            "very_low": {
+                                   "il50_p1": 26500,
+                                   "il50_p2": 30250,
+                                   "il50_p3": 34050,
+                                   "il50_p4": 37800,
+                                   "il50_p5": 40850,
+                                   "il50_p6": 43850,
+                                   "il50_p7": 46900,
+                                   "il50_p8": 49900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42350,
+                                   "il80_p2": 48400,
+                                   "il80_p3": 54450,
+                                   "il80_p4": 60450,
+                                   "il80_p5": 65300,
+                                   "il80_p6": 70150,
+                                   "il80_p7": 75000,
+                                   "il80_p8": 79800
+                            }
+                     },
+                     {
+                            "county_name": "Bryan County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Savannah, GA",
+                            "area_name": "Savannah, GA MSA",
+                            "year": "2022",
+                            "median_income": 83400,
+                            "very_low": {
+                                   "il50_p1": 29200,
+                                   "il50_p2": 33400,
+                                   "il50_p3": 37550,
+                                   "il50_p4": 41700,
+                                   "il50_p5": 45050,
+                                   "il50_p6": 48400,
+                                   "il50_p7": 51750,
+                                   "il50_p8": 55050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17500,
+                                   "il30_p2": 20000,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46700,
+                                   "il80_p2": 53400,
+                                   "il80_p3": 60050,
+                                   "il80_p4": 66700,
+                                   "il80_p5": 72050,
+                                   "il80_p6": 77400,
+                                   "il80_p7": 82750,
+                                   "il80_p8": 88050
+                            }
+                     }
+              ]
+       }
+}

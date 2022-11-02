@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 494,
+                                   "One-Bedroom": 605,
+                                   "Two-Bedroom": 745,
+                                   "Three-Bedroom": 1085,
+                                   "Four-Bedroom": 1313,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 682,
+                                   "Two-Bedroom": 855,
+                                   "Three-Bedroom": 1244,
+                                   "Four-Bedroom": 1506,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 715,
+                                   "Two-Bedroom": 923,
+                                   "Three-Bedroom": 1335,
+                                   "Four-Bedroom": 1621,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 640,
+                                   "One-Bedroom": 749,
+                                   "Two-Bedroom": 983,
+                                   "Three-Bedroom": 1418,
+                                   "Four-Bedroom": 1699,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 676,
+                                   "One-Bedroom": 774,
+                                   "Two-Bedroom": 1020,
+                                   "Three-Bedroom": 1460,
+                                   "Four-Bedroom": 1721,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA",
+                            "area_name": "Longview, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 808,
+                                   "Two-Bedroom": 1055,
+                                   "Three-Bedroom": 1499,
+                                   "Four-Bedroom": 1806,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "year": "2017",
+                            "median_income": 52100,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "year": "2018",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "year": "2019",
+                            "median_income": 68300,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27350,
+                                   "il50_p3": 30750,
+                                   "il50_p4": 34150,
+                                   "il50_p5": 36900,
+                                   "il50_p6": 39650,
+                                   "il50_p7": 42350,
+                                   "il50_p8": 45100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43750,
+                                   "il80_p3": 49200,
+                                   "il80_p4": 54650,
+                                   "il80_p5": 59050,
+                                   "il80_p6": 63400,
+                                   "il80_p7": 67800,
+                                   "il80_p8": 72150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "year": "2020",
+                            "median_income": 69200,
+                            "very_low": {
+                                   "il50_p1": 24250,
+                                   "il50_p2": 27700,
+                                   "il50_p3": 31150,
+                                   "il50_p4": 34600,
+                                   "il50_p5": 37400,
+                                   "il50_p6": 40150,
+                                   "il50_p7": 42950,
+                                   "il50_p8": 45700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44300,
+                                   "il80_p3": 49850,
+                                   "il80_p4": 55350,
+                                   "il80_p5": 59800,
+                                   "il80_p6": 64250,
+                                   "il80_p7": 68650,
+                                   "il80_p8": 73100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA MSA",
+                            "area_name": "Longview, WA MSA",
+                            "year": "2021",
+                            "median_income": 71300,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28550,
+                                   "il50_p3": 32100,
+                                   "il50_p4": 35650,
+                                   "il50_p5": 38550,
+                                   "il50_p6": 41400,
+                                   "il50_p7": 44250,
+                                   "il50_p8": 47100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39950,
+                                   "il80_p2": 45650,
+                                   "il80_p3": 51350,
+                                   "il80_p4": 57050,
+                                   "il80_p5": 61650,
+                                   "il80_p6": 66200,
+                                   "il80_p7": 70750,
+                                   "il80_p8": 75350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cowlitz County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, WA",
+                            "area_name": "Longview, WA MSA",
+                            "year": "2022",
+                            "median_income": 75100,
+                            "very_low": {
+                                   "il50_p1": 27900,
+                                   "il50_p2": 31850,
+                                   "il50_p3": 35850,
+                                   "il50_p4": 39800,
+                                   "il50_p5": 43000,
+                                   "il50_p6": 46200,
+                                   "il50_p7": 49400,
+                                   "il50_p8": 52550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16750,
+                                   "il30_p2": 19150,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44600,
+                                   "il80_p2": 51000,
+                                   "il80_p3": 57350,
+                                   "il80_p4": 63700,
+                                   "il80_p5": 68800,
+                                   "il80_p6": 73900,
+                                   "il80_p7": 79000,
+                                   "il80_p8": 84100
+                            }
+                     }
+              ]
+       }
+}

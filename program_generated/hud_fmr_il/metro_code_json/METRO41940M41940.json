@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1507,
+                                   "One-Bedroom": 1773,
+                                   "Two-Bedroom": 2220,
+                                   "Three-Bedroom": 3078,
+                                   "Four-Bedroom": 3545,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1716,
+                                   "One-Bedroom": 2031,
+                                   "Two-Bedroom": 2522,
+                                   "Three-Bedroom": 3468,
+                                   "Four-Bedroom": 3942,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1865,
+                                   "One-Bedroom": 2212,
+                                   "Two-Bedroom": 2712,
+                                   "Three-Bedroom": 3658,
+                                   "Four-Bedroom": 4198,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2103,
+                                   "One-Bedroom": 2458,
+                                   "Two-Bedroom": 2970,
+                                   "Three-Bedroom": 3943,
+                                   "Four-Bedroom": 4525,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2228,
+                                   "One-Bedroom": 2558,
+                                   "Two-Bedroom": 3051,
+                                   "Three-Bedroom": 3984,
+                                   "Four-Bedroom": 4593,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2145,
+                                   "One-Bedroom": 2418,
+                                   "Two-Bedroom": 2868,
+                                   "Three-Bedroom": 3687,
+                                   "Four-Bedroom": 4213,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 113300,
+                            "very_low": {
+                                   "il50_p1": 41800,
+                                   "il50_p2": 47800,
+                                   "il50_p3": 53750,
+                                   "il50_p4": 59700,
+                                   "il50_p5": 64500,
+                                   "il50_p6": 69300,
+                                   "il50_p7": 74050,
+                                   "il50_p8": 78850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25100,
+                                   "il30_p2": 28650,
+                                   "il30_p3": 32250,
+                                   "il30_p4": 35800,
+                                   "il30_p5": 38700,
+                                   "il30_p6": 41550,
+                                   "il30_p7": 44400,
+                                   "il30_p8": 47300
+                            },
+                            "low": {
+                                   "il80_p1": 59350,
+                                   "il80_p2": 67800,
+                                   "il80_p3": 76300,
+                                   "il80_p4": 84750,
+                                   "il80_p5": 91550,
+                                   "il80_p6": 98350,
+                                   "il80_p7": 105100,
+                                   "il80_p8": 111900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 125200,
+                            "very_low": {
+                                   "il50_p1": 46550,
+                                   "il50_p2": 53200,
+                                   "il50_p3": 59850,
+                                   "il50_p4": 66500,
+                                   "il50_p5": 71850,
+                                   "il50_p6": 77150,
+                                   "il50_p7": 82500,
+                                   "il50_p8": 87800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 27950,
+                                   "il30_p2": 31950,
+                                   "il30_p3": 35950,
+                                   "il30_p4": 39900,
+                                   "il30_p5": 43100,
+                                   "il30_p6": 46300,
+                                   "il30_p7": 49500,
+                                   "il30_p8": 52700
+                            },
+                            "low": {
+                                   "il80_p1": 66150,
+                                   "il80_p2": 75600,
+                                   "il80_p3": 85050,
+                                   "il80_p4": 94450,
+                                   "il80_p5": 102050,
+                                   "il80_p6": 109600,
+                                   "il80_p7": 117150,
+                                   "il80_p8": 124700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 131400,
+                            "very_low": {
+                                   "il50_p1": 51250,
+                                   "il50_p2": 58550,
+                                   "il50_p3": 65850,
+                                   "il50_p4": 73150,
+                                   "il50_p5": 79050,
+                                   "il50_p6": 84900,
+                                   "il50_p7": 90750,
+                                   "il50_p8": 96600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 30750,
+                                   "il30_p2": 35150,
+                                   "il30_p3": 39550,
+                                   "il30_p4": 43900,
+                                   "il30_p5": 47450,
+                                   "il30_p6": 50950,
+                                   "il30_p7": 54450,
+                                   "il30_p8": 57950
+                            },
+                            "low": {
+                                   "il80_p1": 72750,
+                                   "il80_p2": 83150,
+                                   "il80_p3": 93550,
+                                   "il80_p4": 103900,
+                                   "il80_p5": 112250,
+                                   "il80_p6": 120550,
+                                   "il80_p7": 128850,
+                                   "il80_p8": 137150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 141600,
+                            "very_low": {
+                                   "il50_p1": 55300,
+                                   "il50_p2": 63200,
+                                   "il50_p3": 71100,
+                                   "il50_p4": 78950,
+                                   "il50_p5": 85300,
+                                   "il50_p6": 91600,
+                                   "il50_p7": 97900,
+                                   "il50_p8": 104250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 33150,
+                                   "il30_p2": 37900,
+                                   "il30_p3": 42650,
+                                   "il30_p4": 47350,
+                                   "il30_p5": 51150,
+                                   "il30_p6": 54950,
+                                   "il30_p7": 58750,
+                                   "il30_p8": 62550
+                            },
+                            "low": {
+                                   "il80_p1": 78550,
+                                   "il80_p2": 89750,
+                                   "il80_p3": 100950,
+                                   "il80_p4": 112150,
+                                   "il80_p5": 121150,
+                                   "il80_p6": 130100,
+                                   "il80_p7": 139100,
+                                   "il80_p8": 148050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 151300,
+                            "very_low": {
+                                   "il50_p1": 58000,
+                                   "il50_p2": 66300,
+                                   "il50_p3": 74600,
+                                   "il50_p4": 82850,
+                                   "il50_p5": 89500,
+                                   "il50_p6": 96150,
+                                   "il50_p7": 102750,
+                                   "il50_p8": 109400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 34800,
+                                   "il30_p2": 39800,
+                                   "il30_p3": 44750,
+                                   "il30_p4": 49700,
+                                   "il30_p5": 53700,
+                                   "il30_p6": 57700,
+                                   "il30_p7": 61650,
+                                   "il30_p8": 65650
+                            },
+                            "low": {
+                                   "il80_p1": 82450,
+                                   "il80_p2": 94200,
+                                   "il80_p3": 106000,
+                                   "il80_p4": 117750,
+                                   "il80_p5": 127200,
+                                   "il80_p6": 136600,
+                                   "il80_p7": 146050,
+                                   "il80_p8": 155450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Clara County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA",
+                            "area_name": "San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 168500,
+                            "very_low": {
+                                   "il50_p1": 59000,
+                                   "il50_p2": 67400,
+                                   "il50_p3": 75850,
+                                   "il50_p4": 84250,
+                                   "il50_p5": 91000,
+                                   "il50_p6": 97750,
+                                   "il50_p7": 104500,
+                                   "il50_p8": 111250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 35400,
+                                   "il30_p2": 40450,
+                                   "il30_p3": 45500,
+                                   "il30_p4": 50550,
+                                   "il30_p5": 54600,
+                                   "il30_p6": 58650,
+                                   "il30_p7": 62700,
+                                   "il30_p8": 66750
+                            },
+                            "low": {
+                                   "il80_p1": 92250,
+                                   "il80_p2": 105400,
+                                   "il80_p3": 118600,
+                                   "il80_p4": 131750,
+                                   "il80_p5": 142300,
+                                   "il80_p6": 152850,
+                                   "il80_p7": 163400,
+                                   "il80_p8": 173950
+                            }
+                     }
+              ]
+       }
+}

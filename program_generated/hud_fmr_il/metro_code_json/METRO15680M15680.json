@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 887,
+                                   "One-Bedroom": 1080,
+                                   "Two-Bedroom": 1260,
+                                   "Three-Bedroom": 1699,
+                                   "Four-Bedroom": 2167,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 938,
+                                   "One-Bedroom": 1126,
+                                   "Two-Bedroom": 1329,
+                                   "Three-Bedroom": 1792,
+                                   "Four-Bedroom": 2263,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 874,
+                                   "One-Bedroom": 1102,
+                                   "Two-Bedroom": 1325,
+                                   "Three-Bedroom": 1821,
+                                   "Four-Bedroom": 2287,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 865,
+                                   "One-Bedroom": 1091,
+                                   "Two-Bedroom": 1328,
+                                   "Three-Bedroom": 1856,
+                                   "Four-Bedroom": 2275,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 891,
+                                   "One-Bedroom": 1102,
+                                   "Two-Bedroom": 1343,
+                                   "Three-Bedroom": 1892,
+                                   "Four-Bedroom": 2258,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1058,
+                                   "One-Bedroom": 1126,
+                                   "Two-Bedroom": 1372,
+                                   "Three-Bedroom": 1920,
+                                   "Four-Bedroom": 2218,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "year": "2017",
+                            "median_income": 99600,
+                            "very_low": {
+                                   "il50_p1": 34900,
+                                   "il50_p2": 39850,
+                                   "il50_p3": 44850,
+                                   "il50_p4": 49800,
+                                   "il50_p5": 53800,
+                                   "il50_p6": 57800,
+                                   "il50_p7": 61800,
+                                   "il50_p8": 65750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20950,
+                                   "il30_p2": 23950,
+                                   "il30_p3": 26950,
+                                   "il30_p4": 29900,
+                                   "il30_p5": 32300,
+                                   "il30_p6": 34700,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "year": "2018",
+                            "median_income": 103400,
+                            "very_low": {
+                                   "il50_p1": 36200,
+                                   "il50_p2": 41400,
+                                   "il50_p3": 46550,
+                                   "il50_p4": 51700,
+                                   "il50_p5": 55850,
+                                   "il50_p6": 60000,
+                                   "il50_p7": 64150,
+                                   "il50_p8": 68250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21700,
+                                   "il30_p2": 24800,
+                                   "il30_p3": 27900,
+                                   "il30_p4": 31000,
+                                   "il30_p5": 33500,
+                                   "il30_p6": 36000,
+                                   "il30_p7": 38450,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "year": "2019",
+                            "median_income": 101700,
+                            "very_low": {
+                                   "il50_p1": 35600,
+                                   "il50_p2": 40700,
+                                   "il50_p3": 45800,
+                                   "il50_p4": 50850,
+                                   "il50_p5": 54950,
+                                   "il50_p6": 59000,
+                                   "il50_p7": 63100,
+                                   "il50_p8": 67150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21350,
+                                   "il30_p2": 24400,
+                                   "il30_p3": 27450,
+                                   "il30_p4": 30500,
+                                   "il30_p5": 32950,
+                                   "il30_p6": 35400,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "year": "2020",
+                            "median_income": 103600,
+                            "very_low": {
+                                   "il50_p1": 36300,
+                                   "il50_p2": 41450,
+                                   "il50_p3": 46650,
+                                   "il50_p4": 51800,
+                                   "il50_p5": 55950,
+                                   "il50_p6": 60100,
+                                   "il50_p7": 64250,
+                                   "il50_p8": 68400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21800,
+                                   "il30_p2": 24900,
+                                   "il30_p3": 28000,
+                                   "il30_p4": 31100,
+                                   "il30_p5": 33600,
+                                   "il30_p6": 36100,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD MSA",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "year": "2021",
+                            "median_income": 116500,
+                            "very_low": {
+                                   "il50_p1": 38050,
+                                   "il50_p2": 43500,
+                                   "il50_p3": 48950,
+                                   "il50_p4": 54350,
+                                   "il50_p5": 58700,
+                                   "il50_p6": 63050,
+                                   "il50_p7": 67400,
+                                   "il50_p8": 71750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22850,
+                                   "il30_p2": 26100,
+                                   "il30_p3": 29350,
+                                   "il30_p4": 32600,
+                                   "il30_p5": 35250,
+                                   "il30_p6": 37850,
+                                   "il30_p7": 40450,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "St. Mary's County, MD; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "California-Lexington Park, MD",
+                            "area_name": "California-Lexington Park, MD MSA",
+                            "year": "2022",
+                            "median_income": 114300,
+                            "very_low": {
+                                   "il50_p1": 40050,
+                                   "il50_p2": 45750,
+                                   "il50_p3": 51450,
+                                   "il50_p4": 57150,
+                                   "il50_p5": 61750,
+                                   "il50_p6": 66300,
+                                   "il50_p7": 70900,
+                                   "il50_p8": 75450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24050,
+                                   "il30_p2": 27450,
+                                   "il30_p3": 30900,
+                                   "il30_p4": 34300,
+                                   "il30_p5": 37050,
+                                   "il30_p6": 39800,
+                                   "il30_p7": 42550,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

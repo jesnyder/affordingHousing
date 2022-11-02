@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 605,
+                                   "Two-Bedroom": 804,
+                                   "Three-Bedroom": 1006,
+                                   "Four-Bedroom": 1270,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 657,
+                                   "One-Bedroom": 662,
+                                   "Two-Bedroom": 880,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1452,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 677,
+                                   "One-Bedroom": 681,
+                                   "Two-Bedroom": 901,
+                                   "Three-Bedroom": 1154,
+                                   "Four-Bedroom": 1533,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 689,
+                                   "One-Bedroom": 694,
+                                   "Two-Bedroom": 914,
+                                   "Three-Bedroom": 1209,
+                                   "Four-Bedroom": 1454,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 653,
+                                   "One-Bedroom": 657,
+                                   "Two-Bedroom": 866,
+                                   "Three-Bedroom": 1161,
+                                   "Four-Bedroom": 1353,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Alpharetta, GA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 709,
+                                   "One-Bedroom": 714,
+                                   "Two-Bedroom": 939,
+                                   "Three-Bedroom": 1233,
+                                   "Four-Bedroom": 1405,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 62100,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 56600,
+                            "very_low": {
+                                   "il50_p1": 20650,
+                                   "il50_p2": 23600,
+                                   "il50_p3": 26550,
+                                   "il50_p4": 29500,
+                                   "il50_p5": 31900,
+                                   "il50_p6": 34250,
+                                   "il50_p7": 36600,
+                                   "il50_p8": 38950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12400,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36600,
+                                   "il30_p8": 38950
+                            },
+                            "low": {
+                                   "il80_p1": 33100,
+                                   "il80_p2": 37800,
+                                   "il80_p3": 42550,
+                                   "il80_p4": 47250,
+                                   "il80_p5": 51050,
+                                   "il80_p6": 54850,
+                                   "il80_p7": 58600,
+                                   "il80_p8": 62400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 56500,
+                            "very_low": {
+                                   "il50_p1": 19800,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25450,
+                                   "il50_p4": 28250,
+                                   "il50_p5": 30550,
+                                   "il50_p6": 32800,
+                                   "il50_p7": 35050,
+                                   "il50_p8": 37300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 32800,
+                                   "il30_p7": 35050,
+                                   "il30_p8": 37300
+                            },
+                            "low": {
+                                   "il80_p1": 31650,
+                                   "il80_p2": 36200,
+                                   "il80_p3": 40700,
+                                   "il80_p4": 45200,
+                                   "il80_p5": 48850,
+                                   "il80_p6": 52450,
+                                   "il80_p7": 56050,
+                                   "il80_p8": 59700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 51600,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21900,
+                                   "il50_p3": 24650,
+                                   "il50_p4": 27350,
+                                   "il50_p5": 29550,
+                                   "il50_p6": 31750,
+                                   "il50_p7": 33950,
+                                   "il50_p8": 36150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29550,
+                                   "il30_p6": 31750,
+                                   "il30_p7": 33950,
+                                   "il30_p8": 36150
+                            },
+                            "low": {
+                                   "il80_p1": 30650,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39400,
+                                   "il80_p4": 43750,
+                                   "il80_p5": 47250,
+                                   "il80_p6": 50750,
+                                   "il80_p7": 54250,
+                                   "il80_p8": 57750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Roswell, GA MSA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 51900,
+                            "very_low": {
+                                   "il50_p1": 19250,
+                                   "il50_p2": 22000,
+                                   "il50_p3": 24750,
+                                   "il50_p4": 27450,
+                                   "il50_p5": 29650,
+                                   "il50_p6": 31850,
+                                   "il50_p7": 34050,
+                                   "il50_p8": 36250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29650,
+                                   "il30_p6": 31850,
+                                   "il30_p7": 34050,
+                                   "il30_p8": 36250
+                            },
+                            "low": {
+                                   "il80_p1": 30750,
+                                   "il80_p2": 35150,
+                                   "il80_p3": 39550,
+                                   "il80_p4": 43900,
+                                   "il80_p5": 47450,
+                                   "il80_p6": 50950,
+                                   "il80_p7": 54450,
+                                   "il80_p8": 57950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Butts County, GA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Atlanta-Sandy Springs-Alpharetta, GA",
+                            "area_name": "Butts County, GA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 59700,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27650,
+                                   "il50_p4": 30700,
+                                   "il50_p5": 33200,
+                                   "il50_p6": 35650,
+                                   "il50_p7": 38100,
+                                   "il50_p8": 40550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35650,
+                                   "il30_p7": 38100,
+                                   "il30_p8": 40550
+                            },
+                            "low": {
+                                   "il80_p1": 34400,
+                                   "il80_p2": 39300,
+                                   "il80_p3": 44200,
+                                   "il80_p4": 49100,
+                                   "il80_p5": 53050,
+                                   "il80_p6": 57000,
+                                   "il80_p7": 60900,
+                                   "il80_p8": 64850
+                            }
+                     }
+              ]
+       }
+}

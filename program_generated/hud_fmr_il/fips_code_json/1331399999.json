@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 531,
+                                   "One-Bedroom": 550,
+                                   "Two-Bedroom": 652,
+                                   "Three-Bedroom": 875,
+                                   "Four-Bedroom": 899,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 597,
+                                   "Two-Bedroom": 696,
+                                   "Three-Bedroom": 959,
+                                   "Four-Bedroom": 998,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 635,
+                                   "Two-Bedroom": 730,
+                                   "Three-Bedroom": 1007,
+                                   "Four-Bedroom": 1091,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 542,
+                                   "One-Bedroom": 604,
+                                   "Two-Bedroom": 724,
+                                   "Three-Bedroom": 996,
+                                   "Four-Bedroom": 1063,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 531,
+                                   "One-Bedroom": 607,
+                                   "Two-Bedroom": 753,
+                                   "Three-Bedroom": 1032,
+                                   "Four-Bedroom": 1037,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 617,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1087,
+                                   "Four-Bedroom": 1093,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 52700,
+                            "very_low": {
+                                   "il50_p1": 16950,
+                                   "il50_p2": 19400,
+                                   "il50_p3": 21800,
+                                   "il50_p4": 24200,
+                                   "il50_p5": 26150,
+                                   "il50_p6": 28100,
+                                   "il50_p7": 30050,
+                                   "il50_p8": 31950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24200,
+                                   "il30_p5": 26150,
+                                   "il30_p6": 28100,
+                                   "il30_p7": 30050,
+                                   "il30_p8": 31950
+                            },
+                            "low": {
+                                   "il80_p1": 27100,
+                                   "il80_p2": 31000,
+                                   "il80_p3": 34850,
+                                   "il80_p4": 38700,
+                                   "il80_p5": 41800,
+                                   "il80_p6": 44900,
+                                   "il80_p7": 48000,
+                                   "il80_p8": 51100
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 55000,
+                            "very_low": {
+                                   "il50_p1": 18900,
+                                   "il50_p2": 21600,
+                                   "il50_p3": 24300,
+                                   "il50_p4": 26950,
+                                   "il50_p5": 29150,
+                                   "il50_p6": 31300,
+                                   "il50_p7": 33450,
+                                   "il50_p8": 35600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29150,
+                                   "il30_p6": 31300,
+                                   "il30_p7": 33450,
+                                   "il30_p8": 35600
+                            },
+                            "low": {
+                                   "il80_p1": 30200,
+                                   "il80_p2": 34500,
+                                   "il80_p3": 38800,
+                                   "il80_p4": 43100,
+                                   "il80_p5": 46550,
+                                   "il80_p6": 50000,
+                                   "il80_p7": 53450,
+                                   "il80_p8": 56900
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 54400,
+                            "very_low": {
+                                   "il50_p1": 19050,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24500,
+                                   "il50_p4": 27200,
+                                   "il50_p5": 29400,
+                                   "il50_p6": 31600,
+                                   "il50_p7": 33750,
+                                   "il50_p8": 35950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29400,
+                                   "il30_p6": 31600,
+                                   "il30_p7": 33750,
+                                   "il30_p8": 35950
+                            },
+                            "low": {
+                                   "il80_p1": 30450,
+                                   "il80_p2": 34800,
+                                   "il80_p3": 39150,
+                                   "il80_p4": 43500,
+                                   "il80_p5": 47000,
+                                   "il80_p6": 50500,
+                                   "il80_p7": 53950,
+                                   "il80_p8": 57450
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 53100,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21900,
+                                   "il50_p3": 24650,
+                                   "il50_p4": 27350,
+                                   "il50_p5": 29550,
+                                   "il50_p6": 31750,
+                                   "il50_p7": 33950,
+                                   "il50_p8": 36150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29550,
+                                   "il30_p6": 31750,
+                                   "il30_p7": 33950,
+                                   "il30_p8": 36150
+                            },
+                            "low": {
+                                   "il80_p1": 30650,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39400,
+                                   "il80_p4": 43750,
+                                   "il80_p5": 47250,
+                                   "il80_p6": 50750,
+                                   "il80_p7": 54250,
+                                   "il80_p8": 57750
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA MSA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 59700,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25850,
+                                   "il50_p4": 28700,
+                                   "il50_p5": 31000,
+                                   "il50_p6": 33300,
+                                   "il50_p7": 35600,
+                                   "il50_p8": 37900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31000,
+                                   "il30_p6": 33300,
+                                   "il30_p7": 35600,
+                                   "il30_p8": 37900
+                            },
+                            "low": {
+                                   "il80_p1": 32150,
+                                   "il80_p2": 36750,
+                                   "il80_p3": 41350,
+                                   "il80_p4": 45900,
+                                   "il80_p5": 49600,
+                                   "il80_p6": 53250,
+                                   "il80_p7": 56950,
+                                   "il80_p8": 60600
+                            }
+                     },
+                     {
+                            "county_name": "Whitfield County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dalton, GA",
+                            "area_name": "Dalton, GA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 67200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 39850,
+                                   "il30_p8": 42400
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 435,
+                                   "One-Bedroom": 460,
+                                   "Two-Bedroom": 611,
+                                   "Three-Bedroom": 764,
+                                   "Four-Bedroom": 850,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 450,
+                                   "One-Bedroom": 476,
+                                   "Two-Bedroom": 633,
+                                   "Three-Bedroom": 804,
+                                   "Four-Bedroom": 918,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 461,
+                                   "One-Bedroom": 491,
+                                   "Two-Bedroom": 650,
+                                   "Three-Bedroom": 883,
+                                   "Four-Bedroom": 1004,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 475,
+                                   "One-Bedroom": 478,
+                                   "Two-Bedroom": 630,
+                                   "Three-Bedroom": 892,
+                                   "Four-Bedroom": 1106,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 493,
+                                   "One-Bedroom": 496,
+                                   "Two-Bedroom": 654,
+                                   "Three-Bedroom": 936,
+                                   "Four-Bedroom": 1132,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 490,
+                                   "One-Bedroom": 493,
+                                   "Two-Bedroom": 649,
+                                   "Three-Bedroom": 922,
+                                   "Four-Bedroom": 1111,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 50500,
+                            "very_low": {
+                                   "il50_p1": 17700,
+                                   "il50_p2": 20200,
+                                   "il50_p3": 22750,
+                                   "il50_p4": 25250,
+                                   "il50_p5": 27300,
+                                   "il50_p6": 29300,
+                                   "il50_p7": 31350,
+                                   "il50_p8": 33350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27300,
+                                   "il30_p6": 29300,
+                                   "il30_p7": 31350,
+                                   "il30_p8": 33350
+                            },
+                            "low": {
+                                   "il80_p1": 28300,
+                                   "il80_p2": 32350,
+                                   "il80_p3": 36400,
+                                   "il80_p4": 40400,
+                                   "il80_p5": 43650,
+                                   "il80_p6": 46900,
+                                   "il80_p7": 50100,
+                                   "il80_p8": 53350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 49800,
+                            "very_low": {
+                                   "il50_p1": 17450,
+                                   "il50_p2": 19950,
+                                   "il50_p3": 22450,
+                                   "il50_p4": 24900,
+                                   "il50_p5": 26900,
+                                   "il50_p6": 28900,
+                                   "il50_p7": 30900,
+                                   "il50_p8": 32900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24900,
+                                   "il30_p5": 26900,
+                                   "il30_p6": 28900,
+                                   "il30_p7": 30900,
+                                   "il30_p8": 32900
+                            },
+                            "low": {
+                                   "il80_p1": 27900,
+                                   "il80_p2": 31900,
+                                   "il80_p3": 35900,
+                                   "il80_p4": 39850,
+                                   "il80_p5": 43050,
+                                   "il80_p6": 46250,
+                                   "il80_p7": 49450,
+                                   "il80_p8": 52650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 50700,
+                            "very_low": {
+                                   "il50_p1": 18250,
+                                   "il50_p2": 20850,
+                                   "il50_p3": 23450,
+                                   "il50_p4": 26050,
+                                   "il50_p5": 28150,
+                                   "il50_p6": 30250,
+                                   "il50_p7": 32350,
+                                   "il50_p8": 34400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28150,
+                                   "il30_p6": 30250,
+                                   "il30_p7": 32350,
+                                   "il30_p8": 34400
+                            },
+                            "low": {
+                                   "il80_p1": 29200,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37550,
+                                   "il80_p4": 41700,
+                                   "il80_p5": 45050,
+                                   "il80_p6": 48400,
+                                   "il80_p7": 51750,
+                                   "il80_p8": 55050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 54500,
+                            "very_low": {
+                                   "il50_p1": 19100,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24550,
+                                   "il50_p4": 27250,
+                                   "il50_p5": 29450,
+                                   "il50_p6": 31650,
+                                   "il50_p7": 33800,
+                                   "il50_p8": 36000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29450,
+                                   "il30_p6": 31650,
+                                   "il30_p7": 33800,
+                                   "il30_p8": 36000
+                            },
+                            "low": {
+                                   "il80_p1": 30550,
+                                   "il80_p2": 34900,
+                                   "il80_p3": 39250,
+                                   "il80_p4": 43600,
+                                   "il80_p5": 47100,
+                                   "il80_p6": 50600,
+                                   "il80_p7": 54100,
+                                   "il80_p8": 57600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR MSA",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 61500,
+                            "very_low": {
+                                   "il50_p1": 20050,
+                                   "il50_p2": 22900,
+                                   "il50_p3": 25750,
+                                   "il50_p4": 28600,
+                                   "il50_p5": 30900,
+                                   "il50_p6": 33200,
+                                   "il50_p7": 35500,
+                                   "il50_p8": 37800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30900,
+                                   "il30_p6": 33200,
+                                   "il30_p7": 35500,
+                                   "il30_p8": 37800
+                            },
+                            "low": {
+                                   "il80_p1": 32050,
+                                   "il80_p2": 36600,
+                                   "il80_p3": 41200,
+                                   "il80_p4": 45750,
+                                   "il80_p5": 49450,
+                                   "il80_p6": 53100,
+                                   "il80_p7": 56750,
+                                   "il80_p8": 60400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Little River County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Texarkana, TX-AR",
+                            "area_name": "Little River County, AR HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 66500,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 32000,
+                                   "il50_p5": 34600,
+                                   "il50_p6": 37150,
+                                   "il50_p7": 39700,
+                                   "il50_p8": 42250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37150,
+                                   "il30_p7": 39700,
+                                   "il30_p8": 42250
+                            },
+                            "low": {
+                                   "il80_p1": 35850,
+                                   "il80_p2": 40950,
+                                   "il80_p3": 46050,
+                                   "il80_p4": 51150,
+                                   "il80_p5": 55250,
+                                   "il80_p6": 59350,
+                                   "il80_p7": 63450,
+                                   "il80_p8": 67550
+                            }
+                     }
+              ]
+       }
+}

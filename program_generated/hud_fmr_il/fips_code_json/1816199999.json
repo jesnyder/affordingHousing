@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 435,
+                                   "One-Bedroom": 577,
+                                   "Two-Bedroom": 666,
+                                   "Three-Bedroom": 833,
+                                   "Four-Bedroom": 999,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 460,
+                                   "One-Bedroom": 593,
+                                   "Two-Bedroom": 699,
+                                   "Three-Bedroom": 876,
+                                   "Four-Bedroom": 1014,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 487,
+                                   "One-Bedroom": 588,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 920,
+                                   "Four-Bedroom": 1023,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 471,
+                                   "One-Bedroom": 542,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 894,
+                                   "Four-Bedroom": 1006,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 495,
+                                   "One-Bedroom": 571,
+                                   "Two-Bedroom": 747,
+                                   "Three-Bedroom": 958,
+                                   "Four-Bedroom": 1057,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 788,
+                                   "Three-Bedroom": 1045,
+                                   "Four-Bedroom": 1181,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 61500,
+                            "very_low": {
+                                   "il50_p1": 21550,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27700,
+                                   "il50_p4": 30750,
+                                   "il50_p5": 33250,
+                                   "il50_p6": 35700,
+                                   "il50_p7": 38150,
+                                   "il50_p8": 40600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40600
+                            },
+                            "low": {
+                                   "il80_p1": 34450,
+                                   "il80_p2": 39400,
+                                   "il80_p3": 44300,
+                                   "il80_p4": 49200,
+                                   "il80_p5": 53150,
+                                   "il80_p6": 57100,
+                                   "il80_p7": 61050,
+                                   "il80_p8": 64950
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 61400,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27650,
+                                   "il50_p4": 30700,
+                                   "il50_p5": 33200,
+                                   "il50_p6": 35650,
+                                   "il50_p7": 38100,
+                                   "il50_p8": 40550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 40550
+                            },
+                            "low": {
+                                   "il80_p1": 34400,
+                                   "il80_p2": 39300,
+                                   "il80_p3": 44200,
+                                   "il80_p4": 49100,
+                                   "il80_p5": 53050,
+                                   "il80_p6": 57000,
+                                   "il80_p7": 60900,
+                                   "il80_p8": 64850
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 61900,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 61300,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN MSA",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 60300,
+                            "very_low": {
+                                   "il50_p1": 23400,
+                                   "il50_p2": 26750,
+                                   "il50_p3": 30100,
+                                   "il50_p4": 33400,
+                                   "il50_p5": 36100,
+                                   "il50_p6": 38750,
+                                   "il50_p7": 41450,
+                                   "il50_p8": 44100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14050,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44100
+                            },
+                            "low": {
+                                   "il80_p1": 37450,
+                                   "il80_p2": 42800,
+                                   "il80_p3": 48150,
+                                   "il80_p4": 53450,
+                                   "il80_p5": 57750,
+                                   "il80_p6": 62050,
+                                   "il80_p7": 66300,
+                                   "il80_p8": 70600
+                            }
+                     },
+                     {
+                            "county_name": "Union County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cincinnati, OH-KY-IN",
+                            "area_name": "Union County, IN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 67300,
+                            "very_low": {
+                                   "il50_p1": 26100,
+                                   "il50_p2": 29800,
+                                   "il50_p3": 33550,
+                                   "il50_p4": 37250,
+                                   "il50_p5": 40250,
+                                   "il50_p6": 43250,
+                                   "il50_p7": 46200,
+                                   "il50_p8": 49200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41750,
+                                   "il80_p2": 47700,
+                                   "il80_p3": 53650,
+                                   "il80_p4": 59600,
+                                   "il80_p5": 64400,
+                                   "il80_p6": 69150,
+                                   "il80_p7": 73950,
+                                   "il80_p8": 78700
+                            }
+                     }
+              ]
+       }
+}

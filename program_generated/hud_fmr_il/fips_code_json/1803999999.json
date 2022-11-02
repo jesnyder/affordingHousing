@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 476,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 751,
+                                   "Three-Bedroom": 940,
+                                   "Four-Bedroom": 1078,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 498,
+                                   "One-Bedroom": 597,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 979,
+                                   "Four-Bedroom": 1098,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 811,
+                                   "Three-Bedroom": 1016,
+                                   "Four-Bedroom": 1143,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 532,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 817,
+                                   "Three-Bedroom": 1029,
+                                   "Four-Bedroom": 1129,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 545,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 825,
+                                   "Three-Bedroom": 1047,
+                                   "Four-Bedroom": 1119,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 597,
+                                   "One-Bedroom": 673,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1107,
+                                   "Four-Bedroom": 1173,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "year": "2017",
+                            "median_income": 58200,
+                            "very_low": {
+                                   "il50_p1": 20400,
+                                   "il50_p2": 23300,
+                                   "il50_p3": 26200,
+                                   "il50_p4": 29100,
+                                   "il50_p5": 31450,
+                                   "il50_p6": 33800,
+                                   "il50_p7": 36100,
+                                   "il50_p8": 38450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 32600,
+                                   "il80_p2": 37250,
+                                   "il80_p3": 41900,
+                                   "il80_p4": 46550,
+                                   "il80_p5": 50300,
+                                   "il80_p6": 54000,
+                                   "il80_p7": 57750,
+                                   "il80_p8": 61450
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "year": "2018",
+                            "median_income": 61100,
+                            "very_low": {
+                                   "il50_p1": 21400,
+                                   "il50_p2": 24450,
+                                   "il50_p3": 27500,
+                                   "il50_p4": 30550,
+                                   "il50_p5": 33000,
+                                   "il50_p6": 35450,
+                                   "il50_p7": 37900,
+                                   "il50_p8": 40350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37900,
+                                   "il30_p8": 40350
+                            },
+                            "low": {
+                                   "il80_p1": 34250,
+                                   "il80_p2": 39150,
+                                   "il80_p3": 44050,
+                                   "il80_p4": 48900,
+                                   "il80_p5": 52850,
+                                   "il80_p6": 56750,
+                                   "il80_p7": 60650,
+                                   "il80_p8": 64550
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "year": "2019",
+                            "median_income": 69100,
+                            "very_low": {
+                                   "il50_p1": 23550,
+                                   "il50_p2": 26900,
+                                   "il50_p3": 30250,
+                                   "il50_p4": 33600,
+                                   "il50_p5": 36300,
+                                   "il50_p6": 39000,
+                                   "il50_p7": 41700,
+                                   "il50_p8": 44400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37650,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48400,
+                                   "il80_p4": 53750,
+                                   "il80_p5": 58050,
+                                   "il80_p6": 62350,
+                                   "il80_p7": 66650,
+                                   "il80_p8": 70950
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "year": "2020",
+                            "median_income": 70200,
+                            "very_low": {
+                                   "il50_p1": 24600,
+                                   "il50_p2": 28100,
+                                   "il50_p3": 31600,
+                                   "il50_p4": 35100,
+                                   "il50_p5": 37950,
+                                   "il50_p6": 40750,
+                                   "il50_p7": 43550,
+                                   "il50_p8": 46350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39350,
+                                   "il80_p2": 44950,
+                                   "il80_p3": 50550,
+                                   "il80_p4": 56150,
+                                   "il80_p5": 60650,
+                                   "il80_p6": 65150,
+                                   "il80_p7": 69650,
+                                   "il80_p8": 74150
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN MSA",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "year": "2021",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 23650,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30400,
+                                   "il50_p4": 33750,
+                                   "il50_p5": 36450,
+                                   "il50_p6": 39150,
+                                   "il50_p7": 41850,
+                                   "il50_p8": 44550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44550
+                            },
+                            "low": {
+                                   "il80_p1": 37800,
+                                   "il80_p2": 43200,
+                                   "il80_p3": 48600,
+                                   "il80_p4": 54000,
+                                   "il80_p5": 58350,
+                                   "il80_p6": 62650,
+                                   "il80_p7": 67000,
+                                   "il80_p8": 71300
+                            }
+                     },
+                     {
+                            "county_name": "Elkhart County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Elkhart-Goshen, IN",
+                            "area_name": "Elkhart-Goshen, IN MSA",
+                            "year": "2022",
+                            "median_income": 83600,
+                            "very_low": {
+                                   "il50_p1": 26450,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 34000,
+                                   "il50_p4": 37750,
+                                   "il50_p5": 40800,
+                                   "il50_p6": 43800,
+                                   "il50_p7": 46850,
+                                   "il50_p8": 49850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42300,
+                                   "il80_p2": 48350,
+                                   "il80_p3": 54400,
+                                   "il80_p4": 60400,
+                                   "il80_p5": 65250,
+                                   "il80_p6": 70100,
+                                   "il80_p7": 74900,
+                                   "il80_p8": 79750
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,293 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 461,
+                                   "One-Bedroom": 551,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 922,
+                                   "Four-Bedroom": 1177,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 478,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 1014,
+                                   "Four-Bedroom": 1206,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 571,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1141,
+                                   "Four-Bedroom": 1407,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 731,
+                                   "Two-Bedroom": 879,
+                                   "Three-Bedroom": 1258,
+                                   "Four-Bedroom": 1504,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 665,
+                                   "One-Bedroom": 738,
+                                   "Two-Bedroom": 889,
+                                   "Three-Bedroom": 1272,
+                                   "Four-Bedroom": 1508,
+                                   "year": "2021"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 58900,
+                            "very_low": {
+                                   "il50_p1": 23500,
+                                   "il50_p2": 26850,
+                                   "il50_p3": 30200,
+                                   "il50_p4": 33550,
+                                   "il50_p5": 36250,
+                                   "il50_p6": 38950,
+                                   "il50_p7": 41650,
+                                   "il50_p8": 44300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37600,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48350,
+                                   "il80_p4": 53700,
+                                   "il80_p5": 58000,
+                                   "il80_p6": 62300,
+                                   "il80_p7": 66600,
+                                   "il80_p8": 70900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 59700,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42150
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 61400,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27650,
+                                   "il50_p4": 30700,
+                                   "il50_p5": 33200,
+                                   "il50_p6": 35650,
+                                   "il50_p7": 38100,
+                                   "il50_p8": 40550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38100,
+                                   "il30_p8": 40550
+                            },
+                            "low": {
+                                   "il80_p1": 34400,
+                                   "il80_p2": 39300,
+                                   "il80_p3": 44200,
+                                   "il80_p4": 49100,
+                                   "il80_p5": 53050,
+                                   "il80_p6": 57000,
+                                   "il80_p7": 60900,
+                                   "il80_p8": 64850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 62700,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25100,
+                                   "il50_p3": 28250,
+                                   "il50_p4": 31350,
+                                   "il50_p5": 33900,
+                                   "il50_p6": 36400,
+                                   "il50_p7": 38900,
+                                   "il50_p8": 41400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38900,
+                                   "il30_p8": 41400
+                            },
+                            "low": {
+                                   "il80_p1": 35150,
+                                   "il80_p2": 40150,
+                                   "il80_p3": 45150,
+                                   "il80_p4": 50150,
+                                   "il80_p5": 54200,
+                                   "il80_p6": 58200,
+                                   "il80_p7": 62200,
+                                   "il80_p8": 66200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Somervell County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Somervell County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 61100,
+                            "very_low": {
+                                   "il50_p1": 21400,
+                                   "il50_p2": 24450,
+                                   "il50_p3": 27500,
+                                   "il50_p4": 30550,
+                                   "il50_p5": 33000,
+                                   "il50_p6": 35450,
+                                   "il50_p7": 37900,
+                                   "il50_p8": 40350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35450,
+                                   "il30_p7": 37900,
+                                   "il30_p8": 40350
+                            },
+                            "low": {
+                                   "il80_p1": 34250,
+                                   "il80_p2": 39150,
+                                   "il80_p3": 44050,
+                                   "il80_p4": 48900,
+                                   "il80_p5": 52850,
+                                   "il80_p6": 56750,
+                                   "il80_p7": 60650,
+                                   "il80_p8": 64550
+                            }
+                     }
+              ]
+       }
+}

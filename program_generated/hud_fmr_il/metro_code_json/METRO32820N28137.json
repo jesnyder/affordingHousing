@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 562,
+                                   "Two-Bedroom": 688,
+                                   "Three-Bedroom": 866,
+                                   "Four-Bedroom": 1099,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 702,
+                                   "Three-Bedroom": 903,
+                                   "Four-Bedroom": 1105,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 617,
+                                   "Two-Bedroom": 706,
+                                   "Three-Bedroom": 946,
+                                   "Four-Bedroom": 1100,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 581,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 696,
+                                   "Three-Bedroom": 933,
+                                   "Four-Bedroom": 1072,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 523,
+                                   "One-Bedroom": 604,
+                                   "Two-Bedroom": 689,
+                                   "Three-Bedroom": 917,
+                                   "Four-Bedroom": 1054,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 536,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 935,
+                                   "Four-Bedroom": 1071,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 55600,
+                            "very_low": {
+                                   "il50_p1": 19500,
+                                   "il50_p2": 22250,
+                                   "il50_p3": 25050,
+                                   "il50_p4": 27800,
+                                   "il50_p5": 30050,
+                                   "il50_p6": 32250,
+                                   "il50_p7": 34500,
+                                   "il50_p8": 36700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32250,
+                                   "il30_p7": 34500,
+                                   "il30_p8": 36700
+                            },
+                            "low": {
+                                   "il80_p1": 31150,
+                                   "il80_p2": 35600,
+                                   "il80_p3": 40050,
+                                   "il80_p4": 44500,
+                                   "il80_p5": 48100,
+                                   "il80_p6": 51650,
+                                   "il80_p7": 55200,
+                                   "il80_p8": 58750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 56300,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22550,
+                                   "il50_p3": 25350,
+                                   "il50_p4": 28150,
+                                   "il50_p5": 30450,
+                                   "il50_p6": 32700,
+                                   "il50_p7": 34950,
+                                   "il50_p8": 37200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32700,
+                                   "il30_p7": 34950,
+                                   "il30_p8": 37200
+                            },
+                            "low": {
+                                   "il80_p1": 31550,
+                                   "il80_p2": 36050,
+                                   "il80_p3": 40550,
+                                   "il80_p4": 45050,
+                                   "il80_p5": 48700,
+                                   "il80_p6": 52300,
+                                   "il80_p7": 55900,
+                                   "il80_p8": 59500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 58000,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 29000,
+                                   "il50_p5": 31350,
+                                   "il50_p6": 33650,
+                                   "il50_p7": 36000,
+                                   "il50_p8": 38300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33650,
+                                   "il30_p7": 36000,
+                                   "il30_p8": 38300
+                            },
+                            "low": {
+                                   "il80_p1": 32500,
+                                   "il80_p2": 37150,
+                                   "il80_p3": 41800,
+                                   "il80_p4": 46400,
+                                   "il80_p5": 50150,
+                                   "il80_p6": 53850,
+                                   "il80_p7": 57550,
+                                   "il80_p8": 61250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 62100,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38550,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR MSA",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43000
+                            },
+                            "low": {
+                                   "il80_p1": 36500,
+                                   "il80_p2": 41700,
+                                   "il80_p3": 46900,
+                                   "il80_p4": 52100,
+                                   "il80_p5": 56300,
+                                   "il80_p6": 60450,
+                                   "il80_p7": 64650,
+                                   "il80_p8": 68800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tate County, MS; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Memphis, TN-MS-AR",
+                            "area_name": "Tate County, MS HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 67900,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 33950,
+                                   "il50_p5": 36700,
+                                   "il50_p6": 39400,
+                                   "il50_p7": 42100,
+                                   "il50_p8": 44850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 44850
+                            },
+                            "low": {
+                                   "il80_p1": 38050,
+                                   "il80_p2": 43450,
+                                   "il80_p3": 48900,
+                                   "il80_p4": 54300,
+                                   "il80_p5": 58650,
+                                   "il80_p6": 63000,
+                                   "il80_p7": 67350,
+                                   "il80_p8": 71700
+                            }
+                     }
+              ]
+       }
+}

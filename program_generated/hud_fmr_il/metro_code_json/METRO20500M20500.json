@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 710,
+                                   "One-Bedroom": 834,
+                                   "Two-Bedroom": 978,
+                                   "Three-Bedroom": 1332,
+                                   "Four-Bedroom": 1481,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 731,
+                                   "One-Bedroom": 847,
+                                   "Two-Bedroom": 990,
+                                   "Three-Bedroom": 1356,
+                                   "Four-Bedroom": 1512,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 834,
+                                   "One-Bedroom": 902,
+                                   "Two-Bedroom": 1055,
+                                   "Three-Bedroom": 1435,
+                                   "Four-Bedroom": 1624,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 919,
+                                   "One-Bedroom": 934,
+                                   "Two-Bedroom": 1088,
+                                   "Three-Bedroom": 1461,
+                                   "Four-Bedroom": 1645,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 972,
+                                   "One-Bedroom": 974,
+                                   "Two-Bedroom": 1134,
+                                   "Three-Bedroom": 1493,
+                                   "Four-Bedroom": 1715,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1024,
+                                   "One-Bedroom": 1030,
+                                   "Two-Bedroom": 1199,
+                                   "Three-Bedroom": 1546,
+                                   "Four-Bedroom": 1812,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 73300,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29350,
+                                   "il50_p3": 33000,
+                                   "il50_p4": 36650,
+                                   "il50_p5": 39600,
+                                   "il50_p6": 42550,
+                                   "il50_p7": 45450,
+                                   "il50_p8": 48400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 46950,
+                                   "il80_p3": 52800,
+                                   "il80_p4": 58650,
+                                   "il80_p5": 63350,
+                                   "il80_p6": 68050,
+                                   "il80_p7": 72750,
+                                   "il80_p8": 77450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 80600,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32250,
+                                   "il50_p3": 36300,
+                                   "il50_p4": 40300,
+                                   "il50_p5": 43550,
+                                   "il50_p6": 46750,
+                                   "il50_p7": 50000,
+                                   "il50_p8": 53200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21800,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45150,
+                                   "il80_p2": 51600,
+                                   "il80_p3": 58050,
+                                   "il80_p4": 64500,
+                                   "il80_p5": 69700,
+                                   "il80_p6": 74850,
+                                   "il80_p7": 80000,
+                                   "il80_p8": 85150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 84800,
+                            "very_low": {
+                                   "il50_p1": 29700,
+                                   "il50_p2": 33950,
+                                   "il50_p3": 38200,
+                                   "il50_p4": 42400,
+                                   "il50_p5": 45800,
+                                   "il50_p6": 49200,
+                                   "il50_p7": 52600,
+                                   "il50_p8": 56000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 22950,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47500,
+                                   "il80_p2": 54300,
+                                   "il80_p3": 61100,
+                                   "il80_p4": 67850,
+                                   "il80_p5": 73300,
+                                   "il80_p6": 78750,
+                                   "il80_p7": 84150,
+                                   "il80_p8": 89600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 90900,
+                            "very_low": {
+                                   "il50_p1": 31850,
+                                   "il50_p2": 36400,
+                                   "il50_p3": 40950,
+                                   "il50_p4": 45450,
+                                   "il50_p5": 49100,
+                                   "il50_p6": 52750,
+                                   "il50_p7": 56400,
+                                   "il50_p8": 60000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19100,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24550,
+                                   "il30_p4": 27250,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 50900,
+                                   "il80_p2": 58200,
+                                   "il80_p3": 65450,
+                                   "il80_p4": 72700,
+                                   "il80_p5": 78550,
+                                   "il80_p6": 84350,
+                                   "il80_p7": 90150,
+                                   "il80_p8": 96000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC MSA",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 86400,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38900,
+                                   "il50_p4": 43200,
+                                   "il50_p5": 46700,
+                                   "il50_p6": 50150,
+                                   "il50_p7": 53600,
+                                   "il50_p8": 57050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48400,
+                                   "il80_p2": 55300,
+                                   "il80_p3": 62200,
+                                   "il80_p4": 69100,
+                                   "il80_p5": 74650,
+                                   "il80_p6": 80200,
+                                   "il80_p7": 85700,
+                                   "il80_p8": 91250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chatham County, NC; Durham County, NC; and Orange County, NC",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC",
+                            "area_name": "Durham-Chapel Hill, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 95500,
+                            "very_low": {
+                                   "il50_p1": 33450,
+                                   "il50_p2": 38200,
+                                   "il50_p3": 43000,
+                                   "il50_p4": 47750,
+                                   "il50_p5": 51600,
+                                   "il50_p6": 55400,
+                                   "il50_p7": 59250,
+                                   "il50_p8": 63050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20100,
+                                   "il30_p2": 22950,
+                                   "il30_p3": 25800,
+                                   "il30_p4": 28650,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 53500,
+                                   "il80_p2": 61150,
+                                   "il80_p3": 68800,
+                                   "il80_p4": 76400,
+                                   "il80_p5": 82550,
+                                   "il80_p6": 88650,
+                                   "il80_p7": 94750,
+                                   "il80_p8": 100850
+                            }
+                     }
+              ]
+       }
+}

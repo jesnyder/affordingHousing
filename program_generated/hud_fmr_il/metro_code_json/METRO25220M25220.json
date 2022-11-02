@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 789,
+                                   "Three-Bedroom": 987,
+                                   "Four-Bedroom": 1120,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 635,
+                                   "Two-Bedroom": 831,
+                                   "Three-Bedroom": 1042,
+                                   "Four-Bedroom": 1132,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 641,
+                                   "One-Bedroom": 645,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1055,
+                                   "Four-Bedroom": 1138,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 667,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 871,
+                                   "Three-Bedroom": 1085,
+                                   "Four-Bedroom": 1180,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 689,
+                                   "One-Bedroom": 693,
+                                   "Two-Bedroom": 891,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1208,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA",
+                            "area_name": "Hammond, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 709,
+                                   "One-Bedroom": 714,
+                                   "Two-Bedroom": 913,
+                                   "Three-Bedroom": 1129,
+                                   "Four-Bedroom": 1238,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "year": "2017",
+                            "median_income": 56600,
+                            "very_low": {
+                                   "il50_p1": 19250,
+                                   "il50_p2": 22000,
+                                   "il50_p3": 24750,
+                                   "il50_p4": 27500,
+                                   "il50_p5": 29700,
+                                   "il50_p6": 31900,
+                                   "il50_p7": 34100,
+                                   "il50_p8": 36300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31900,
+                                   "il30_p7": 34100,
+                                   "il30_p8": 36300
+                            },
+                            "low": {
+                                   "il80_p1": 30800,
+                                   "il80_p2": 35200,
+                                   "il80_p3": 39600,
+                                   "il80_p4": 43950,
+                                   "il80_p5": 47500,
+                                   "il80_p6": 51000,
+                                   "il80_p7": 54500,
+                                   "il80_p8": 58050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "year": "2018",
+                            "median_income": 63300,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24550,
+                                   "il50_p3": 27600,
+                                   "il50_p4": 30650,
+                                   "il50_p5": 33150,
+                                   "il50_p6": 35600,
+                                   "il50_p7": 38050,
+                                   "il50_p8": 40500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38050,
+                                   "il30_p8": 40500
+                            },
+                            "low": {
+                                   "il80_p1": 34300,
+                                   "il80_p2": 39200,
+                                   "il80_p3": 44100,
+                                   "il80_p4": 48950,
+                                   "il80_p5": 52900,
+                                   "il80_p6": 56800,
+                                   "il80_p7": 60700,
+                                   "il80_p8": 64650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "year": "2019",
+                            "median_income": 66300,
+                            "very_low": {
+                                   "il50_p1": 23250,
+                                   "il50_p2": 26550,
+                                   "il50_p3": 29850,
+                                   "il50_p4": 33150,
+                                   "il50_p5": 35850,
+                                   "il50_p6": 38500,
+                                   "il50_p7": 41150,
+                                   "il50_p8": 43800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13950,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37150,
+                                   "il80_p2": 42450,
+                                   "il80_p3": 47750,
+                                   "il80_p4": 53050,
+                                   "il80_p5": 57300,
+                                   "il80_p6": 61550,
+                                   "il80_p7": 65800,
+                                   "il80_p8": 70050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "year": "2020",
+                            "median_income": 54100,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31500,
+                                   "il50_p5": 34050,
+                                   "il50_p6": 36550,
+                                   "il50_p7": 39100,
+                                   "il50_p8": 41600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13250,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39100,
+                                   "il30_p8": 41600
+                            },
+                            "low": {
+                                   "il80_p1": 35300,
+                                   "il80_p2": 40350,
+                                   "il80_p3": 45400,
+                                   "il80_p4": 50400,
+                                   "il80_p5": 54450,
+                                   "il80_p6": 58500,
+                                   "il80_p7": 62500,
+                                   "il80_p8": 66550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA MSA",
+                            "area_name": "Hammond, LA MSA",
+                            "year": "2021",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35100,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Tangipahoa Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hammond, LA",
+                            "area_name": "Hammond, LA MSA",
+                            "year": "2022",
+                            "median_income": 69700,
+                            "very_low": {
+                                   "il50_p1": 23700,
+                                   "il50_p2": 27050,
+                                   "il50_p3": 30450,
+                                   "il50_p4": 33800,
+                                   "il50_p5": 36550,
+                                   "il50_p6": 39250,
+                                   "il50_p7": 41950,
+                                   "il50_p8": 44650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 44650
+                            },
+                            "low": {
+                                   "il80_p1": 37900,
+                                   "il80_p2": 43300,
+                                   "il80_p3": 48700,
+                                   "il80_p4": 54100,
+                                   "il80_p5": 58450,
+                                   "il80_p6": 62800,
+                                   "il80_p7": 67100,
+                                   "il80_p8": 71450
+                            }
+                     }
+              ]
+       }
+}

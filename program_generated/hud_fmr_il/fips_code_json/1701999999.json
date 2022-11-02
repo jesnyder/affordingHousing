@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 544,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 829,
+                                   "Three-Bedroom": 1041,
+                                   "Four-Bedroom": 1387,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 695,
+                                   "Two-Bedroom": 849,
+                                   "Three-Bedroom": 1076,
+                                   "Four-Bedroom": 1386,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 696,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1069,
+                                   "Four-Bedroom": 1330,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 725,
+                                   "One-Bedroom": 730,
+                                   "Two-Bedroom": 862,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1305,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 734,
+                                   "One-Bedroom": 739,
+                                   "Two-Bedroom": 868,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1230,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 824,
+                                   "One-Bedroom": 829,
+                                   "Two-Bedroom": 977,
+                                   "Three-Bedroom": 1252,
+                                   "Four-Bedroom": 1325,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "year": "2017",
+                            "median_income": 69500,
+                            "very_low": {
+                                   "il50_p1": 24350,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31300,
+                                   "il50_p4": 34750,
+                                   "il50_p5": 37550,
+                                   "il50_p6": 40350,
+                                   "il50_p7": 43100,
+                                   "il50_p8": 45900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 16700,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38950,
+                                   "il80_p2": 44500,
+                                   "il80_p3": 50050,
+                                   "il80_p4": 55600,
+                                   "il80_p5": 60050,
+                                   "il80_p6": 64500,
+                                   "il80_p7": 68950,
+                                   "il80_p8": 73400
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "year": "2018",
+                            "median_income": 79800,
+                            "very_low": {
+                                   "il50_p1": 27100,
+                                   "il50_p2": 31000,
+                                   "il50_p3": 34850,
+                                   "il50_p4": 38700,
+                                   "il50_p5": 41800,
+                                   "il50_p6": 44900,
+                                   "il50_p7": 48000,
+                                   "il50_p8": 51100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 20900,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43350,
+                                   "il80_p2": 49550,
+                                   "il80_p3": 55750,
+                                   "il80_p4": 61900,
+                                   "il80_p5": 66900,
+                                   "il80_p6": 71850,
+                                   "il80_p7": 76800,
+                                   "il80_p8": 81750
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "year": "2019",
+                            "median_income": 79500,
+                            "very_low": {
+                                   "il50_p1": 27850,
+                                   "il50_p2": 31800,
+                                   "il50_p3": 35800,
+                                   "il50_p4": 39750,
+                                   "il50_p5": 42950,
+                                   "il50_p6": 46150,
+                                   "il50_p7": 49300,
+                                   "il50_p8": 52500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19100,
+                                   "il30_p3": 21500,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44550,
+                                   "il80_p2": 50900,
+                                   "il80_p3": 57250,
+                                   "il80_p4": 63600,
+                                   "il80_p5": 68700,
+                                   "il80_p6": 73800,
+                                   "il80_p7": 78900,
+                                   "il80_p8": 84000
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "year": "2020",
+                            "median_income": 83600,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33450,
+                                   "il50_p3": 37650,
+                                   "il50_p4": 41800,
+                                   "il50_p5": 45150,
+                                   "il50_p6": 48500,
+                                   "il50_p7": 51850,
+                                   "il50_p8": 55200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46850,
+                                   "il80_p2": 53550,
+                                   "il80_p3": 60250,
+                                   "il80_p4": 66900,
+                                   "il80_p5": 72300,
+                                   "il80_p6": 77650,
+                                   "il80_p7": 83000,
+                                   "il80_p8": 88350
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL MSA",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "year": "2021",
+                            "median_income": 86400,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38900,
+                                   "il50_p4": 43200,
+                                   "il50_p5": 46700,
+                                   "il50_p6": 50150,
+                                   "il50_p7": 53600,
+                                   "il50_p8": 57050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48400,
+                                   "il80_p2": 55300,
+                                   "il80_p3": 62200,
+                                   "il80_p4": 69100,
+                                   "il80_p5": 74650,
+                                   "il80_p6": 80200,
+                                   "il80_p7": 85700,
+                                   "il80_p8": 91250
+                            }
+                     },
+                     {
+                            "county_name": "Champaign County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Champaign-Urbana, IL",
+                            "area_name": "Champaign-Urbana, IL MSA",
+                            "year": "2022",
+                            "median_income": 91300,
+                            "very_low": {
+                                   "il50_p1": 32000,
+                                   "il50_p2": 36550,
+                                   "il50_p3": 41100,
+                                   "il50_p4": 45650,
+                                   "il50_p5": 49350,
+                                   "il50_p6": 53000,
+                                   "il50_p7": 56650,
+                                   "il50_p8": 60300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19200,
+                                   "il30_p2": 21950,
+                                   "il30_p3": 24700,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51150,
+                                   "il80_p2": 58450,
+                                   "il80_p3": 65750,
+                                   "il80_p4": 73050,
+                                   "il80_p5": 78900,
+                                   "il80_p6": 84750,
+                                   "il80_p7": 90600,
+                                   "il80_p8": 96450
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 805,
+                                   "Three-Bedroom": 1106,
+                                   "Four-Bedroom": 1329,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 607,
+                                   "One-Bedroom": 735,
+                                   "Two-Bedroom": 887,
+                                   "Three-Bedroom": 1209,
+                                   "Four-Bedroom": 1495,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 669,
+                                   "One-Bedroom": 760,
+                                   "Two-Bedroom": 917,
+                                   "Three-Bedroom": 1248,
+                                   "Four-Bedroom": 1528,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 684,
+                                   "One-Bedroom": 706,
+                                   "Two-Bedroom": 857,
+                                   "Three-Bedroom": 1191,
+                                   "Four-Bedroom": 1417,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 749,
+                                   "One-Bedroom": 752,
+                                   "Two-Bedroom": 903,
+                                   "Three-Bedroom": 1282,
+                                   "Four-Bedroom": 1481,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA",
+                            "area_name": "Ames, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 787,
+                                   "One-Bedroom": 798,
+                                   "Two-Bedroom": 943,
+                                   "Three-Bedroom": 1340,
+                                   "Four-Bedroom": 1581,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "year": "2017",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "year": "2018",
+                            "median_income": 79800,
+                            "very_low": {
+                                   "il50_p1": 27950,
+                                   "il50_p2": 31950,
+                                   "il50_p3": 35950,
+                                   "il50_p4": 39900,
+                                   "il50_p5": 43100,
+                                   "il50_p6": 46300,
+                                   "il50_p7": 49500,
+                                   "il50_p8": 52700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44700,
+                                   "il80_p2": 51100,
+                                   "il80_p3": 57500,
+                                   "il80_p4": 63850,
+                                   "il80_p5": 69000,
+                                   "il80_p6": 74100,
+                                   "il80_p7": 79200,
+                                   "il80_p8": 84300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "year": "2019",
+                            "median_income": 89400,
+                            "very_low": {
+                                   "il50_p1": 30700,
+                                   "il50_p2": 35100,
+                                   "il50_p3": 39500,
+                                   "il50_p4": 43850,
+                                   "il50_p5": 47400,
+                                   "il50_p6": 50900,
+                                   "il50_p7": 54400,
+                                   "il50_p8": 57900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18450,
+                                   "il30_p2": 21050,
+                                   "il30_p3": 23700,
+                                   "il30_p4": 26300,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 49150,
+                                   "il80_p2": 56150,
+                                   "il80_p3": 63150,
+                                   "il80_p4": 70150,
+                                   "il80_p5": 75800,
+                                   "il80_p6": 81400,
+                                   "il80_p7": 87000,
+                                   "il80_p8": 92600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "year": "2020",
+                            "median_income": 104300,
+                            "very_low": {
+                                   "il50_p1": 33150,
+                                   "il50_p2": 37850,
+                                   "il50_p3": 42600,
+                                   "il50_p4": 47300,
+                                   "il50_p5": 51100,
+                                   "il50_p6": 54900,
+                                   "il50_p7": 58700,
+                                   "il50_p8": 62450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19900,
+                                   "il30_p2": 22750,
+                                   "il30_p3": 25600,
+                                   "il30_p4": 28400,
+                                   "il30_p5": 30700,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 53000,
+                                   "il80_p2": 60600,
+                                   "il80_p3": 68150,
+                                   "il80_p4": 75700,
+                                   "il80_p5": 81800,
+                                   "il80_p6": 87850,
+                                   "il80_p7": 93900,
+                                   "il80_p8": 99950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA MSA",
+                            "area_name": "Ames, IA MSA",
+                            "year": "2021",
+                            "median_income": 85400,
+                            "very_low": {
+                                   "il50_p1": 31500,
+                                   "il50_p2": 36000,
+                                   "il50_p3": 40500,
+                                   "il50_p4": 44950,
+                                   "il50_p5": 48550,
+                                   "il50_p6": 52150,
+                                   "il50_p7": 55750,
+                                   "il50_p8": 59350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 26950,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 50400,
+                                   "il80_p2": 57600,
+                                   "il80_p3": 64800,
+                                   "il80_p4": 71950,
+                                   "il80_p5": 77750,
+                                   "il80_p6": 83500,
+                                   "il80_p7": 89250,
+                                   "il80_p8": 95000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Story County, IA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ames, IA",
+                            "area_name": "Ames, IA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 111100,
+                            "very_low": {
+                                   "il50_p1": 35200,
+                                   "il50_p2": 40200,
+                                   "il50_p3": 45250,
+                                   "il50_p4": 50250,
+                                   "il50_p5": 54300,
+                                   "il50_p6": 58300,
+                                   "il50_p7": 62350,
+                                   "il50_p8": 66350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21150,
+                                   "il30_p2": 24150,
+                                   "il30_p3": 27150,
+                                   "il30_p4": 30150,
+                                   "il30_p5": 32600,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 56300,
+                                   "il80_p2": 64350,
+                                   "il80_p3": 72400,
+                                   "il80_p4": 80400,
+                                   "il80_p5": 86850,
+                                   "il80_p6": 93300,
+                                   "il80_p7": 99700,
+                                   "il80_p8": 106150
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 419,
+                                   "One-Bedroom": 497,
+                                   "Two-Bedroom": 661,
+                                   "Three-Bedroom": 827,
+                                   "Four-Bedroom": 911,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 431,
+                                   "One-Bedroom": 521,
+                                   "Two-Bedroom": 675,
+                                   "Three-Bedroom": 848,
+                                   "Four-Bedroom": 919,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 427,
+                                   "One-Bedroom": 530,
+                                   "Two-Bedroom": 664,
+                                   "Three-Bedroom": 894,
+                                   "Four-Bedroom": 898,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 448,
+                                   "One-Bedroom": 564,
+                                   "Two-Bedroom": 687,
+                                   "Three-Bedroom": 991,
+                                   "Four-Bedroom": 996,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 472,
+                                   "One-Bedroom": 592,
+                                   "Two-Bedroom": 715,
+                                   "Three-Bedroom": 1023,
+                                   "Four-Bedroom": 1053,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Plymouth County, IA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 534,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 739,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1088,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 37000,
+                                   "il50_p5": 40000,
+                                   "il50_p6": 42950,
+                                   "il50_p7": 45900,
+                                   "il50_p8": 48850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41450,
+                                   "il80_p2": 47400,
+                                   "il80_p3": 53300,
+                                   "il80_p4": 59200,
+                                   "il80_p5": 63950,
+                                   "il80_p6": 68700,
+                                   "il80_p7": 73450,
+                                   "il80_p8": 78150
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 75900,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 37950,
+                                   "il50_p5": 41000,
+                                   "il50_p6": 44050,
+                                   "il50_p7": 47100,
+                                   "il50_p8": 50100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48600,
+                                   "il80_p3": 54650,
+                                   "il80_p4": 60700,
+                                   "il80_p5": 65600,
+                                   "il80_p6": 70450,
+                                   "il80_p7": 75300,
+                                   "il80_p8": 80150
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 76100,
+                            "very_low": {
+                                   "il50_p1": 26650,
+                                   "il50_p2": 30450,
+                                   "il50_p3": 34250,
+                                   "il50_p4": 38050,
+                                   "il50_p5": 41100,
+                                   "il50_p6": 44150,
+                                   "il50_p7": 47200,
+                                   "il50_p8": 50250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18300,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42650,
+                                   "il80_p2": 48750,
+                                   "il80_p3": 54850,
+                                   "il80_p4": 60900,
+                                   "il80_p5": 65800,
+                                   "il80_p6": 70650,
+                                   "il80_p7": 75550,
+                                   "il80_p8": 80400
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 79100,
+                            "very_low": {
+                                   "il50_p1": 27700,
+                                   "il50_p2": 31650,
+                                   "il50_p3": 35600,
+                                   "il50_p4": 39550,
+                                   "il50_p5": 42750,
+                                   "il50_p6": 45900,
+                                   "il50_p7": 49050,
+                                   "il50_p8": 52250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50650,
+                                   "il80_p3": 57000,
+                                   "il80_p4": 63300,
+                                   "il80_p5": 68400,
+                                   "il80_p6": 73450,
+                                   "il80_p7": 78500,
+                                   "il80_p8": 83600
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sioux City, IA-NE-SD MSA",
+                            "area_name": "Plymouth County, IA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 28800,
+                                   "il50_p2": 32900,
+                                   "il50_p3": 37000,
+                                   "il50_p4": 41100,
+                                   "il50_p5": 44400,
+                                   "il50_p6": 47700,
+                                   "il50_p7": 51000,
+                                   "il50_p8": 54300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 22200,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46050,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59200,
+                                   "il80_p4": 65750,
+                                   "il80_p5": 71050,
+                                   "il80_p6": 76300,
+                                   "il80_p7": 81550,
+                                   "il80_p8": 86800
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Plymouth County, IA",
+                            "year": "2022",
+                            "median_income": 89800,
+                            "very_low": {
+                                   "il50_p1": 31450,
+                                   "il50_p2": 35950,
+                                   "il50_p3": 40450,
+                                   "il50_p4": 44900,
+                                   "il50_p5": 48500,
+                                   "il50_p6": 52100,
+                                   "il50_p7": 55700,
+                                   "il50_p8": 59300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50300,
+                                   "il80_p2": 57500,
+                                   "il80_p3": 64700,
+                                   "il80_p4": 71850,
+                                   "il80_p5": 77600,
+                                   "il80_p6": 83350,
+                                   "il80_p7": 89100,
+                                   "il80_p8": 94850
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 484,
+                                   "One-Bedroom": 538,
+                                   "Two-Bedroom": 621,
+                                   "Three-Bedroom": 904,
+                                   "Four-Bedroom": 1094,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 506,
+                                   "One-Bedroom": 551,
+                                   "Two-Bedroom": 633,
+                                   "Three-Bedroom": 921,
+                                   "Four-Bedroom": 1115,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 549,
+                                   "Two-Bedroom": 628,
+                                   "Three-Bedroom": 908,
+                                   "Four-Bedroom": 1103,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 627,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 1030,
+                                   "Four-Bedroom": 1122,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 595,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 713,
+                                   "Three-Bedroom": 1020,
+                                   "Four-Bedroom": 1061,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 583,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 978,
+                                   "Four-Bedroom": 982,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 52700,
+                            "very_low": {
+                                   "il50_p1": 18450,
+                                   "il50_p2": 21100,
+                                   "il50_p3": 23750,
+                                   "il50_p4": 26350,
+                                   "il50_p5": 28500,
+                                   "il50_p6": 30600,
+                                   "il50_p7": 32700,
+                                   "il50_p8": 34800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28500,
+                                   "il30_p6": 30600,
+                                   "il30_p7": 32700,
+                                   "il30_p8": 34800
+                            },
+                            "low": {
+                                   "il80_p1": 29550,
+                                   "il80_p2": 33750,
+                                   "il80_p3": 37950,
+                                   "il80_p4": 42150,
+                                   "il80_p5": 45550,
+                                   "il80_p6": 48900,
+                                   "il80_p7": 52300,
+                                   "il80_p8": 55650
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 54600,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21850,
+                                   "il50_p3": 24600,
+                                   "il50_p4": 27300,
+                                   "il50_p5": 29500,
+                                   "il50_p6": 31700,
+                                   "il50_p7": 33900,
+                                   "il50_p8": 36050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 31700,
+                                   "il30_p7": 33900,
+                                   "il30_p8": 36050
+                            },
+                            "low": {
+                                   "il80_p1": 30600,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39350,
+                                   "il80_p4": 43700,
+                                   "il80_p5": 47200,
+                                   "il80_p6": 50700,
+                                   "il80_p7": 54200,
+                                   "il80_p8": 57700
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 55300,
+                            "very_low": {
+                                   "il50_p1": 19400,
+                                   "il50_p2": 22150,
+                                   "il50_p3": 24900,
+                                   "il50_p4": 27650,
+                                   "il50_p5": 29900,
+                                   "il50_p6": 32100,
+                                   "il50_p7": 34300,
+                                   "il50_p8": 36500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29900,
+                                   "il30_p6": 32100,
+                                   "il30_p7": 34300,
+                                   "il30_p8": 36500
+                            },
+                            "low": {
+                                   "il80_p1": 31000,
+                                   "il80_p2": 35400,
+                                   "il80_p3": 39850,
+                                   "il80_p4": 44250,
+                                   "il80_p5": 47800,
+                                   "il80_p6": 51350,
+                                   "il80_p7": 54900,
+                                   "il80_p8": 58450
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 56100,
+                            "very_low": {
+                                   "il50_p1": 19650,
+                                   "il50_p2": 22450,
+                                   "il50_p3": 25250,
+                                   "il50_p4": 28050,
+                                   "il50_p5": 30300,
+                                   "il50_p6": 32550,
+                                   "il50_p7": 34800,
+                                   "il50_p8": 37050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30300,
+                                   "il30_p6": 32550,
+                                   "il30_p7": 34800,
+                                   "il30_p8": 37050
+                            },
+                            "low": {
+                                   "il80_p1": 31450,
+                                   "il80_p2": 35950,
+                                   "il80_p3": 40450,
+                                   "il80_p4": 44900,
+                                   "il80_p5": 48500,
+                                   "il80_p6": 52100,
+                                   "il80_p7": 55700,
+                                   "il80_p8": 59300
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL MSA",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 56700,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22700,
+                                   "il50_p3": 25550,
+                                   "il50_p4": 28350,
+                                   "il50_p5": 30650,
+                                   "il50_p6": 32900,
+                                   "il50_p7": 35200,
+                                   "il50_p8": 37450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30650,
+                                   "il30_p6": 32900,
+                                   "il30_p7": 35200,
+                                   "il30_p8": 37450
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36300,
+                                   "il80_p3": 40850,
+                                   "il80_p4": 45350,
+                                   "il80_p5": 49000,
+                                   "il80_p6": 52650,
+                                   "il80_p7": 56250,
+                                   "il80_p8": 59900
+                            }
+                     },
+                     {
+                            "county_name": "Chilton County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Birmingham-Hoover, AL",
+                            "area_name": "Chilton County, AL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 61100,
+                            "very_low": {
+                                   "il50_p1": 22150,
+                                   "il50_p2": 25300,
+                                   "il50_p3": 28450,
+                                   "il50_p4": 31600,
+                                   "il50_p5": 34150,
+                                   "il50_p6": 36700,
+                                   "il50_p7": 39200,
+                                   "il50_p8": 41750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36700,
+                                   "il30_p7": 39200,
+                                   "il30_p8": 41750
+                            },
+                            "low": {
+                                   "il80_p1": 35400,
+                                   "il80_p2": 40450,
+                                   "il80_p3": 45500,
+                                   "il80_p4": 50550,
+                                   "il80_p5": 54600,
+                                   "il80_p6": 58650,
+                                   "il80_p7": 62700,
+                                   "il80_p8": 66750
+                            }
+                     }
+              ]
+       }
+}

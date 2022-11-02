@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 736,
+                                   "Three-Bedroom": 1038,
+                                   "Four-Bedroom": 1042,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1107,
+                                   "Four-Bedroom": 1111,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 667,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1141,
+                                   "Four-Bedroom": 1145,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 608,
+                                   "One-Bedroom": 612,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1071,
+                                   "Four-Bedroom": 1103,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 679,
+                                   "One-Bedroom": 684,
+                                   "Two-Bedroom": 901,
+                                   "Three-Bedroom": 1198,
+                                   "Four-Bedroom": 1222,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 751,
+                                   "One-Bedroom": 756,
+                                   "Two-Bedroom": 995,
+                                   "Three-Bedroom": 1302,
+                                   "Four-Bedroom": 1349,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "year": "2017",
+                            "median_income": 78100,
+                            "very_low": {
+                                   "il50_p1": 27350,
+                                   "il50_p2": 31250,
+                                   "il50_p3": 35150,
+                                   "il50_p4": 39050,
+                                   "il50_p5": 42200,
+                                   "il50_p6": 45300,
+                                   "il50_p7": 48450,
+                                   "il50_p8": 51550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21150,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 43750,
+                                   "il80_p2": 50000,
+                                   "il80_p3": 56250,
+                                   "il80_p4": 62500,
+                                   "il80_p5": 67500,
+                                   "il80_p6": 72500,
+                                   "il80_p7": 77500,
+                                   "il80_p8": 82500
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "year": "2018",
+                            "median_income": 78800,
+                            "very_low": {
+                                   "il50_p1": 27600,
+                                   "il50_p2": 31550,
+                                   "il50_p3": 35500,
+                                   "il50_p4": 39400,
+                                   "il50_p5": 42600,
+                                   "il50_p6": 45750,
+                                   "il50_p7": 48900,
+                                   "il50_p8": 52050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 21300,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44150,
+                                   "il80_p2": 50450,
+                                   "il80_p3": 56750,
+                                   "il80_p4": 63050,
+                                   "il80_p5": 68100,
+                                   "il80_p6": 73150,
+                                   "il80_p7": 78200,
+                                   "il80_p8": 83250
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "year": "2019",
+                            "median_income": 78800,
+                            "very_low": {
+                                   "il50_p1": 27600,
+                                   "il50_p2": 31550,
+                                   "il50_p3": 35500,
+                                   "il50_p4": 39400,
+                                   "il50_p5": 42600,
+                                   "il50_p6": 45750,
+                                   "il50_p7": 48900,
+                                   "il50_p8": 52050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44150,
+                                   "il80_p2": 50450,
+                                   "il80_p3": 56750,
+                                   "il80_p4": 63050,
+                                   "il80_p5": 68100,
+                                   "il80_p6": 73150,
+                                   "il80_p7": 78200,
+                                   "il80_p8": 83250
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "year": "2020",
+                            "median_income": 83400,
+                            "very_low": {
+                                   "il50_p1": 29200,
+                                   "il50_p2": 33400,
+                                   "il50_p3": 37550,
+                                   "il50_p4": 41700,
+                                   "il50_p5": 45050,
+                                   "il50_p6": 48400,
+                                   "il50_p7": 51750,
+                                   "il50_p8": 55050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17500,
+                                   "il30_p2": 20000,
+                                   "il30_p3": 22500,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46700,
+                                   "il80_p2": 53400,
+                                   "il80_p3": 60050,
+                                   "il80_p4": 66700,
+                                   "il80_p5": 72050,
+                                   "il80_p6": 77400,
+                                   "il80_p7": 82750,
+                                   "il80_p8": 88050
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "year": "2021",
+                            "median_income": 78300,
+                            "very_low": {
+                                   "il50_p1": 27800,
+                                   "il50_p2": 31750,
+                                   "il50_p3": 35700,
+                                   "il50_p4": 39650,
+                                   "il50_p5": 42850,
+                                   "il50_p6": 46000,
+                                   "il50_p7": 49200,
+                                   "il50_p8": 52350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19050,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44450,
+                                   "il80_p2": 50800,
+                                   "il80_p3": 57150,
+                                   "il80_p4": 63450,
+                                   "il80_p5": 68550,
+                                   "il80_p6": 73650,
+                                   "il80_p7": 78700,
+                                   "il80_p8": 83800
+                            }
+                     },
+                     {
+                            "county_name": "Rio Blanco County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rio Blanco County, CO",
+                            "year": "2022",
+                            "median_income": 84300,
+                            "very_low": {
+                                   "il50_p1": 29550,
+                                   "il50_p2": 33750,
+                                   "il50_p3": 37950,
+                                   "il50_p4": 42150,
+                                   "il50_p5": 45550,
+                                   "il50_p6": 48900,
+                                   "il50_p7": 52300,
+                                   "il50_p8": 55650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20250,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47250,
+                                   "il80_p2": 54000,
+                                   "il80_p3": 60750,
+                                   "il80_p4": 67450,
+                                   "il80_p5": 72850,
+                                   "il80_p6": 78250,
+                                   "il80_p7": 83650,
+                                   "il80_p8": 89050
+                            }
+                     }
+              ]
+       }
+}

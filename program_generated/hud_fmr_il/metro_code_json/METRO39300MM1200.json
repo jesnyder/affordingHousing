@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Bristol County, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 987,
+                                   "One-Bedroom": 1011,
+                                   "Two-Bedroom": 1344,
+                                   "Three-Bedroom": 1956,
+                                   "Four-Bedroom": 2023,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Bristol County, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1044,
+                                   "One-Bedroom": 1071,
+                                   "Two-Bedroom": 1425,
+                                   "Three-Bedroom": 2073,
+                                   "Four-Bedroom": 2135,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Bristol County, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1093,
+                                   "One-Bedroom": 1124,
+                                   "Two-Bedroom": 1487,
+                                   "Three-Bedroom": 2108,
+                                   "Four-Bedroom": 2202,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Bristol County, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1114,
+                                   "One-Bedroom": 1158,
+                                   "Two-Bedroom": 1525,
+                                   "Three-Bedroom": 2099,
+                                   "Four-Bedroom": 2266,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Bristol County, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1199,
+                                   "One-Bedroom": 1240,
+                                   "Two-Bedroom": 1634,
+                                   "Three-Bedroom": 2130,
+                                   "Four-Bedroom": 2444,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Bristol County, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1374,
+                                   "One-Bedroom": 1416,
+                                   "Two-Bedroom": 1863,
+                                   "Three-Bedroom": 2320,
+                                   "Four-Bedroom": 2834,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Easton town, MA; Raynham town, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 113200,
+                            "very_low": {
+                                   "il50_p1": 38100,
+                                   "il50_p2": 43550,
+                                   "il50_p3": 49000,
+                                   "il50_p4": 54400,
+                                   "il50_p5": 58800,
+                                   "il50_p6": 63150,
+                                   "il50_p7": 67500,
+                                   "il50_p8": 71850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22900,
+                                   "il30_p2": 26150,
+                                   "il30_p3": 29400,
+                                   "il30_p4": 32650,
+                                   "il30_p5": 35300,
+                                   "il30_p6": 37900,
+                                   "il30_p7": 40500,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Easton town, MA; Raynham town, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 116100,
+                            "very_low": {
+                                   "il50_p1": 40250,
+                                   "il50_p2": 46000,
+                                   "il50_p3": 51750,
+                                   "il50_p4": 57500,
+                                   "il50_p5": 62100,
+                                   "il50_p6": 66700,
+                                   "il50_p7": 71300,
+                                   "il50_p8": 75900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24150,
+                                   "il30_p2": 27600,
+                                   "il30_p3": 31050,
+                                   "il30_p4": 34500,
+                                   "il30_p5": 37300,
+                                   "il30_p6": 40050,
+                                   "il30_p7": 42800,
+                                   "il30_p8": 45550
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Easton town, MA; Raynham town, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 117900,
+                            "very_low": {
+                                   "il50_p1": 41300,
+                                   "il50_p2": 47200,
+                                   "il50_p3": 53100,
+                                   "il50_p4": 58950,
+                                   "il50_p5": 63700,
+                                   "il50_p6": 68400,
+                                   "il50_p7": 73100,
+                                   "il50_p8": 77850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24750,
+                                   "il30_p2": 28300,
+                                   "il30_p3": 31850,
+                                   "il30_p4": 35350,
+                                   "il30_p5": 38200,
+                                   "il30_p6": 41050,
+                                   "il30_p7": 43850,
+                                   "il30_p8": 46700
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Easton town, MA; Raynham town, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 121300,
+                            "very_low": {
+                                   "il50_p1": 42500,
+                                   "il50_p2": 48550,
+                                   "il50_p3": 54600,
+                                   "il50_p4": 60650,
+                                   "il50_p5": 65550,
+                                   "il50_p6": 70400,
+                                   "il50_p7": 75250,
+                                   "il50_p8": 80100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25500,
+                                   "il30_p2": 29150,
+                                   "il30_p3": 32800,
+                                   "il30_p4": 36400,
+                                   "il30_p5": 39350,
+                                   "il30_p6": 42250,
+                                   "il30_p7": 45150,
+                                   "il30_p8": 48050
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Easton town, MA; Raynham town, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 128300,
+                            "very_low": {
+                                   "il50_p1": 44600,
+                                   "il50_p2": 50950,
+                                   "il50_p3": 57300,
+                                   "il50_p4": 63650,
+                                   "il50_p5": 68750,
+                                   "il50_p6": 73850,
+                                   "il50_p7": 78950,
+                                   "il50_p8": 84050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26750,
+                                   "il30_p2": 30600,
+                                   "il30_p3": 34400,
+                                   "il30_p4": 38200,
+                                   "il30_p5": 41300,
+                                   "il30_p6": 44350,
+                                   "il30_p7": 47400,
+                                   "il30_p8": 50450
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Easton town, MA; Raynham town, MA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Easton-Raynham, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 143400,
+                            "very_low": {
+                                   "il50_p1": 49850,
+                                   "il50_p2": 57000,
+                                   "il50_p3": 64100,
+                                   "il50_p4": 71200,
+                                   "il50_p5": 76900,
+                                   "il50_p6": 82600,
+                                   "il50_p7": 88300,
+                                   "il50_p8": 94000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 29900,
+                                   "il30_p2": 34200,
+                                   "il30_p3": 38450,
+                                   "il30_p4": 42700,
+                                   "il30_p5": 46150,
+                                   "il30_p6": 49550,
+                                   "il30_p7": 52950,
+                                   "il30_p8": 56400
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

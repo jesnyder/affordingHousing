@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 616,
+                                   "Two-Bedroom": 752,
+                                   "Three-Bedroom": 1009,
+                                   "Four-Bedroom": 1043,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 562,
+                                   "One-Bedroom": 588,
+                                   "Two-Bedroom": 716,
+                                   "Three-Bedroom": 950,
+                                   "Four-Bedroom": 1014,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 554,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 682,
+                                   "Three-Bedroom": 898,
+                                   "Four-Bedroom": 973,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 623,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 965,
+                                   "Four-Bedroom": 1077,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 645,
+                                   "Two-Bedroom": 761,
+                                   "Three-Bedroom": 985,
+                                   "Four-Bedroom": 1136,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA",
+                            "area_name": "Albany, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 666,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 810,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1273,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "year": "2017",
+                            "median_income": 47300,
+                            "very_low": {
+                                   "il50_p1": 16600,
+                                   "il50_p2": 18950,
+                                   "il50_p3": 21300,
+                                   "il50_p4": 23650,
+                                   "il50_p5": 25550,
+                                   "il50_p6": 27450,
+                                   "il50_p7": 29350,
+                                   "il50_p8": 31250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 23650,
+                                   "il30_p5": 25550,
+                                   "il30_p6": 27450,
+                                   "il30_p7": 29350,
+                                   "il30_p8": 31250
+                            },
+                            "low": {
+                                   "il80_p1": 26500,
+                                   "il80_p2": 30300,
+                                   "il80_p3": 34100,
+                                   "il80_p4": 37850,
+                                   "il80_p5": 40900,
+                                   "il80_p6": 43950,
+                                   "il80_p7": 46950,
+                                   "il80_p8": 50000
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "year": "2018",
+                            "median_income": 53400,
+                            "very_low": {
+                                   "il50_p1": 18450,
+                                   "il50_p2": 21100,
+                                   "il50_p3": 23750,
+                                   "il50_p4": 26350,
+                                   "il50_p5": 28500,
+                                   "il50_p6": 30600,
+                                   "il50_p7": 32700,
+                                   "il50_p8": 34800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28500,
+                                   "il30_p6": 30600,
+                                   "il30_p7": 32700,
+                                   "il30_p8": 34800
+                            },
+                            "low": {
+                                   "il80_p1": 29550,
+                                   "il80_p2": 33750,
+                                   "il80_p3": 37950,
+                                   "il80_p4": 42150,
+                                   "il80_p5": 45550,
+                                   "il80_p6": 48900,
+                                   "il80_p7": 52300,
+                                   "il80_p8": 55650
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "year": "2019",
+                            "median_income": 53400,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24050,
+                                   "il50_p4": 26700,
+                                   "il50_p5": 28850,
+                                   "il50_p6": 31000,
+                                   "il50_p7": 33150,
+                                   "il50_p8": 35250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28850,
+                                   "il30_p6": 31000,
+                                   "il30_p7": 33150,
+                                   "il30_p8": 35250
+                            },
+                            "low": {
+                                   "il80_p1": 29900,
+                                   "il80_p2": 34200,
+                                   "il80_p3": 38450,
+                                   "il80_p4": 42700,
+                                   "il80_p5": 46150,
+                                   "il80_p6": 49550,
+                                   "il80_p7": 52950,
+                                   "il80_p8": 56400
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "year": "2020",
+                            "median_income": 52300,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21900,
+                                   "il50_p3": 24650,
+                                   "il50_p4": 27350,
+                                   "il50_p5": 29550,
+                                   "il50_p6": 31750,
+                                   "il50_p7": 33950,
+                                   "il50_p8": 36150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29550,
+                                   "il30_p6": 31750,
+                                   "il30_p7": 33950,
+                                   "il30_p8": 36150
+                            },
+                            "low": {
+                                   "il80_p1": 30650,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39400,
+                                   "il80_p4": 43750,
+                                   "il80_p5": 47250,
+                                   "il80_p6": 50750,
+                                   "il80_p7": 54250,
+                                   "il80_p8": 57750
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA MSA",
+                            "area_name": "Albany, GA MSA",
+                            "year": "2021",
+                            "median_income": 55700,
+                            "very_low": {
+                                   "il50_p1": 19500,
+                                   "il50_p2": 22300,
+                                   "il50_p3": 25100,
+                                   "il50_p4": 27850,
+                                   "il50_p5": 30100,
+                                   "il50_p6": 32350,
+                                   "il50_p7": 34550,
+                                   "il50_p8": 36800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30100,
+                                   "il30_p6": 32350,
+                                   "il30_p7": 34550,
+                                   "il30_p8": 36800
+                            },
+                            "low": {
+                                   "il80_p1": 31200,
+                                   "il80_p2": 35650,
+                                   "il80_p3": 40100,
+                                   "il80_p4": 44550,
+                                   "il80_p5": 48150,
+                                   "il80_p6": 51700,
+                                   "il80_p7": 55250,
+                                   "il80_p8": 58850
+                            }
+                     },
+                     {
+                            "county_name": "Terrell County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, GA",
+                            "area_name": "Albany, GA MSA",
+                            "year": "2022",
+                            "median_income": 57500,
+                            "very_low": {
+                                   "il50_p1": 21850,
+                                   "il50_p2": 24950,
+                                   "il50_p3": 28050,
+                                   "il50_p4": 31150,
+                                   "il50_p5": 33650,
+                                   "il50_p6": 36150,
+                                   "il50_p7": 38650,
+                                   "il50_p8": 41150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36150,
+                                   "il30_p7": 38650,
+                                   "il30_p8": 41150
+                            },
+                            "low": {
+                                   "il80_p1": 34900,
+                                   "il80_p2": 39850,
+                                   "il80_p3": 44850,
+                                   "il80_p4": 49800,
+                                   "il80_p5": 53800,
+                                   "il80_p6": 57800,
+                                   "il80_p7": 61800,
+                                   "il80_p8": 65750
+                            }
+                     }
+              ]
+       }
+}

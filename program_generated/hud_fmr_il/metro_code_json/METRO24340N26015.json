@@ -1,0 +1,293 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 494,
+                                   "One-Bedroom": 573,
+                                   "Two-Bedroom": 725,
+                                   "Three-Bedroom": 1055,
+                                   "Four-Bedroom": 1197,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 785,
+                                   "Three-Bedroom": 1142,
+                                   "Four-Bedroom": 1258,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 634,
+                                   "One-Bedroom": 696,
+                                   "Two-Bedroom": 894,
+                                   "Three-Bedroom": 1266,
+                                   "Four-Bedroom": 1365,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 626,
+                                   "One-Bedroom": 682,
+                                   "Two-Bedroom": 852,
+                                   "Three-Bedroom": 1145,
+                                   "Four-Bedroom": 1256,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 848,
+                                   "Three-Bedroom": 1116,
+                                   "Four-Bedroom": 1221,
+                                   "year": "2021"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 68200,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 71500,
+                            "very_low": {
+                                   "il50_p1": 25050,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32200,
+                                   "il50_p4": 35750,
+                                   "il50_p5": 38650,
+                                   "il50_p6": 41500,
+                                   "il50_p7": 44350,
+                                   "il50_p8": 47200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17200,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40050,
+                                   "il80_p2": 45800,
+                                   "il80_p3": 51500,
+                                   "il80_p4": 57200,
+                                   "il80_p5": 61800,
+                                   "il80_p6": 66400,
+                                   "il80_p7": 70950,
+                                   "il80_p8": 75550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 72000,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 36000,
+                                   "il50_p5": 38900,
+                                   "il50_p6": 41800,
+                                   "il50_p7": 44650,
+                                   "il50_p8": 47550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15150,
+                                   "il30_p2": 17300,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40350,
+                                   "il80_p2": 46100,
+                                   "il80_p3": 51850,
+                                   "il80_p4": 57600,
+                                   "il80_p5": 62250,
+                                   "il80_p6": 66850,
+                                   "il80_p7": 71450,
+                                   "il80_p8": 76050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Barry County, MI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Barry County, MI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 74600,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29850,
+                                   "il50_p3": 33600,
+                                   "il50_p4": 37300,
+                                   "il50_p5": 40300,
+                                   "il50_p6": 43300,
+                                   "il50_p7": 46300,
+                                   "il50_p8": 49250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41800,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53750,
+                                   "il80_p4": 59700,
+                                   "il80_p5": 64500,
+                                   "il80_p6": 69300,
+                                   "il80_p7": 74050,
+                                   "il80_p8": 78850
+                            }
+                     }
+              ]
+       }
+}

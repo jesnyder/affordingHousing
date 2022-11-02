@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 501,
+                                   "One-Bedroom": 527,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 945,
+                                   "Four-Bedroom": 1022,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 585,
+                                   "Two-Bedroom": 778,
+                                   "Three-Bedroom": 1062,
+                                   "Four-Bedroom": 1145,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 588,
+                                   "One-Bedroom": 590,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1143,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 818,
+                                   "Three-Bedroom": 1102,
+                                   "Four-Bedroom": 1170,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 641,
+                                   "One-Bedroom": 652,
+                                   "Two-Bedroom": 858,
+                                   "Three-Bedroom": 1121,
+                                   "Four-Bedroom": 1171,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 681,
+                                   "Two-Bedroom": 893,
+                                   "Three-Bedroom": 1139,
+                                   "Four-Bedroom": 1211,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 69300,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27750,
+                                   "il50_p3": 31200,
+                                   "il50_p4": 34650,
+                                   "il50_p5": 37450,
+                                   "il50_p6": 40200,
+                                   "il50_p7": 43000,
+                                   "il50_p8": 45750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 16650,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55450,
+                                   "il80_p5": 59900,
+                                   "il80_p6": 64350,
+                                   "il80_p7": 68800,
+                                   "il80_p8": 73200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 72600,
+                            "very_low": {
+                                   "il50_p1": 25450,
+                                   "il50_p2": 29050,
+                                   "il50_p3": 32700,
+                                   "il50_p4": 36300,
+                                   "il50_p5": 39250,
+                                   "il50_p6": 42150,
+                                   "il50_p7": 45050,
+                                   "il50_p8": 47950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17450,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40700,
+                                   "il80_p2": 46500,
+                                   "il80_p3": 52300,
+                                   "il80_p4": 58100,
+                                   "il80_p5": 62750,
+                                   "il80_p6": 67400,
+                                   "il80_p7": 72050,
+                                   "il80_p8": 76700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 76900,
+                            "very_low": {
+                                   "il50_p1": 26950,
+                                   "il50_p2": 30800,
+                                   "il50_p3": 34650,
+                                   "il50_p4": 38450,
+                                   "il50_p5": 41550,
+                                   "il50_p6": 44650,
+                                   "il50_p7": 47700,
+                                   "il50_p8": 50800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61500,
+                                   "il80_p5": 66450,
+                                   "il80_p6": 71350,
+                                   "il80_p7": 76300,
+                                   "il80_p8": 81200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 79000,
+                            "very_low": {
+                                   "il50_p1": 27650,
+                                   "il50_p2": 31600,
+                                   "il50_p3": 35550,
+                                   "il50_p4": 39500,
+                                   "il50_p5": 42700,
+                                   "il50_p6": 45850,
+                                   "il50_p7": 49000,
+                                   "il50_p8": 52150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44250,
+                                   "il80_p2": 50600,
+                                   "il80_p3": 56900,
+                                   "il80_p4": 63200,
+                                   "il80_p5": 68300,
+                                   "il80_p6": 73350,
+                                   "il80_p7": 78400,
+                                   "il80_p8": 83450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 80700,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Green County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Green County, WI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 88800,
+                            "very_low": {
+                                   "il50_p1": 31100,
+                                   "il50_p2": 35550,
+                                   "il50_p3": 40000,
+                                   "il50_p4": 44400,
+                                   "il50_p5": 48000,
+                                   "il50_p6": 51550,
+                                   "il50_p7": 55100,
+                                   "il50_p8": 58650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18700,
+                                   "il30_p2": 21350,
+                                   "il30_p3": 24000,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49750,
+                                   "il80_p2": 56850,
+                                   "il80_p3": 63950,
+                                   "il80_p4": 71050,
+                                   "il80_p5": 76750,
+                                   "il80_p6": 82450,
+                                   "il80_p7": 88150,
+                                   "il80_p8": 93800
+                            }
+                     }
+              ]
+       }
+}

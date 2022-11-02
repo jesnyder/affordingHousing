@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 630,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 878,
+                                   "Three-Bedroom": 1227,
+                                   "Four-Bedroom": 1488,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 642,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 885,
+                                   "Three-Bedroom": 1250,
+                                   "Four-Bedroom": 1559,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 755,
+                                   "One-Bedroom": 760,
+                                   "Two-Bedroom": 978,
+                                   "Three-Bedroom": 1383,
+                                   "Four-Bedroom": 1718,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 799,
+                                   "One-Bedroom": 818,
+                                   "Two-Bedroom": 1022,
+                                   "Three-Bedroom": 1436,
+                                   "Four-Bedroom": 1794,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 799,
+                                   "One-Bedroom": 866,
+                                   "Two-Bedroom": 1067,
+                                   "Three-Bedroom": 1506,
+                                   "Four-Bedroom": 1847,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 832,
+                                   "One-Bedroom": 928,
+                                   "Two-Bedroom": 1142,
+                                   "Three-Bedroom": 1622,
+                                   "Four-Bedroom": 1955,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "year": "2017",
+                            "median_income": 54500,
+                            "very_low": {
+                                   "il50_p1": 19100,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24550,
+                                   "il50_p4": 27250,
+                                   "il50_p5": 29450,
+                                   "il50_p6": 31650,
+                                   "il50_p7": 33800,
+                                   "il50_p8": 36000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31650,
+                                   "il30_p7": 33800,
+                                   "il30_p8": 36000
+                            },
+                            "low": {
+                                   "il80_p1": 30550,
+                                   "il80_p2": 34900,
+                                   "il80_p3": 39250,
+                                   "il80_p4": 43600,
+                                   "il80_p5": 47100,
+                                   "il80_p6": 50600,
+                                   "il80_p7": 54100,
+                                   "il80_p8": 57600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "year": "2018",
+                            "median_income": 58300,
+                            "very_low": {
+                                   "il50_p1": 20450,
+                                   "il50_p2": 23350,
+                                   "il50_p3": 26250,
+                                   "il50_p4": 29150,
+                                   "il50_p5": 31500,
+                                   "il50_p6": 33850,
+                                   "il50_p7": 36150,
+                                   "il50_p8": 38500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36150,
+                                   "il30_p8": 38500
+                            },
+                            "low": {
+                                   "il80_p1": 32700,
+                                   "il80_p2": 37350,
+                                   "il80_p3": 42000,
+                                   "il80_p4": 46650,
+                                   "il80_p5": 50400,
+                                   "il80_p6": 54150,
+                                   "il80_p7": 57850,
+                                   "il80_p8": 61600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "year": "2019",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 22950,
+                                   "il50_p3": 25800,
+                                   "il50_p4": 28650,
+                                   "il50_p5": 30950,
+                                   "il50_p6": 33250,
+                                   "il50_p7": 35550,
+                                   "il50_p8": 37850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33250,
+                                   "il30_p7": 35550,
+                                   "il30_p8": 37850
+                            },
+                            "low": {
+                                   "il80_p1": 32100,
+                                   "il80_p2": 36700,
+                                   "il80_p3": 41300,
+                                   "il80_p4": 45850,
+                                   "il80_p5": 49550,
+                                   "il80_p6": 53200,
+                                   "il80_p7": 56900,
+                                   "il80_p8": 60550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "year": "2020",
+                            "median_income": 64100,
+                            "very_low": {
+                                   "il50_p1": 21650,
+                                   "il50_p2": 24750,
+                                   "il50_p3": 27850,
+                                   "il50_p4": 30900,
+                                   "il50_p5": 33400,
+                                   "il50_p6": 35850,
+                                   "il50_p7": 38350,
+                                   "il50_p8": 40800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13000,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38350,
+                                   "il30_p8": 40800
+                            },
+                            "low": {
+                                   "il80_p1": 34650,
+                                   "il80_p2": 39600,
+                                   "il80_p3": 44550,
+                                   "il80_p4": 49450,
+                                   "il80_p5": 53450,
+                                   "il80_p6": 57400,
+                                   "il80_p7": 61350,
+                                   "il80_p8": 65300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL MSA",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "year": "2021",
+                            "median_income": 66700,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 42800
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41500,
+                                   "il80_p3": 46700,
+                                   "il80_p4": 51850,
+                                   "il80_p5": 56000,
+                                   "il80_p6": 60150,
+                                   "il80_p7": 64300,
+                                   "il80_p8": 68450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Charlotte County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Punta Gorda, FL",
+                            "area_name": "Punta Gorda, FL MSA",
+                            "year": "2022",
+                            "median_income": 76000,
+                            "very_low": {
+                                   "il50_p1": 25400,
+                                   "il50_p2": 29000,
+                                   "il50_p3": 32650,
+                                   "il50_p4": 36250,
+                                   "il50_p5": 39150,
+                                   "il50_p6": 42050,
+                                   "il50_p7": 44950,
+                                   "il50_p8": 47850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15250,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40600,
+                                   "il80_p2": 46400,
+                                   "il80_p3": 52200,
+                                   "il80_p4": 58000,
+                                   "il80_p5": 62650,
+                                   "il80_p6": 67300,
+                                   "il80_p7": 71950,
+                                   "il80_p8": 76600
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 641,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 1001,
+                                   "Four-Bedroom": 1096,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 585,
+                                   "One-Bedroom": 667,
+                                   "Two-Bedroom": 784,
+                                   "Three-Bedroom": 1026,
+                                   "Four-Bedroom": 1095,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 611,
+                                   "One-Bedroom": 653,
+                                   "Two-Bedroom": 809,
+                                   "Three-Bedroom": 1076,
+                                   "Four-Bedroom": 1123,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 651,
+                                   "One-Bedroom": 677,
+                                   "Two-Bedroom": 879,
+                                   "Three-Bedroom": 1151,
+                                   "Four-Bedroom": 1191,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 634,
+                                   "One-Bedroom": 659,
+                                   "Two-Bedroom": 869,
+                                   "Three-Bedroom": 1131,
+                                   "Four-Bedroom": 1178,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 873,
+                                   "Three-Bedroom": 1105,
+                                   "Four-Bedroom": 1184,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "year": "2017",
+                            "median_income": 53500,
+                            "very_low": {
+                                   "il50_p1": 18750,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24100,
+                                   "il50_p4": 26750,
+                                   "il50_p5": 28900,
+                                   "il50_p6": 31050,
+                                   "il50_p7": 33200,
+                                   "il50_p8": 35350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31050,
+                                   "il30_p7": 33200,
+                                   "il30_p8": 35350
+                            },
+                            "low": {
+                                   "il80_p1": 30000,
+                                   "il80_p2": 34250,
+                                   "il80_p3": 38550,
+                                   "il80_p4": 42800,
+                                   "il80_p5": 46250,
+                                   "il80_p6": 49650,
+                                   "il80_p7": 53100,
+                                   "il80_p8": 56500
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "year": "2018",
+                            "median_income": 64100,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23850,
+                                   "il50_p3": 26850,
+                                   "il50_p4": 29800,
+                                   "il50_p5": 32200,
+                                   "il50_p6": 34600,
+                                   "il50_p7": 37000,
+                                   "il50_p8": 39350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37000,
+                                   "il30_p8": 39350
+                            },
+                            "low": {
+                                   "il80_p1": 33400,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 42950,
+                                   "il80_p4": 47700,
+                                   "il80_p5": 51550,
+                                   "il80_p6": 55350,
+                                   "il80_p7": 59150,
+                                   "il80_p8": 63000
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "year": "2019",
+                            "median_income": 58900,
+                            "very_low": {
+                                   "il50_p1": 20650,
+                                   "il50_p2": 23600,
+                                   "il50_p3": 26550,
+                                   "il50_p4": 29450,
+                                   "il50_p5": 31850,
+                                   "il50_p6": 34200,
+                                   "il50_p7": 36550,
+                                   "il50_p8": 38900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34200,
+                                   "il30_p7": 36550,
+                                   "il30_p8": 38900
+                            },
+                            "low": {
+                                   "il80_p1": 33000,
+                                   "il80_p2": 37700,
+                                   "il80_p3": 42400,
+                                   "il80_p4": 47100,
+                                   "il80_p5": 50900,
+                                   "il80_p6": 54650,
+                                   "il80_p7": 58450,
+                                   "il80_p8": 62200
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "year": "2020",
+                            "median_income": 55200,
+                            "very_low": {
+                                   "il50_p1": 19600,
+                                   "il50_p2": 22400,
+                                   "il50_p3": 25200,
+                                   "il50_p4": 28000,
+                                   "il50_p5": 30250,
+                                   "il50_p6": 32500,
+                                   "il50_p7": 34750,
+                                   "il50_p8": 37000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30250,
+                                   "il30_p6": 32500,
+                                   "il30_p7": 34750,
+                                   "il30_p8": 37000
+                            },
+                            "low": {
+                                   "il80_p1": 31400,
+                                   "il80_p2": 35850,
+                                   "il80_p3": 40350,
+                                   "il80_p4": 44800,
+                                   "il80_p5": 48400,
+                                   "il80_p6": 52000,
+                                   "il80_p7": 55600,
+                                   "il80_p8": 59150
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "year": "2021",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 20600,
+                                   "il50_p2": 23550,
+                                   "il50_p3": 26500,
+                                   "il50_p4": 29400,
+                                   "il50_p5": 31800,
+                                   "il50_p6": 34150,
+                                   "il50_p7": 36500,
+                                   "il50_p8": 38850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 34150,
+                                   "il30_p7": 36500,
+                                   "il30_p8": 38850
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 47000,
+                                   "il80_p5": 50800,
+                                   "il80_p6": 54550,
+                                   "il80_p7": 58300,
+                                   "il80_p8": 62050
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, FL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Columbia County, FL",
+                            "year": "2022",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40650,
+                                   "il30_p8": 43250
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     }
+              ]
+       }
+}

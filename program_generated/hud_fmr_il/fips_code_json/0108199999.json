@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 543,
+                                   "One-Bedroom": 600,
+                                   "Two-Bedroom": 798,
+                                   "Three-Bedroom": 1075,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 557,
+                                   "One-Bedroom": 633,
+                                   "Two-Bedroom": 827,
+                                   "Three-Bedroom": 1107,
+                                   "Four-Bedroom": 1339,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 547,
+                                   "One-Bedroom": 627,
+                                   "Two-Bedroom": 814,
+                                   "Three-Bedroom": 1083,
+                                   "Four-Bedroom": 1285,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 623,
+                                   "Two-Bedroom": 811,
+                                   "Three-Bedroom": 1066,
+                                   "Four-Bedroom": 1242,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 590,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 824,
+                                   "Three-Bedroom": 1078,
+                                   "Four-Bedroom": 1227,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 672,
+                                   "One-Bedroom": 706,
+                                   "Two-Bedroom": 924,
+                                   "Three-Bedroom": 1222,
+                                   "Four-Bedroom": 1383,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "year": "2017",
+                            "median_income": 59200,
+                            "very_low": {
+                                   "il50_p1": 20750,
+                                   "il50_p2": 23700,
+                                   "il50_p3": 26650,
+                                   "il50_p4": 29600,
+                                   "il50_p5": 32000,
+                                   "il50_p6": 34350,
+                                   "il50_p7": 36750,
+                                   "il50_p8": 39100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36750,
+                                   "il30_p8": 39100
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37900,
+                                   "il80_p3": 42650,
+                                   "il80_p4": 47350,
+                                   "il80_p5": 51150,
+                                   "il80_p6": 54950,
+                                   "il80_p7": 58750,
+                                   "il80_p8": 62550
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "year": "2018",
+                            "median_income": 66900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "year": "2019",
+                            "median_income": 71100,
+                            "very_low": {
+                                   "il50_p1": 24900,
+                                   "il50_p2": 28450,
+                                   "il50_p3": 32000,
+                                   "il50_p4": 35550,
+                                   "il50_p5": 38400,
+                                   "il50_p6": 41250,
+                                   "il50_p7": 44100,
+                                   "il50_p8": 46950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17100,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39850,
+                                   "il80_p2": 45550,
+                                   "il80_p3": 51250,
+                                   "il80_p4": 56900,
+                                   "il80_p5": 61500,
+                                   "il80_p6": 66050,
+                                   "il80_p7": 70600,
+                                   "il80_p8": 75150
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "year": "2020",
+                            "median_income": 76500,
+                            "very_low": {
+                                   "il50_p1": 26800,
+                                   "il50_p2": 30600,
+                                   "il50_p3": 34450,
+                                   "il50_p4": 38250,
+                                   "il50_p5": 41350,
+                                   "il50_p6": 44400,
+                                   "il50_p7": 47450,
+                                   "il50_p8": 50500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42850,
+                                   "il80_p2": 49000,
+                                   "il80_p3": 55100,
+                                   "il80_p4": 61200,
+                                   "il80_p5": 66100,
+                                   "il80_p6": 71000,
+                                   "il80_p7": 75900,
+                                   "il80_p8": 80800
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL MSA",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "year": "2021",
+                            "median_income": 78000,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 39000,
+                                   "il50_p5": 42150,
+                                   "il50_p6": 45250,
+                                   "il50_p7": 48400,
+                                   "il50_p8": 51500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16400,
+                                   "il30_p2": 18750,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43700,
+                                   "il80_p2": 49950,
+                                   "il80_p3": 56200,
+                                   "il80_p4": 62400,
+                                   "il80_p5": 67400,
+                                   "il80_p6": 72400,
+                                   "il80_p7": 77400,
+                                   "il80_p8": 82400
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Auburn-Opelika, AL",
+                            "area_name": "Auburn-Opelika, AL MSA",
+                            "year": "2022",
+                            "median_income": 90000,
+                            "very_low": {
+                                   "il50_p1": 30550,
+                                   "il50_p2": 34900,
+                                   "il50_p3": 39250,
+                                   "il50_p4": 43600,
+                                   "il50_p5": 47100,
+                                   "il50_p6": 50600,
+                                   "il50_p7": 54100,
+                                   "il50_p8": 57600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 20950,
+                                   "il30_p3": 23550,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48850,
+                                   "il80_p2": 55800,
+                                   "il80_p3": 62800,
+                                   "il80_p4": 69750,
+                                   "il80_p5": 75350,
+                                   "il80_p6": 80950,
+                                   "il80_p7": 86500,
+                                   "il80_p8": 92100
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 529,
+                                   "One-Bedroom": 532,
+                                   "Two-Bedroom": 673,
+                                   "Three-Bedroom": 897,
+                                   "Four-Bedroom": 1091,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 529,
+                                   "Two-Bedroom": 669,
+                                   "Three-Bedroom": 887,
+                                   "Four-Bedroom": 1110,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 531,
+                                   "One-Bedroom": 534,
+                                   "Two-Bedroom": 675,
+                                   "Three-Bedroom": 888,
+                                   "Four-Bedroom": 1130,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 498,
+                                   "One-Bedroom": 565,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 913,
+                                   "Four-Bedroom": 1191,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 580,
+                                   "Two-Bedroom": 748,
+                                   "Three-Bedroom": 943,
+                                   "Four-Bedroom": 1213,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 575,
+                                   "Two-Bedroom": 751,
+                                   "Three-Bedroom": 935,
+                                   "Four-Bedroom": 1173,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "year": "2017",
+                            "median_income": 53500,
+                            "very_low": {
+                                   "il50_p1": 18750,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24100,
+                                   "il50_p4": 26750,
+                                   "il50_p5": 28900,
+                                   "il50_p6": 31050,
+                                   "il50_p7": 33200,
+                                   "il50_p8": 35350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31050,
+                                   "il30_p7": 33200,
+                                   "il30_p8": 35350
+                            },
+                            "low": {
+                                   "il80_p1": 30000,
+                                   "il80_p2": 34250,
+                                   "il80_p3": 38550,
+                                   "il80_p4": 42800,
+                                   "il80_p5": 46250,
+                                   "il80_p6": 49650,
+                                   "il80_p7": 53100,
+                                   "il80_p8": 56500
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "year": "2018",
+                            "median_income": 57500,
+                            "very_low": {
+                                   "il50_p1": 20150,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25900,
+                                   "il50_p4": 28750,
+                                   "il50_p5": 31050,
+                                   "il50_p6": 33350,
+                                   "il50_p7": 35650,
+                                   "il50_p8": 37950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33350,
+                                   "il30_p7": 35650,
+                                   "il30_p8": 37950
+                            },
+                            "low": {
+                                   "il80_p1": 32200,
+                                   "il80_p2": 36800,
+                                   "il80_p3": 41400,
+                                   "il80_p4": 46000,
+                                   "il80_p5": 49700,
+                                   "il80_p6": 53400,
+                                   "il80_p7": 57050,
+                                   "il80_p8": 60750
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "year": "2019",
+                            "median_income": 66200,
+                            "very_low": {
+                                   "il50_p1": 22150,
+                                   "il50_p2": 25300,
+                                   "il50_p3": 28450,
+                                   "il50_p4": 31600,
+                                   "il50_p5": 34150,
+                                   "il50_p6": 36700,
+                                   "il50_p7": 39200,
+                                   "il50_p8": 41750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 41750
+                            },
+                            "low": {
+                                   "il80_p1": 35400,
+                                   "il80_p2": 40450,
+                                   "il80_p3": 45500,
+                                   "il80_p4": 50550,
+                                   "il80_p5": 54600,
+                                   "il80_p6": 58650,
+                                   "il80_p7": 62700,
+                                   "il80_p8": 66750
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "year": "2020",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42400
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL MSA",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "year": "2021",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40000,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Colbert County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence-Muscle Shoals, AL",
+                            "area_name": "Florence-Muscle Shoals, AL MSA",
+                            "year": "2022",
+                            "median_income": 68200,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 45050
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     }
+              ]
+       }
+}

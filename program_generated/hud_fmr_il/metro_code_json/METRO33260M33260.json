@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1033,
+                                   "One-Bedroom": 1206,
+                                   "Two-Bedroom": 1520,
+                                   "Three-Bedroom": 1902,
+                                   "Four-Bedroom": 2095,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 933,
+                                   "One-Bedroom": 1085,
+                                   "Two-Bedroom": 1368,
+                                   "Three-Bedroom": 1712,
+                                   "Four-Bedroom": 1886,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1060,
+                                   "One-Bedroom": 1067,
+                                   "Two-Bedroom": 1337,
+                                   "Three-Bedroom": 1675,
+                                   "Four-Bedroom": 1900,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1073,
+                                   "One-Bedroom": 1080,
+                                   "Two-Bedroom": 1349,
+                                   "Three-Bedroom": 1681,
+                                   "Four-Bedroom": 2123,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1121,
+                                   "One-Bedroom": 1128,
+                                   "Two-Bedroom": 1391,
+                                   "Three-Bedroom": 1730,
+                                   "Four-Bedroom": 2352,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1158,
+                                   "One-Bedroom": 1165,
+                                   "Two-Bedroom": 1433,
+                                   "Three-Bedroom": 1771,
+                                   "Four-Bedroom": 2453,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 91600,
+                            "very_low": {
+                                   "il50_p1": 28450,
+                                   "il50_p2": 32500,
+                                   "il50_p3": 36550,
+                                   "il50_p4": 40600,
+                                   "il50_p5": 43850,
+                                   "il50_p6": 47100,
+                                   "il50_p7": 50350,
+                                   "il50_p8": 53600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19500,
+                                   "il30_p3": 21950,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 45500,
+                                   "il80_p2": 52000,
+                                   "il80_p3": 58500,
+                                   "il80_p4": 64950,
+                                   "il80_p5": 70150,
+                                   "il80_p6": 75350,
+                                   "il80_p7": 80550,
+                                   "il80_p8": 85750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 100800,
+                            "very_low": {
+                                   "il50_p1": 31700,
+                                   "il50_p2": 36200,
+                                   "il50_p3": 40750,
+                                   "il50_p4": 45250,
+                                   "il50_p5": 48900,
+                                   "il50_p6": 52500,
+                                   "il50_p7": 56150,
+                                   "il50_p8": 59750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21750,
+                                   "il30_p3": 24450,
+                                   "il30_p4": 27150,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 79400,
+                            "very_low": {
+                                   "il50_p1": 30100,
+                                   "il50_p2": 34400,
+                                   "il50_p3": 38700,
+                                   "il50_p4": 43000,
+                                   "il50_p5": 46450,
+                                   "il50_p6": 49900,
+                                   "il50_p7": 53350,
+                                   "il50_p8": 56800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18100,
+                                   "il30_p2": 20650,
+                                   "il30_p3": 23250,
+                                   "il30_p4": 25800,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 48200,
+                                   "il80_p2": 55050,
+                                   "il80_p3": 61950,
+                                   "il80_p4": 68800,
+                                   "il80_p5": 74350,
+                                   "il80_p6": 79850,
+                                   "il80_p7": 85350,
+                                   "il80_p8": 90850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 90700,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36300,
+                                   "il50_p3": 40850,
+                                   "il50_p4": 45350,
+                                   "il50_p5": 49000,
+                                   "il50_p6": 52650,
+                                   "il50_p7": 56250,
+                                   "il50_p8": 59900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 50800,
+                                   "il80_p2": 58050,
+                                   "il80_p3": 65300,
+                                   "il80_p4": 72550,
+                                   "il80_p5": 78400,
+                                   "il80_p6": 84200,
+                                   "il80_p7": 90000,
+                                   "il80_p8": 95800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 99100,
+                            "very_low": {
+                                   "il50_p1": 33350,
+                                   "il50_p2": 38100,
+                                   "il50_p3": 42850,
+                                   "il50_p4": 47600,
+                                   "il50_p5": 51450,
+                                   "il50_p6": 55250,
+                                   "il50_p7": 59050,
+                                   "il50_p8": 62850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20000,
+                                   "il30_p2": 22850,
+                                   "il30_p3": 25700,
+                                   "il30_p4": 28550,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 53350,
+                                   "il80_p2": 60950,
+                                   "il80_p3": 68550,
+                                   "il80_p4": 76150,
+                                   "il80_p5": 82250,
+                                   "il80_p6": 88350,
+                                   "il80_p7": 94450,
+                                   "il80_p8": 100550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Midland County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX",
+                            "area_name": "Midland, TX HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 119200,
+                            "very_low": {
+                                   "il50_p1": 37300,
+                                   "il50_p2": 42600,
+                                   "il50_p3": 47950,
+                                   "il50_p4": 53250,
+                                   "il50_p5": 57550,
+                                   "il50_p6": 61800,
+                                   "il50_p7": 66050,
+                                   "il50_p8": 70300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22400,
+                                   "il30_p2": 25600,
+                                   "il30_p3": 28800,
+                                   "il30_p4": 31950,
+                                   "il30_p5": 34550,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 59650,
+                                   "il80_p2": 68200,
+                                   "il80_p3": 76700,
+                                   "il80_p4": 85200,
+                                   "il80_p5": 92050,
+                                   "il80_p6": 98850,
+                                   "il80_p7": 105650,
+                                   "il80_p8": 112500
+                            }
+                     }
+              ]
+       }
+}

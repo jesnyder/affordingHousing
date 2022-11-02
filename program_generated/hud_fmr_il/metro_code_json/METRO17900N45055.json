@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 580,
+                                   "Two-Bedroom": 686,
+                                   "Three-Bedroom": 900,
+                                   "Four-Bedroom": 1209,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 584,
+                                   "One-Bedroom": 615,
+                                   "Two-Bedroom": 707,
+                                   "Three-Bedroom": 951,
+                                   "Four-Bedroom": 1245,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 618,
+                                   "One-Bedroom": 650,
+                                   "Two-Bedroom": 744,
+                                   "Three-Bedroom": 1048,
+                                   "Four-Bedroom": 1307,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 632,
+                                   "Two-Bedroom": 719,
+                                   "Three-Bedroom": 1021,
+                                   "Four-Bedroom": 1262,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 585,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 718,
+                                   "Three-Bedroom": 1028,
+                                   "Four-Bedroom": 1243,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 647,
+                                   "One-Bedroom": 667,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 1067,
+                                   "Four-Bedroom": 1301,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 53800,
+                            "very_low": {
+                                   "il50_p1": 18850,
+                                   "il50_p2": 21550,
+                                   "il50_p3": 24250,
+                                   "il50_p4": 26900,
+                                   "il50_p5": 29100,
+                                   "il50_p6": 31250,
+                                   "il50_p7": 33400,
+                                   "il50_p8": 35550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31250,
+                                   "il30_p7": 33400,
+                                   "il30_p8": 35550
+                            },
+                            "low": {
+                                   "il80_p1": 30150,
+                                   "il80_p2": 34450,
+                                   "il80_p3": 38750,
+                                   "il80_p4": 43050,
+                                   "il80_p5": 46500,
+                                   "il80_p6": 49950,
+                                   "il80_p7": 53400,
+                                   "il80_p8": 56850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 57100,
+                            "very_low": {
+                                   "il50_p1": 20000,
+                                   "il50_p2": 22850,
+                                   "il50_p3": 25700,
+                                   "il50_p4": 28550,
+                                   "il50_p5": 30850,
+                                   "il50_p6": 33150,
+                                   "il50_p7": 35450,
+                                   "il50_p8": 37700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33150,
+                                   "il30_p7": 35450,
+                                   "il30_p8": 37700
+                            },
+                            "low": {
+                                   "il80_p1": 32000,
+                                   "il80_p2": 36600,
+                                   "il80_p3": 41150,
+                                   "il80_p4": 45700,
+                                   "il80_p5": 49400,
+                                   "il80_p6": 53050,
+                                   "il80_p7": 56700,
+                                   "il80_p8": 60350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 59400,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26750,
+                                   "il50_p4": 29700,
+                                   "il50_p5": 32100,
+                                   "il50_p6": 34500,
+                                   "il50_p7": 36850,
+                                   "il50_p8": 39250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34500,
+                                   "il30_p7": 36850,
+                                   "il30_p8": 39250
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47500,
+                                   "il80_p5": 51300,
+                                   "il80_p6": 55100,
+                                   "il80_p7": 58900,
+                                   "il80_p8": 62700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 64400,
+                            "very_low": {
+                                   "il50_p1": 22450,
+                                   "il50_p2": 25650,
+                                   "il50_p3": 28850,
+                                   "il50_p4": 32050,
+                                   "il50_p5": 34650,
+                                   "il50_p6": 37200,
+                                   "il50_p7": 39750,
+                                   "il50_p8": 42350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42350
+                            },
+                            "low": {
+                                   "il80_p1": 35900,
+                                   "il80_p2": 41000,
+                                   "il80_p3": 46150,
+                                   "il80_p4": 51250,
+                                   "il80_p5": 55350,
+                                   "il80_p6": 59450,
+                                   "il80_p7": 63550,
+                                   "il80_p8": 67650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC MSA",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 21350,
+                                   "il50_p2": 24400,
+                                   "il50_p3": 27450,
+                                   "il50_p4": 30450,
+                                   "il50_p5": 32900,
+                                   "il50_p6": 35350,
+                                   "il50_p7": 37800,
+                                   "il50_p8": 40200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35350,
+                                   "il30_p7": 37800,
+                                   "il30_p8": 40200
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 39000,
+                                   "il80_p3": 43850,
+                                   "il80_p4": 48700,
+                                   "il80_p5": 52600,
+                                   "il80_p6": 56500,
+                                   "il80_p7": 60400,
+                                   "il80_p8": 64300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Kershaw County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, SC",
+                            "area_name": "Kershaw County, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 86200,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 44950
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54450,
+                                   "il80_p5": 58850,
+                                   "il80_p6": 63200,
+                                   "il80_p7": 67550,
+                                   "il80_p8": 71900
+                            }
+                     }
+              ]
+       }
+}

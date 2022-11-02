@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 745,
+                                   "One-Bedroom": 839,
+                                   "Two-Bedroom": 1060,
+                                   "Three-Bedroom": 1326,
+                                   "Four-Bedroom": 1466,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 850,
+                                   "One-Bedroom": 942,
+                                   "Two-Bedroom": 1192,
+                                   "Three-Bedroom": 1494,
+                                   "Four-Bedroom": 1654,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 864,
+                                   "One-Bedroom": 946,
+                                   "Two-Bedroom": 1202,
+                                   "Three-Bedroom": 1506,
+                                   "Four-Bedroom": 1632,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1013,
+                                   "One-Bedroom": 1100,
+                                   "Two-Bedroom": 1398,
+                                   "Three-Bedroom": 1742,
+                                   "Four-Bedroom": 1894,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1063,
+                                   "One-Bedroom": 1134,
+                                   "Two-Bedroom": 1450,
+                                   "Three-Bedroom": 1804,
+                                   "Four-Bedroom": 1966,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1103,
+                                   "One-Bedroom": 1162,
+                                   "Two-Bedroom": 1491,
+                                   "Three-Bedroom": 1843,
+                                   "Four-Bedroom": 2022,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 85700,
+                            "very_low": {
+                                   "il50_p1": 30000,
+                                   "il50_p2": 34300,
+                                   "il50_p3": 38600,
+                                   "il50_p4": 42850,
+                                   "il50_p5": 46300,
+                                   "il50_p6": 49750,
+                                   "il50_p7": 53150,
+                                   "il50_p8": 56600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18000,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23150,
+                                   "il30_p4": 25700,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 85800,
+                            "very_low": {
+                                   "il50_p1": 30050,
+                                   "il50_p2": 34350,
+                                   "il50_p3": 38650,
+                                   "il50_p4": 42900,
+                                   "il50_p5": 46350,
+                                   "il50_p6": 49800,
+                                   "il50_p7": 53200,
+                                   "il50_p8": 56650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18050,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23200,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 48100,
+                                   "il80_p2": 54950,
+                                   "il80_p3": 61800,
+                                   "il80_p4": 68650,
+                                   "il80_p5": 74150,
+                                   "il80_p6": 79650,
+                                   "il80_p7": 85150,
+                                   "il80_p8": 90650
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 97700,
+                            "very_low": {
+                                   "il50_p1": 33050,
+                                   "il50_p2": 37750,
+                                   "il50_p3": 42450,
+                                   "il50_p4": 47150,
+                                   "il50_p5": 50950,
+                                   "il50_p6": 54700,
+                                   "il50_p7": 58500,
+                                   "il50_p8": 62250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19850,
+                                   "il30_p2": 22650,
+                                   "il30_p3": 25500,
+                                   "il30_p4": 28300,
+                                   "il30_p5": 30600,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75450,
+                                   "il80_p5": 81500,
+                                   "il80_p6": 87550,
+                                   "il80_p7": 93600,
+                                   "il80_p8": 99600
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 98200,
+                            "very_low": {
+                                   "il50_p1": 34400,
+                                   "il50_p2": 39300,
+                                   "il50_p3": 44200,
+                                   "il50_p4": 49100,
+                                   "il50_p5": 53050,
+                                   "il50_p6": 57000,
+                                   "il50_p7": 60900,
+                                   "il50_p8": 64850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20650,
+                                   "il30_p2": 23600,
+                                   "il30_p3": 26550,
+                                   "il30_p4": 29450,
+                                   "il30_p5": 31850,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 98800,
+                            "very_low": {
+                                   "il50_p1": 34600,
+                                   "il50_p2": 39550,
+                                   "il50_p3": 44500,
+                                   "il50_p4": 49400,
+                                   "il50_p5": 53400,
+                                   "il50_p6": 57350,
+                                   "il50_p7": 61300,
+                                   "il50_p8": 65250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20800,
+                                   "il30_p2": 23750,
+                                   "il30_p3": 26700,
+                                   "il30_p4": 29650,
+                                   "il30_p5": 32050,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55350,
+                                   "il80_p2": 63250,
+                                   "il80_p3": 71150,
+                                   "il80_p4": 79050,
+                                   "il80_p5": 85400,
+                                   "il80_p6": 91700,
+                                   "il80_p7": 98050,
+                                   "il80_p8": 104350
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Worcester city",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT",
+                            "area_name": "Worcester, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 114400,
+                            "very_low": {
+                                   "il50_p1": 38700,
+                                   "il50_p2": 44200,
+                                   "il50_p3": 49750,
+                                   "il50_p4": 55250,
+                                   "il50_p5": 59700,
+                                   "il50_p6": 64100,
+                                   "il50_p7": 68550,
+                                   "il50_p8": 72950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23250,
+                                   "il30_p2": 26550,
+                                   "il30_p3": 29850,
+                                   "il30_p4": 33150,
+                                   "il30_p5": 35850,
+                                   "il30_p6": 38500,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 61900,
+                                   "il80_p2": 70750,
+                                   "il80_p3": 79600,
+                                   "il80_p4": 88400,
+                                   "il80_p5": 95500,
+                                   "il80_p6": 102550,
+                                   "il80_p7": 109650,
+                                   "il80_p8": 116700
+                            }
+                     }
+              ]
+       }
+}

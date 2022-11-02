@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 511,
+                                   "One-Bedroom": 592,
+                                   "Two-Bedroom": 683,
+                                   "Three-Bedroom": 934,
+                                   "Four-Bedroom": 1193,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 527,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 957,
+                                   "Four-Bedroom": 1228,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 513,
+                                   "One-Bedroom": 593,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 948,
+                                   "Four-Bedroom": 1180,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 519,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 961,
+                                   "Four-Bedroom": 1192,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 499,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 965,
+                                   "Four-Bedroom": 1223,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 503,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 987,
+                                   "Four-Bedroom": 1261,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "year": "2017",
+                            "median_income": 53900,
+                            "very_low": {
+                                   "il50_p1": 24000,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30850,
+                                   "il50_p4": 34250,
+                                   "il50_p5": 37000,
+                                   "il50_p6": 39750,
+                                   "il50_p7": 42500,
+                                   "il50_p8": 45250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14400,
+                                   "il30_p2": 16450,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38400,
+                                   "il80_p2": 43900,
+                                   "il80_p3": 49400,
+                                   "il80_p4": 54850,
+                                   "il80_p5": 59250,
+                                   "il80_p6": 63650,
+                                   "il80_p7": 68050,
+                                   "il80_p8": 72450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "year": "2018",
+                            "median_income": 55500,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28550,
+                                   "il50_p3": 32100,
+                                   "il50_p4": 35650,
+                                   "il50_p5": 38550,
+                                   "il50_p6": 41400,
+                                   "il50_p7": 44250,
+                                   "il50_p8": 47100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17150,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39950,
+                                   "il80_p2": 45650,
+                                   "il80_p3": 51350,
+                                   "il80_p4": 57050,
+                                   "il80_p5": 61650,
+                                   "il80_p6": 66200,
+                                   "il80_p7": 70750,
+                                   "il80_p8": 75350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "year": "2019",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "year": "2020",
+                            "median_income": 61900,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV MSA",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "year": "2021",
+                            "median_income": 60800,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 36000,
+                                   "il50_p5": 38900,
+                                   "il50_p6": 41800,
+                                   "il50_p7": 44650,
+                                   "il50_p8": 47550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15150,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40350,
+                                   "il80_p2": 46100,
+                                   "il80_p3": 51850,
+                                   "il80_p4": 57600,
+                                   "il80_p5": 62250,
+                                   "il80_p6": 66850,
+                                   "il80_p7": 71450,
+                                   "il80_p8": 76050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Allegany County, MD; Mineral County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cumberland, MD-WV",
+                            "area_name": "Cumberland, MD-WV MSA",
+                            "year": "2022",
+                            "median_income": 71300,
+                            "very_low": {
+                                   "il50_p1": 28200,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36250,
+                                   "il50_p4": 40250,
+                                   "il50_p5": 43500,
+                                   "il50_p6": 46700,
+                                   "il50_p7": 49950,
+                                   "il50_p8": 53150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19350,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45100,
+                                   "il80_p2": 51550,
+                                   "il80_p3": 58000,
+                                   "il80_p4": 64400,
+                                   "il80_p5": 69600,
+                                   "il80_p6": 74750,
+                                   "il80_p7": 79900,
+                                   "il80_p8": 85050
+                            }
+                     }
+              ]
+       }
+}

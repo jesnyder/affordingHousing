@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 514,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 674,
+                                   "Three-Bedroom": 902,
+                                   "Four-Bedroom": 970,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 674,
+                                   "Three-Bedroom": 887,
+                                   "Four-Bedroom": 932,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 491,
+                                   "One-Bedroom": 586,
+                                   "Two-Bedroom": 688,
+                                   "Three-Bedroom": 898,
+                                   "Four-Bedroom": 952,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 496,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 692,
+                                   "Three-Bedroom": 912,
+                                   "Four-Bedroom": 942,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 516,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 679,
+                                   "Three-Bedroom": 889,
+                                   "Four-Bedroom": 966,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 586,
+                                   "One-Bedroom": 621,
+                                   "Two-Bedroom": 721,
+                                   "Three-Bedroom": 941,
+                                   "Four-Bedroom": 1029,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 47200,
+                            "very_low": {
+                                   "il50_p1": 16550,
+                                   "il50_p2": 18900,
+                                   "il50_p3": 21250,
+                                   "il50_p4": 23600,
+                                   "il50_p5": 25500,
+                                   "il50_p6": 27400,
+                                   "il50_p7": 29300,
+                                   "il50_p8": 31200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 23600,
+                                   "il30_p5": 25500,
+                                   "il30_p6": 27400,
+                                   "il30_p7": 29300,
+                                   "il30_p8": 31200
+                            },
+                            "low": {
+                                   "il80_p1": 26450,
+                                   "il80_p2": 30200,
+                                   "il80_p3": 34000,
+                                   "il80_p4": 37750,
+                                   "il80_p5": 40800,
+                                   "il80_p6": 43800,
+                                   "il80_p7": 46850,
+                                   "il80_p8": 49850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 49100,
+                            "very_low": {
+                                   "il50_p1": 17200,
+                                   "il50_p2": 19650,
+                                   "il50_p3": 22100,
+                                   "il50_p4": 24550,
+                                   "il50_p5": 26550,
+                                   "il50_p6": 28500,
+                                   "il50_p7": 30450,
+                                   "il50_p8": 32450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24550,
+                                   "il30_p5": 26550,
+                                   "il30_p6": 28500,
+                                   "il30_p7": 30450,
+                                   "il30_p8": 32450
+                            },
+                            "low": {
+                                   "il80_p1": 27550,
+                                   "il80_p2": 31450,
+                                   "il80_p3": 35400,
+                                   "il80_p4": 39300,
+                                   "il80_p5": 42450,
+                                   "il80_p6": 45600,
+                                   "il80_p7": 48750,
+                                   "il80_p8": 51900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 54600,
+                            "very_low": {
+                                   "il50_p1": 18900,
+                                   "il50_p2": 21600,
+                                   "il50_p3": 24300,
+                                   "il50_p4": 27000,
+                                   "il50_p5": 29200,
+                                   "il50_p6": 31350,
+                                   "il50_p7": 33500,
+                                   "il50_p8": 35650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29200,
+                                   "il30_p6": 31350,
+                                   "il30_p7": 33500,
+                                   "il30_p8": 35650
+                            },
+                            "low": {
+                                   "il80_p1": 30250,
+                                   "il80_p2": 34600,
+                                   "il80_p3": 38900,
+                                   "il80_p4": 43200,
+                                   "il80_p5": 46700,
+                                   "il80_p6": 50150,
+                                   "il80_p7": 53600,
+                                   "il80_p8": 57050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 52300,
+                            "very_low": {
+                                   "il50_p1": 18350,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23600,
+                                   "il50_p4": 26200,
+                                   "il50_p5": 28300,
+                                   "il50_p6": 30400,
+                                   "il50_p7": 32500,
+                                   "il50_p8": 34600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 28300,
+                                   "il30_p6": 30400,
+                                   "il30_p7": 32500,
+                                   "il30_p8": 34600
+                            },
+                            "low": {
+                                   "il80_p1": 29350,
+                                   "il80_p2": 33550,
+                                   "il80_p3": 37750,
+                                   "il80_p4": 41900,
+                                   "il80_p5": 45300,
+                                   "il80_p6": 48650,
+                                   "il80_p7": 52000,
+                                   "il80_p8": 55350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC MSA",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 55800,
+                            "very_low": {
+                                   "il50_p1": 19250,
+                                   "il50_p2": 22000,
+                                   "il50_p3": 24750,
+                                   "il50_p4": 27500,
+                                   "il50_p5": 29700,
+                                   "il50_p6": 31900,
+                                   "il50_p7": 34100,
+                                   "il50_p8": 36300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29700,
+                                   "il30_p6": 31900,
+                                   "il30_p7": 34100,
+                                   "il30_p8": 36300
+                            },
+                            "low": {
+                                   "il80_p1": 30800,
+                                   "il80_p2": 35200,
+                                   "il80_p3": 39600,
+                                   "il80_p4": 43950,
+                                   "il80_p5": 47500,
+                                   "il80_p6": 51000,
+                                   "il80_p7": 54500,
+                                   "il80_p8": 58050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Darlington County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Florence, SC",
+                            "area_name": "Darlington County, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 59500,
+                            "very_low": {
+                                   "il50_p1": 20850,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26800,
+                                   "il50_p4": 29750,
+                                   "il50_p5": 32150,
+                                   "il50_p6": 34550,
+                                   "il50_p7": 36900,
+                                   "il50_p8": 39300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32150,
+                                   "il30_p6": 34550,
+                                   "il30_p7": 36900,
+                                   "il30_p8": 39300
+                            },
+                            "low": {
+                                   "il80_p1": 33350,
+                                   "il80_p2": 38100,
+                                   "il80_p3": 42850,
+                                   "il80_p4": 47600,
+                                   "il80_p5": 51450,
+                                   "il80_p6": 55250,
+                                   "il80_p7": 59050,
+                                   "il80_p8": 62850
+                            }
+                     }
+              ]
+       }
+}

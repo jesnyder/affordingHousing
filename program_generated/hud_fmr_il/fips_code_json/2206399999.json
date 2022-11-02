@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 604,
+                                   "One-Bedroom": 742,
+                                   "Two-Bedroom": 856,
+                                   "Three-Bedroom": 1084,
+                                   "Four-Bedroom": 1360,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 647,
+                                   "One-Bedroom": 789,
+                                   "Two-Bedroom": 906,
+                                   "Three-Bedroom": 1155,
+                                   "Four-Bedroom": 1459,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 719,
+                                   "One-Bedroom": 849,
+                                   "Two-Bedroom": 981,
+                                   "Three-Bedroom": 1259,
+                                   "Four-Bedroom": 1567,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 765,
+                                   "Two-Bedroom": 894,
+                                   "Three-Bedroom": 1145,
+                                   "Four-Bedroom": 1429,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 794,
+                                   "One-Bedroom": 856,
+                                   "Two-Bedroom": 1013,
+                                   "Three-Bedroom": 1290,
+                                   "Four-Bedroom": 1583,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 744,
+                                   "One-Bedroom": 781,
+                                   "Two-Bedroom": 917,
+                                   "Three-Bedroom": 1161,
+                                   "Four-Bedroom": 1447,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 67900,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 33950,
+                                   "il50_p5": 36700,
+                                   "il50_p6": 39400,
+                                   "il50_p7": 42100,
+                                   "il50_p8": 44850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16300,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38050,
+                                   "il80_p2": 43450,
+                                   "il80_p3": 48900,
+                                   "il80_p4": 54300,
+                                   "il80_p5": 58650,
+                                   "il80_p6": 63000,
+                                   "il80_p7": 67350,
+                                   "il80_p8": 71700
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 74800,
+                            "very_low": {
+                                   "il50_p1": 26200,
+                                   "il50_p2": 29950,
+                                   "il50_p3": 33700,
+                                   "il50_p4": 37400,
+                                   "il50_p5": 40400,
+                                   "il50_p6": 43400,
+                                   "il50_p7": 46400,
+                                   "il50_p8": 49400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41900,
+                                   "il80_p2": 47900,
+                                   "il80_p3": 53900,
+                                   "il80_p4": 59850,
+                                   "il80_p5": 64650,
+                                   "il80_p6": 69450,
+                                   "il80_p7": 74250,
+                                   "il80_p8": 79050
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73500,
+                            "very_low": {
+                                   "il50_p1": 25750,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33100,
+                                   "il50_p4": 36750,
+                                   "il50_p5": 39700,
+                                   "il50_p6": 42650,
+                                   "il50_p7": 45600,
+                                   "il50_p8": 48550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15450,
+                                   "il30_p2": 17650,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41200,
+                                   "il80_p2": 47050,
+                                   "il80_p3": 52950,
+                                   "il80_p4": 58800,
+                                   "il80_p5": 63550,
+                                   "il80_p6": 68250,
+                                   "il80_p7": 72950,
+                                   "il80_p8": 77650
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 78500,
+                            "very_low": {
+                                   "il50_p1": 27500,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35350,
+                                   "il50_p4": 39250,
+                                   "il50_p5": 42400,
+                                   "il50_p6": 45550,
+                                   "il50_p7": 48700,
+                                   "il50_p8": 51850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16500,
+                                   "il30_p2": 18850,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44000,
+                                   "il80_p2": 50250,
+                                   "il80_p3": 56550,
+                                   "il80_p4": 62800,
+                                   "il80_p5": 67850,
+                                   "il80_p6": 72850,
+                                   "il80_p7": 77900,
+                                   "il80_p8": 82900
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 79300,
+                            "very_low": {
+                                   "il50_p1": 27800,
+                                   "il50_p2": 31750,
+                                   "il50_p3": 35700,
+                                   "il50_p4": 39650,
+                                   "il50_p5": 42850,
+                                   "il50_p6": 46000,
+                                   "il50_p7": 49200,
+                                   "il50_p8": 52350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19050,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44450,
+                                   "il80_p2": 50800,
+                                   "il80_p3": 57150,
+                                   "il80_p4": 63450,
+                                   "il80_p5": 68550,
+                                   "il80_p6": 73650,
+                                   "il80_p7": 78700,
+                                   "il80_p8": 83800
+                            }
+                     },
+                     {
+                            "county_name": "Livingston Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA",
+                            "area_name": "Baton Rouge, LA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 88900,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35500,
+                                   "il50_p3": 39950,
+                                   "il50_p4": 44350,
+                                   "il50_p5": 47900,
+                                   "il50_p6": 51450,
+                                   "il50_p7": 55000,
+                                   "il50_p8": 58550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49700,
+                                   "il80_p2": 56800,
+                                   "il80_p3": 63900,
+                                   "il80_p4": 70950,
+                                   "il80_p5": 76650,
+                                   "il80_p6": 82350,
+                                   "il80_p7": 88000,
+                                   "il80_p8": 93700
+                            }
+                     }
+              ]
+       }
+}

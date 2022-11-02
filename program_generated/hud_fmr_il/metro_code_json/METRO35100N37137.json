@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 526,
+                                   "Two-Bedroom": 642,
+                                   "Three-Bedroom": 935,
+                                   "Four-Bedroom": 1131,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 581,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 701,
+                                   "Three-Bedroom": 982,
+                                   "Four-Bedroom": 1235,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 725,
+                                   "Three-Bedroom": 958,
+                                   "Four-Bedroom": 1273,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 589,
+                                   "One-Bedroom": 599,
+                                   "Two-Bedroom": 758,
+                                   "Three-Bedroom": 945,
+                                   "Four-Bedroom": 1331,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 628,
+                                   "Two-Bedroom": 795,
+                                   "Three-Bedroom": 989,
+                                   "Four-Bedroom": 1376,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 639,
+                                   "One-Bedroom": 644,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1047,
+                                   "Four-Bedroom": 1450,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 58000,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 29000,
+                                   "il50_p5": 31350,
+                                   "il50_p6": 33650,
+                                   "il50_p7": 36000,
+                                   "il50_p8": 38300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12200,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33650,
+                                   "il30_p7": 36000,
+                                   "il30_p8": 38300
+                            },
+                            "low": {
+                                   "il80_p1": 32500,
+                                   "il80_p2": 37150,
+                                   "il80_p3": 41800,
+                                   "il80_p4": 46400,
+                                   "il80_p5": 50150,
+                                   "il80_p6": 53850,
+                                   "il80_p7": 57550,
+                                   "il80_p8": 61250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34400,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 60400,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27200,
+                                   "il50_p4": 30200,
+                                   "il50_p5": 32650,
+                                   "il50_p6": 35050,
+                                   "il50_p7": 37450,
+                                   "il50_p8": 39900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35050,
+                                   "il30_p7": 37450,
+                                   "il30_p8": 39900
+                            },
+                            "low": {
+                                   "il80_p1": 33850,
+                                   "il80_p2": 38650,
+                                   "il80_p3": 43500,
+                                   "il80_p4": 48300,
+                                   "il80_p5": 52200,
+                                   "il80_p6": 56050,
+                                   "il80_p7": 59900,
+                                   "il80_p8": 63800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC MSA",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 60800,
+                            "very_low": {
+                                   "il50_p1": 21300,
+                                   "il50_p2": 24350,
+                                   "il50_p3": 27400,
+                                   "il50_p4": 30400,
+                                   "il50_p5": 32850,
+                                   "il50_p6": 35300,
+                                   "il50_p7": 37700,
+                                   "il50_p8": 40150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35300,
+                                   "il30_p7": 37700,
+                                   "il30_p8": 40150
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 38950,
+                                   "il80_p3": 43800,
+                                   "il80_p4": 48650,
+                                   "il80_p5": 52550,
+                                   "il80_p6": 56450,
+                                   "il80_p7": 60350,
+                                   "il80_p8": 64250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pamlico County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New Bern, NC",
+                            "area_name": "Pamlico County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 67900,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 33950,
+                                   "il50_p5": 36700,
+                                   "il50_p6": 39400,
+                                   "il50_p7": 42100,
+                                   "il50_p8": 44850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 44850
+                            },
+                            "low": {
+                                   "il80_p1": 38050,
+                                   "il80_p2": 43450,
+                                   "il80_p3": 48900,
+                                   "il80_p4": 54300,
+                                   "il80_p5": 58650,
+                                   "il80_p6": 63000,
+                                   "il80_p7": 67350,
+                                   "il80_p8": 71700
+                            }
+                     }
+              ]
+       }
+}

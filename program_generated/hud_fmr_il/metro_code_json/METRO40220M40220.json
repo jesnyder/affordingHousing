@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke city, VA; Roanoke County, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 572,
+                                   "One-Bedroom": 692,
+                                   "Two-Bedroom": 876,
+                                   "Three-Bedroom": 1196,
+                                   "Four-Bedroom": 1344,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke city, VA; Roanoke County, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 547,
+                                   "One-Bedroom": 667,
+                                   "Two-Bedroom": 846,
+                                   "Three-Bedroom": 1162,
+                                   "Four-Bedroom": 1281,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke city, VA; Roanoke County, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 528,
+                                   "One-Bedroom": 646,
+                                   "Two-Bedroom": 821,
+                                   "Three-Bedroom": 1129,
+                                   "Four-Bedroom": 1231,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke city, VA; Roanoke County, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 555,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 844,
+                                   "Three-Bedroom": 1146,
+                                   "Four-Bedroom": 1261,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke city, VA; Roanoke County, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 641,
+                                   "One-Bedroom": 743,
+                                   "Two-Bedroom": 941,
+                                   "Three-Bedroom": 1268,
+                                   "Four-Bedroom": 1387,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke city, VA; Roanoke County, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 700,
+                                   "Two-Bedroom": 879,
+                                   "Three-Bedroom": 1187,
+                                   "Four-Bedroom": 1316,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke County, VA; Roanoke city, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 66900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 33000,
+                                   "il50_p5": 35650,
+                                   "il50_p6": 38300,
+                                   "il50_p7": 40950,
+                                   "il50_p8": 43600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13900,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37000,
+                                   "il80_p2": 42250,
+                                   "il80_p3": 47550,
+                                   "il80_p4": 52800,
+                                   "il80_p5": 57050,
+                                   "il80_p6": 61250,
+                                   "il80_p7": 65500,
+                                   "il80_p8": 69700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke County, VA; Roanoke city, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 67200,
+                            "very_low": {
+                                   "il50_p1": 23550,
+                                   "il50_p2": 26900,
+                                   "il50_p3": 30250,
+                                   "il50_p4": 33600,
+                                   "il50_p5": 36300,
+                                   "il50_p6": 39000,
+                                   "il50_p7": 41700,
+                                   "il50_p8": 44400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37650,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48400,
+                                   "il80_p4": 53750,
+                                   "il80_p5": 58050,
+                                   "il80_p6": 62350,
+                                   "il80_p7": 66650,
+                                   "il80_p8": 70950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke County, VA; Roanoke city, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73100,
+                            "very_low": {
+                                   "il50_p1": 25600,
+                                   "il50_p2": 29250,
+                                   "il50_p3": 32900,
+                                   "il50_p4": 36550,
+                                   "il50_p5": 39500,
+                                   "il50_p6": 42400,
+                                   "il50_p7": 45350,
+                                   "il50_p8": 48250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40950,
+                                   "il80_p2": 46800,
+                                   "il80_p3": 52650,
+                                   "il80_p4": 58500,
+                                   "il80_p5": 63200,
+                                   "il80_p6": 67900,
+                                   "il80_p7": 72550,
+                                   "il80_p8": 77250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke County, VA; Roanoke city, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 76700,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke County, VA; Roanoke city, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA MSA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 78400,
+                            "very_low": {
+                                   "il50_p1": 27450,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35300,
+                                   "il50_p4": 39200,
+                                   "il50_p5": 42350,
+                                   "il50_p6": 45500,
+                                   "il50_p7": 48650,
+                                   "il50_p8": 51750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43900,
+                                   "il80_p2": 50200,
+                                   "il80_p3": 56450,
+                                   "il80_p4": 62700,
+                                   "il80_p5": 67750,
+                                   "il80_p6": 72750,
+                                   "il80_p7": 77750,
+                                   "il80_p8": 82800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Botetourt County, VA; Craig County, VA; Roanoke County, VA; Roanoke city, VA; and Salem city, VA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Roanoke, VA",
+                            "area_name": "Roanoke, VA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 86300,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34550,
+                                   "il50_p3": 38850,
+                                   "il50_p4": 43150,
+                                   "il50_p5": 46650,
+                                   "il50_p6": 50100,
+                                   "il50_p7": 53550,
+                                   "il50_p8": 57000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48350,
+                                   "il80_p2": 55250,
+                                   "il80_p3": 62150,
+                                   "il80_p4": 69050,
+                                   "il80_p5": 74600,
+                                   "il80_p6": 80100,
+                                   "il80_p7": 85650,
+                                   "il80_p8": 91150
+                            }
+                     }
+              ]
+       }
+}

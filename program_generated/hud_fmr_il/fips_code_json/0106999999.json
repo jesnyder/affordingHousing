@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 508,
+                                   "One-Bedroom": 511,
+                                   "Two-Bedroom": 656,
+                                   "Three-Bedroom": 883,
+                                   "Four-Bedroom": 1042,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 531,
+                                   "One-Bedroom": 535,
+                                   "Two-Bedroom": 695,
+                                   "Three-Bedroom": 934,
+                                   "Four-Bedroom": 1090,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 519,
+                                   "Two-Bedroom": 682,
+                                   "Three-Bedroom": 906,
+                                   "Four-Bedroom": 1047,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 503,
+                                   "One-Bedroom": 506,
+                                   "Two-Bedroom": 666,
+                                   "Three-Bedroom": 875,
+                                   "Four-Bedroom": 995,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 543,
+                                   "One-Bedroom": 547,
+                                   "Two-Bedroom": 706,
+                                   "Three-Bedroom": 923,
+                                   "Four-Bedroom": 1057,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 565,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 929,
+                                   "Four-Bedroom": 1043,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 50700,
+                            "very_low": {
+                                   "il50_p1": 17750,
+                                   "il50_p2": 20300,
+                                   "il50_p3": 22850,
+                                   "il50_p4": 25350,
+                                   "il50_p5": 27400,
+                                   "il50_p6": 29450,
+                                   "il50_p7": 31450,
+                                   "il50_p8": 33500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27400,
+                                   "il30_p6": 29450,
+                                   "il30_p7": 31450,
+                                   "il30_p8": 33500
+                            },
+                            "low": {
+                                   "il80_p1": 28400,
+                                   "il80_p2": 32450,
+                                   "il80_p3": 36500,
+                                   "il80_p4": 40550,
+                                   "il80_p5": 43800,
+                                   "il80_p6": 47050,
+                                   "il80_p7": 50300,
+                                   "il80_p8": 53550
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 52200,
+                            "very_low": {
+                                   "il50_p1": 18300,
+                                   "il50_p2": 20900,
+                                   "il50_p3": 23500,
+                                   "il50_p4": 26100,
+                                   "il50_p5": 28200,
+                                   "il50_p6": 30300,
+                                   "il50_p7": 32400,
+                                   "il50_p8": 34500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28200,
+                                   "il30_p6": 30300,
+                                   "il30_p7": 32400,
+                                   "il30_p8": 34500
+                            },
+                            "low": {
+                                   "il80_p1": 29250,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37600,
+                                   "il80_p4": 41750,
+                                   "il80_p5": 45100,
+                                   "il80_p6": 48450,
+                                   "il80_p7": 51800,
+                                   "il80_p8": 55150
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 57500,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25850,
+                                   "il50_p4": 28700,
+                                   "il50_p5": 31000,
+                                   "il50_p6": 33300,
+                                   "il50_p7": 35600,
+                                   "il50_p8": 37900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33300,
+                                   "il30_p7": 35600,
+                                   "il30_p8": 37900
+                            },
+                            "low": {
+                                   "il80_p1": 32150,
+                                   "il80_p2": 36750,
+                                   "il80_p3": 41350,
+                                   "il80_p4": 45900,
+                                   "il80_p5": 49600,
+                                   "il80_p6": 53250,
+                                   "il80_p7": 56950,
+                                   "il80_p8": 60600
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 61300,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24550,
+                                   "il50_p3": 27600,
+                                   "il50_p4": 30650,
+                                   "il50_p5": 33150,
+                                   "il50_p6": 35600,
+                                   "il50_p7": 38050,
+                                   "il50_p8": 40500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38050,
+                                   "il30_p8": 40500
+                            },
+                            "low": {
+                                   "il80_p1": 34350,
+                                   "il80_p2": 39250,
+                                   "il80_p3": 44150,
+                                   "il80_p4": 49050,
+                                   "il80_p5": 53000,
+                                   "il80_p6": 56900,
+                                   "il80_p7": 60850,
+                                   "il80_p8": 64750
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL MSA",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 63400,
+                            "very_low": {
+                                   "il50_p1": 22200,
+                                   "il50_p2": 25400,
+                                   "il50_p3": 28550,
+                                   "il50_p4": 31700,
+                                   "il50_p5": 34250,
+                                   "il50_p6": 36800,
+                                   "il50_p7": 39350,
+                                   "il50_p8": 41850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39350,
+                                   "il30_p8": 41850
+                            },
+                            "low": {
+                                   "il80_p1": 35500,
+                                   "il80_p2": 40600,
+                                   "il80_p3": 45650,
+                                   "il80_p4": 50700,
+                                   "il80_p5": 54800,
+                                   "il80_p6": 58850,
+                                   "il80_p7": 62900,
+                                   "il80_p8": 66950
+                            }
+                     },
+                     {
+                            "county_name": "Houston County, AL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dothan, AL",
+                            "area_name": "Dothan, AL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 69300,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27750,
+                                   "il50_p3": 31200,
+                                   "il50_p4": 34650,
+                                   "il50_p5": 37450,
+                                   "il50_p6": 40200,
+                                   "il50_p7": 43000,
+                                   "il50_p8": 45750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 45750
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55450,
+                                   "il80_p5": 59900,
+                                   "il80_p6": 64350,
+                                   "il80_p7": 68800,
+                                   "il80_p8": 73200
+                            }
+                     }
+              ]
+       }
+}

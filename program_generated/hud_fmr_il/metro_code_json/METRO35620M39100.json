@@ -1,0 +1,293 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 857,
+                                   "One-Bedroom": 1021,
+                                   "Two-Bedroom": 1269,
+                                   "Three-Bedroom": 1628,
+                                   "Four-Bedroom": 1888,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 916,
+                                   "One-Bedroom": 1057,
+                                   "Two-Bedroom": 1321,
+                                   "Three-Bedroom": 1692,
+                                   "Four-Bedroom": 2000,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 969,
+                                   "One-Bedroom": 1073,
+                                   "Two-Bedroom": 1346,
+                                   "Three-Bedroom": 1721,
+                                   "Four-Bedroom": 2008,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1021,
+                                   "One-Bedroom": 1112,
+                                   "Two-Bedroom": 1397,
+                                   "Three-Bedroom": 1780,
+                                   "Four-Bedroom": 2049,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1088,
+                                   "One-Bedroom": 1160,
+                                   "Two-Bedroom": 1467,
+                                   "Three-Bedroom": 1868,
+                                   "Four-Bedroom": 2097,
+                                   "year": "2021"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 89400,
+                            "very_low": {
+                                   "il50_p1": 31300,
+                                   "il50_p2": 35800,
+                                   "il50_p3": 40250,
+                                   "il50_p4": 44700,
+                                   "il50_p5": 48300,
+                                   "il50_p6": 51900,
+                                   "il50_p7": 55450,
+                                   "il50_p8": 59050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18800,
+                                   "il30_p2": 21450,
+                                   "il30_p3": 24150,
+                                   "il30_p4": 26800,
+                                   "il30_p5": 28950,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 94600,
+                            "very_low": {
+                                   "il50_p1": 33150,
+                                   "il50_p2": 37850,
+                                   "il50_p3": 42600,
+                                   "il50_p4": 47300,
+                                   "il50_p5": 51100,
+                                   "il50_p6": 54900,
+                                   "il50_p7": 58700,
+                                   "il50_p8": 62450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19900,
+                                   "il30_p2": 22750,
+                                   "il30_p3": 25600,
+                                   "il30_p4": 28400,
+                                   "il30_p5": 30700,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 96600,
+                            "very_low": {
+                                   "il50_p1": 33850,
+                                   "il50_p2": 38650,
+                                   "il50_p3": 43500,
+                                   "il50_p4": 48300,
+                                   "il50_p5": 52200,
+                                   "il50_p6": 56050,
+                                   "il50_p7": 59900,
+                                   "il50_p8": 63800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20300,
+                                   "il30_p2": 23200,
+                                   "il30_p3": 26100,
+                                   "il30_p4": 29000,
+                                   "il30_p5": 31350,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 102300,
+                            "very_low": {
+                                   "il50_p1": 35850,
+                                   "il50_p2": 40950,
+                                   "il50_p3": 46050,
+                                   "il50_p4": 51150,
+                                   "il50_p5": 55250,
+                                   "il50_p6": 59350,
+                                   "il50_p7": 63450,
+                                   "il50_p8": 67550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21500,
+                                   "il30_p2": 24600,
+                                   "il30_p3": 27650,
+                                   "il30_p4": 30700,
+                                   "il30_p5": 33200,
+                                   "il30_p6": 35650,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Dutchess County, NY; Orange County, NY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Poughkeepsie-Newburgh-Middletown, NY HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 100500,
+                            "very_low": {
+                                   "il50_p1": 35200,
+                                   "il50_p2": 40200,
+                                   "il50_p3": 45250,
+                                   "il50_p4": 50250,
+                                   "il50_p5": 54300,
+                                   "il50_p6": 58300,
+                                   "il50_p7": 62350,
+                                   "il50_p8": 66350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21150,
+                                   "il30_p2": 24150,
+                                   "il30_p3": 27150,
+                                   "il30_p4": 30150,
+                                   "il30_p5": 32600,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     }
+              ]
+       }
+}

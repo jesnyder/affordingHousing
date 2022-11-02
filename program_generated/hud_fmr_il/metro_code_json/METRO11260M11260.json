@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 888,
+                                   "One-Bedroom": 1018,
+                                   "Two-Bedroom": 1293,
+                                   "Three-Bedroom": 1882,
+                                   "Four-Bedroom": 2278,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 923,
+                                   "One-Bedroom": 1035,
+                                   "Two-Bedroom": 1337,
+                                   "Three-Bedroom": 1945,
+                                   "Four-Bedroom": 2355,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 931,
+                                   "One-Bedroom": 1005,
+                                   "Two-Bedroom": 1313,
+                                   "Three-Bedroom": 1898,
+                                   "Four-Bedroom": 2306,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 935,
+                                   "One-Bedroom": 991,
+                                   "Two-Bedroom": 1305,
+                                   "Three-Bedroom": 1883,
+                                   "Four-Bedroom": 2291,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 877,
+                                   "One-Bedroom": 926,
+                                   "Two-Bedroom": 1220,
+                                   "Three-Bedroom": 1746,
+                                   "Four-Bedroom": 2112,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 877,
+                                   "One-Bedroom": 948,
+                                   "Two-Bedroom": 1248,
+                                   "Three-Bedroom": 1773,
+                                   "Four-Bedroom": 2136,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 89000,
+                            "very_low": {
+                                   "il50_p1": 31150,
+                                   "il50_p2": 35600,
+                                   "il50_p3": 40050,
+                                   "il50_p4": 44500,
+                                   "il50_p5": 48100,
+                                   "il50_p6": 51650,
+                                   "il50_p7": 55200,
+                                   "il50_p8": 58750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18700,
+                                   "il30_p2": 21400,
+                                   "il30_p3": 25520,
+                                   "il30_p4": 30750,
+                                   "il30_p5": 35980,
+                                   "il30_p6": 41210,
+                                   "il30_p7": 46440,
+                                   "il30_p8": 51670
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 99500,
+                            "very_low": {
+                                   "il50_p1": 34750,
+                                   "il50_p2": 39700,
+                                   "il50_p3": 44650,
+                                   "il50_p4": 49600,
+                                   "il50_p5": 53600,
+                                   "il50_p6": 57550,
+                                   "il50_p7": 61550,
+                                   "il50_p8": 65500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20850,
+                                   "il30_p2": 23800,
+                                   "il30_p3": 26800,
+                                   "il30_p4": 31380,
+                                   "il30_p5": 36780,
+                                   "il30_p6": 42180,
+                                   "il30_p7": 47580,
+                                   "il30_p8": 52980
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 104900,
+                            "very_low": {
+                                   "il50_p1": 36750,
+                                   "il50_p2": 42000,
+                                   "il50_p3": 47250,
+                                   "il50_p4": 52450,
+                                   "il50_p5": 56650,
+                                   "il50_p6": 60850,
+                                   "il50_p7": 65050,
+                                   "il50_p8": 69250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22050,
+                                   "il30_p2": 25200,
+                                   "il30_p3": 28350,
+                                   "il30_p4": 32190,
+                                   "il30_p5": 37720,
+                                   "il30_p6": 43250,
+                                   "il30_p7": 48780,
+                                   "il30_p8": 54310
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 97300,
+                            "very_low": {
+                                   "il50_p1": 34900,
+                                   "il50_p2": 39900,
+                                   "il50_p3": 44900,
+                                   "il50_p4": 49850,
+                                   "il50_p5": 53850,
+                                   "il50_p6": 57850,
+                                   "il50_p7": 61850,
+                                   "il50_p8": 65850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20950,
+                                   "il30_p2": 23950,
+                                   "il30_p3": 27150,
+                                   "il30_p4": 32750,
+                                   "il30_p5": 38350,
+                                   "il30_p6": 43950,
+                                   "il30_p7": 49550,
+                                   "il30_p8": 55150
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK MSA",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 104300,
+                            "very_low": {
+                                   "il50_p1": 36550,
+                                   "il50_p2": 41750,
+                                   "il50_p3": 46950,
+                                   "il50_p4": 52150,
+                                   "il50_p5": 56350,
+                                   "il50_p6": 60500,
+                                   "il50_p7": 64700,
+                                   "il50_p8": 68850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21950,
+                                   "il30_p2": 25050,
+                                   "il30_p3": 28200,
+                                   "il30_p4": 33130,
+                                   "il30_p5": 38810,
+                                   "il30_p6": 44490,
+                                   "il30_p7": 50170,
+                                   "il30_p8": 55850
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Anchorage Municipality, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Anchorage, AK",
+                            "area_name": "Anchorage, AK HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 116300,
+                            "very_low": {
+                                   "il50_p1": 40750,
+                                   "il50_p2": 46550,
+                                   "il50_p3": 52350,
+                                   "il50_p4": 58150,
+                                   "il50_p5": 62850,
+                                   "il50_p6": 67500,
+                                   "il50_p7": 72150,
+                                   "il50_p8": 76800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24450,
+                                   "il30_p2": 27950,
+                                   "il30_p3": 31450,
+                                   "il30_p4": 34900,
+                                   "il30_p5": 40590,
+                                   "il30_p6": 46490,
+                                   "il30_p7": 52390,
+                                   "il30_p8": 58290
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

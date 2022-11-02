@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 436,
+                                   "One-Bedroom": 560,
+                                   "Two-Bedroom": 646,
+                                   "Three-Bedroom": 934,
+                                   "Four-Bedroom": 995,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 484,
+                                   "One-Bedroom": 592,
+                                   "Two-Bedroom": 680,
+                                   "Three-Bedroom": 984,
+                                   "Four-Bedroom": 987,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 668,
+                                   "Three-Bedroom": 940,
+                                   "Four-Bedroom": 943,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 615,
+                                   "Two-Bedroom": 710,
+                                   "Three-Bedroom": 959,
+                                   "Four-Bedroom": 963,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 639,
+                                   "Two-Bedroom": 728,
+                                   "Three-Bedroom": 983,
+                                   "Four-Bedroom": 987,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 542,
+                                   "One-Bedroom": 641,
+                                   "Two-Bedroom": 730,
+                                   "Three-Bedroom": 955,
+                                   "Four-Bedroom": 990,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 20700,
+                                   "il50_p2": 23650,
+                                   "il50_p3": 26600,
+                                   "il50_p4": 29550,
+                                   "il50_p5": 31950,
+                                   "il50_p6": 34300,
+                                   "il50_p7": 36650,
+                                   "il50_p8": 39050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36650,
+                                   "il30_p8": 39050
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37850,
+                                   "il80_p3": 42600,
+                                   "il80_p4": 47300,
+                                   "il80_p5": 51100,
+                                   "il80_p6": 54900,
+                                   "il80_p7": 58700,
+                                   "il80_p8": 62450
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60300,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24150,
+                                   "il50_p3": 27150,
+                                   "il50_p4": 30150,
+                                   "il50_p5": 32600,
+                                   "il50_p6": 35000,
+                                   "il50_p7": 37400,
+                                   "il50_p8": 39800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37400,
+                                   "il30_p8": 39800
+                            },
+                            "low": {
+                                   "il80_p1": 33800,
+                                   "il80_p2": 38600,
+                                   "il80_p3": 43450,
+                                   "il80_p4": 48250,
+                                   "il80_p5": 52150,
+                                   "il80_p6": 56000,
+                                   "il80_p7": 59850,
+                                   "il80_p8": 63700
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 62000,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38450,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 62800,
+                            "very_low": {
+                                   "il50_p1": 22000,
+                                   "il50_p2": 25150,
+                                   "il50_p3": 28300,
+                                   "il50_p4": 31400,
+                                   "il50_p5": 33950,
+                                   "il50_p6": 36450,
+                                   "il50_p7": 38950,
+                                   "il50_p8": 41450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38950,
+                                   "il30_p8": 41450
+                            },
+                            "low": {
+                                   "il80_p1": 35200,
+                                   "il80_p2": 40200,
+                                   "il80_p3": 45250,
+                                   "il80_p4": 50250,
+                                   "il80_p5": 54300,
+                                   "il80_p6": 58300,
+                                   "il80_p7": 62350,
+                                   "il80_p8": 66350
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 65000,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 42900
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "Vermilion Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA",
+                            "area_name": "Vermilion Parish, LA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 70500,
+                            "very_low": {
+                                   "il50_p1": 24700,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31750,
+                                   "il50_p4": 35250,
+                                   "il50_p5": 38100,
+                                   "il50_p6": 40900,
+                                   "il50_p7": 43750,
+                                   "il50_p8": 46550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46550
+                            },
+                            "low": {
+                                   "il80_p1": 39500,
+                                   "il80_p2": 45150,
+                                   "il80_p3": 50800,
+                                   "il80_p4": 56400,
+                                   "il80_p5": 60950,
+                                   "il80_p6": 65450,
+                                   "il80_p7": 69950,
+                                   "il80_p8": 74450
+                            }
+                     }
+              ]
+       }
+}

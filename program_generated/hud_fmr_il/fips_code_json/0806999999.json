@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 719,
+                                   "One-Bedroom": 817,
+                                   "Two-Bedroom": 996,
+                                   "Three-Bedroom": 1450,
+                                   "Four-Bedroom": 1755,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 782,
+                                   "One-Bedroom": 905,
+                                   "Two-Bedroom": 1106,
+                                   "Three-Bedroom": 1609,
+                                   "Four-Bedroom": 1948,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 892,
+                                   "One-Bedroom": 1025,
+                                   "Two-Bedroom": 1253,
+                                   "Three-Bedroom": 1812,
+                                   "Four-Bedroom": 2201,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 906,
+                                   "One-Bedroom": 1014,
+                                   "Two-Bedroom": 1244,
+                                   "Three-Bedroom": 1795,
+                                   "Four-Bedroom": 2184,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1004,
+                                   "One-Bedroom": 1096,
+                                   "Two-Bedroom": 1351,
+                                   "Three-Bedroom": 1933,
+                                   "Four-Bedroom": 2339,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO",
+                            "area_name": "Fort Collins, CO MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1084,
+                                   "One-Bedroom": 1143,
+                                   "Two-Bedroom": 1421,
+                                   "Three-Bedroom": 2019,
+                                   "Four-Bedroom": 2419,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "year": "2017",
+                            "median_income": 76800,
+                            "very_low": {
+                                   "il50_p1": 26900,
+                                   "il50_p2": 30750,
+                                   "il50_p3": 34600,
+                                   "il50_p4": 38400,
+                                   "il50_p5": 41500,
+                                   "il50_p6": 44550,
+                                   "il50_p7": 47650,
+                                   "il50_p8": 50700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 20750,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61450,
+                                   "il80_p5": 66400,
+                                   "il80_p6": 71300,
+                                   "il80_p7": 76200,
+                                   "il80_p8": 81150
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "year": "2018",
+                            "median_income": 85100,
+                            "very_low": {
+                                   "il50_p1": 29800,
+                                   "il50_p2": 34050,
+                                   "il50_p3": 38300,
+                                   "il50_p4": 42550,
+                                   "il50_p5": 46000,
+                                   "il50_p6": 49400,
+                                   "il50_p7": 52800,
+                                   "il50_p8": 56200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17900,
+                                   "il30_p2": 20450,
+                                   "il30_p3": 23000,
+                                   "il30_p4": 25550,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 47700,
+                                   "il80_p2": 54500,
+                                   "il80_p3": 61300,
+                                   "il80_p4": 68100,
+                                   "il80_p5": 73550,
+                                   "il80_p6": 79000,
+                                   "il80_p7": 84450,
+                                   "il80_p8": 89900
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "year": "2019",
+                            "median_income": 87200,
+                            "very_low": {
+                                   "il50_p1": 30550,
+                                   "il50_p2": 34900,
+                                   "il50_p3": 39250,
+                                   "il50_p4": 43600,
+                                   "il50_p5": 47100,
+                                   "il50_p6": 50600,
+                                   "il50_p7": 54100,
+                                   "il50_p8": 57600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 20950,
+                                   "il30_p3": 23550,
+                                   "il30_p4": 26150,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 48850,
+                                   "il80_p2": 55800,
+                                   "il80_p3": 62800,
+                                   "il80_p4": 69750,
+                                   "il80_p5": 75350,
+                                   "il80_p6": 80950,
+                                   "il80_p7": 86500,
+                                   "il80_p8": 92100
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "year": "2020",
+                            "median_income": 99400,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 52700,
+                                   "il80_p2": 60200,
+                                   "il80_p3": 67750,
+                                   "il80_p4": 75250,
+                                   "il80_p5": 81300,
+                                   "il80_p6": 87300,
+                                   "il80_p7": 93350,
+                                   "il80_p8": 99350
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO MSA",
+                            "area_name": "Fort Collins, CO MSA",
+                            "year": "2021",
+                            "median_income": 95900,
+                            "very_low": {
+                                   "il50_p1": 33600,
+                                   "il50_p2": 38400,
+                                   "il50_p3": 43200,
+                                   "il50_p4": 47950,
+                                   "il50_p5": 51800,
+                                   "il50_p6": 55650,
+                                   "il50_p7": 59500,
+                                   "il50_p8": 63300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20150,
+                                   "il30_p2": 23000,
+                                   "il30_p3": 25900,
+                                   "il30_p4": 28750,
+                                   "il30_p5": 31050,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 53700,
+                                   "il80_p2": 61400,
+                                   "il80_p3": 69050,
+                                   "il80_p4": 76700,
+                                   "il80_p5": 82850,
+                                   "il80_p6": 89000,
+                                   "il80_p7": 95150,
+                                   "il80_p8": 101250
+                            }
+                     },
+                     {
+                            "county_name": "Larimer County, CO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fort Collins, CO",
+                            "area_name": "Fort Collins, CO MSA",
+                            "year": "2022",
+                            "median_income": 111300,
+                            "very_low": {
+                                   "il50_p1": 37600,
+                                   "il50_p2": 42950,
+                                   "il50_p3": 48300,
+                                   "il50_p4": 53650,
+                                   "il50_p5": 57950,
+                                   "il50_p6": 62250,
+                                   "il50_p7": 66550,
+                                   "il50_p8": 70850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22550,
+                                   "il30_p2": 25800,
+                                   "il30_p3": 29000,
+                                   "il30_p4": 32200,
+                                   "il30_p5": 34800,
+                                   "il30_p6": 37400,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 60100,
+                                   "il80_p2": 68650,
+                                   "il80_p3": 77250,
+                                   "il80_p4": 85800,
+                                   "il80_p5": 92700,
+                                   "il80_p6": 99550,
+                                   "il80_p7": 106400,
+                                   "il80_p8": 113300
+                            }
+                     }
+              ]
+       }
+}

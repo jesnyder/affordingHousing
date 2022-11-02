@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 492,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 775,
+                                   "Three-Bedroom": 1005,
+                                   "Four-Bedroom": 1186,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 467,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 732,
+                                   "Three-Bedroom": 954,
+                                   "Four-Bedroom": 1109,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 508,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 788,
+                                   "Three-Bedroom": 1023,
+                                   "Four-Bedroom": 1156,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 543,
+                                   "One-Bedroom": 624,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1144,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 804,
+                                   "Three-Bedroom": 1038,
+                                   "Four-Bedroom": 1104,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 559,
+                                   "One-Bedroom": 613,
+                                   "Two-Bedroom": 796,
+                                   "Three-Bedroom": 1017,
+                                   "Four-Bedroom": 1079,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 58600,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23450,
+                                   "il50_p3": 26400,
+                                   "il50_p4": 29300,
+                                   "il50_p5": 31650,
+                                   "il50_p6": 34000,
+                                   "il50_p7": 36350,
+                                   "il50_p8": 38700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12350,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36350,
+                                   "il30_p8": 38700
+                            },
+                            "low": {
+                                   "il80_p1": 32850,
+                                   "il80_p2": 37550,
+                                   "il80_p3": 42250,
+                                   "il80_p4": 46900,
+                                   "il80_p5": 50700,
+                                   "il80_p6": 54450,
+                                   "il80_p7": 58200,
+                                   "il80_p8": 61950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 57800,
+                            "very_low": {
+                                   "il50_p1": 21350,
+                                   "il50_p2": 24400,
+                                   "il50_p3": 27450,
+                                   "il50_p4": 30500,
+                                   "il50_p5": 32950,
+                                   "il50_p6": 35400,
+                                   "il50_p7": 37850,
+                                   "il50_p8": 40300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37850,
+                                   "il30_p8": 40300
+                            },
+                            "low": {
+                                   "il80_p1": 34200,
+                                   "il80_p2": 39050,
+                                   "il80_p3": 43950,
+                                   "il80_p4": 48800,
+                                   "il80_p5": 52750,
+                                   "il80_p6": 56650,
+                                   "il80_p7": 60550,
+                                   "il80_p8": 64450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 61500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 58000,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 62900,
+                            "very_low": {
+                                   "il50_p1": 23400,
+                                   "il50_p2": 26750,
+                                   "il50_p3": 30100,
+                                   "il50_p4": 33400,
+                                   "il50_p5": 36100,
+                                   "il50_p6": 38750,
+                                   "il50_p7": 41450,
+                                   "il50_p8": 44100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14050,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44100
+                            },
+                            "low": {
+                                   "il80_p1": 37450,
+                                   "il80_p2": 42800,
+                                   "il80_p3": 48150,
+                                   "il80_p4": 53450,
+                                   "il80_p5": 57750,
+                                   "il80_p6": 62050,
+                                   "il80_p7": 66300,
+                                   "il80_p8": 70600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Madison County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN",
+                            "area_name": "Anderson, IN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 75300,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41850,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53800,
+                                   "il80_p4": 59750,
+                                   "il80_p5": 64550,
+                                   "il80_p6": 69350,
+                                   "il80_p7": 74100,
+                                   "il80_p8": 78900
+                            }
+                     }
+              ]
+       }
+}

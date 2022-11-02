@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 608,
+                                   "Two-Bedroom": 808,
+                                   "Three-Bedroom": 1099,
+                                   "Four-Bedroom": 1264,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 695,
+                                   "Two-Bedroom": 924,
+                                   "Three-Bedroom": 1258,
+                                   "Four-Bedroom": 1332,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 667,
+                                   "One-Bedroom": 742,
+                                   "Two-Bedroom": 981,
+                                   "Three-Bedroom": 1326,
+                                   "Four-Bedroom": 1405,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 710,
+                                   "One-Bedroom": 800,
+                                   "Two-Bedroom": 1054,
+                                   "Three-Bedroom": 1435,
+                                   "Four-Bedroom": 1556,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 734,
+                                   "One-Bedroom": 866,
+                                   "Two-Bedroom": 1107,
+                                   "Three-Bedroom": 1511,
+                                   "Four-Bedroom": 1735,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 748,
+                                   "One-Bedroom": 917,
+                                   "Two-Bedroom": 1126,
+                                   "Three-Bedroom": 1546,
+                                   "Four-Bedroom": 1791,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "year": "2017",
+                            "median_income": 62800,
+                            "very_low": {
+                                   "il50_p1": 22000,
+                                   "il50_p2": 25150,
+                                   "il50_p3": 28300,
+                                   "il50_p4": 31400,
+                                   "il50_p5": 33950,
+                                   "il50_p6": 36450,
+                                   "il50_p7": 38950,
+                                   "il50_p8": 41450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35200,
+                                   "il80_p2": 40200,
+                                   "il80_p3": 45250,
+                                   "il80_p4": 50250,
+                                   "il80_p5": 54300,
+                                   "il80_p6": 58300,
+                                   "il80_p7": 62350,
+                                   "il80_p8": 66350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "year": "2018",
+                            "median_income": 67100,
+                            "very_low": {
+                                   "il50_p1": 23500,
+                                   "il50_p2": 26850,
+                                   "il50_p3": 30200,
+                                   "il50_p4": 33550,
+                                   "il50_p5": 36250,
+                                   "il50_p6": 38950,
+                                   "il50_p7": 41650,
+                                   "il50_p8": 44300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37600,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48350,
+                                   "il80_p4": 53700,
+                                   "il80_p5": 58000,
+                                   "il80_p6": 62300,
+                                   "il80_p7": 66600,
+                                   "il80_p8": 70900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "year": "2019",
+                            "median_income": 68400,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "year": "2020",
+                            "median_income": 69400,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31250,
+                                   "il50_p4": 34700,
+                                   "il50_p5": 37500,
+                                   "il50_p6": 40300,
+                                   "il50_p7": 43050,
+                                   "il50_p8": 45850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55500,
+                                   "il80_p5": 59950,
+                                   "il80_p6": 64400,
+                                   "il80_p7": 68850,
+                                   "il80_p8": 73300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA MSA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "year": "2021",
+                            "median_income": 70900,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28550,
+                                   "il50_p3": 32100,
+                                   "il50_p4": 35650,
+                                   "il50_p5": 38550,
+                                   "il50_p6": 41400,
+                                   "il50_p7": 44250,
+                                   "il50_p8": 47100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39950,
+                                   "il80_p2": 45650,
+                                   "il80_p3": 51350,
+                                   "il80_p4": 57050,
+                                   "il80_p5": 61650,
+                                   "il80_p6": 66200,
+                                   "il80_p7": 70750,
+                                   "il80_p8": 75350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Chelan County, WA; Douglas County, WA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wenatchee, WA",
+                            "area_name": "Wenatchee, WA MSA",
+                            "year": "2022",
+                            "median_income": 78800,
+                            "very_low": {
+                                   "il50_p1": 27900,
+                                   "il50_p2": 31850,
+                                   "il50_p3": 35850,
+                                   "il50_p4": 39800,
+                                   "il50_p5": 43000,
+                                   "il50_p6": 46200,
+                                   "il50_p7": 49400,
+                                   "il50_p8": 52550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16750,
+                                   "il30_p2": 19150,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44600,
+                                   "il80_p2": 51000,
+                                   "il80_p3": 57350,
+                                   "il80_p4": 63700,
+                                   "il80_p5": 68800,
+                                   "il80_p6": 73900,
+                                   "il80_p7": 79000,
+                                   "il80_p8": 84100
+                            }
+                     }
+              ]
+       }
+}

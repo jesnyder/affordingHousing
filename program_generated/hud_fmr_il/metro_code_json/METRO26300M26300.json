@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 576,
+                                   "Two-Bedroom": 765,
+                                   "Three-Bedroom": 963,
+                                   "Four-Bedroom": 1150,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 531,
+                                   "One-Bedroom": 580,
+                                   "Two-Bedroom": 771,
+                                   "Three-Bedroom": 967,
+                                   "Four-Bedroom": 1123,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 551,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 776,
+                                   "Three-Bedroom": 972,
+                                   "Four-Bedroom": 1154,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 554,
+                                   "One-Bedroom": 586,
+                                   "Two-Bedroom": 772,
+                                   "Three-Bedroom": 971,
+                                   "Four-Bedroom": 1202,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 569,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 799,
+                                   "Three-Bedroom": 1005,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR",
+                            "area_name": "Hot Springs, AR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 589,
+                                   "One-Bedroom": 613,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1006,
+                                   "Four-Bedroom": 1352,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "year": "2017",
+                            "median_income": 54400,
+                            "very_low": {
+                                   "il50_p1": 19050,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24500,
+                                   "il50_p4": 27200,
+                                   "il50_p5": 29400,
+                                   "il50_p6": 31600,
+                                   "il50_p7": 33750,
+                                   "il50_p8": 35950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31600,
+                                   "il30_p7": 33750,
+                                   "il30_p8": 35950
+                            },
+                            "low": {
+                                   "il80_p1": 30450,
+                                   "il80_p2": 34800,
+                                   "il80_p3": 39150,
+                                   "il80_p4": 43500,
+                                   "il80_p5": 47000,
+                                   "il80_p6": 50500,
+                                   "il80_p7": 53950,
+                                   "il80_p8": 57450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "year": "2018",
+                            "median_income": 52700,
+                            "very_low": {
+                                   "il50_p1": 18450,
+                                   "il50_p2": 21100,
+                                   "il50_p3": 23750,
+                                   "il50_p4": 26350,
+                                   "il50_p5": 28500,
+                                   "il50_p6": 30600,
+                                   "il50_p7": 32700,
+                                   "il50_p8": 34800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28500,
+                                   "il30_p6": 30600,
+                                   "il30_p7": 32700,
+                                   "il30_p8": 34800
+                            },
+                            "low": {
+                                   "il80_p1": 29550,
+                                   "il80_p2": 33750,
+                                   "il80_p3": 37950,
+                                   "il80_p4": 42150,
+                                   "il80_p5": 45550,
+                                   "il80_p6": 48900,
+                                   "il80_p7": 52300,
+                                   "il80_p8": 55650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "year": "2019",
+                            "median_income": 60000,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 28950,
+                                   "il50_p5": 31300,
+                                   "il50_p6": 33600,
+                                   "il50_p7": 35900,
+                                   "il50_p8": 38250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33600,
+                                   "il30_p7": 35900,
+                                   "il30_p8": 38250
+                            },
+                            "low": {
+                                   "il80_p1": 32450,
+                                   "il80_p2": 37050,
+                                   "il80_p3": 41700,
+                                   "il80_p4": 46300,
+                                   "il80_p5": 50050,
+                                   "il80_p6": 53750,
+                                   "il80_p7": 57450,
+                                   "il80_p8": 61150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "year": "2020",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38750,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 49950,
+                                   "il80_p5": 53950,
+                                   "il80_p6": 57950,
+                                   "il80_p7": 61950,
+                                   "il80_p8": 65950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR MSA",
+                            "area_name": "Hot Springs, AR MSA",
+                            "year": "2021",
+                            "median_income": 61900,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 30950,
+                                   "il50_p5": 33450,
+                                   "il50_p6": 35950,
+                                   "il50_p7": 38400,
+                                   "il50_p8": 40900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 38400,
+                                   "il30_p8": 40900
+                            },
+                            "low": {
+                                   "il80_p1": 34650,
+                                   "il80_p2": 39600,
+                                   "il80_p3": 44550,
+                                   "il80_p4": 49500,
+                                   "il80_p5": 53500,
+                                   "il80_p6": 57450,
+                                   "il80_p7": 61400,
+                                   "il80_p8": 65350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Garland County, AR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hot Springs, AR",
+                            "area_name": "Hot Springs, AR MSA",
+                            "year": "2022",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35100,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     }
+              ]
+       }
+}

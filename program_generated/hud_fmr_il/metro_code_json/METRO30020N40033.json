@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 512,
+                                   "One-Bedroom": 589,
+                                   "Two-Bedroom": 679,
+                                   "Three-Bedroom": 850,
+                                   "Four-Bedroom": 1034,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 523,
+                                   "One-Bedroom": 607,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 931,
+                                   "Four-Bedroom": 1063,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 519,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 958,
+                                   "Four-Bedroom": 1120,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 511,
+                                   "One-Bedroom": 603,
+                                   "Two-Bedroom": 686,
+                                   "Three-Bedroom": 953,
+                                   "Four-Bedroom": 1112,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 548,
+                                   "One-Bedroom": 562,
+                                   "Two-Bedroom": 728,
+                                   "Three-Bedroom": 984,
+                                   "Four-Bedroom": 1001,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 571,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 996,
+                                   "Four-Bedroom": 1004,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 20700,
+                                   "il50_p2": 23650,
+                                   "il50_p3": 26600,
+                                   "il50_p4": 29550,
+                                   "il50_p5": 31950,
+                                   "il50_p6": 34300,
+                                   "il50_p7": 36650,
+                                   "il50_p8": 39050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36650,
+                                   "il30_p8": 39050
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37850,
+                                   "il80_p3": 42600,
+                                   "il80_p4": 47300,
+                                   "il80_p5": 51100,
+                                   "il80_p6": 54900,
+                                   "il80_p7": 58700,
+                                   "il80_p8": 62450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60300,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24150,
+                                   "il50_p3": 27150,
+                                   "il50_p4": 30150,
+                                   "il50_p5": 32600,
+                                   "il50_p6": 35000,
+                                   "il50_p7": 37400,
+                                   "il50_p8": 39800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37400,
+                                   "il30_p8": 39800
+                            },
+                            "low": {
+                                   "il80_p1": 33800,
+                                   "il80_p2": 38600,
+                                   "il80_p3": 43450,
+                                   "il80_p4": 48250,
+                                   "il80_p5": 52150,
+                                   "il80_p6": 56000,
+                                   "il80_p7": 59850,
+                                   "il80_p8": 63700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 61600,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24650,
+                                   "il50_p3": 27750,
+                                   "il50_p4": 30800,
+                                   "il50_p5": 33300,
+                                   "il50_p6": 35750,
+                                   "il50_p7": 38200,
+                                   "il50_p8": 40700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38200,
+                                   "il30_p8": 40700
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39450,
+                                   "il80_p3": 44400,
+                                   "il80_p4": 49300,
+                                   "il80_p5": 53250,
+                                   "il80_p6": 57200,
+                                   "il80_p7": 61150,
+                                   "il80_p8": 65100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 60200,
+                            "very_low": {
+                                   "il50_p1": 21100,
+                                   "il50_p2": 24100,
+                                   "il50_p3": 27100,
+                                   "il50_p4": 30100,
+                                   "il50_p5": 32550,
+                                   "il50_p6": 34950,
+                                   "il50_p7": 37350,
+                                   "il50_p8": 39750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 37350,
+                                   "il30_p8": 39750
+                            },
+                            "low": {
+                                   "il80_p1": 33750,
+                                   "il80_p2": 38550,
+                                   "il80_p3": 43350,
+                                   "il80_p4": 48150,
+                                   "il80_p5": 52050,
+                                   "il80_p6": 55900,
+                                   "il80_p7": 59750,
+                                   "il80_p8": 63600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK MSA",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 60600,
+                            "very_low": {
+                                   "il50_p1": 21250,
+                                   "il50_p2": 24250,
+                                   "il50_p3": 27300,
+                                   "il50_p4": 30300,
+                                   "il50_p5": 32750,
+                                   "il50_p6": 35150,
+                                   "il50_p7": 37600,
+                                   "il50_p8": 40000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35150,
+                                   "il30_p7": 37600,
+                                   "il30_p8": 40000
+                            },
+                            "low": {
+                                   "il80_p1": 33950,
+                                   "il80_p2": 38800,
+                                   "il80_p3": 43650,
+                                   "il80_p4": 48500,
+                                   "il80_p5": 52400,
+                                   "il80_p6": 56300,
+                                   "il80_p7": 60150,
+                                   "il80_p8": 64050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Cotton County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lawton, OK",
+                            "area_name": "Cotton County, OK HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 65400,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29450,
+                                   "il50_p4": 32700,
+                                   "il50_p5": 35350,
+                                   "il50_p6": 37950,
+                                   "il50_p7": 40550,
+                                   "il50_p8": 43200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40550,
+                                   "il30_p8": 43200
+                            },
+                            "low": {
+                                   "il80_p1": 36650,
+                                   "il80_p2": 41850,
+                                   "il80_p3": 47100,
+                                   "il80_p4": 52300,
+                                   "il80_p5": 56500,
+                                   "il80_p6": 60700,
+                                   "il80_p7": 64900,
+                                   "il80_p8": 69050
+                            }
+                     }
+              ]
+       }
+}

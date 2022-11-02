@@ -1,0 +1,770 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "year": "2017",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Dover, DE MSA",
+                                          "code": "METRO20100M20100",
+                                          "Efficiency": 832,
+                                          "One-Bedroom": 899,
+                                          "Two-Bedroom": 1037,
+                                          "Three-Bedroom": 1510,
+                                          "Four-Bedroom": 1827,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "code": "METRO37980M37980",
+                                          "Efficiency": 845,
+                                          "One-Bedroom": 1003,
+                                          "Two-Bedroom": 1211,
+                                          "Three-Bedroom": 1515,
+                                          "Four-Bedroom": 1686,
+                                          "FMR Percentile": 50,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "code": "METRO41540N10005",
+                                          "Efficiency": 618,
+                                          "One-Bedroom": 688,
+                                          "Two-Bedroom": 915,
+                                          "Three-Bedroom": 1304,
+                                          "Four-Bedroom": 1477,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kent County",
+                                          "metro_name": "Dover, DE MSA",
+                                          "fips_code": "1000199999",
+                                          "Efficiency": 832,
+                                          "One-Bedroom": 899,
+                                          "Two-Bedroom": 1037,
+                                          "Three-Bedroom": 1510,
+                                          "Four-Bedroom": 1827,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "New Castle County",
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "fips_code": "1000399999",
+                                          "Efficiency": 845,
+                                          "One-Bedroom": 1003,
+                                          "Two-Bedroom": 1211,
+                                          "Three-Bedroom": 1515,
+                                          "Four-Bedroom": 1686,
+                                          "FMR Percentile": 50,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Sussex County",
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "fips_code": "1000599999",
+                                          "Efficiency": 618,
+                                          "One-Bedroom": 688,
+                                          "Two-Bedroom": 915,
+                                          "Three-Bedroom": 1304,
+                                          "Four-Bedroom": 1477,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2018",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Dover, DE MSA",
+                                          "code": "METRO20100M20100",
+                                          "Efficiency": 771,
+                                          "One-Bedroom": 809,
+                                          "Two-Bedroom": 933,
+                                          "Three-Bedroom": 1359,
+                                          "Four-Bedroom": 1644,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "code": "METRO37980M37980",
+                                          "Efficiency": 883,
+                                          "One-Bedroom": 1047,
+                                          "Two-Bedroom": 1266,
+                                          "Three-Bedroom": 1587,
+                                          "Four-Bedroom": 1787,
+                                          "FMR Percentile": 50,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "code": "METRO41540N10005",
+                                          "Efficiency": 596,
+                                          "One-Bedroom": 691,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1309,
+                                          "Four-Bedroom": 1471,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kent County",
+                                          "metro_name": "Dover, DE MSA",
+                                          "fips_code": "1000199999",
+                                          "Efficiency": 771,
+                                          "One-Bedroom": 809,
+                                          "Two-Bedroom": 933,
+                                          "Three-Bedroom": 1359,
+                                          "Four-Bedroom": 1644,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "New Castle County",
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "fips_code": "1000399999",
+                                          "Efficiency": 883,
+                                          "One-Bedroom": 1047,
+                                          "Two-Bedroom": 1266,
+                                          "Three-Bedroom": 1587,
+                                          "Four-Bedroom": 1787,
+                                          "FMR Percentile": 50,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Sussex County",
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "fips_code": "1000599999",
+                                          "Efficiency": 596,
+                                          "One-Bedroom": 691,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1309,
+                                          "Four-Bedroom": 1471,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2019",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Dover, DE MSA",
+                                          "code": "METRO20100M20100",
+                                          "Efficiency": 853,
+                                          "One-Bedroom": 875,
+                                          "Two-Bedroom": 1034,
+                                          "Three-Bedroom": 1485,
+                                          "Four-Bedroom": 1790,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "code": "METRO37980M37980",
+                                          "Efficiency": 840,
+                                          "One-Bedroom": 992,
+                                          "Two-Bedroom": 1200,
+                                          "Three-Bedroom": 1503,
+                                          "Four-Bedroom": 1715,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "code": "METRO41540N10005",
+                                          "Efficiency": 707,
+                                          "One-Bedroom": 812,
+                                          "Two-Bedroom": 1053,
+                                          "Three-Bedroom": 1521,
+                                          "Four-Bedroom": 1721,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kent County",
+                                          "metro_name": "Dover, DE MSA",
+                                          "fips_code": "1000199999",
+                                          "Efficiency": 853,
+                                          "One-Bedroom": 875,
+                                          "Two-Bedroom": 1034,
+                                          "Three-Bedroom": 1485,
+                                          "Four-Bedroom": 1790,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "New Castle County",
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "fips_code": "1000399999",
+                                          "Efficiency": 840,
+                                          "One-Bedroom": 992,
+                                          "Two-Bedroom": 1200,
+                                          "Three-Bedroom": 1503,
+                                          "Four-Bedroom": 1715,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Sussex County",
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "fips_code": "1000599999",
+                                          "Efficiency": 707,
+                                          "One-Bedroom": 812,
+                                          "Two-Bedroom": 1053,
+                                          "Three-Bedroom": 1521,
+                                          "Four-Bedroom": 1721,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2020",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Dover, DE MSA",
+                                          "code": "METRO20100M20100",
+                                          "Efficiency": 880,
+                                          "One-Bedroom": 893,
+                                          "Two-Bedroom": 1044,
+                                          "Three-Bedroom": 1493,
+                                          "Four-Bedroom": 1790,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "code": "METRO37980M37980",
+                                          "Efficiency": 864,
+                                          "One-Bedroom": 1013,
+                                          "Two-Bedroom": 1226,
+                                          "Three-Bedroom": 1528,
+                                          "Four-Bedroom": 1754,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "code": "METRO41540N10005",
+                                          "Efficiency": 637,
+                                          "One-Bedroom": 731,
+                                          "Two-Bedroom": 948,
+                                          "Three-Bedroom": 1369,
+                                          "Four-Bedroom": 1549,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kent County",
+                                          "metro_name": "Dover, DE MSA",
+                                          "fips_code": "1000199999",
+                                          "Efficiency": 880,
+                                          "One-Bedroom": 893,
+                                          "Two-Bedroom": 1044,
+                                          "Three-Bedroom": 1493,
+                                          "Four-Bedroom": 1790,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "New Castle County",
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "fips_code": "1000399999",
+                                          "Efficiency": 864,
+                                          "One-Bedroom": 1013,
+                                          "Two-Bedroom": 1226,
+                                          "Three-Bedroom": 1528,
+                                          "Four-Bedroom": 1754,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Sussex County",
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "fips_code": "1000599999",
+                                          "Efficiency": 637,
+                                          "One-Bedroom": 731,
+                                          "Two-Bedroom": 948,
+                                          "Three-Bedroom": 1369,
+                                          "Four-Bedroom": 1549,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2021",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Dover, DE MSA",
+                                          "code": "METRO20100M20100",
+                                          "Efficiency": 878,
+                                          "One-Bedroom": 908,
+                                          "Two-Bedroom": 1066,
+                                          "Three-Bedroom": 1526,
+                                          "Four-Bedroom": 1785,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "code": "METRO37980M37980",
+                                          "Efficiency": 900,
+                                          "One-Bedroom": 1040,
+                                          "Two-Bedroom": 1260,
+                                          "Three-Bedroom": 1567,
+                                          "Four-Bedroom": 1796,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "code": "METRO41540N10005",
+                                          "Efficiency": 641,
+                                          "One-Bedroom": 732,
+                                          "Two-Bedroom": 965,
+                                          "Three-Bedroom": 1306,
+                                          "Four-Bedroom": 1506,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kent County",
+                                          "metro_name": "Dover, DE MSA",
+                                          "fips_code": "1000199999",
+                                          "Efficiency": 878,
+                                          "One-Bedroom": 908,
+                                          "Two-Bedroom": 1066,
+                                          "Three-Bedroom": 1526,
+                                          "Four-Bedroom": 1785,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "New Castle County",
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "fips_code": "1000399999",
+                                          "Efficiency": 900,
+                                          "One-Bedroom": 1040,
+                                          "Two-Bedroom": 1260,
+                                          "Three-Bedroom": 1567,
+                                          "Four-Bedroom": 1796,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Sussex County",
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "fips_code": "1000599999",
+                                          "Efficiency": 641,
+                                          "One-Bedroom": 732,
+                                          "Two-Bedroom": 965,
+                                          "Three-Bedroom": 1306,
+                                          "Four-Bedroom": 1506,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2022",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Dover, DE MSA",
+                                          "code": "METRO20100M20100",
+                                          "Efficiency": 851,
+                                          "One-Bedroom": 856,
+                                          "Two-Bedroom": 1002,
+                                          "Three-Bedroom": 1423,
+                                          "Four-Bedroom": 1647,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "code": "METRO37980M37980",
+                                          "Efficiency": 940,
+                                          "One-Bedroom": 1071,
+                                          "Two-Bedroom": 1298,
+                                          "Three-Bedroom": 1605,
+                                          "Four-Bedroom": 1837,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "code": "METRO41540N10005",
+                                          "Efficiency": 651,
+                                          "One-Bedroom": 733,
+                                          "Two-Bedroom": 964,
+                                          "Three-Bedroom": 1289,
+                                          "Four-Bedroom": 1515,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kent County",
+                                          "metro_name": "Dover, DE MSA",
+                                          "fips_code": "1000199999",
+                                          "Efficiency": 851,
+                                          "One-Bedroom": 856,
+                                          "Two-Bedroom": 1002,
+                                          "Three-Bedroom": 1423,
+                                          "Four-Bedroom": 1647,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "New Castle County",
+                                          "metro_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",
+                                          "fips_code": "1000399999",
+                                          "Efficiency": 940,
+                                          "One-Bedroom": 1071,
+                                          "Two-Bedroom": 1298,
+                                          "Three-Bedroom": 1605,
+                                          "Four-Bedroom": 1837,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Sussex County",
+                                          "metro_name": "Sussex County, DE HUD Metro FMR Area",
+                                          "fips_code": "1000599999",
+                                          "Efficiency": 651,
+                                          "One-Bedroom": 733,
+                                          "Two-Bedroom": 964,
+                                          "Three-Bedroom": 1289,
+                                          "Four-Bedroom": 1515,
+                                          "FMR Percentile": 40,
+                                          "statename": "Delaware",
+                                          "statecode": "DE",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     }
+              ],
+              "il": [
+                     {
+                            "year": "2017",
+                            "statecode": "DE",
+                            "stateID": 10,
+                            "median_income": 74900,
+                            "very_low": {
+                                   "il50_p1": 26200,
+                                   "il50_p2": 29950,
+                                   "il50_p3": 33700,
+                                   "il50_p4": 37450,
+                                   "il50_p5": 40450,
+                                   "il50_p6": 43450,
+                                   "il50_p7": 46450,
+                                   "il50_p8": 49450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 20200,
+                                   "il30_p4": 22450,
+                                   "il30_p5": 24250,
+                                   "il30_p6": 26050,
+                                   "il30_p7": 27850,
+                                   "il30_p8": 29650
+                            },
+                            "low": {
+                                   "il80_p1": 41950,
+                                   "il80_p2": 47950,
+                                   "il80_p3": 53950,
+                                   "il80_p4": 59900,
+                                   "il80_p5": 64700,
+                                   "il80_p6": 69500,
+                                   "il80_p7": 74300,
+                                   "il80_p8": 79100
+                            }
+                     },
+                     {
+                            "year": "2018",
+                            "statecode": "DE",
+                            "stateID": "10",
+                            "median_income": 79000,
+                            "very_low": {
+                                   "il50_p1": 27650,
+                                   "il50_p2": 31600,
+                                   "il50_p3": 35550,
+                                   "il50_p4": 39500,
+                                   "il50_p5": 42650,
+                                   "il50_p6": 45800,
+                                   "il50_p7": 49000,
+                                   "il50_p8": 52150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 21350,
+                                   "il30_p4": 23700,
+                                   "il30_p5": 25600,
+                                   "il30_p6": 27500,
+                                   "il30_p7": 29400,
+                                   "il30_p8": 31300
+                            },
+                            "low": {
+                                   "il80_p1": 44250,
+                                   "il80_p2": 50550,
+                                   "il80_p3": 56900,
+                                   "il80_p4": 63200,
+                                   "il80_p5": 68250,
+                                   "il80_p6": 73300,
+                                   "il80_p7": 78350,
+                                   "il80_p8": 83400
+                            }
+                     },
+                     {
+                            "year": "2019",
+                            "statecode": "DE",
+                            "stateID": "10",
+                            "median_income": 78900,
+                            "very_low": {
+                                   "il50_p1": 27600,
+                                   "il50_p2": 31550,
+                                   "il50_p3": 35500,
+                                   "il50_p4": 39450,
+                                   "il50_p5": 42600,
+                                   "il50_p6": 45750,
+                                   "il50_p7": 48900,
+                                   "il50_p8": 52050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 21300,
+                                   "il30_p4": 23650,
+                                   "il30_p5": 25550,
+                                   "il30_p6": 27450,
+                                   "il30_p7": 29350,
+                                   "il30_p8": 31250
+                            },
+                            "low": {
+                                   "il80_p1": 44200,
+                                   "il80_p2": 50500,
+                                   "il80_p3": 56800,
+                                   "il80_p4": 63100,
+                                   "il80_p5": 68150,
+                                   "il80_p6": 73200,
+                                   "il80_p7": 78250,
+                                   "il80_p8": 83300
+                            }
+                     },
+                     {
+                            "year": "2020",
+                            "statecode": "DE",
+                            "stateID": "10",
+                            "median_income": 81900,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40950,
+                                   "il50_p5": 44250,
+                                   "il50_p6": 47500,
+                                   "il50_p7": 50800,
+                                   "il50_p8": 54050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 24550,
+                                   "il30_p5": 26550,
+                                   "il30_p6": 28500,
+                                   "il30_p7": 30450,
+                                   "il30_p8": 32450
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65500,
+                                   "il80_p5": 70750,
+                                   "il80_p6": 76000,
+                                   "il80_p7": 81250,
+                                   "il80_p8": 86500
+                            }
+                     },
+                     {
+                            "year": "2021",
+                            "statecode": "DE",
+                            "stateID": "10",
+                            "median_income": 83000,
+                            "very_low": {
+                                   "il50_p1": 29050,
+                                   "il50_p2": 33200,
+                                   "il50_p3": 37350,
+                                   "il50_p4": 41500,
+                                   "il50_p5": 44800,
+                                   "il50_p6": 48150,
+                                   "il50_p7": 51450,
+                                   "il50_p8": 54800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17450,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 22400,
+                                   "il30_p4": 24900,
+                                   "il30_p5": 26900,
+                                   "il30_p6": 28900,
+                                   "il30_p7": 30900,
+                                   "il30_p8": 32850
+                            },
+                            "low": {
+                                   "il80_p1": 46500,
+                                   "il80_p2": 53100,
+                                   "il80_p3": 59750,
+                                   "il80_p4": 66400,
+                                   "il80_p5": 71700,
+                                   "il80_p6": 77000,
+                                   "il80_p7": 82350,
+                                   "il80_p8": 87650
+                            }
+                     },
+                     {
+                            "year": "2022",
+                            "statecode": "DE",
+                            "stateID": 10,
+                            "median_income": 96900,
+                            "very_low": {
+                                   "il50_p1": 32500,
+                                   "il50_p2": 37150,
+                                   "il50_p3": 41800,
+                                   "il50_p4": 46450,
+                                   "il50_p5": 50150,
+                                   "il50_p6": 53850,
+                                   "il50_p7": 57600,
+                                   "il50_p8": 61300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19500,
+                                   "il30_p2": 22300,
+                                   "il30_p3": 25100,
+                                   "il30_p4": 27850,
+                                   "il30_p5": 30100,
+                                   "il30_p6": 32300,
+                                   "il30_p7": 34550,
+                                   "il30_p8": 36800
+                            },
+                            "low": {
+                                   "il80_p1": 52000,
+                                   "il80_p2": 59450,
+                                   "il80_p3": 66850,
+                                   "il80_p4": 74300,
+                                   "il80_p5": 80250,
+                                   "il80_p6": 86200,
+                                   "il80_p7": 92150,
+                                   "il80_p8": 98050
+                            }
+                     }
+              ]
+       }
+}

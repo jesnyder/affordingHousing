@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1160,
+                                   "One-Bedroom": 1375,
+                                   "Two-Bedroom": 1828,
+                                   "Three-Bedroom": 2425,
+                                   "Four-Bedroom": 2723,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1253,
+                                   "One-Bedroom": 1477,
+                                   "Two-Bedroom": 1965,
+                                   "Three-Bedroom": 2615,
+                                   "Four-Bedroom": 2961,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1567,
+                                   "One-Bedroom": 1844,
+                                   "Two-Bedroom": 2439,
+                                   "Three-Bedroom": 3241,
+                                   "Four-Bedroom": 3701,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1641,
+                                   "One-Bedroom": 1913,
+                                   "Two-Bedroom": 2519,
+                                   "Three-Bedroom": 3342,
+                                   "Four-Bedroom": 3746,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1993,
+                                   "One-Bedroom": 2292,
+                                   "Two-Bedroom": 3021,
+                                   "Three-Bedroom": 3947,
+                                   "Four-Bedroom": 4419,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2085,
+                                   "One-Bedroom": 2385,
+                                   "Two-Bedroom": 3138,
+                                   "Three-Bedroom": 4000,
+                                   "Four-Bedroom": 4458,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "year": "2017",
+                            "median_income": 83300,
+                            "very_low": {
+                                   "il50_p1": 35100,
+                                   "il50_p2": 40100,
+                                   "il50_p3": 45100,
+                                   "il50_p4": 50100,
+                                   "il50_p5": 54150,
+                                   "il50_p6": 58150,
+                                   "il50_p7": 62150,
+                                   "il50_p8": 66150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21050,
+                                   "il30_p2": 24050,
+                                   "il30_p3": 27050,
+                                   "il30_p4": 30050,
+                                   "il30_p5": 32500,
+                                   "il30_p6": 34900,
+                                   "il30_p7": 37300,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 56200,
+                                   "il80_p2": 64200,
+                                   "il80_p3": 72250,
+                                   "il80_p4": 80250,
+                                   "il80_p5": 86700,
+                                   "il80_p6": 93100,
+                                   "il80_p7": 99550,
+                                   "il80_p8": 105950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "year": "2018",
+                            "median_income": 81400,
+                            "very_low": {
+                                   "il50_p1": 39100,
+                                   "il50_p2": 44650,
+                                   "il50_p3": 50250,
+                                   "il50_p4": 55800,
+                                   "il50_p5": 60300,
+                                   "il50_p6": 64750,
+                                   "il50_p7": 69200,
+                                   "il50_p8": 73700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23450,
+                                   "il30_p2": 26800,
+                                   "il30_p3": 30150,
+                                   "il30_p4": 33500,
+                                   "il30_p5": 36200,
+                                   "il30_p6": 38900,
+                                   "il30_p7": 41550,
+                                   "il30_p8": 44250
+                            },
+                            "low": {
+                                   "il80_p1": 62650,
+                                   "il80_p2": 71600,
+                                   "il80_p3": 80550,
+                                   "il80_p4": 89450,
+                                   "il80_p5": 96650,
+                                   "il80_p6": 103800,
+                                   "il80_p7": 110950,
+                                   "il80_p8": 118100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "year": "2019",
+                            "median_income": 98000,
+                            "very_low": {
+                                   "il50_p1": 42950,
+                                   "il50_p2": 49100,
+                                   "il50_p3": 55250,
+                                   "il50_p4": 61350,
+                                   "il50_p5": 66300,
+                                   "il50_p6": 71200,
+                                   "il50_p7": 76100,
+                                   "il50_p8": 81000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25800,
+                                   "il30_p2": 29450,
+                                   "il30_p3": 33150,
+                                   "il30_p4": 36800,
+                                   "il30_p5": 39750,
+                                   "il30_p6": 42700,
+                                   "il30_p7": 45650,
+                                   "il30_p8": 48600
+                            },
+                            "low": {
+                                   "il80_p1": 68900,
+                                   "il80_p2": 78750,
+                                   "il80_p3": 88600,
+                                   "il80_p4": 98400,
+                                   "il80_p5": 106300,
+                                   "il80_p6": 114150,
+                                   "il80_p7": 122050,
+                                   "il80_p8": 129900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "year": "2020",
+                            "median_income": 110000,
+                            "very_low": {
+                                   "il50_p1": 46350,
+                                   "il50_p2": 53000,
+                                   "il50_p3": 59600,
+                                   "il50_p4": 66200,
+                                   "il50_p5": 71500,
+                                   "il50_p6": 76800,
+                                   "il50_p7": 82100,
+                                   "il50_p8": 87400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 27800,
+                                   "il30_p2": 31800,
+                                   "il30_p3": 35750,
+                                   "il30_p4": 39700,
+                                   "il30_p5": 42900,
+                                   "il30_p6": 46100,
+                                   "il30_p7": 49250,
+                                   "il30_p8": 52450
+                            },
+                            "low": {
+                                   "il80_p1": 74350,
+                                   "il80_p2": 85000,
+                                   "il80_p3": 95600,
+                                   "il80_p4": 106200,
+                                   "il80_p5": 114700,
+                                   "il80_p6": 123200,
+                                   "il80_p7": 131700,
+                                   "il80_p8": 140200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA MSA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "year": "2021",
+                            "median_income": 111900,
+                            "very_low": {
+                                   "il50_p1": 48650,
+                                   "il50_p2": 55600,
+                                   "il50_p3": 62550,
+                                   "il50_p4": 69500,
+                                   "il50_p5": 75100,
+                                   "il50_p6": 80650,
+                                   "il50_p7": 86200,
+                                   "il50_p8": 91750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 29200,
+                                   "il30_p2": 33400,
+                                   "il30_p3": 37550,
+                                   "il30_p4": 41700,
+                                   "il30_p5": 45050,
+                                   "il30_p6": 48400,
+                                   "il30_p7": 51750,
+                                   "il30_p8": 55050
+                            },
+                            "low": {
+                                   "il80_p1": 78050,
+                                   "il80_p2": 89200,
+                                   "il80_p3": 100350,
+                                   "il80_p4": 111500,
+                                   "il80_p5": 120450,
+                                   "il80_p6": 129350,
+                                   "il80_p7": 138300,
+                                   "il80_p8": 147200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Santa Cruz County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Santa Cruz-Watsonville, CA",
+                            "area_name": "Santa Cruz-Watsonville, CA MSA",
+                            "year": "2022",
+                            "median_income": 119300,
+                            "very_low": {
+                                   "il50_p1": 54450,
+                                   "il50_p2": 62200,
+                                   "il50_p3": 70000,
+                                   "il50_p4": 77750,
+                                   "il50_p5": 84000,
+                                   "il50_p6": 90200,
+                                   "il50_p7": 96450,
+                                   "il50_p8": 102650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 32700,
+                                   "il30_p2": 37350,
+                                   "il30_p3": 42000,
+                                   "il30_p4": 46650,
+                                   "il30_p5": 50400,
+                                   "il30_p6": 54150,
+                                   "il30_p7": 57850,
+                                   "il30_p8": 61600
+                            },
+                            "low": {
+                                   "il80_p1": 87350,
+                                   "il80_p2": 99800,
+                                   "il80_p3": 112300,
+                                   "il80_p4": 124750,
+                                   "il80_p5": 134750,
+                                   "il80_p6": 144750,
+                                   "il80_p7": 154700,
+                                   "il80_p8": 164700
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 950,
+                                   "One-Bedroom": 1133,
+                                   "Two-Bedroom": 1417,
+                                   "Three-Bedroom": 2063,
+                                   "Four-Bedroom": 2206,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 986,
+                                   "One-Bedroom": 1146,
+                                   "Two-Bedroom": 1433,
+                                   "Three-Bedroom": 2074,
+                                   "Four-Bedroom": 2215,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1089,
+                                   "One-Bedroom": 1240,
+                                   "Two-Bedroom": 1540,
+                                   "Three-Bedroom": 2219,
+                                   "Four-Bedroom": 2378,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1334,
+                                   "One-Bedroom": 1467,
+                                   "Two-Bedroom": 1810,
+                                   "Three-Bedroom": 2606,
+                                   "Four-Bedroom": 2834,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1348,
+                                   "One-Bedroom": 1466,
+                                   "Two-Bedroom": 1793,
+                                   "Three-Bedroom": 2566,
+                                   "Four-Bedroom": 2813,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA",
+                            "area_name": "Salinas, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1533,
+                                   "One-Bedroom": 1616,
+                                   "Two-Bedroom": 1967,
+                                   "Three-Bedroom": 2794,
+                                   "Four-Bedroom": 3081,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "year": "2017",
+                            "median_income": 63100,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36650,
+                                   "il50_p4": 40700,
+                                   "il50_p5": 44000,
+                                   "il50_p6": 47250,
+                                   "il50_p7": 50500,
+                                   "il50_p8": 53750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 22000,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 45600,
+                                   "il80_p2": 52100,
+                                   "il80_p3": 58600,
+                                   "il80_p4": 65100,
+                                   "il80_p5": 70350,
+                                   "il80_p6": 75550,
+                                   "il80_p7": 80750,
+                                   "il80_p8": 85950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "year": "2018",
+                            "median_income": 69100,
+                            "very_low": {
+                                   "il50_p1": 29250,
+                                   "il50_p2": 33400,
+                                   "il50_p3": 37600,
+                                   "il50_p4": 41750,
+                                   "il50_p5": 45100,
+                                   "il50_p6": 48450,
+                                   "il50_p7": 51800,
+                                   "il50_p8": 55150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17550,
+                                   "il30_p2": 20050,
+                                   "il30_p3": 22550,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 46800,
+                                   "il80_p2": 53450,
+                                   "il80_p3": 60150,
+                                   "il80_p4": 66800,
+                                   "il80_p5": 72150,
+                                   "il80_p6": 77500,
+                                   "il80_p7": 82850,
+                                   "il80_p8": 88200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "year": "2019",
+                            "median_income": 74100,
+                            "very_low": {
+                                   "il50_p1": 31450,
+                                   "il50_p2": 35950,
+                                   "il50_p3": 40450,
+                                   "il50_p4": 44900,
+                                   "il50_p5": 48500,
+                                   "il50_p6": 52100,
+                                   "il50_p7": 55700,
+                                   "il50_p8": 59300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 26950,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 50300,
+                                   "il80_p2": 57500,
+                                   "il80_p3": 64700,
+                                   "il80_p4": 71850,
+                                   "il80_p5": 77600,
+                                   "il80_p6": 83350,
+                                   "il80_p7": 89100,
+                                   "il80_p8": 94850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "year": "2020",
+                            "median_income": 81600,
+                            "very_low": {
+                                   "il50_p1": 33950,
+                                   "il50_p2": 38800,
+                                   "il50_p3": 43650,
+                                   "il50_p4": 48450,
+                                   "il50_p5": 52350,
+                                   "il50_p6": 56250,
+                                   "il50_p7": 60100,
+                                   "il50_p8": 64000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20350,
+                                   "il30_p2": 23250,
+                                   "il30_p3": 26150,
+                                   "il30_p4": 29050,
+                                   "il30_p5": 31400,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54250,
+                                   "il80_p2": 62000,
+                                   "il80_p3": 69750,
+                                   "il80_p4": 77500,
+                                   "il80_p5": 83700,
+                                   "il80_p6": 89900,
+                                   "il80_p7": 96100,
+                                   "il80_p8": 102300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA MSA",
+                            "area_name": "Salinas, CA MSA",
+                            "year": "2021",
+                            "median_income": 80900,
+                            "very_low": {
+                                   "il50_p1": 35600,
+                                   "il50_p2": 40700,
+                                   "il50_p3": 45800,
+                                   "il50_p4": 50850,
+                                   "il50_p5": 54950,
+                                   "il50_p6": 59000,
+                                   "il50_p7": 63100,
+                                   "il50_p8": 67150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21350,
+                                   "il30_p2": 24400,
+                                   "il30_p3": 27450,
+                                   "il30_p4": 30500,
+                                   "il30_p5": 32950,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 56950,
+                                   "il80_p2": 65100,
+                                   "il80_p3": 73250,
+                                   "il80_p4": 81350,
+                                   "il80_p5": 87900,
+                                   "il80_p6": 94400,
+                                   "il80_p7": 100900,
+                                   "il80_p8": 107400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monterey County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salinas, CA",
+                            "area_name": "Salinas, CA MSA",
+                            "year": "2022",
+                            "median_income": 90100,
+                            "very_low": {
+                                   "il50_p1": 39800,
+                                   "il50_p2": 45500,
+                                   "il50_p3": 51200,
+                                   "il50_p4": 56850,
+                                   "il50_p5": 61400,
+                                   "il50_p6": 65950,
+                                   "il50_p7": 70500,
+                                   "il50_p8": 75050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23900,
+                                   "il30_p2": 27300,
+                                   "il30_p3": 30700,
+                                   "il30_p4": 34100,
+                                   "il30_p5": 36850,
+                                   "il30_p6": 39600,
+                                   "il30_p7": 42300,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 63700,
+                                   "il80_p2": 72800,
+                                   "il80_p3": 81900,
+                                   "il80_p4": 91000,
+                                   "il80_p5": 98300,
+                                   "il80_p6": 105600,
+                                   "il80_p7": 112850,
+                                   "il80_p8": 120150
+                            }
+                     }
+              ]
+       }
+}

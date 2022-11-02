@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 555,
+                                   "Two-Bedroom": 704,
+                                   "Three-Bedroom": 960,
+                                   "Four-Bedroom": 1151,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 581,
+                                   "One-Bedroom": 612,
+                                   "Two-Bedroom": 777,
+                                   "Three-Bedroom": 1054,
+                                   "Four-Bedroom": 1327,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 615,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 1037,
+                                   "Four-Bedroom": 1368,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 625,
+                                   "One-Bedroom": 629,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1035,
+                                   "Four-Bedroom": 1395,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 656,
+                                   "One-Bedroom": 660,
+                                   "Two-Bedroom": 841,
+                                   "Three-Bedroom": 1065,
+                                   "Four-Bedroom": 1418,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 672,
+                                   "One-Bedroom": 688,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1063,
+                                   "Four-Bedroom": 1365,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 62000,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 57400,
+                            "very_low": {
+                                   "il50_p1": 20650,
+                                   "il50_p2": 23600,
+                                   "il50_p3": 26550,
+                                   "il50_p4": 29450,
+                                   "il50_p5": 31850,
+                                   "il50_p6": 34200,
+                                   "il50_p7": 36550,
+                                   "il50_p8": 38900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12400,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36550,
+                                   "il30_p8": 38900
+                            },
+                            "low": {
+                                   "il80_p1": 33050,
+                                   "il80_p2": 37750,
+                                   "il80_p3": 42450,
+                                   "il80_p4": 47150,
+                                   "il80_p5": 50950,
+                                   "il80_p6": 54700,
+                                   "il80_p7": 58500,
+                                   "il80_p8": 62250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 57900,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 28950,
+                                   "il50_p5": 31300,
+                                   "il50_p6": 33600,
+                                   "il50_p7": 35900,
+                                   "il50_p8": 38250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33600,
+                                   "il30_p7": 35900,
+                                   "il30_p8": 38250
+                            },
+                            "low": {
+                                   "il80_p1": 32450,
+                                   "il80_p2": 37050,
+                                   "il80_p3": 41700,
+                                   "il80_p4": 46300,
+                                   "il80_p5": 50050,
+                                   "il80_p6": 53750,
+                                   "il80_p7": 57450,
+                                   "il80_p8": 61150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 64400,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38750,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 49950,
+                                   "il80_p5": 53950,
+                                   "il80_p6": 57950,
+                                   "il80_p7": 61950,
+                                   "il80_p8": 65950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY MSA",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 68500,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26250,
+                                   "il50_p3": 29550,
+                                   "il50_p4": 32800,
+                                   "il50_p5": 35450,
+                                   "il50_p6": 38050,
+                                   "il50_p7": 40700,
+                                   "il50_p8": 43300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43300
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Edmonson County, KY; Warren County, KY; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bowling Green, KY",
+                            "area_name": "Bowling Green, KY HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 75100,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33050,
+                                   "il50_p4": 36700,
+                                   "il50_p5": 39650,
+                                   "il50_p6": 42600,
+                                   "il50_p7": 45550,
+                                   "il50_p8": 48450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41050,
+                                   "il80_p2": 46900,
+                                   "il80_p3": 52750,
+                                   "il80_p4": 58600,
+                                   "il80_p5": 63300,
+                                   "il80_p6": 68000,
+                                   "il80_p7": 72700,
+                                   "il80_p8": 77400
+                            }
+                     }
+              ]
+       }
+}

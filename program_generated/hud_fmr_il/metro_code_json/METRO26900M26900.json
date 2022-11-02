@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 850,
+                                   "Three-Bedroom": 1140,
+                                   "Four-Bedroom": 1298,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 599,
+                                   "One-Bedroom": 696,
+                                   "Two-Bedroom": 852,
+                                   "Three-Bedroom": 1140,
+                                   "Four-Bedroom": 1296,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 651,
+                                   "One-Bedroom": 751,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1226,
+                                   "Four-Bedroom": 1389,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 674,
+                                   "One-Bedroom": 778,
+                                   "Two-Bedroom": 946,
+                                   "Three-Bedroom": 1256,
+                                   "Four-Bedroom": 1439,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 781,
+                                   "Two-Bedroom": 946,
+                                   "Three-Bedroom": 1248,
+                                   "Four-Bedroom": 1455,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN",
+                            "area_name": "Indianapolis-Carmel, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 677,
+                                   "One-Bedroom": 782,
+                                   "Two-Bedroom": 939,
+                                   "Three-Bedroom": 1231,
+                                   "Four-Bedroom": 1456,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 69900,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 34950,
+                                   "il50_p5": 37750,
+                                   "il50_p6": 40550,
+                                   "il50_p7": 43350,
+                                   "il50_p8": 46150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39150,
+                                   "il80_p2": 44750,
+                                   "il80_p3": 50350,
+                                   "il80_p4": 55900,
+                                   "il80_p5": 60400,
+                                   "il80_p6": 64850,
+                                   "il80_p7": 69350,
+                                   "il80_p8": 73800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 77200,
+                            "very_low": {
+                                   "il50_p1": 27050,
+                                   "il50_p2": 30900,
+                                   "il50_p3": 34750,
+                                   "il50_p4": 38600,
+                                   "il50_p5": 41700,
+                                   "il50_p6": 44800,
+                                   "il50_p7": 47900,
+                                   "il50_p8": 51000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18550,
+                                   "il30_p3": 20850,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43250,
+                                   "il80_p2": 49400,
+                                   "il80_p3": 55600,
+                                   "il80_p4": 61750,
+                                   "il80_p5": 66700,
+                                   "il80_p6": 71650,
+                                   "il80_p7": 76600,
+                                   "il80_p8": 81550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 79900,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 39950,
+                                   "il50_p5": 43150,
+                                   "il50_p6": 46350,
+                                   "il50_p7": 49550,
+                                   "il50_p8": 52750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44750,
+                                   "il80_p2": 51150,
+                                   "il80_p3": 57550,
+                                   "il80_p4": 63900,
+                                   "il80_p5": 69050,
+                                   "il80_p6": 74150,
+                                   "il80_p7": 79250,
+                                   "il80_p8": 84350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 82000,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 41000,
+                                   "il50_p5": 44300,
+                                   "il50_p6": 47600,
+                                   "il50_p7": 50850,
+                                   "il50_p8": 54150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17250,
+                                   "il30_p2": 19700,
+                                   "il30_p3": 22150,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45950,
+                                   "il80_p2": 52500,
+                                   "il80_p3": 59050,
+                                   "il80_p4": 65600,
+                                   "il80_p5": 70850,
+                                   "il80_p6": 76100,
+                                   "il80_p7": 81350,
+                                   "il80_p8": 86600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN MSA",
+                            "area_name": "Indianapolis, IN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 81600,
+                            "very_low": {
+                                   "il50_p1": 28600,
+                                   "il50_p2": 32650,
+                                   "il50_p3": 36750,
+                                   "il50_p4": 40800,
+                                   "il50_p5": 44100,
+                                   "il50_p6": 47350,
+                                   "il50_p7": 50600,
+                                   "il50_p8": 53900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 22050,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45750,
+                                   "il80_p2": 52250,
+                                   "il80_p3": 58800,
+                                   "il80_p4": 65300,
+                                   "il80_p5": 70550,
+                                   "il80_p6": 75750,
+                                   "il80_p7": 81000,
+                                   "il80_p8": 86200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Boone County, IN; Brown County, IN; Hamilton County, IN; Hancock County, IN; Hendricks County, IN; Johnson County, IN; Marion County, IN; Morgan County, IN; and Shelby County, IN",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Indianapolis-Carmel-Anderson, IN",
+                            "area_name": "Indianapolis-Carmel, IN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 94100,
+                            "very_low": {
+                                   "il50_p1": 32000,
+                                   "il50_p2": 36550,
+                                   "il50_p3": 41100,
+                                   "il50_p4": 45650,
+                                   "il50_p5": 49350,
+                                   "il50_p6": 53000,
+                                   "il50_p7": 56650,
+                                   "il50_p8": 60300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19200,
+                                   "il30_p2": 21950,
+                                   "il30_p3": 24700,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51150,
+                                   "il80_p2": 58450,
+                                   "il80_p3": 65750,
+                                   "il80_p4": 73050,
+                                   "il80_p5": 78900,
+                                   "il80_p6": 84750,
+                                   "il80_p7": 90600,
+                                   "il80_p8": 96450
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 826,
+                                   "One-Bedroom": 904,
+                                   "Two-Bedroom": 1158,
+                                   "Three-Bedroom": 1497,
+                                   "Four-Bedroom": 1600,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 980,
+                                   "One-Bedroom": 1064,
+                                   "Two-Bedroom": 1365,
+                                   "Three-Bedroom": 1726,
+                                   "Four-Bedroom": 1947,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1027,
+                                   "One-Bedroom": 1136,
+                                   "Two-Bedroom": 1475,
+                                   "Three-Bedroom": 1853,
+                                   "Four-Bedroom": 2155,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1064,
+                                   "One-Bedroom": 1160,
+                                   "Two-Bedroom": 1528,
+                                   "Three-Bedroom": 1918,
+                                   "Four-Bedroom": 2240,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1029,
+                                   "One-Bedroom": 1184,
+                                   "Two-Bedroom": 1560,
+                                   "Three-Bedroom": 1971,
+                                   "Four-Bedroom": 2292,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1145,
+                                   "One-Bedroom": 1309,
+                                   "Two-Bedroom": 1723,
+                                   "Three-Bedroom": 2181,
+                                   "Four-Bedroom": 2505,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 81000,
+                            "very_low": {
+                                   "il50_p1": 29000,
+                                   "il50_p2": 33150,
+                                   "il50_p3": 37300,
+                                   "il50_p4": 41400,
+                                   "il50_p5": 44750,
+                                   "il50_p6": 48050,
+                                   "il50_p7": 51350,
+                                   "il50_p8": 54650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 22400,
+                                   "il30_p4": 24850,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 46400,
+                                   "il80_p2": 53000,
+                                   "il80_p3": 59650,
+                                   "il80_p4": 66250,
+                                   "il80_p5": 71550,
+                                   "il80_p6": 76850,
+                                   "il80_p7": 82150,
+                                   "il80_p8": 87450
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 25250,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 93400,
+                            "very_low": {
+                                   "il50_p1": 32400,
+                                   "il50_p2": 37000,
+                                   "il50_p3": 41650,
+                                   "il50_p4": 46250,
+                                   "il50_p5": 49950,
+                                   "il50_p6": 53650,
+                                   "il50_p7": 57350,
+                                   "il50_p8": 61050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19450,
+                                   "il30_p2": 22200,
+                                   "il30_p3": 25000,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 51800,
+                                   "il80_p2": 59200,
+                                   "il80_p3": 66600,
+                                   "il80_p4": 74000,
+                                   "il80_p5": 79950,
+                                   "il80_p6": 85850,
+                                   "il80_p7": 91800,
+                                   "il80_p8": 97700
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 95200,
+                            "very_low": {
+                                   "il50_p1": 33350,
+                                   "il50_p2": 38100,
+                                   "il50_p3": 42850,
+                                   "il50_p4": 47600,
+                                   "il50_p5": 51450,
+                                   "il50_p6": 55250,
+                                   "il50_p7": 59050,
+                                   "il50_p8": 62850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20000,
+                                   "il30_p2": 22850,
+                                   "il30_p3": 25700,
+                                   "il30_p4": 28550,
+                                   "il30_p5": 30850,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 53350,
+                                   "il80_p2": 60950,
+                                   "il80_p3": 68550,
+                                   "il80_p4": 76150,
+                                   "il80_p5": 82250,
+                                   "il80_p6": 88350,
+                                   "il80_p7": 94450,
+                                   "il80_p8": 100550
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 106000,
+                            "very_low": {
+                                   "il50_p1": 35000,
+                                   "il50_p2": 40000,
+                                   "il50_p3": 45000,
+                                   "il50_p4": 49950,
+                                   "il50_p5": 53950,
+                                   "il50_p6": 57950,
+                                   "il50_p7": 61950,
+                                   "il50_p8": 65950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21000,
+                                   "il30_p2": 24000,
+                                   "il30_p3": 27000,
+                                   "il30_p4": 29950,
+                                   "il30_p5": 32350,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Plymouth County, MA",
+                            "counties_msa": "",
+                            "town_name": "Plympton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Brockton, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 111400,
+                            "very_low": {
+                                   "il50_p1": 39100,
+                                   "il50_p2": 44700,
+                                   "il50_p3": 50300,
+                                   "il50_p4": 55850,
+                                   "il50_p5": 60350,
+                                   "il50_p6": 64800,
+                                   "il50_p7": 69300,
+                                   "il50_p8": 73750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23450,
+                                   "il30_p2": 26800,
+                                   "il30_p3": 30150,
+                                   "il30_p4": 33500,
+                                   "il30_p5": 36200,
+                                   "il30_p6": 38900,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62550,
+                                   "il80_p2": 71500,
+                                   "il80_p3": 80450,
+                                   "il80_p4": 89350,
+                                   "il80_p5": 96500,
+                                   "il80_p6": 103650,
+                                   "il80_p7": 110800,
+                                   "il80_p8": 117950
+                            }
+                     }
+              ]
+       }
+}

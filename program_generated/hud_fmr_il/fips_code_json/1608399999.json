@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 518,
+                                   "One-Bedroom": 538,
+                                   "Two-Bedroom": 699,
+                                   "Three-Bedroom": 955,
+                                   "Four-Bedroom": 1232,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 491,
+                                   "One-Bedroom": 564,
+                                   "Two-Bedroom": 745,
+                                   "Three-Bedroom": 1000,
+                                   "Four-Bedroom": 1299,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 491,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 751,
+                                   "Three-Bedroom": 1019,
+                                   "Four-Bedroom": 1261,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 608,
+                                   "Two-Bedroom": 801,
+                                   "Three-Bedroom": 1102,
+                                   "Four-Bedroom": 1322,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Twin Falls, ID MSA",
+                            "area_name": "Twin Falls County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 648,
+                                   "Two-Bedroom": 854,
+                                   "Three-Bedroom": 1205,
+                                   "Four-Bedroom": 1409,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Twin Falls, ID",
+                            "area_name": "Twin Falls County, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 682,
+                                   "Two-Bedroom": 897,
+                                   "Three-Bedroom": 1274,
+                                   "Four-Bedroom": 1507,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "year": "2017",
+                            "median_income": 57200,
+                            "very_low": {
+                                   "il50_p1": 20050,
+                                   "il50_p2": 22900,
+                                   "il50_p3": 25750,
+                                   "il50_p4": 28600,
+                                   "il50_p5": 30900,
+                                   "il50_p6": 33200,
+                                   "il50_p7": 35500,
+                                   "il50_p8": 37800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35500,
+                                   "il30_p8": 37800
+                            },
+                            "low": {
+                                   "il80_p1": 32050,
+                                   "il80_p2": 36600,
+                                   "il80_p3": 41200,
+                                   "il80_p4": 45750,
+                                   "il80_p5": 49450,
+                                   "il80_p6": 53100,
+                                   "il80_p7": 56750,
+                                   "il80_p8": 60400
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "year": "2018",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "year": "2019",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Twin Falls County, ID",
+                            "year": "2020",
+                            "median_income": 60700,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38450,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Twin Falls, ID MSA",
+                            "area_name": "Twin Falls County, ID HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 65400,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43000
+                            },
+                            "low": {
+                                   "il80_p1": 36450,
+                                   "il80_p2": 41650,
+                                   "il80_p3": 46850,
+                                   "il80_p4": 52050,
+                                   "il80_p5": 56250,
+                                   "il80_p6": 60400,
+                                   "il80_p7": 64550,
+                                   "il80_p8": 68750
+                            }
+                     },
+                     {
+                            "county_name": "Twin Falls County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Twin Falls, ID",
+                            "area_name": "Twin Falls County, ID HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74700,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40750,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52400,
+                                   "il80_p4": 58200,
+                                   "il80_p5": 62900,
+                                   "il80_p6": 67550,
+                                   "il80_p7": 72200,
+                                   "il80_p8": 76850
+                            }
+                     }
+              ]
+       }
+}

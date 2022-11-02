@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 446,
+                                   "One-Bedroom": 471,
+                                   "Two-Bedroom": 626,
+                                   "Three-Bedroom": 783,
+                                   "Four-Bedroom": 945,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 471,
+                                   "One-Bedroom": 492,
+                                   "Two-Bedroom": 654,
+                                   "Three-Bedroom": 820,
+                                   "Four-Bedroom": 1074,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 529,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 877,
+                                   "Four-Bedroom": 1125,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 528,
+                                   "Two-Bedroom": 696,
+                                   "Three-Bedroom": 867,
+                                   "Four-Bedroom": 1086,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 494,
+                                   "One-Bedroom": 546,
+                                   "Two-Bedroom": 720,
+                                   "Three-Bedroom": 908,
+                                   "Four-Bedroom": 1074,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 551,
+                                   "Two-Bedroom": 725,
+                                   "Three-Bedroom": 920,
+                                   "Four-Bedroom": 1043,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 56000,
+                            "very_low": {
+                                   "il50_p1": 19600,
+                                   "il50_p2": 22400,
+                                   "il50_p3": 25200,
+                                   "il50_p4": 28000,
+                                   "il50_p5": 30250,
+                                   "il50_p6": 32500,
+                                   "il50_p7": 34750,
+                                   "il50_p8": 37000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32500,
+                                   "il30_p7": 34750,
+                                   "il30_p8": 37000
+                            },
+                            "low": {
+                                   "il80_p1": 31400,
+                                   "il80_p2": 35850,
+                                   "il80_p3": 40350,
+                                   "il80_p4": 44800,
+                                   "il80_p5": 48400,
+                                   "il80_p6": 52000,
+                                   "il80_p7": 55600,
+                                   "il80_p8": 59150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 57900,
+                            "very_low": {
+                                   "il50_p1": 20300,
+                                   "il50_p2": 23200,
+                                   "il50_p3": 26100,
+                                   "il50_p4": 28950,
+                                   "il50_p5": 31300,
+                                   "il50_p6": 33600,
+                                   "il50_p7": 35900,
+                                   "il50_p8": 38250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33600,
+                                   "il30_p7": 35900,
+                                   "il30_p8": 38250
+                            },
+                            "low": {
+                                   "il80_p1": 32450,
+                                   "il80_p2": 37050,
+                                   "il80_p3": 41700,
+                                   "il80_p4": 46300,
+                                   "il80_p5": 50050,
+                                   "il80_p6": 53750,
+                                   "il80_p7": 57450,
+                                   "il80_p8": 61150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 57600,
+                            "very_low": {
+                                   "il50_p1": 20200,
+                                   "il50_p2": 23050,
+                                   "il50_p3": 25950,
+                                   "il50_p4": 28800,
+                                   "il50_p5": 31150,
+                                   "il50_p6": 33450,
+                                   "il50_p7": 35750,
+                                   "il50_p8": 38050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33450,
+                                   "il30_p7": 35750,
+                                   "il30_p8": 38050
+                            },
+                            "low": {
+                                   "il80_p1": 32300,
+                                   "il80_p2": 36900,
+                                   "il80_p3": 41500,
+                                   "il80_p4": 46100,
+                                   "il80_p5": 49800,
+                                   "il80_p6": 53500,
+                                   "il80_p7": 57200,
+                                   "il80_p8": 60900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 56200,
+                            "very_low": {
+                                   "il50_p1": 19700,
+                                   "il50_p2": 22500,
+                                   "il50_p3": 25300,
+                                   "il50_p4": 28100,
+                                   "il50_p5": 30350,
+                                   "il50_p6": 32600,
+                                   "il50_p7": 34850,
+                                   "il50_p8": 37100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30350,
+                                   "il30_p6": 32600,
+                                   "il30_p7": 34850,
+                                   "il30_p8": 37100
+                            },
+                            "low": {
+                                   "il80_p1": 31500,
+                                   "il80_p2": 36000,
+                                   "il80_p3": 40500,
+                                   "il80_p4": 44950,
+                                   "il80_p5": 48550,
+                                   "il80_p6": 52150,
+                                   "il80_p7": 55750,
+                                   "il80_p8": 59350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN MSA",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 58800,
+                            "very_low": {
+                                   "il50_p1": 20600,
+                                   "il50_p2": 23550,
+                                   "il50_p3": 26500,
+                                   "il50_p4": 29400,
+                                   "il50_p5": 31800,
+                                   "il50_p6": 34150,
+                                   "il50_p7": 36500,
+                                   "il50_p8": 38850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 34150,
+                                   "il30_p7": 36500,
+                                   "il30_p8": 38850
+                            },
+                            "low": {
+                                   "il80_p1": 32950,
+                                   "il80_p2": 37650,
+                                   "il80_p3": 42350,
+                                   "il80_p4": 47050,
+                                   "il80_p5": 50850,
+                                   "il80_p6": 54600,
+                                   "il80_p7": 58350,
+                                   "il80_p8": 62150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Smith County, TN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+                            "area_name": "Smith County, TN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 67200,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26300,
+                                   "il50_p3": 29600,
+                                   "il50_p4": 32850,
+                                   "il50_p5": 35500,
+                                   "il50_p6": 38150,
+                                   "il50_p7": 40750,
+                                   "il50_p8": 43400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40750,
+                                   "il30_p8": 43400
+                            },
+                            "low": {
+                                   "il80_p1": 36800,
+                                   "il80_p2": 42050,
+                                   "il80_p3": 47300,
+                                   "il80_p4": 52550,
+                                   "il80_p5": 56800,
+                                   "il80_p6": 61000,
+                                   "il80_p7": 65200,
+                                   "il80_p8": 69400
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 738,
+                                   "One-Bedroom": 743,
+                                   "Two-Bedroom": 987,
+                                   "Three-Bedroom": 1437,
+                                   "Four-Bedroom": 1448,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 764,
+                                   "One-Bedroom": 770,
+                                   "Two-Bedroom": 1024,
+                                   "Three-Bedroom": 1490,
+                                   "Four-Bedroom": 1587,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 715,
+                                   "One-Bedroom": 756,
+                                   "Two-Bedroom": 1000,
+                                   "Three-Bedroom": 1442,
+                                   "Four-Bedroom": 1622,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 671,
+                                   "One-Bedroom": 772,
+                                   "Two-Bedroom": 1017,
+                                   "Three-Bedroom": 1418,
+                                   "Four-Bedroom": 1709,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 676,
+                                   "One-Bedroom": 777,
+                                   "Two-Bedroom": 1024,
+                                   "Three-Bedroom": 1376,
+                                   "Four-Bedroom": 1773,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 685,
+                                   "One-Bedroom": 784,
+                                   "Two-Bedroom": 1031,
+                                   "Three-Bedroom": 1365,
+                                   "Four-Bedroom": 1765,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 73900,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 36950,
+                                   "il50_p5": 39950,
+                                   "il50_p6": 42900,
+                                   "il50_p7": 45850,
+                                   "il50_p8": 48800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41400,
+                                   "il80_p2": 47300,
+                                   "il80_p3": 53200,
+                                   "il80_p4": 59100,
+                                   "il80_p5": 63850,
+                                   "il80_p6": 68600,
+                                   "il80_p7": 73300,
+                                   "il80_p8": 78050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 76700,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 75700,
+                            "very_low": {
+                                   "il50_p1": 26500,
+                                   "il50_p2": 30300,
+                                   "il50_p3": 34100,
+                                   "il50_p4": 37850,
+                                   "il50_p5": 40900,
+                                   "il50_p6": 43950,
+                                   "il50_p7": 46950,
+                                   "il50_p8": 50000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42400,
+                                   "il80_p2": 48450,
+                                   "il80_p3": 54500,
+                                   "il80_p4": 60550,
+                                   "il80_p5": 65400,
+                                   "il80_p6": 70250,
+                                   "il80_p7": 75100,
+                                   "il80_p8": 79950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 81400,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36650,
+                                   "il50_p4": 40700,
+                                   "il50_p5": 44000,
+                                   "il50_p6": 47250,
+                                   "il50_p7": 50500,
+                                   "il50_p8": 53750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 22000,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45600,
+                                   "il80_p2": 52100,
+                                   "il80_p3": 58600,
+                                   "il80_p4": 65100,
+                                   "il80_p5": 70350,
+                                   "il80_p6": 75550,
+                                   "il80_p7": 80750,
+                                   "il80_p8": 85950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 85800,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34200,
+                                   "il50_p3": 38450,
+                                   "il50_p4": 42700,
+                                   "il50_p5": 46150,
+                                   "il50_p6": 49550,
+                                   "il50_p7": 52950,
+                                   "il50_p8": 56400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47850,
+                                   "il80_p2": 54650,
+                                   "il80_p3": 61500,
+                                   "il80_p4": 68300,
+                                   "il80_p5": 73800,
+                                   "il80_p6": 79250,
+                                   "il80_p7": 84700,
+                                   "il80_p8": 90200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Warren County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                            "area_name": "Warren County, VA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 93200,
+                            "very_low": {
+                                   "il50_p1": 32650,
+                                   "il50_p2": 37300,
+                                   "il50_p3": 41950,
+                                   "il50_p4": 46600,
+                                   "il50_p5": 50350,
+                                   "il50_p6": 54100,
+                                   "il50_p7": 57800,
+                                   "il50_p8": 61550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 25200,
+                                   "il30_p4": 27950,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52200,
+                                   "il80_p2": 59650,
+                                   "il80_p3": 67100,
+                                   "il80_p4": 74550,
+                                   "il80_p5": 80550,
+                                   "il80_p6": 86500,
+                                   "il80_p7": 92450,
+                                   "il80_p8": 98450
+                            }
+                     }
+              ]
+       }
+}

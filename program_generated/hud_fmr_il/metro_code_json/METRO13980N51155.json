@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 552,
+                                   "Two-Bedroom": 637,
+                                   "Three-Bedroom": 817,
+                                   "Four-Bedroom": 1122,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 684,
+                                   "Three-Bedroom": 910,
+                                   "Four-Bedroom": 1205,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 943,
+                                   "Four-Bedroom": 1230,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 628,
+                                   "Two-Bedroom": 721,
+                                   "Three-Bedroom": 981,
+                                   "Four-Bedroom": 1230,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 618,
+                                   "One-Bedroom": 631,
+                                   "Two-Bedroom": 721,
+                                   "Three-Bedroom": 1005,
+                                   "Four-Bedroom": 1191,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg, VA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 590,
+                                   "One-Bedroom": 616,
+                                   "Two-Bedroom": 702,
+                                   "Three-Bedroom": 980,
+                                   "Four-Bedroom": 1202,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 57400,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25850,
+                                   "il50_p4": 28700,
+                                   "il50_p5": 31000,
+                                   "il50_p6": 33300,
+                                   "il50_p7": 35600,
+                                   "il50_p8": 37900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35600,
+                                   "il30_p8": 37900
+                            },
+                            "low": {
+                                   "il80_p1": 32150,
+                                   "il80_p2": 36750,
+                                   "il80_p3": 41350,
+                                   "il80_p4": 45900,
+                                   "il80_p5": 49600,
+                                   "il80_p6": 53250,
+                                   "il80_p7": 56950,
+                                   "il80_p8": 60600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60200,
+                            "very_low": {
+                                   "il50_p1": 21100,
+                                   "il50_p2": 24100,
+                                   "il50_p3": 27100,
+                                   "il50_p4": 30100,
+                                   "il50_p5": 32550,
+                                   "il50_p6": 34950,
+                                   "il50_p7": 37350,
+                                   "il50_p8": 39750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37350,
+                                   "il30_p8": 39750
+                            },
+                            "low": {
+                                   "il80_p1": 33750,
+                                   "il80_p2": 38550,
+                                   "il80_p3": 43350,
+                                   "il80_p4": 48150,
+                                   "il80_p5": 52050,
+                                   "il80_p6": 55900,
+                                   "il80_p7": 59750,
+                                   "il80_p8": 63600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35100,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 65800,
+                            "very_low": {
+                                   "il50_p1": 22250,
+                                   "il50_p2": 25400,
+                                   "il50_p3": 28600,
+                                   "il50_p4": 31750,
+                                   "il50_p5": 34300,
+                                   "il50_p6": 36850,
+                                   "il50_p7": 39400,
+                                   "il50_p8": 41950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39400,
+                                   "il30_p8": 41950
+                            },
+                            "low": {
+                                   "il80_p1": 35600,
+                                   "il80_p2": 40650,
+                                   "il80_p3": 45750,
+                                   "il80_p4": 50800,
+                                   "il80_p5": 54900,
+                                   "il80_p6": 58950,
+                                   "il80_p7": 63000,
+                                   "il80_p8": 67100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Pulaski County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg, VA",
+                            "area_name": "Pulaski County, VA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 71300,
+                            "very_low": {
+                                   "il50_p1": 24850,
+                                   "il50_p2": 28400,
+                                   "il50_p3": 31950,
+                                   "il50_p4": 35500,
+                                   "il50_p5": 38350,
+                                   "il50_p6": 41200,
+                                   "il50_p7": 44050,
+                                   "il50_p8": 46900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 39800,
+                                   "il80_p2": 45450,
+                                   "il80_p3": 51150,
+                                   "il80_p4": 56800,
+                                   "il80_p5": 61350,
+                                   "il80_p6": 65900,
+                                   "il80_p7": 70450,
+                                   "il80_p8": 75000
+                            }
+                     }
+              ]
+       }
+}

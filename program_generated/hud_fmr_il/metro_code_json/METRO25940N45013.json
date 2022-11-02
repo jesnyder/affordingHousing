@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 876,
+                                   "One-Bedroom": 939,
+                                   "Two-Bedroom": 1083,
+                                   "Three-Bedroom": 1427,
+                                   "Four-Bedroom": 1889,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 842,
+                                   "One-Bedroom": 920,
+                                   "Two-Bedroom": 1056,
+                                   "Three-Bedroom": 1398,
+                                   "Four-Bedroom": 1860,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 886,
+                                   "One-Bedroom": 998,
+                                   "Two-Bedroom": 1142,
+                                   "Three-Bedroom": 1505,
+                                   "Four-Bedroom": 2006,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 864,
+                                   "One-Bedroom": 899,
+                                   "Two-Bedroom": 1028,
+                                   "Three-Bedroom": 1355,
+                                   "Four-Bedroom": 1806,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1032,
+                                   "One-Bedroom": 1056,
+                                   "Two-Bedroom": 1204,
+                                   "Three-Bedroom": 1564,
+                                   "Four-Bedroom": 2085,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton, SC",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1080,
+                                   "One-Bedroom": 1100,
+                                   "Two-Bedroom": 1253,
+                                   "Three-Bedroom": 1618,
+                                   "Four-Bedroom": 2145,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 70300,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28150,
+                                   "il50_p3": 31650,
+                                   "il50_p4": 35150,
+                                   "il50_p5": 38000,
+                                   "il50_p6": 40800,
+                                   "il50_p7": 43600,
+                                   "il50_p8": 46400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 16900,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39400,
+                                   "il80_p2": 45000,
+                                   "il80_p3": 50650,
+                                   "il80_p4": 56250,
+                                   "il80_p5": 60750,
+                                   "il80_p6": 65250,
+                                   "il80_p7": 69750,
+                                   "il80_p8": 74250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 72200,
+                            "very_low": {
+                                   "il50_p1": 25300,
+                                   "il50_p2": 28900,
+                                   "il50_p3": 32500,
+                                   "il50_p4": 36100,
+                                   "il50_p5": 39000,
+                                   "il50_p6": 41900,
+                                   "il50_p7": 44800,
+                                   "il50_p8": 47700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17350,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40450,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 52000,
+                                   "il80_p4": 57750,
+                                   "il80_p5": 62400,
+                                   "il80_p6": 67000,
+                                   "il80_p7": 71650,
+                                   "il80_p8": 76250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 83000,
+                            "very_low": {
+                                   "il50_p1": 27800,
+                                   "il50_p2": 31800,
+                                   "il50_p3": 35750,
+                                   "il50_p4": 39700,
+                                   "il50_p5": 42900,
+                                   "il50_p6": 46100,
+                                   "il50_p7": 49250,
+                                   "il50_p8": 52450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19050,
+                                   "il30_p3": 21450,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44450,
+                                   "il80_p2": 50800,
+                                   "il80_p3": 57150,
+                                   "il80_p4": 63500,
+                                   "il80_p5": 68600,
+                                   "il80_p6": 73700,
+                                   "il80_p7": 78750,
+                                   "il80_p8": 83850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 81500,
+                            "very_low": {
+                                   "il50_p1": 28550,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36700,
+                                   "il50_p4": 40750,
+                                   "il50_p5": 44050,
+                                   "il50_p6": 47300,
+                                   "il50_p7": 50550,
+                                   "il50_p8": 53800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 22050,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45650,
+                                   "il80_p2": 52200,
+                                   "il80_p3": 58700,
+                                   "il80_p4": 65200,
+                                   "il80_p5": 70450,
+                                   "il80_p6": 75650,
+                                   "il80_p7": 80850,
+                                   "il80_p8": 86100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton-Beaufort, SC MSA",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 76000,
+                            "very_low": {
+                                   "il50_p1": 27150,
+                                   "il50_p2": 31000,
+                                   "il50_p3": 34900,
+                                   "il50_p4": 38750,
+                                   "il50_p5": 41850,
+                                   "il50_p6": 44950,
+                                   "il50_p7": 48050,
+                                   "il50_p8": 51150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16300,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43400,
+                                   "il80_p2": 49600,
+                                   "il80_p3": 55800,
+                                   "il80_p4": 62000,
+                                   "il80_p5": 67000,
+                                   "il80_p6": 71950,
+                                   "il80_p7": 76900,
+                                   "il80_p8": 81850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Beaufort County, SC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hilton Head Island-Bluffton, SC",
+                            "area_name": "Beaufort County, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 95600,
+                            "very_low": {
+                                   "il50_p1": 30350,
+                                   "il50_p2": 34700,
+                                   "il50_p3": 39050,
+                                   "il50_p4": 43350,
+                                   "il50_p5": 46850,
+                                   "il50_p6": 50300,
+                                   "il50_p7": 53800,
+                                   "il50_p8": 57250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18200,
+                                   "il30_p2": 20800,
+                                   "il30_p3": 23400,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48550,
+                                   "il80_p2": 55500,
+                                   "il80_p3": 62450,
+                                   "il80_p4": 69350,
+                                   "il80_p5": 74900,
+                                   "il80_p6": 80450,
+                                   "il80_p7": 86000,
+                                   "il80_p8": 91550
+                            }
+                     }
+              ]
+       }
+}

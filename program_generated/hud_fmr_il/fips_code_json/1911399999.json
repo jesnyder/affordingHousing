@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 485,
+                                   "One-Bedroom": 575,
+                                   "Two-Bedroom": 764,
+                                   "Three-Bedroom": 1088,
+                                   "Four-Bedroom": 1168,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 494,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 774,
+                                   "Three-Bedroom": 1095,
+                                   "Four-Bedroom": 1207,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 614,
+                                   "Two-Bedroom": 812,
+                                   "Three-Bedroom": 1155,
+                                   "Four-Bedroom": 1266,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 506,
+                                   "One-Bedroom": 590,
+                                   "Two-Bedroom": 777,
+                                   "Three-Bedroom": 1104,
+                                   "Four-Bedroom": 1221,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 602,
+                                   "Two-Bedroom": 794,
+                                   "Three-Bedroom": 1134,
+                                   "Four-Bedroom": 1272,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 814,
+                                   "Three-Bedroom": 1156,
+                                   "Four-Bedroom": 1358,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 79900,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 39950,
+                                   "il50_p5": 43150,
+                                   "il50_p6": 46350,
+                                   "il50_p7": 49550,
+                                   "il50_p8": 52750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44750,
+                                   "il80_p2": 51150,
+                                   "il80_p3": 57550,
+                                   "il80_p4": 63900,
+                                   "il80_p5": 69050,
+                                   "il80_p6": 74150,
+                                   "il80_p7": 79250,
+                                   "il80_p8": 84350
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 81300,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32550,
+                                   "il50_p3": 36600,
+                                   "il50_p4": 40650,
+                                   "il50_p5": 43950,
+                                   "il50_p6": 47200,
+                                   "il50_p7": 50450,
+                                   "il50_p8": 53700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 22000,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45550,
+                                   "il80_p2": 52050,
+                                   "il80_p3": 58550,
+                                   "il80_p4": 65050,
+                                   "il80_p5": 70300,
+                                   "il80_p6": 75500,
+                                   "il80_p7": 80700,
+                                   "il80_p8": 85900
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 89300,
+                            "very_low": {
+                                   "il50_p1": 31300,
+                                   "il50_p2": 35750,
+                                   "il50_p3": 40200,
+                                   "il50_p4": 44650,
+                                   "il50_p5": 48250,
+                                   "il50_p6": 51800,
+                                   "il50_p7": 55400,
+                                   "il50_p8": 58950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18800,
+                                   "il30_p2": 21450,
+                                   "il30_p3": 24150,
+                                   "il30_p4": 26800,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 50050,
+                                   "il80_p2": 57200,
+                                   "il80_p3": 64350,
+                                   "il80_p4": 71450,
+                                   "il80_p5": 77200,
+                                   "il80_p6": 82900,
+                                   "il80_p7": 88600,
+                                   "il80_p8": 94350
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 85200,
+                            "very_low": {
+                                   "il50_p1": 29850,
+                                   "il50_p2": 34100,
+                                   "il50_p3": 38350,
+                                   "il50_p4": 42600,
+                                   "il50_p5": 46050,
+                                   "il50_p6": 49450,
+                                   "il50_p7": 52850,
+                                   "il50_p8": 56250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17900,
+                                   "il30_p2": 20450,
+                                   "il30_p3": 23000,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 47750,
+                                   "il80_p2": 54550,
+                                   "il80_p3": 61350,
+                                   "il80_p4": 68150,
+                                   "il80_p5": 73650,
+                                   "il80_p6": 79100,
+                                   "il80_p7": 84550,
+                                   "il80_p8": 90000
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA MSA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 90100,
+                            "very_low": {
+                                   "il50_p1": 31300,
+                                   "il50_p2": 35800,
+                                   "il50_p3": 40250,
+                                   "il50_p4": 44700,
+                                   "il50_p5": 48300,
+                                   "il50_p6": 51900,
+                                   "il50_p7": 55450,
+                                   "il50_p8": 59050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18800,
+                                   "il30_p2": 21450,
+                                   "il30_p3": 24150,
+                                   "il30_p4": 26800,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 50050,
+                                   "il80_p2": 57200,
+                                   "il80_p3": 64350,
+                                   "il80_p4": 71500,
+                                   "il80_p5": 77250,
+                                   "il80_p6": 82950,
+                                   "il80_p7": 88700,
+                                   "il80_p8": 94400
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, IA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cedar Rapids, IA",
+                            "area_name": "Cedar Rapids, IA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 89400,
+                            "very_low": {
+                                   "il50_p1": 31300,
+                                   "il50_p2": 35800,
+                                   "il50_p3": 40250,
+                                   "il50_p4": 44700,
+                                   "il50_p5": 48300,
+                                   "il50_p6": 51900,
+                                   "il50_p7": 55450,
+                                   "il50_p8": 59050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18800,
+                                   "il30_p2": 21450,
+                                   "il30_p3": 24150,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50050,
+                                   "il80_p2": 57200,
+                                   "il80_p3": 64350,
+                                   "il80_p4": 71500,
+                                   "il80_p5": 77250,
+                                   "il80_p6": 82950,
+                                   "il80_p7": 88700,
+                                   "il80_p8": 94400
+                            }
+                     }
+              ]
+       }
+}

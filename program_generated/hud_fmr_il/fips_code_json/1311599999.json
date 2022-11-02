@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 497,
+                                   "One-Bedroom": 520,
+                                   "Two-Bedroom": 666,
+                                   "Three-Bedroom": 885,
+                                   "Four-Bedroom": 1117,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 520,
+                                   "One-Bedroom": 561,
+                                   "Two-Bedroom": 691,
+                                   "Three-Bedroom": 922,
+                                   "Four-Bedroom": 1135,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 572,
+                                   "One-Bedroom": 607,
+                                   "Two-Bedroom": 738,
+                                   "Three-Bedroom": 985,
+                                   "Four-Bedroom": 1210,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 613,
+                                   "Two-Bedroom": 755,
+                                   "Three-Bedroom": 1013,
+                                   "Four-Bedroom": 1213,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 627,
+                                   "Two-Bedroom": 792,
+                                   "Three-Bedroom": 1061,
+                                   "Four-Bedroom": 1255,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA",
+                            "area_name": "Rome, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 654,
+                                   "One-Bedroom": 658,
+                                   "Two-Bedroom": 864,
+                                   "Three-Bedroom": 1154,
+                                   "Four-Bedroom": 1334,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "year": "2017",
+                            "median_income": 51900,
+                            "very_low": {
+                                   "il50_p1": 18200,
+                                   "il50_p2": 20800,
+                                   "il50_p3": 23400,
+                                   "il50_p4": 25950,
+                                   "il50_p5": 28050,
+                                   "il50_p6": 30150,
+                                   "il50_p7": 32200,
+                                   "il50_p8": 34300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28050,
+                                   "il30_p6": 30150,
+                                   "il30_p7": 32200,
+                                   "il30_p8": 34300
+                            },
+                            "low": {
+                                   "il80_p1": 29050,
+                                   "il80_p2": 33200,
+                                   "il80_p3": 37350,
+                                   "il80_p4": 41500,
+                                   "il80_p5": 44850,
+                                   "il80_p6": 48150,
+                                   "il80_p7": 51500,
+                                   "il80_p8": 54800
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "year": "2018",
+                            "median_income": 54400,
+                            "very_low": {
+                                   "il50_p1": 19050,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24500,
+                                   "il50_p4": 27200,
+                                   "il50_p5": 29400,
+                                   "il50_p6": 31600,
+                                   "il50_p7": 33750,
+                                   "il50_p8": 35950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29400,
+                                   "il30_p6": 31600,
+                                   "il30_p7": 33750,
+                                   "il30_p8": 35950
+                            },
+                            "low": {
+                                   "il80_p1": 30450,
+                                   "il80_p2": 34800,
+                                   "il80_p3": 39150,
+                                   "il80_p4": 43500,
+                                   "il80_p5": 47000,
+                                   "il80_p6": 50500,
+                                   "il80_p7": 53950,
+                                   "il80_p8": 57450
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "year": "2019",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 20950,
+                                   "il50_p2": 23950,
+                                   "il50_p3": 26950,
+                                   "il50_p4": 29900,
+                                   "il50_p5": 32300,
+                                   "il50_p6": 34700,
+                                   "il50_p7": 37100,
+                                   "il50_p8": 39500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12600,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37100,
+                                   "il30_p8": 39500
+                            },
+                            "low": {
+                                   "il80_p1": 33500,
+                                   "il80_p2": 38300,
+                                   "il80_p3": 43100,
+                                   "il80_p4": 47850,
+                                   "il80_p5": 51700,
+                                   "il80_p6": 55550,
+                                   "il80_p7": 59350,
+                                   "il80_p8": 63200
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "year": "2020",
+                            "median_income": 58700,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23500,
+                                   "il50_p3": 26450,
+                                   "il50_p4": 29350,
+                                   "il50_p5": 31700,
+                                   "il50_p6": 34050,
+                                   "il50_p7": 36400,
+                                   "il50_p8": 38750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34050,
+                                   "il30_p7": 36400,
+                                   "il30_p8": 38750
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 46950,
+                                   "il80_p5": 50750,
+                                   "il80_p6": 54500,
+                                   "il80_p7": 58250,
+                                   "il80_p8": 62000
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA MSA",
+                            "area_name": "Rome, GA MSA",
+                            "year": "2021",
+                            "median_income": 53500,
+                            "very_low": {
+                                   "il50_p1": 19550,
+                                   "il50_p2": 22350,
+                                   "il50_p3": 25150,
+                                   "il50_p4": 27900,
+                                   "il50_p5": 30150,
+                                   "il50_p6": 32400,
+                                   "il50_p7": 34600,
+                                   "il50_p8": 36850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30150,
+                                   "il30_p6": 32400,
+                                   "il30_p7": 34600,
+                                   "il30_p8": 36850
+                            },
+                            "low": {
+                                   "il80_p1": 31300,
+                                   "il80_p2": 35750,
+                                   "il80_p3": 40200,
+                                   "il80_p4": 44650,
+                                   "il80_p5": 48250,
+                                   "il80_p6": 51800,
+                                   "il80_p7": 55400,
+                                   "il80_p8": 58950
+                            }
+                     },
+                     {
+                            "county_name": "Floyd County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rome, GA",
+                            "area_name": "Rome, GA MSA",
+                            "year": "2022",
+                            "median_income": 70700,
+                            "very_low": {
+                                   "il50_p1": 21850,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28100,
+                                   "il50_p4": 31200,
+                                   "il50_p5": 33700,
+                                   "il50_p6": 36200,
+                                   "il50_p7": 38700,
+                                   "il50_p8": 41200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36200,
+                                   "il30_p7": 38700,
+                                   "il30_p8": 41200
+                            },
+                            "low": {
+                                   "il80_p1": 34950,
+                                   "il80_p2": 39950,
+                                   "il80_p3": 44950,
+                                   "il80_p4": 49900,
+                                   "il80_p5": 53900,
+                                   "il80_p6": 57900,
+                                   "il80_p7": 61900,
+                                   "il80_p8": 65900
+                            }
+                     }
+              ]
+       }
+}

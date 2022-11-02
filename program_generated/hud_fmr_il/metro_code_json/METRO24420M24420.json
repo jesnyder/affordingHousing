@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 622,
+                                   "One-Bedroom": 626,
+                                   "Two-Bedroom": 795,
+                                   "Three-Bedroom": 1157,
+                                   "Four-Bedroom": 1401,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 693,
+                                   "One-Bedroom": 697,
+                                   "Two-Bedroom": 898,
+                                   "Three-Bedroom": 1306,
+                                   "Four-Bedroom": 1582,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 717,
+                                   "One-Bedroom": 722,
+                                   "Two-Bedroom": 955,
+                                   "Three-Bedroom": 1381,
+                                   "Four-Bedroom": 1677,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 807,
+                                   "One-Bedroom": 812,
+                                   "Two-Bedroom": 1070,
+                                   "Three-Bedroom": 1544,
+                                   "Four-Bedroom": 1879,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 819,
+                                   "One-Bedroom": 839,
+                                   "Two-Bedroom": 1106,
+                                   "Three-Bedroom": 1583,
+                                   "Four-Bedroom": 1915,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR",
+                            "area_name": "Grants Pass, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 795,
+                                   "One-Bedroom": 848,
+                                   "Two-Bedroom": 1116,
+                                   "Three-Bedroom": 1585,
+                                   "Four-Bedroom": 1910,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "year": "2017",
+                            "median_income": 46500,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21350,
+                                   "il50_p3": 24000,
+                                   "il50_p4": 26650,
+                                   "il50_p5": 28800,
+                                   "il50_p6": 30950,
+                                   "il50_p7": 33050,
+                                   "il50_p8": 35200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 30950,
+                                   "il30_p7": 33050,
+                                   "il30_p8": 35200
+                            },
+                            "low": {
+                                   "il80_p1": 29900,
+                                   "il80_p2": 34150,
+                                   "il80_p3": 38400,
+                                   "il80_p4": 42650,
+                                   "il80_p5": 46100,
+                                   "il80_p6": 49500,
+                                   "il80_p7": 52900,
+                                   "il80_p8": 56300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "year": "2018",
+                            "median_income": 53600,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21900,
+                                   "il50_p3": 24650,
+                                   "il50_p4": 27350,
+                                   "il50_p5": 29550,
+                                   "il50_p6": 31750,
+                                   "il50_p7": 33950,
+                                   "il50_p8": 36150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 31750,
+                                   "il30_p7": 33950,
+                                   "il30_p8": 36150
+                            },
+                            "low": {
+                                   "il80_p1": 30650,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39400,
+                                   "il80_p4": 43750,
+                                   "il80_p5": 47250,
+                                   "il80_p6": 50750,
+                                   "il80_p7": 54250,
+                                   "il80_p8": 57750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "year": "2019",
+                            "median_income": 48800,
+                            "very_low": {
+                                   "il50_p1": 20150,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25900,
+                                   "il50_p4": 28750,
+                                   "il50_p5": 31050,
+                                   "il50_p6": 33350,
+                                   "il50_p7": 35650,
+                                   "il50_p8": 37950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33350,
+                                   "il30_p7": 35650,
+                                   "il30_p8": 37950
+                            },
+                            "low": {
+                                   "il80_p1": 32200,
+                                   "il80_p2": 36800,
+                                   "il80_p3": 41400,
+                                   "il80_p4": 46000,
+                                   "il80_p5": 49700,
+                                   "il80_p6": 53400,
+                                   "il80_p7": 57050,
+                                   "il80_p8": 60750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "year": "2020",
+                            "median_income": 57800,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38450,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR MSA",
+                            "area_name": "Grants Pass, OR MSA",
+                            "year": "2021",
+                            "median_income": 59000,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43000
+                            },
+                            "low": {
+                                   "il80_p1": 36450,
+                                   "il80_p2": 41650,
+                                   "il80_p3": 46850,
+                                   "il80_p4": 52050,
+                                   "il80_p5": 56250,
+                                   "il80_p6": 60400,
+                                   "il80_p7": 64550,
+                                   "il80_p8": 68750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Josephine County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grants Pass, OR",
+                            "area_name": "Grants Pass, OR MSA",
+                            "year": "2022",
+                            "median_income": 60700,
+                            "very_low": {
+                                   "il50_p1": 25150,
+                                   "il50_p2": 28750,
+                                   "il50_p3": 32350,
+                                   "il50_p4": 35900,
+                                   "il50_p5": 38800,
+                                   "il50_p6": 41650,
+                                   "il50_p7": 44550,
+                                   "il50_p8": 47400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57450,
+                                   "il80_p5": 62050,
+                                   "il80_p6": 66650,
+                                   "il80_p7": 71250,
+                                   "il80_p8": 75850
+                            }
+                     }
+              ]
+       }
+}

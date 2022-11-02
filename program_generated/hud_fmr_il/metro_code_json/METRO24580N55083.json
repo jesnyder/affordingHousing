@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 539,
+                                   "One-Bedroom": 581,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 972,
+                                   "Four-Bedroom": 980,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 689,
+                                   "Three-Bedroom": 968,
+                                   "Four-Bedroom": 1079,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 569,
+                                   "One-Bedroom": 572,
+                                   "Two-Bedroom": 713,
+                                   "Three-Bedroom": 993,
+                                   "Four-Bedroom": 1178,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 513,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 965,
+                                   "Four-Bedroom": 1142,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 529,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 986,
+                                   "Four-Bedroom": 1090,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 554,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 993,
+                                   "Four-Bedroom": 1027,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36500,
+                                   "il80_p2": 41700,
+                                   "il80_p3": 46900,
+                                   "il80_p4": 52100,
+                                   "il80_p5": 56300,
+                                   "il80_p6": 60450,
+                                   "il80_p7": 64650,
+                                   "il80_p8": 68800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 66800,
+                            "very_low": {
+                                   "il50_p1": 23750,
+                                   "il50_p2": 27150,
+                                   "il50_p3": 30550,
+                                   "il50_p4": 33900,
+                                   "il50_p5": 36650,
+                                   "il50_p6": 39350,
+                                   "il50_p7": 42050,
+                                   "il50_p8": 44750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38000,
+                                   "il80_p2": 43400,
+                                   "il80_p3": 48850,
+                                   "il80_p4": 54250,
+                                   "il80_p5": 58600,
+                                   "il80_p6": 62950,
+                                   "il80_p7": 67300,
+                                   "il80_p8": 71650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 69200,
+                            "very_low": {
+                                   "il50_p1": 24250,
+                                   "il50_p2": 27700,
+                                   "il50_p3": 31150,
+                                   "il50_p4": 34600,
+                                   "il50_p5": 37400,
+                                   "il50_p6": 40150,
+                                   "il50_p7": 42950,
+                                   "il50_p8": 45700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44300,
+                                   "il80_p3": 49850,
+                                   "il80_p4": 55350,
+                                   "il80_p5": 59800,
+                                   "il80_p6": 64250,
+                                   "il80_p7": 68650,
+                                   "il80_p8": 73100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 70700,
+                            "very_low": {
+                                   "il50_p1": 24800,
+                                   "il50_p2": 28350,
+                                   "il50_p3": 31900,
+                                   "il50_p4": 35400,
+                                   "il50_p5": 38250,
+                                   "il50_p6": 41100,
+                                   "il50_p7": 43900,
+                                   "il50_p8": 46750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45350,
+                                   "il80_p3": 51000,
+                                   "il80_p4": 56650,
+                                   "il80_p5": 61200,
+                                   "il80_p6": 65750,
+                                   "il80_p7": 70250,
+                                   "il80_p8": 74800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 70400,
+                            "very_low": {
+                                   "il50_p1": 25150,
+                                   "il50_p2": 28750,
+                                   "il50_p3": 32350,
+                                   "il50_p4": 35900,
+                                   "il50_p5": 38800,
+                                   "il50_p6": 41650,
+                                   "il50_p7": 44550,
+                                   "il50_p8": 47400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57450,
+                                   "il80_p5": 62050,
+                                   "il80_p6": 66650,
+                                   "il80_p7": 71250,
+                                   "il80_p8": 75850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Oconto County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI",
+                            "area_name": "Oconto County, WI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 80200,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32150,
+                                   "il50_p3": 36150,
+                                   "il50_p4": 40150,
+                                   "il50_p5": 43400,
+                                   "il50_p6": 46600,
+                                   "il50_p7": 49800,
+                                   "il50_p8": 53000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45000,
+                                   "il80_p2": 51400,
+                                   "il80_p3": 57850,
+                                   "il80_p4": 64250,
+                                   "il80_p5": 69400,
+                                   "il80_p6": 74550,
+                                   "il80_p7": 79700,
+                                   "il80_p8": 84850
+                            }
+                     }
+              ]
+       }
+}

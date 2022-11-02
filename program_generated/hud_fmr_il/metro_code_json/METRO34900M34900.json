@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1014,
+                                   "One-Bedroom": 1228,
+                                   "Two-Bedroom": 1598,
+                                   "Three-Bedroom": 2326,
+                                   "Four-Bedroom": 2593,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1005,
+                                   "One-Bedroom": 1196,
+                                   "Two-Bedroom": 1575,
+                                   "Three-Bedroom": 2286,
+                                   "Four-Bedroom": 2533,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1095,
+                                   "One-Bedroom": 1289,
+                                   "Two-Bedroom": 1705,
+                                   "Three-Bedroom": 2465,
+                                   "Four-Bedroom": 2685,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1225,
+                                   "One-Bedroom": 1427,
+                                   "Two-Bedroom": 1880,
+                                   "Three-Bedroom": 2712,
+                                   "Four-Bedroom": 2803,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1331,
+                                   "One-Bedroom": 1531,
+                                   "Two-Bedroom": 2018,
+                                   "Three-Bedroom": 2826,
+                                   "Four-Bedroom": 2836,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA",
+                            "area_name": "Napa, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1438,
+                                   "One-Bedroom": 1645,
+                                   "Two-Bedroom": 2164,
+                                   "Three-Bedroom": 2924,
+                                   "Four-Bedroom": 2935,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "year": "2017",
+                            "median_income": 91000,
+                            "very_low": {
+                                   "il50_p1": 32600,
+                                   "il50_p2": 37250,
+                                   "il50_p3": 41900,
+                                   "il50_p4": 46550,
+                                   "il50_p5": 50300,
+                                   "il50_p6": 54000,
+                                   "il50_p7": 57750,
+                                   "il50_p8": 61450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 25200,
+                                   "il30_p4": 27950,
+                                   "il30_p5": 30200,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 52150,
+                                   "il80_p2": 59600,
+                                   "il80_p3": 67050,
+                                   "il80_p4": 74500,
+                                   "il80_p5": 80500,
+                                   "il80_p6": 86450,
+                                   "il80_p7": 92400,
+                                   "il80_p8": 98350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "year": "2018",
+                            "median_income": 88500,
+                            "very_low": {
+                                   "il50_p1": 32150,
+                                   "il50_p2": 36750,
+                                   "il50_p3": 41350,
+                                   "il50_p4": 45900,
+                                   "il50_p5": 49600,
+                                   "il50_p6": 53250,
+                                   "il50_p7": 56950,
+                                   "il50_p8": 60600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19300,
+                                   "il30_p2": 22050,
+                                   "il30_p3": 24800,
+                                   "il30_p4": 27550,
+                                   "il30_p5": 29800,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 51450,
+                                   "il80_p2": 58800,
+                                   "il80_p3": 66150,
+                                   "il80_p4": 73450,
+                                   "il80_p5": 79350,
+                                   "il80_p6": 85250,
+                                   "il80_p7": 91100,
+                                   "il80_p8": 97000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "year": "2019",
+                            "median_income": 100400,
+                            "very_low": {
+                                   "il50_p1": 35150,
+                                   "il50_p2": 40200,
+                                   "il50_p3": 45200,
+                                   "il50_p4": 50200,
+                                   "il50_p5": 54250,
+                                   "il50_p6": 58250,
+                                   "il50_p7": 62250,
+                                   "il50_p8": 66300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21100,
+                                   "il30_p2": 24100,
+                                   "il30_p3": 27100,
+                                   "il30_p4": 30100,
+                                   "il30_p5": 32550,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 55650,
+                                   "il80_p2": 63600,
+                                   "il80_p3": 71550,
+                                   "il80_p4": 79500,
+                                   "il80_p5": 85900,
+                                   "il80_p6": 92250,
+                                   "il80_p7": 98600,
+                                   "il80_p8": 104950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "year": "2020",
+                            "median_income": 109200,
+                            "very_low": {
+                                   "il50_p1": 37950,
+                                   "il50_p2": 43350,
+                                   "il50_p3": 48750,
+                                   "il50_p4": 54150,
+                                   "il50_p5": 58500,
+                                   "il50_p6": 62850,
+                                   "il50_p7": 67150,
+                                   "il50_p8": 71500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22750,
+                                   "il30_p2": 26000,
+                                   "il30_p3": 29250,
+                                   "il30_p4": 32500,
+                                   "il30_p5": 35100,
+                                   "il30_p6": 37700,
+                                   "il30_p7": 40300,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 60100,
+                                   "il80_p2": 68650,
+                                   "il80_p3": 77250,
+                                   "il80_p4": 85800,
+                                   "il80_p5": 92700,
+                                   "il80_p6": 99550,
+                                   "il80_p7": 106400,
+                                   "il80_p8": 113300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA MSA",
+                            "area_name": "Napa, CA MSA",
+                            "year": "2021",
+                            "median_income": 101500,
+                            "very_low": {
+                                   "il50_p1": 39800,
+                                   "il50_p2": 45500,
+                                   "il50_p3": 51200,
+                                   "il50_p4": 56850,
+                                   "il50_p5": 61400,
+                                   "il50_p6": 65950,
+                                   "il50_p7": 70500,
+                                   "il50_p8": 75050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23900,
+                                   "il30_p2": 27300,
+                                   "il30_p3": 30700,
+                                   "il30_p4": 34100,
+                                   "il30_p5": 36850,
+                                   "il30_p6": 39600,
+                                   "il30_p7": 42300,
+                                   "il30_p8": 45050
+                            },
+                            "low": {
+                                   "il80_p1": 63050,
+                                   "il80_p2": 72050,
+                                   "il80_p3": 81050,
+                                   "il80_p4": 90050,
+                                   "il80_p5": 97300,
+                                   "il80_p6": 104500,
+                                   "il80_p7": 111700,
+                                   "il80_p8": 118900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Napa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Napa, CA",
+                            "area_name": "Napa, CA MSA",
+                            "year": "2022",
+                            "median_income": 119400,
+                            "very_low": {
+                                   "il50_p1": 44150,
+                                   "il50_p2": 50450,
+                                   "il50_p3": 56750,
+                                   "il50_p4": 63050,
+                                   "il50_p5": 68100,
+                                   "il50_p6": 73150,
+                                   "il50_p7": 78200,
+                                   "il50_p8": 83250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26500,
+                                   "il30_p2": 30300,
+                                   "il30_p3": 34100,
+                                   "il30_p4": 37850,
+                                   "il30_p5": 40900,
+                                   "il30_p6": 43950,
+                                   "il30_p7": 46950,
+                                   "il30_p8": 50000
+                            },
+                            "low": {
+                                   "il80_p1": 70550,
+                                   "il80_p2": 80600,
+                                   "il80_p3": 90700,
+                                   "il80_p4": 100750,
+                                   "il80_p5": 108850,
+                                   "il80_p6": 116900,
+                                   "il80_p7": 124950,
+                                   "il80_p8": 133000
+                            }
+                     }
+              ]
+       }
+}

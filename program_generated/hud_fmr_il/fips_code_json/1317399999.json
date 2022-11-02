@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 538,
+                                   "One-Bedroom": 542,
+                                   "Two-Bedroom": 694,
+                                   "Three-Bedroom": 949,
+                                   "Four-Bedroom": 1223,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 554,
+                                   "One-Bedroom": 558,
+                                   "Two-Bedroom": 709,
+                                   "Three-Bedroom": 994,
+                                   "Four-Bedroom": 1249,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 533,
+                                   "One-Bedroom": 536,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 986,
+                                   "Four-Bedroom": 1224,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 549,
+                                   "One-Bedroom": 552,
+                                   "Two-Bedroom": 720,
+                                   "Three-Bedroom": 1025,
+                                   "Four-Bedroom": 1264,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 588,
+                                   "One-Bedroom": 591,
+                                   "Two-Bedroom": 770,
+                                   "Three-Bedroom": 1086,
+                                   "Four-Bedroom": 1333,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA",
+                            "area_name": "Valdosta, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 639,
+                                   "One-Bedroom": 643,
+                                   "Two-Bedroom": 833,
+                                   "Three-Bedroom": 1159,
+                                   "Four-Bedroom": 1376,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "year": "2017",
+                            "median_income": 45900,
+                            "very_low": {
+                                   "il50_p1": 16750,
+                                   "il50_p2": 19150,
+                                   "il50_p3": 21550,
+                                   "il50_p4": 23900,
+                                   "il50_p5": 25850,
+                                   "il50_p6": 27750,
+                                   "il50_p7": 29650,
+                                   "il50_p8": 31550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 23900,
+                                   "il30_p5": 25850,
+                                   "il30_p6": 27750,
+                                   "il30_p7": 29650,
+                                   "il30_p8": 31550
+                            },
+                            "low": {
+                                   "il80_p1": 26800,
+                                   "il80_p2": 30600,
+                                   "il80_p3": 34450,
+                                   "il80_p4": 38250,
+                                   "il80_p5": 41350,
+                                   "il80_p6": 44400,
+                                   "il80_p7": 47450,
+                                   "il80_p8": 50500
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "year": "2018",
+                            "median_income": 49500,
+                            "very_low": {
+                                   "il50_p1": 17350,
+                                   "il50_p2": 19800,
+                                   "il50_p3": 22300,
+                                   "il50_p4": 24750,
+                                   "il50_p5": 26750,
+                                   "il50_p6": 28750,
+                                   "il50_p7": 30700,
+                                   "il50_p8": 32700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24750,
+                                   "il30_p5": 26750,
+                                   "il30_p6": 28750,
+                                   "il30_p7": 30700,
+                                   "il30_p8": 32700
+                            },
+                            "low": {
+                                   "il80_p1": 27750,
+                                   "il80_p2": 31700,
+                                   "il80_p3": 35650,
+                                   "il80_p4": 39600,
+                                   "il80_p5": 42800,
+                                   "il80_p6": 45950,
+                                   "il80_p7": 49150,
+                                   "il80_p8": 52300
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "year": "2019",
+                            "median_income": 54200,
+                            "very_low": {
+                                   "il50_p1": 19000,
+                                   "il50_p2": 21700,
+                                   "il50_p3": 24400,
+                                   "il50_p4": 27100,
+                                   "il50_p5": 29300,
+                                   "il50_p6": 31450,
+                                   "il50_p7": 33650,
+                                   "il50_p8": 35800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29300,
+                                   "il30_p6": 31450,
+                                   "il30_p7": 33650,
+                                   "il30_p8": 35800
+                            },
+                            "low": {
+                                   "il80_p1": 30350,
+                                   "il80_p2": 34700,
+                                   "il80_p3": 39050,
+                                   "il80_p4": 43350,
+                                   "il80_p5": 46850,
+                                   "il80_p6": 50300,
+                                   "il80_p7": 53800,
+                                   "il80_p8": 57250
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "year": "2020",
+                            "median_income": 55400,
+                            "very_low": {
+                                   "il50_p1": 19400,
+                                   "il50_p2": 22200,
+                                   "il50_p3": 24950,
+                                   "il50_p4": 27700,
+                                   "il50_p5": 29950,
+                                   "il50_p6": 32150,
+                                   "il50_p7": 34350,
+                                   "il50_p8": 36600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29950,
+                                   "il30_p6": 32150,
+                                   "il30_p7": 34350,
+                                   "il30_p8": 36600
+                            },
+                            "low": {
+                                   "il80_p1": 31050,
+                                   "il80_p2": 35450,
+                                   "il80_p3": 39900,
+                                   "il80_p4": 44300,
+                                   "il80_p5": 47850,
+                                   "il80_p6": 51400,
+                                   "il80_p7": 54950,
+                                   "il80_p8": 58500
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA MSA",
+                            "area_name": "Valdosta, GA MSA",
+                            "year": "2021",
+                            "median_income": 58100,
+                            "very_low": {
+                                   "il50_p1": 20350,
+                                   "il50_p2": 23250,
+                                   "il50_p3": 26150,
+                                   "il50_p4": 29050,
+                                   "il50_p5": 31400,
+                                   "il50_p6": 33700,
+                                   "il50_p7": 36050,
+                                   "il50_p8": 38350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 33700,
+                                   "il30_p7": 36050,
+                                   "il30_p8": 38350
+                            },
+                            "low": {
+                                   "il80_p1": 32550,
+                                   "il80_p2": 37200,
+                                   "il80_p3": 41850,
+                                   "il80_p4": 46500,
+                                   "il80_p5": 50250,
+                                   "il80_p6": 53950,
+                                   "il80_p7": 57700,
+                                   "il80_p8": 61400
+                            }
+                     },
+                     {
+                            "county_name": "Lanier County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Valdosta, GA",
+                            "area_name": "Valdosta, GA MSA",
+                            "year": "2022",
+                            "median_income": 63700,
+                            "very_low": {
+                                   "il50_p1": 22450,
+                                   "il50_p2": 25650,
+                                   "il50_p3": 28850,
+                                   "il50_p4": 32050,
+                                   "il50_p5": 34650,
+                                   "il50_p6": 37200,
+                                   "il50_p7": 39750,
+                                   "il50_p8": 42350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 39750,
+                                   "il30_p8": 42350
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41050,
+                                   "il80_p3": 46200,
+                                   "il80_p4": 51300,
+                                   "il80_p5": 55450,
+                                   "il80_p6": 59550,
+                                   "il80_p7": 63650,
+                                   "il80_p8": 67750
+                            }
+                     }
+              ]
+       }
+}

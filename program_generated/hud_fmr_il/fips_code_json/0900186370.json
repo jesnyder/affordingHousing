@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1242,
+                                   "One-Bedroom": 1539,
+                                   "Two-Bedroom": 1958,
+                                   "Three-Bedroom": 2485,
+                                   "Four-Bedroom": 2934,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1267,
+                                   "One-Bedroom": 1571,
+                                   "Two-Bedroom": 1986,
+                                   "Three-Bedroom": 2544,
+                                   "Four-Bedroom": 3029,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1211,
+                                   "One-Bedroom": 1517,
+                                   "Two-Bedroom": 1885,
+                                   "Three-Bedroom": 2404,
+                                   "Four-Bedroom": 2752,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1356,
+                                   "One-Bedroom": 1701,
+                                   "Two-Bedroom": 2079,
+                                   "Three-Bedroom": 2616,
+                                   "Four-Bedroom": 2926,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1292,
+                                   "One-Bedroom": 1621,
+                                   "Two-Bedroom": 1958,
+                                   "Three-Bedroom": 2439,
+                                   "Four-Bedroom": 2720,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1520,
+                                   "One-Bedroom": 1855,
+                                   "Two-Bedroom": 2230,
+                                   "Three-Bedroom": 2757,
+                                   "Four-Bedroom": 3056,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 142800,
+                            "very_low": {
+                                   "il50_p1": 49150,
+                                   "il50_p2": 56200,
+                                   "il50_p3": 63200,
+                                   "il50_p4": 70200,
+                                   "il50_p5": 75850,
+                                   "il50_p6": 81450,
+                                   "il50_p7": 87050,
+                                   "il50_p8": 92700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 29500,
+                                   "il30_p2": 33700,
+                                   "il30_p3": 37900,
+                                   "il30_p4": 42100,
+                                   "il30_p5": 45500,
+                                   "il30_p6": 48850,
+                                   "il30_p7": 52250,
+                                   "il30_p8": 55600
+                            },
+                            "low": {
+                                   "il80_p1": 62000,
+                                   "il80_p2": 70850,
+                                   "il80_p3": 79700,
+                                   "il80_p4": 88550,
+                                   "il80_p5": 95650,
+                                   "il80_p6": 102750,
+                                   "il80_p7": 109850,
+                                   "il80_p8": 116900
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 134900,
+                            "very_low": {
+                                   "il50_p1": 47250,
+                                   "il50_p2": 54000,
+                                   "il50_p3": 60750,
+                                   "il50_p4": 67450,
+                                   "il50_p5": 72850,
+                                   "il50_p6": 78250,
+                                   "il50_p7": 83650,
+                                   "il50_p8": 89050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 28350,
+                                   "il30_p2": 32400,
+                                   "il30_p3": 36450,
+                                   "il30_p4": 40450,
+                                   "il30_p5": 43700,
+                                   "il30_p6": 46950,
+                                   "il30_p7": 50200,
+                                   "il30_p8": 53400
+                            },
+                            "low": {
+                                   "il80_p1": 64900,
+                                   "il80_p2": 74150,
+                                   "il80_p3": 83400,
+                                   "il80_p4": 92650,
+                                   "il80_p5": 100100,
+                                   "il80_p6": 107500,
+                                   "il80_p7": 114900,
+                                   "il80_p8": 122300
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 144300,
+                            "very_low": {
+                                   "il50_p1": 50550,
+                                   "il50_p2": 57750,
+                                   "il50_p3": 64950,
+                                   "il50_p4": 72150,
+                                   "il50_p5": 77950,
+                                   "il50_p6": 83700,
+                                   "il50_p7": 89500,
+                                   "il50_p8": 95250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 30350,
+                                   "il30_p2": 34650,
+                                   "il30_p3": 39000,
+                                   "il30_p4": 43300,
+                                   "il30_p5": 46800,
+                                   "il30_p6": 50250,
+                                   "il30_p7": 53700,
+                                   "il30_p8": 57200
+                            },
+                            "low": {
+                                   "il80_p1": 61650,
+                                   "il80_p2": 70450,
+                                   "il80_p3": 79250,
+                                   "il80_p4": 88050,
+                                   "il80_p5": 95100,
+                                   "il80_p6": 102150,
+                                   "il80_p7": 109200,
+                                   "il80_p8": 116250
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 143400,
+                            "very_low": {
+                                   "il50_p1": 50200,
+                                   "il50_p2": 57400,
+                                   "il50_p3": 64550,
+                                   "il50_p4": 71700,
+                                   "il50_p5": 77450,
+                                   "il50_p6": 83200,
+                                   "il50_p7": 88950,
+                                   "il50_p8": 94650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 30100,
+                                   "il30_p2": 34400,
+                                   "il30_p3": 38700,
+                                   "il30_p4": 43000,
+                                   "il30_p5": 46450,
+                                   "il30_p6": 49900,
+                                   "il30_p7": 53350,
+                                   "il30_p8": 56800
+                            },
+                            "low": {
+                                   "il80_p1": 66500,
+                                   "il80_p2": 76000,
+                                   "il80_p3": 85500,
+                                   "il80_p4": 95000,
+                                   "il80_p5": 102600,
+                                   "il80_p6": 110200,
+                                   "il80_p7": 117800,
+                                   "il80_p8": 125400
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT MSA",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 151800,
+                            "very_low": {
+                                   "il50_p1": 52700,
+                                   "il50_p2": 60200,
+                                   "il50_p3": 67750,
+                                   "il50_p4": 75250,
+                                   "il50_p5": 81300,
+                                   "il50_p6": 87300,
+                                   "il50_p7": 93350,
+                                   "il50_p8": 99350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 31650,
+                                   "il30_p2": 36150,
+                                   "il30_p3": 40650,
+                                   "il30_p4": 45150,
+                                   "il30_p5": 48800,
+                                   "il30_p6": 52400,
+                                   "il30_p7": 56000,
+                                   "il30_p8": 59600
+                            },
+                            "low": {
+                                   "il80_p1": 63950,
+                                   "il80_p2": 73050,
+                                   "il80_p3": 82200,
+                                   "il80_p4": 91300,
+                                   "il80_p5": 98650,
+                                   "il80_p6": 105950,
+                                   "il80_p7": 113250,
+                                   "il80_p8": 120550
+                            }
+                     },
+                     {
+                            "county_name": "Fairfield County, CT",
+                            "counties_msa": "",
+                            "town_name": "Wilton town",
+                            "metro_status": "1",
+                            "metro_name": "Bridgeport-Stamford-Norwalk, CT",
+                            "area_name": "Stamford-Norwalk, CT HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 180900,
+                            "very_low": {
+                                   "il50_p1": 58950,
+                                   "il50_p2": 67350,
+                                   "il50_p3": 75750,
+                                   "il50_p4": 84150,
+                                   "il50_p5": 90900,
+                                   "il50_p6": 97650,
+                                   "il50_p7": 104350,
+                                   "il50_p8": 111100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 35350,
+                                   "il30_p2": 40400,
+                                   "il30_p3": 45450,
+                                   "il30_p4": 50500,
+                                   "il30_p5": 54550,
+                                   "il30_p6": 58600,
+                                   "il30_p7": 62650,
+                                   "il30_p8": 66700
+                            },
+                            "low": {
+                                   "il80_p1": 71550,
+                                   "il80_p2": 81750,
+                                   "il80_p3": 91950,
+                                   "il80_p4": 102150,
+                                   "il80_p5": 110350,
+                                   "il80_p6": 118500,
+                                   "il80_p7": 126700,
+                                   "il80_p8": 134850
+                            }
+                     }
+              ]
+       }
+}

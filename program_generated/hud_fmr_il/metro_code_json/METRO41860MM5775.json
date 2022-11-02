@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1435,
+                                   "One-Bedroom": 1723,
+                                   "Two-Bedroom": 2173,
+                                   "Three-Bedroom": 3017,
+                                   "Four-Bedroom": 3477,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1540,
+                                   "One-Bedroom": 1855,
+                                   "Two-Bedroom": 2329,
+                                   "Three-Bedroom": 3219,
+                                   "Four-Bedroom": 3946,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1397,
+                                   "One-Bedroom": 1693,
+                                   "Two-Bedroom": 2109,
+                                   "Three-Bedroom": 2902,
+                                   "Four-Bedroom": 3558,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1488,
+                                   "One-Bedroom": 1808,
+                                   "Two-Bedroom": 2239,
+                                   "Three-Bedroom": 3042,
+                                   "Four-Bedroom": 3720,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1595,
+                                   "One-Bedroom": 1934,
+                                   "Two-Bedroom": 2383,
+                                   "Three-Bedroom": 3196,
+                                   "Four-Bedroom": 3863,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Berkeley, CA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1538,
+                                   "One-Bedroom": 1854,
+                                   "Two-Bedroom": 2274,
+                                   "Three-Bedroom": 3006,
+                                   "Four-Bedroom": 3578,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 97400,
+                            "very_low": {
+                                   "il50_p1": 36550,
+                                   "il50_p2": 41750,
+                                   "il50_p3": 46950,
+                                   "il50_p4": 52150,
+                                   "il50_p5": 56350,
+                                   "il50_p6": 60500,
+                                   "il50_p7": 64700,
+                                   "il50_p8": 68850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21950,
+                                   "il30_p2": 25050,
+                                   "il30_p3": 28200,
+                                   "il30_p4": 31300,
+                                   "il30_p5": 33850,
+                                   "il30_p6": 36350,
+                                   "il30_p7": 38850,
+                                   "il30_p8": 41350
+                            },
+                            "low": {
+                                   "il80_p1": 56300,
+                                   "il80_p2": 64350,
+                                   "il80_p3": 72400,
+                                   "il80_p4": 80400,
+                                   "il80_p5": 86850,
+                                   "il80_p6": 93300,
+                                   "il80_p7": 99700,
+                                   "il80_p8": 106150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 104400,
+                            "very_low": {
+                                   "il50_p1": 40700,
+                                   "il50_p2": 46500,
+                                   "il50_p3": 52300,
+                                   "il50_p4": 58100,
+                                   "il50_p5": 62750,
+                                   "il50_p6": 67400,
+                                   "il50_p7": 72050,
+                                   "il50_p8": 76700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24400,
+                                   "il30_p2": 27900,
+                                   "il30_p3": 31400,
+                                   "il30_p4": 34850,
+                                   "il30_p5": 37650,
+                                   "il30_p6": 40450,
+                                   "il30_p7": 43250,
+                                   "il30_p8": 46050
+                            },
+                            "low": {
+                                   "il80_p1": 62750,
+                                   "il80_p2": 71700,
+                                   "il80_p3": 80650,
+                                   "il80_p4": 89600,
+                                   "il80_p5": 96800,
+                                   "il80_p6": 103950,
+                                   "il80_p7": 111150,
+                                   "il80_p8": 118300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 111700,
+                            "very_low": {
+                                   "il50_p1": 43400,
+                                   "il50_p2": 49600,
+                                   "il50_p3": 55800,
+                                   "il50_p4": 61950,
+                                   "il50_p5": 66950,
+                                   "il50_p6": 71900,
+                                   "il50_p7": 76850,
+                                   "il50_p8": 81800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26050,
+                                   "il30_p2": 29750,
+                                   "il30_p3": 33450,
+                                   "il30_p4": 37150,
+                                   "il30_p5": 40150,
+                                   "il30_p6": 43100,
+                                   "il30_p7": 46100,
+                                   "il30_p8": 49050
+                            },
+                            "low": {
+                                   "il80_p1": 69000,
+                                   "il80_p2": 78850,
+                                   "il80_p3": 88700,
+                                   "il80_p4": 98550,
+                                   "il80_p5": 106450,
+                                   "il80_p6": 114350,
+                                   "il80_p7": 122250,
+                                   "il80_p8": 130100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 119200,
+                            "very_low": {
+                                   "il50_p1": 45700,
+                                   "il50_p2": 52200,
+                                   "il50_p3": 58750,
+                                   "il50_p4": 65250,
+                                   "il50_p5": 70500,
+                                   "il50_p6": 75700,
+                                   "il50_p7": 80950,
+                                   "il50_p8": 86150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 27450,
+                                   "il30_p2": 31350,
+                                   "il30_p3": 35250,
+                                   "il30_p4": 39150,
+                                   "il30_p5": 42300,
+                                   "il30_p6": 45450,
+                                   "il30_p7": 48550,
+                                   "il30_p8": 51700
+                            },
+                            "low": {
+                                   "il80_p1": 73100,
+                                   "il80_p2": 83550,
+                                   "il80_p3": 94000,
+                                   "il80_p4": 104400,
+                                   "il80_p5": 112800,
+                                   "il80_p6": 121150,
+                                   "il80_p7": 129500,
+                                   "il80_p8": 137850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Hayward, CA MSA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 125600,
+                            "very_low": {
+                                   "il50_p1": 47950,
+                                   "il50_p2": 54800,
+                                   "il50_p3": 61650,
+                                   "il50_p4": 68500,
+                                   "il50_p5": 74000,
+                                   "il50_p6": 79500,
+                                   "il50_p7": 84950,
+                                   "il50_p8": 90450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 28800,
+                                   "il30_p2": 32900,
+                                   "il30_p3": 37000,
+                                   "il30_p4": 41100,
+                                   "il30_p5": 44400,
+                                   "il30_p6": 47700,
+                                   "il30_p7": 51000,
+                                   "il30_p8": 54300
+                            },
+                            "low": {
+                                   "il80_p1": 76750,
+                                   "il80_p2": 87700,
+                                   "il80_p3": 98650,
+                                   "il80_p4": 109600,
+                                   "il80_p5": 118400,
+                                   "il80_p6": 127150,
+                                   "il80_p7": 135950,
+                                   "il80_p8": 144700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Alameda County, CA; Contra Costa County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Francisco-Oakland-Berkeley, CA",
+                            "area_name": "Oakland-Fremont, CA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 142800,
+                            "very_low": {
+                                   "il50_p1": 50000,
+                                   "il50_p2": 57150,
+                                   "il50_p3": 64300,
+                                   "il50_p4": 71400,
+                                   "il50_p5": 77150,
+                                   "il50_p6": 82850,
+                                   "il50_p7": 88550,
+                                   "il50_p8": 94250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 30000,
+                                   "il30_p2": 34300,
+                                   "il30_p3": 38600,
+                                   "il30_p4": 42850,
+                                   "il30_p5": 46300,
+                                   "il30_p6": 49750,
+                                   "il30_p7": 53150,
+                                   "il30_p8": 56600
+                            },
+                            "low": {
+                                   "il80_p1": 74200,
+                                   "il80_p2": 84800,
+                                   "il80_p3": 95400,
+                                   "il80_p4": 106000,
+                                   "il80_p5": 114500,
+                                   "il80_p6": 123000,
+                                   "il80_p7": 131450,
+                                   "il80_p8": 139950
+                            }
+                     }
+              ]
+       }
+}

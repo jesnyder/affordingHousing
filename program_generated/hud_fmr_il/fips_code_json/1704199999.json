@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 444,
+                                   "One-Bedroom": 500,
+                                   "Two-Bedroom": 665,
+                                   "Three-Bedroom": 832,
+                                   "Four-Bedroom": 929,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 473,
+                                   "One-Bedroom": 528,
+                                   "Two-Bedroom": 702,
+                                   "Three-Bedroom": 928,
+                                   "Four-Bedroom": 1000,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 473,
+                                   "One-Bedroom": 527,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 967,
+                                   "Four-Bedroom": 1033,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 540,
+                                   "One-Bedroom": 544,
+                                   "Two-Bedroom": 698,
+                                   "Three-Bedroom": 995,
+                                   "Four-Bedroom": 1069,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 555,
+                                   "One-Bedroom": 559,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 988,
+                                   "Four-Bedroom": 1134,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 746,
+                                   "Three-Bedroom": 1017,
+                                   "Four-Bedroom": 1050,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "year": "2017",
+                            "median_income": 67000,
+                            "very_low": {
+                                   "il50_p1": 23450,
+                                   "il50_p2": 26800,
+                                   "il50_p3": 30150,
+                                   "il50_p4": 33500,
+                                   "il50_p5": 36200,
+                                   "il50_p6": 38900,
+                                   "il50_p7": 41550,
+                                   "il50_p8": 44250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37550,
+                                   "il80_p2": 42900,
+                                   "il80_p3": 48250,
+                                   "il80_p4": 53600,
+                                   "il80_p5": 57900,
+                                   "il80_p6": 62200,
+                                   "il80_p7": 66500,
+                                   "il80_p8": 70800
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "year": "2018",
+                            "median_income": 68300,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27350,
+                                   "il50_p3": 30750,
+                                   "il50_p4": 34150,
+                                   "il50_p5": 36900,
+                                   "il50_p6": 39650,
+                                   "il50_p7": 42350,
+                                   "il50_p8": 45100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43750,
+                                   "il80_p3": 49200,
+                                   "il80_p4": 54650,
+                                   "il80_p5": 59050,
+                                   "il80_p6": 63400,
+                                   "il80_p7": 67800,
+                                   "il80_p8": 72150
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "year": "2019",
+                            "median_income": 70500,
+                            "very_low": {
+                                   "il50_p1": 24700,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31750,
+                                   "il50_p4": 35250,
+                                   "il50_p5": 38100,
+                                   "il50_p6": 40900,
+                                   "il50_p7": 43750,
+                                   "il50_p8": 46550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 16950,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39500,
+                                   "il80_p2": 45150,
+                                   "il80_p3": 50800,
+                                   "il80_p4": 56400,
+                                   "il80_p5": 60950,
+                                   "il80_p6": 65450,
+                                   "il80_p7": 69950,
+                                   "il80_p8": 74450
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "year": "2020",
+                            "median_income": 68000,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 34000,
+                                   "il50_p5": 36750,
+                                   "il50_p6": 39450,
+                                   "il50_p7": 42200,
+                                   "il50_p8": 44900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14300,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38100,
+                                   "il80_p2": 43550,
+                                   "il80_p3": 49000,
+                                   "il80_p4": 54400,
+                                   "il80_p5": 58800,
+                                   "il80_p6": 63150,
+                                   "il80_p7": 67500,
+                                   "il80_p8": 71850
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "year": "2021",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54500,
+                                   "il80_p5": 58900,
+                                   "il80_p6": 63250,
+                                   "il80_p7": 67600,
+                                   "il80_p8": 71950
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, IL",
+                            "year": "2022",
+                            "median_income": 76700,
+                            "very_low": {
+                                   "il50_p1": 26650,
+                                   "il50_p2": 30450,
+                                   "il50_p3": 34250,
+                                   "il50_p4": 38050,
+                                   "il50_p5": 41100,
+                                   "il50_p6": 44150,
+                                   "il50_p7": 47200,
+                                   "il50_p8": 50250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42650,
+                                   "il80_p2": 48750,
+                                   "il80_p3": 54850,
+                                   "il80_p4": 60900,
+                                   "il80_p5": 65800,
+                                   "il80_p6": 70650,
+                                   "il80_p7": 75550,
+                                   "il80_p8": 80400
+                            }
+                     }
+              ]
+       }
+}

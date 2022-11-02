@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 644,
+                                   "One-Bedroom": 682,
+                                   "Two-Bedroom": 818,
+                                   "Three-Bedroom": 1047,
+                                   "Four-Bedroom": 1134,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 682,
+                                   "One-Bedroom": 725,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1190,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 779,
+                                   "Two-Bedroom": 892,
+                                   "Three-Bedroom": 1191,
+                                   "Four-Bedroom": 1272,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 700,
+                                   "One-Bedroom": 789,
+                                   "Two-Bedroom": 898,
+                                   "Three-Bedroom": 1195,
+                                   "Four-Bedroom": 1315,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 761,
+                                   "One-Bedroom": 834,
+                                   "Two-Bedroom": 951,
+                                   "Three-Bedroom": 1254,
+                                   "Four-Bedroom": 1402,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA",
+                            "area_name": "Gainesville, GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 840,
+                                   "One-Bedroom": 902,
+                                   "Two-Bedroom": 1028,
+                                   "Three-Bedroom": 1339,
+                                   "Four-Bedroom": 1516,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "year": "2017",
+                            "median_income": 61700,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27200,
+                                   "il50_p4": 30200,
+                                   "il50_p5": 32650,
+                                   "il50_p6": 35050,
+                                   "il50_p7": 37450,
+                                   "il50_p8": 39900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12700,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39900
+                            },
+                            "low": {
+                                   "il80_p1": 33850,
+                                   "il80_p2": 38650,
+                                   "il80_p3": 43500,
+                                   "il80_p4": 48300,
+                                   "il80_p5": 52200,
+                                   "il80_p6": 56050,
+                                   "il80_p7": 59900,
+                                   "il80_p8": 63800
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "year": "2018",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "year": "2019",
+                            "median_income": 66800,
+                            "very_low": {
+                                   "il50_p1": 23400,
+                                   "il50_p2": 26750,
+                                   "il50_p3": 30100,
+                                   "il50_p4": 33400,
+                                   "il50_p5": 36100,
+                                   "il50_p6": 38750,
+                                   "il50_p7": 41450,
+                                   "il50_p8": 44100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14050,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37450,
+                                   "il80_p2": 42800,
+                                   "il80_p3": 48150,
+                                   "il80_p4": 53450,
+                                   "il80_p5": 57750,
+                                   "il80_p6": 62050,
+                                   "il80_p7": 66300,
+                                   "il80_p8": 70600
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "year": "2020",
+                            "median_income": 75500,
+                            "very_low": {
+                                   "il50_p1": 25250,
+                                   "il50_p2": 28850,
+                                   "il50_p3": 32450,
+                                   "il50_p4": 36050,
+                                   "il50_p5": 38950,
+                                   "il50_p6": 41850,
+                                   "il50_p7": 44750,
+                                   "il50_p8": 47600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17350,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40400,
+                                   "il80_p2": 46150,
+                                   "il80_p3": 51900,
+                                   "il80_p4": 57650,
+                                   "il80_p5": 62300,
+                                   "il80_p6": 66900,
+                                   "il80_p7": 71500,
+                                   "il80_p8": 76100
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA MSA",
+                            "area_name": "Gainesville, GA MSA",
+                            "year": "2021",
+                            "median_income": 77100,
+                            "very_low": {
+                                   "il50_p1": 26500,
+                                   "il50_p2": 30300,
+                                   "il50_p3": 34100,
+                                   "il50_p4": 37850,
+                                   "il50_p5": 40900,
+                                   "il50_p6": 43950,
+                                   "il50_p7": 46950,
+                                   "il50_p8": 50000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42350,
+                                   "il80_p2": 48400,
+                                   "il80_p3": 54450,
+                                   "il80_p4": 60500,
+                                   "il80_p5": 65350,
+                                   "il80_p6": 70200,
+                                   "il80_p7": 75050,
+                                   "il80_p8": 79900
+                            }
+                     },
+                     {
+                            "county_name": "Hall County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Gainesville, GA",
+                            "area_name": "Gainesville, GA MSA",
+                            "year": "2022",
+                            "median_income": 87700,
+                            "very_low": {
+                                   "il50_p1": 29650,
+                                   "il50_p2": 33900,
+                                   "il50_p3": 38150,
+                                   "il50_p4": 42350,
+                                   "il50_p5": 45750,
+                                   "il50_p6": 49150,
+                                   "il50_p7": 52550,
+                                   "il50_p8": 55950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17800,
+                                   "il30_p2": 20350,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47400,
+                                   "il80_p2": 54150,
+                                   "il80_p3": 60900,
+                                   "il80_p4": 67650,
+                                   "il80_p5": 73100,
+                                   "il80_p6": 78500,
+                                   "il80_p7": 83900,
+                                   "il80_p8": 89300
+                            }
+                     }
+              ]
+       }
+}

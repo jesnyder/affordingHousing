@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 550,
+                                   "One-Bedroom": 652,
+                                   "Two-Bedroom": 867,
+                                   "Three-Bedroom": 1262,
+                                   "Four-Bedroom": 1493,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 545,
+                                   "One-Bedroom": 642,
+                                   "Two-Bedroom": 854,
+                                   "Three-Bedroom": 1242,
+                                   "Four-Bedroom": 1463,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 580,
+                                   "One-Bedroom": 683,
+                                   "Two-Bedroom": 903,
+                                   "Three-Bedroom": 1306,
+                                   "Four-Bedroom": 1543,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 618,
+                                   "One-Bedroom": 721,
+                                   "Two-Bedroom": 949,
+                                   "Three-Bedroom": 1369,
+                                   "Four-Bedroom": 1618,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 633,
+                                   "One-Bedroom": 728,
+                                   "Two-Bedroom": 959,
+                                   "Three-Bedroom": 1372,
+                                   "Four-Bedroom": 1627,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ",
+                            "area_name": "Tucson, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 665,
+                                   "One-Bedroom": 761,
+                                   "Two-Bedroom": 1001,
+                                   "Three-Bedroom": 1422,
+                                   "Four-Bedroom": 1685,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "year": "2017",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "year": "2018",
+                            "median_income": 60600,
+                            "very_low": {
+                                   "il50_p1": 21250,
+                                   "il50_p2": 24250,
+                                   "il50_p3": 27300,
+                                   "il50_p4": 30300,
+                                   "il50_p5": 32750,
+                                   "il50_p6": 35150,
+                                   "il50_p7": 37600,
+                                   "il50_p8": 40000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37600,
+                                   "il30_p8": 40000
+                            },
+                            "low": {
+                                   "il80_p1": 33950,
+                                   "il80_p2": 38800,
+                                   "il80_p3": 43650,
+                                   "il80_p4": 48500,
+                                   "il80_p5": 52400,
+                                   "il80_p6": 56300,
+                                   "il80_p7": 60150,
+                                   "il80_p8": 64050
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "year": "2019",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "year": "2020",
+                            "median_income": 68400,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ MSA",
+                            "area_name": "Tucson, AZ MSA",
+                            "year": "2021",
+                            "median_income": 68600,
+                            "very_low": {
+                                   "il50_p1": 24050,
+                                   "il50_p2": 27450,
+                                   "il50_p3": 30900,
+                                   "il50_p4": 34300,
+                                   "il50_p5": 37050,
+                                   "il50_p6": 39800,
+                                   "il50_p7": 42550,
+                                   "il50_p8": 45300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14450,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38450,
+                                   "il80_p2": 43950,
+                                   "il80_p3": 49450,
+                                   "il80_p4": 54900,
+                                   "il80_p5": 59300,
+                                   "il80_p6": 63700,
+                                   "il80_p7": 68100,
+                                   "il80_p8": 72500
+                            }
+                     },
+                     {
+                            "county_name": "Pima County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tucson, AZ",
+                            "area_name": "Tucson, AZ MSA",
+                            "year": "2022",
+                            "median_income": 81100,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     }
+              ]
+       }
+}

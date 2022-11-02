@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 478,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 702,
+                                   "Three-Bedroom": 878,
+                                   "Four-Bedroom": 1120,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 492,
+                                   "One-Bedroom": 612,
+                                   "Two-Bedroom": 721,
+                                   "Three-Bedroom": 904,
+                                   "Four-Bedroom": 1107,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 505,
+                                   "One-Bedroom": 628,
+                                   "Two-Bedroom": 733,
+                                   "Three-Bedroom": 918,
+                                   "Four-Bedroom": 1083,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 508,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 726,
+                                   "Three-Bedroom": 905,
+                                   "Four-Bedroom": 983,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 581,
+                                   "One-Bedroom": 585,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 920,
+                                   "Four-Bedroom": 1134,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 523,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 735,
+                                   "Three-Bedroom": 971,
+                                   "Four-Bedroom": 1122,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 64400,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29000,
+                                   "il50_p4": 32200,
+                                   "il50_p5": 34800,
+                                   "il50_p6": 37400,
+                                   "il50_p7": 39950,
+                                   "il50_p8": 42550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51500,
+                                   "il80_p5": 55650,
+                                   "il80_p6": 59750,
+                                   "il80_p7": 63900,
+                                   "il80_p8": 68000
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 66700,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26700,
+                                   "il50_p3": 30050,
+                                   "il50_p4": 33350,
+                                   "il50_p5": 36050,
+                                   "il50_p6": 38700,
+                                   "il50_p7": 41400,
+                                   "il50_p8": 44050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42700,
+                                   "il80_p3": 48050,
+                                   "il80_p4": 53350,
+                                   "il80_p5": 57650,
+                                   "il80_p6": 61900,
+                                   "il80_p7": 66200,
+                                   "il80_p8": 70450
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 70000,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 35000,
+                                   "il50_p5": 37800,
+                                   "il50_p6": 40600,
+                                   "il50_p7": 43400,
+                                   "il50_p8": 46200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39200,
+                                   "il80_p2": 44800,
+                                   "il80_p3": 50400,
+                                   "il80_p4": 56000,
+                                   "il80_p5": 60500,
+                                   "il80_p6": 65000,
+                                   "il80_p7": 69450,
+                                   "il80_p8": 73950
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 71900,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 35950,
+                                   "il50_p5": 38850,
+                                   "il50_p6": 41750,
+                                   "il50_p7": 44600,
+                                   "il50_p8": 47500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 17250,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57500,
+                                   "il80_p5": 62100,
+                                   "il80_p6": 66700,
+                                   "il80_p7": 71300,
+                                   "il80_p8": 75900
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL MSA",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 77000,
+                            "very_low": {
+                                   "il50_p1": 26400,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 33950,
+                                   "il50_p4": 37700,
+                                   "il50_p5": 40750,
+                                   "il50_p6": 43750,
+                                   "il50_p7": 46750,
+                                   "il50_p8": 49800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15850,
+                                   "il30_p2": 18100,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42250,
+                                   "il80_p2": 48250,
+                                   "il80_p3": 54300,
+                                   "il80_p4": 60300,
+                                   "il80_p5": 65150,
+                                   "il80_p6": 69950,
+                                   "il80_p7": 74800,
+                                   "il80_p8": 79600
+                            }
+                     },
+                     {
+                            "county_name": "Bond County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Louis, MO-IL",
+                            "area_name": "Bond County, IL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 84800,
+                            "very_low": {
+                                   "il50_p1": 29550,
+                                   "il50_p2": 33750,
+                                   "il50_p3": 37950,
+                                   "il50_p4": 42150,
+                                   "il50_p5": 45550,
+                                   "il50_p6": 48900,
+                                   "il50_p7": 52300,
+                                   "il50_p8": 55650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20250,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47250,
+                                   "il80_p2": 54000,
+                                   "il80_p3": 60750,
+                                   "il80_p4": 67450,
+                                   "il80_p5": 72850,
+                                   "il80_p6": 78250,
+                                   "il80_p7": 83650,
+                                   "il80_p8": 89050
+                            }
+                     }
+              ]
+       }
+}

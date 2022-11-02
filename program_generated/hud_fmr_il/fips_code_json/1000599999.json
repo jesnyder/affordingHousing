@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 618,
+                                   "One-Bedroom": 688,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1304,
+                                   "Four-Bedroom": 1477,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 691,
+                                   "Two-Bedroom": 900,
+                                   "Three-Bedroom": 1309,
+                                   "Four-Bedroom": 1471,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 812,
+                                   "Two-Bedroom": 1053,
+                                   "Three-Bedroom": 1521,
+                                   "Four-Bedroom": 1721,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 731,
+                                   "Two-Bedroom": 948,
+                                   "Three-Bedroom": 1369,
+                                   "Four-Bedroom": 1549,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 641,
+                                   "One-Bedroom": 732,
+                                   "Two-Bedroom": 965,
+                                   "Three-Bedroom": 1306,
+                                   "Four-Bedroom": 1506,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 651,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 964,
+                                   "Three-Bedroom": 1289,
+                                   "Four-Bedroom": 1515,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 68700,
+                            "very_low": {
+                                   "il50_p1": 24050,
+                                   "il50_p2": 27500,
+                                   "il50_p3": 30950,
+                                   "il50_p4": 34350,
+                                   "il50_p5": 37100,
+                                   "il50_p6": 39850,
+                                   "il50_p7": 42600,
+                                   "il50_p8": 45350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14450,
+                                   "il30_p2": 16500,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38500,
+                                   "il80_p2": 44000,
+                                   "il80_p3": 49500,
+                                   "il80_p4": 54950,
+                                   "il80_p5": 59350,
+                                   "il80_p6": 63750,
+                                   "il80_p7": 68150,
+                                   "il80_p8": 72550
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 72100,
+                            "very_low": {
+                                   "il50_p1": 25250,
+                                   "il50_p2": 28850,
+                                   "il50_p3": 32450,
+                                   "il50_p4": 36050,
+                                   "il50_p5": 38950,
+                                   "il50_p6": 41850,
+                                   "il50_p7": 44750,
+                                   "il50_p8": 47600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17350,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40400,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 51950,
+                                   "il80_p4": 57700,
+                                   "il80_p5": 62350,
+                                   "il80_p6": 66950,
+                                   "il80_p7": 71550,
+                                   "il80_p8": 76200
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 75900,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 37950,
+                                   "il50_p5": 41000,
+                                   "il50_p6": 44050,
+                                   "il50_p7": 47100,
+                                   "il50_p8": 50100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48600,
+                                   "il80_p3": 54650,
+                                   "il80_p4": 60700,
+                                   "il80_p5": 65600,
+                                   "il80_p6": 70450,
+                                   "il80_p7": 75300,
+                                   "il80_p8": 80150
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 75100,
+                            "very_low": {
+                                   "il50_p1": 26300,
+                                   "il50_p2": 30050,
+                                   "il50_p3": 33800,
+                                   "il50_p4": 37550,
+                                   "il50_p5": 40600,
+                                   "il50_p6": 43600,
+                                   "il50_p7": 46600,
+                                   "il50_p8": 49600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18050,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42100,
+                                   "il80_p2": 48100,
+                                   "il80_p3": 54100,
+                                   "il80_p4": 60100,
+                                   "il80_p5": 64950,
+                                   "il80_p6": 69750,
+                                   "il80_p7": 74550,
+                                   "il80_p8": 79350
+                            }
+                     },
+                     {
+                            "county_name": "Sussex County, DE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE",
+                            "area_name": "Sussex County, DE HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 91900,
+                            "very_low": {
+                                   "il50_p1": 29400,
+                                   "il50_p2": 33600,
+                                   "il50_p3": 37800,
+                                   "il50_p4": 42000,
+                                   "il50_p5": 45400,
+                                   "il50_p6": 48750,
+                                   "il50_p7": 52100,
+                                   "il50_p8": 55450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17650,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47050,
+                                   "il80_p2": 53800,
+                                   "il80_p3": 60500,
+                                   "il80_p4": 67200,
+                                   "il80_p5": 72600,
+                                   "il80_p6": 78000,
+                                   "il80_p7": 83350,
+                                   "il80_p8": 88750
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 588,
+                                   "One-Bedroom": 731,
+                                   "Two-Bedroom": 843,
+                                   "Three-Bedroom": 1103,
+                                   "Four-Bedroom": 1264,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 618,
+                                   "One-Bedroom": 751,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1127,
+                                   "Four-Bedroom": 1259,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 730,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1105,
+                                   "Four-Bedroom": 1253,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 660,
+                                   "One-Bedroom": 795,
+                                   "Two-Bedroom": 912,
+                                   "Three-Bedroom": 1205,
+                                   "Four-Bedroom": 1326,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 634,
+                                   "One-Bedroom": 790,
+                                   "Two-Bedroom": 901,
+                                   "Three-Bedroom": 1200,
+                                   "Four-Bedroom": 1363,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 608,
+                                   "One-Bedroom": 781,
+                                   "Two-Bedroom": 890,
+                                   "Three-Bedroom": 1202,
+                                   "Four-Bedroom": 1387,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 70400,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31700,
+                                   "il50_p4": 35200,
+                                   "il50_p5": 38050,
+                                   "il50_p6": 40850,
+                                   "il50_p7": 43650,
+                                   "il50_p8": 46500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 16900,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39450,
+                                   "il80_p2": 45050,
+                                   "il80_p3": 50700,
+                                   "il80_p4": 56300,
+                                   "il80_p5": 60850,
+                                   "il80_p6": 65350,
+                                   "il80_p7": 69850,
+                                   "il80_p8": 74350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 66000,
+                            "very_low": {
+                                   "il50_p1": 23450,
+                                   "il50_p2": 26800,
+                                   "il50_p3": 30150,
+                                   "il50_p4": 33450,
+                                   "il50_p5": 36150,
+                                   "il50_p6": 38850,
+                                   "il50_p7": 41500,
+                                   "il50_p8": 44200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14050,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37450,
+                                   "il80_p2": 42800,
+                                   "il80_p3": 48150,
+                                   "il80_p4": 53500,
+                                   "il80_p5": 57800,
+                                   "il80_p6": 62100,
+                                   "il80_p7": 66350,
+                                   "il80_p8": 70650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA MSA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 72100,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Lafayette Parish, LA; St. Martin Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lafayette, LA",
+                            "area_name": "Lafayette, LA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 84400,
+                            "very_low": {
+                                   "il50_p1": 26800,
+                                   "il50_p2": 30600,
+                                   "il50_p3": 34450,
+                                   "il50_p4": 38250,
+                                   "il50_p5": 41350,
+                                   "il50_p6": 44400,
+                                   "il50_p7": 47450,
+                                   "il50_p8": 50500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42850,
+                                   "il80_p2": 49000,
+                                   "il80_p3": 55100,
+                                   "il80_p4": 61200,
+                                   "il80_p5": 66100,
+                                   "il80_p6": 71000,
+                                   "il80_p7": 75900,
+                                   "il80_p8": 80800
+                            }
+                     }
+              ]
+       }
+}

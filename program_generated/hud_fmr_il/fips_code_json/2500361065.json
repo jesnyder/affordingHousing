@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 732,
+                                   "One-Bedroom": 768,
+                                   "Two-Bedroom": 886,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1296,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 864,
+                                   "One-Bedroom": 877,
+                                   "Two-Bedroom": 1021,
+                                   "Three-Bedroom": 1280,
+                                   "Four-Bedroom": 1489,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 901,
+                                   "One-Bedroom": 906,
+                                   "Two-Bedroom": 1067,
+                                   "Three-Bedroom": 1337,
+                                   "Four-Bedroom": 1529,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 867,
+                                   "One-Bedroom": 872,
+                                   "Two-Bedroom": 1108,
+                                   "Three-Bedroom": 1381,
+                                   "Four-Bedroom": 1510,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 844,
+                                   "One-Bedroom": 892,
+                                   "Two-Bedroom": 1175,
+                                   "Three-Bedroom": 1461,
+                                   "Four-Bedroom": 1593,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 940,
+                                   "One-Bedroom": 1016,
+                                   "Two-Bedroom": 1337,
+                                   "Three-Bedroom": 1653,
+                                   "Four-Bedroom": 1877,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 72900,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 74800,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21800,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 78900,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35500,
+                                   "il50_p3": 39950,
+                                   "il50_p4": 44350,
+                                   "il50_p5": 47900,
+                                   "il50_p6": 51450,
+                                   "il50_p7": 55000,
+                                   "il50_p8": 58550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 49700,
+                                   "il80_p2": 56800,
+                                   "il80_p3": 63900,
+                                   "il80_p4": 70950,
+                                   "il80_p5": 76650,
+                                   "il80_p6": 82350,
+                                   "il80_p7": 88000,
+                                   "il80_p8": 93700
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 80900,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34200,
+                                   "il50_p3": 38450,
+                                   "il50_p4": 42700,
+                                   "il50_p5": 46150,
+                                   "il50_p6": 49550,
+                                   "il50_p7": 52950,
+                                   "il50_p8": 56400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 47850,
+                                   "il80_p2": 54650,
+                                   "il80_p3": 61500,
+                                   "il80_p4": 68300,
+                                   "il80_p5": 73800,
+                                   "il80_p6": 79250,
+                                   "il80_p7": 84700,
+                                   "il80_p8": 90200
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA MSA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 83900,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     },
+                     {
+                            "county_name": "Berkshire County, MA",
+                            "counties_msa": "",
+                            "town_name": "Sheffield town",
+                            "metro_status": "1",
+                            "metro_name": "Pittsfield, MA",
+                            "area_name": "Berkshire County, MA (part) HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 92100,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52750,
+                                   "il80_p2": 60250,
+                                   "il80_p3": 67800,
+                                   "il80_p4": 75300,
+                                   "il80_p5": 81350,
+                                   "il80_p6": 87350,
+                                   "il80_p7": 93400,
+                                   "il80_p8": 99400
+                            }
+                     }
+              ]
+       }
+}

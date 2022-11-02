@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 727,
+                                   "One-Bedroom": 732,
+                                   "Two-Bedroom": 912,
+                                   "Three-Bedroom": 1328,
+                                   "Four-Bedroom": 1546,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 729,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 882,
+                                   "Three-Bedroom": 1283,
+                                   "Four-Bedroom": 1553,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 769,
+                                   "One-Bedroom": 774,
+                                   "Two-Bedroom": 903,
+                                   "Three-Bedroom": 1306,
+                                   "Four-Bedroom": 1586,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 767,
+                                   "One-Bedroom": 776,
+                                   "Two-Bedroom": 899,
+                                   "Three-Bedroom": 1297,
+                                   "Four-Bedroom": 1578,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 789,
+                                   "One-Bedroom": 794,
+                                   "Two-Bedroom": 932,
+                                   "Three-Bedroom": 1334,
+                                   "Four-Bedroom": 1614,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 779,
+                                   "One-Bedroom": 783,
+                                   "Two-Bedroom": 936,
+                                   "Three-Bedroom": 1330,
+                                   "Four-Bedroom": 1602,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 80200,
+                            "very_low": {
+                                   "il50_p1": 28100,
+                                   "il50_p2": 32100,
+                                   "il50_p3": 36100,
+                                   "il50_p4": 40100,
+                                   "il50_p5": 43350,
+                                   "il50_p6": 46550,
+                                   "il50_p7": 49750,
+                                   "il50_p8": 52950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16850,
+                                   "il30_p2": 19250,
+                                   "il30_p3": 21650,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44950,
+                                   "il80_p2": 51350,
+                                   "il80_p3": 57750,
+                                   "il80_p4": 64150,
+                                   "il80_p5": 69300,
+                                   "il80_p6": 74450,
+                                   "il80_p7": 79550,
+                                   "il80_p8": 84700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 25250,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 91700,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36700,
+                                   "il50_p3": 41300,
+                                   "il50_p4": 45850,
+                                   "il50_p5": 49550,
+                                   "il50_p6": 53200,
+                                   "il50_p7": 56900,
+                                   "il50_p8": 60550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27500,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 51350,
+                                   "il80_p2": 58700,
+                                   "il80_p3": 66050,
+                                   "il80_p4": 73350,
+                                   "il80_p5": 79250,
+                                   "il80_p6": 85100,
+                                   "il80_p7": 91000,
+                                   "il80_p8": 96850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 94700,
+                            "very_low": {
+                                   "il50_p1": 33150,
+                                   "il50_p2": 37900,
+                                   "il50_p3": 42650,
+                                   "il50_p4": 47350,
+                                   "il50_p5": 51150,
+                                   "il50_p6": 54950,
+                                   "il50_p7": 58750,
+                                   "il50_p8": 62550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19900,
+                                   "il30_p2": 22750,
+                                   "il30_p3": 25600,
+                                   "il30_p4": 28400,
+                                   "il30_p5": 30700,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 53050,
+                                   "il80_p2": 60600,
+                                   "il80_p3": 68200,
+                                   "il80_p4": 75750,
+                                   "il80_p5": 81850,
+                                   "il80_p6": 87900,
+                                   "il80_p7": 93950,
+                                   "il80_p8": 100000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 97500,
+                            "very_low": {
+                                   "il50_p1": 34150,
+                                   "il50_p2": 39000,
+                                   "il50_p3": 43900,
+                                   "il50_p4": 48750,
+                                   "il50_p5": 52650,
+                                   "il50_p6": 56550,
+                                   "il50_p7": 60450,
+                                   "il50_p8": 64350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20500,
+                                   "il30_p2": 23400,
+                                   "il30_p3": 26350,
+                                   "il30_p4": 29250,
+                                   "il30_p5": 31600,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 54600,
+                                   "il80_p2": 62400,
+                                   "il80_p3": 70200,
+                                   "il80_p4": 78000,
+                                   "il80_p5": 84250,
+                                   "il80_p6": 90500,
+                                   "il80_p7": 96750,
+                                   "il80_p8": 103000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jefferson County, WV; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                            "area_name": "Jefferson County, WV HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 108800,
+                            "very_low": {
+                                   "il50_p1": 38100,
+                                   "il50_p2": 43550,
+                                   "il50_p3": 49000,
+                                   "il50_p4": 54400,
+                                   "il50_p5": 58800,
+                                   "il50_p6": 63150,
+                                   "il50_p7": 67500,
+                                   "il50_p8": 71850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22900,
+                                   "il30_p2": 26150,
+                                   "il30_p3": 29400,
+                                   "il30_p4": 32650,
+                                   "il30_p5": 35300,
+                                   "il30_p6": 37900,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 60950,
+                                   "il80_p2": 69650,
+                                   "il80_p3": 78350,
+                                   "il80_p4": 87050,
+                                   "il80_p5": 94050,
+                                   "il80_p6": 101000,
+                                   "il80_p7": 107950,
+                                   "il80_p8": 114950
+                            }
+                     }
+              ]
+       }
+}

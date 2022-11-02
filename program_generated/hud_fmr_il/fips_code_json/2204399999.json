@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 595,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 800,
+                                   "Three-Bedroom": 1065,
+                                   "Four-Bedroom": 1251,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 536,
+                                   "One-Bedroom": 600,
+                                   "Two-Bedroom": 750,
+                                   "Three-Bedroom": 991,
+                                   "Four-Bedroom": 1161,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 499,
+                                   "One-Bedroom": 623,
+                                   "Two-Bedroom": 777,
+                                   "Three-Bedroom": 1020,
+                                   "Four-Bedroom": 1189,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 794,
+                                   "Three-Bedroom": 1044,
+                                   "Four-Bedroom": 1184,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 540,
+                                   "One-Bedroom": 650,
+                                   "Two-Bedroom": 819,
+                                   "Three-Bedroom": 1085,
+                                   "Four-Bedroom": 1198,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA",
+                            "area_name": "Alexandria, LA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 543,
+                                   "One-Bedroom": 637,
+                                   "Two-Bedroom": 818,
+                                   "Three-Bedroom": 1097,
+                                   "Four-Bedroom": 1195,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "year": "2017",
+                            "median_income": 54300,
+                            "very_low": {
+                                   "il50_p1": 19050,
+                                   "il50_p2": 21750,
+                                   "il50_p3": 24450,
+                                   "il50_p4": 27150,
+                                   "il50_p5": 29350,
+                                   "il50_p6": 31500,
+                                   "il50_p7": 33700,
+                                   "il50_p8": 35850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31500,
+                                   "il30_p7": 33700,
+                                   "il30_p8": 35850
+                            },
+                            "low": {
+                                   "il80_p1": 30450,
+                                   "il80_p2": 34800,
+                                   "il80_p3": 39150,
+                                   "il80_p4": 43450,
+                                   "il80_p5": 46950,
+                                   "il80_p6": 50450,
+                                   "il80_p7": 53900,
+                                   "il80_p8": 57400
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "year": "2018",
+                            "median_income": 55400,
+                            "very_low": {
+                                   "il50_p1": 19400,
+                                   "il50_p2": 22200,
+                                   "il50_p3": 24950,
+                                   "il50_p4": 27700,
+                                   "il50_p5": 29950,
+                                   "il50_p6": 32150,
+                                   "il50_p7": 34350,
+                                   "il50_p8": 36600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32150,
+                                   "il30_p7": 34350,
+                                   "il30_p8": 36600
+                            },
+                            "low": {
+                                   "il80_p1": 31050,
+                                   "il80_p2": 35450,
+                                   "il80_p3": 39900,
+                                   "il80_p4": 44300,
+                                   "il80_p5": 47850,
+                                   "il80_p6": 51400,
+                                   "il80_p7": 54950,
+                                   "il80_p8": 58500
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "year": "2019",
+                            "median_income": 57600,
+                            "very_low": {
+                                   "il50_p1": 20200,
+                                   "il50_p2": 23050,
+                                   "il50_p3": 25950,
+                                   "il50_p4": 28800,
+                                   "il50_p5": 31150,
+                                   "il50_p6": 33450,
+                                   "il50_p7": 35750,
+                                   "il50_p8": 38050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33450,
+                                   "il30_p7": 35750,
+                                   "il30_p8": 38050
+                            },
+                            "low": {
+                                   "il80_p1": 32300,
+                                   "il80_p2": 36900,
+                                   "il80_p3": 41500,
+                                   "il80_p4": 46100,
+                                   "il80_p5": 49800,
+                                   "il80_p6": 53500,
+                                   "il80_p7": 57200,
+                                   "il80_p8": 60900
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "year": "2020",
+                            "median_income": 58400,
+                            "very_low": {
+                                   "il50_p1": 20450,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26300,
+                                   "il50_p4": 29200,
+                                   "il50_p5": 31550,
+                                   "il50_p6": 33900,
+                                   "il50_p7": 36250,
+                                   "il50_p8": 38550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 33900,
+                                   "il30_p7": 36250,
+                                   "il30_p8": 38550
+                            },
+                            "low": {
+                                   "il80_p1": 32700,
+                                   "il80_p2": 37400,
+                                   "il80_p3": 42050,
+                                   "il80_p4": 46700,
+                                   "il80_p5": 50450,
+                                   "il80_p6": 54200,
+                                   "il80_p7": 57950,
+                                   "il80_p8": 61650
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA MSA",
+                            "area_name": "Alexandria, LA MSA",
+                            "year": "2021",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35100,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "Grant Parish, LA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Alexandria, LA",
+                            "area_name": "Alexandria, LA MSA",
+                            "year": "2022",
+                            "median_income": 63800,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37050,
+                                   "il30_p7": 39600,
+                                   "il30_p8": 42150
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 472,
+                                   "One-Bedroom": 501,
+                                   "Two-Bedroom": 666,
+                                   "Three-Bedroom": 834,
+                                   "Four-Bedroom": 1044,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 580,
+                                   "Two-Bedroom": 708,
+                                   "Three-Bedroom": 888,
+                                   "Four-Bedroom": 964,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 560,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 759,
+                                   "Three-Bedroom": 951,
+                                   "Four-Bedroom": 1191,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 542,
+                                   "One-Bedroom": 624,
+                                   "Two-Bedroom": 710,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 1072,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 642,
+                                   "One-Bedroom": 700,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1093,
+                                   "Four-Bedroom": 1261,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 604,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 742,
+                                   "Three-Bedroom": 1016,
+                                   "Four-Bedroom": 1135,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 55600,
+                            "very_low": {
+                                   "il50_p1": 19500,
+                                   "il50_p2": 22250,
+                                   "il50_p3": 25050,
+                                   "il50_p4": 27800,
+                                   "il50_p5": 30050,
+                                   "il50_p6": 32250,
+                                   "il50_p7": 34500,
+                                   "il50_p8": 36700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32250,
+                                   "il30_p7": 34500,
+                                   "il30_p8": 36700
+                            },
+                            "low": {
+                                   "il80_p1": 31150,
+                                   "il80_p2": 35600,
+                                   "il80_p3": 40050,
+                                   "il80_p4": 44500,
+                                   "il80_p5": 48100,
+                                   "il80_p6": 51650,
+                                   "il80_p7": 55200,
+                                   "il80_p8": 58750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 59900,
+                            "very_low": {
+                                   "il50_p1": 21000,
+                                   "il50_p2": 24000,
+                                   "il50_p3": 27000,
+                                   "il50_p4": 29950,
+                                   "il50_p5": 32350,
+                                   "il50_p6": 34750,
+                                   "il50_p7": 37150,
+                                   "il50_p8": 39550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37150,
+                                   "il30_p8": 39550
+                            },
+                            "low": {
+                                   "il80_p1": 33550,
+                                   "il80_p2": 38350,
+                                   "il80_p3": 43150,
+                                   "il80_p4": 47900,
+                                   "il80_p5": 51750,
+                                   "il80_p6": 55600,
+                                   "il80_p7": 59400,
+                                   "il80_p8": 63250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 20700,
+                                   "il50_p2": 23650,
+                                   "il50_p3": 26600,
+                                   "il50_p4": 29550,
+                                   "il50_p5": 31950,
+                                   "il50_p6": 34300,
+                                   "il50_p7": 36650,
+                                   "il50_p8": 39050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34300,
+                                   "il30_p7": 36650,
+                                   "il30_p8": 39050
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37850,
+                                   "il80_p3": 42600,
+                                   "il80_p4": 47300,
+                                   "il80_p5": 51100,
+                                   "il80_p6": 54900,
+                                   "il80_p7": 58700,
+                                   "il80_p8": 62450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 59300,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34400,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA MSA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35100,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iberville Parish, LA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Baton Rouge, LA",
+                            "area_name": "Iberville Parish, LA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36900,
+                                   "il30_p7": 39450,
+                                   "il30_p8": 42000
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     }
+              ]
+       }
+}

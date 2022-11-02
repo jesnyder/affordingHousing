@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 448,
+                                   "One-Bedroom": 554,
+                                   "Two-Bedroom": 706,
+                                   "Three-Bedroom": 883,
+                                   "Four-Bedroom": 975,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 468,
+                                   "One-Bedroom": 586,
+                                   "Two-Bedroom": 733,
+                                   "Three-Bedroom": 919,
+                                   "Four-Bedroom": 1044,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 467,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 727,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 1054,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 477,
+                                   "One-Bedroom": 608,
+                                   "Two-Bedroom": 732,
+                                   "Three-Bedroom": 924,
+                                   "Four-Bedroom": 1093,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 644,
+                                   "Two-Bedroom": 769,
+                                   "Three-Bedroom": 985,
+                                   "Four-Bedroom": 1147,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI",
+                            "area_name": "Sheboygan, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 664,
+                                   "Two-Bedroom": 797,
+                                   "Three-Bedroom": 1034,
+                                   "Four-Bedroom": 1180,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "year": "2017",
+                            "median_income": 69000,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34500,
+                                   "il50_p5": 37300,
+                                   "il50_p6": 40050,
+                                   "il50_p7": 42800,
+                                   "il50_p8": 45550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16600,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38650,
+                                   "il80_p2": 44200,
+                                   "il80_p3": 49700,
+                                   "il80_p4": 55200,
+                                   "il80_p5": 59650,
+                                   "il80_p6": 64050,
+                                   "il80_p7": 68450,
+                                   "il80_p8": 72900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "year": "2018",
+                            "median_income": 74700,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41850,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53800,
+                                   "il80_p4": 59750,
+                                   "il80_p5": 64550,
+                                   "il80_p6": 69350,
+                                   "il80_p7": 74100,
+                                   "il80_p8": 78900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "year": "2019",
+                            "median_income": 76900,
+                            "very_low": {
+                                   "il50_p1": 26950,
+                                   "il50_p2": 30800,
+                                   "il50_p3": 34650,
+                                   "il50_p4": 38450,
+                                   "il50_p5": 41550,
+                                   "il50_p6": 44650,
+                                   "il50_p7": 47700,
+                                   "il50_p8": 50800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61500,
+                                   "il80_p5": 66450,
+                                   "il80_p6": 71350,
+                                   "il80_p7": 76300,
+                                   "il80_p8": 81200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "year": "2020",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33050,
+                                   "il50_p4": 36700,
+                                   "il50_p5": 39650,
+                                   "il50_p6": 42600,
+                                   "il50_p7": 45550,
+                                   "il50_p8": 48450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 47000,
+                                   "il80_p3": 52850,
+                                   "il80_p4": 58700,
+                                   "il80_p5": 63400,
+                                   "il80_p6": 68100,
+                                   "il80_p7": 72800,
+                                   "il80_p8": 77500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI MSA",
+                            "area_name": "Sheboygan, WI MSA",
+                            "year": "2021",
+                            "median_income": 79600,
+                            "very_low": {
+                                   "il50_p1": 26950,
+                                   "il50_p2": 30800,
+                                   "il50_p3": 34650,
+                                   "il50_p4": 38500,
+                                   "il50_p5": 41600,
+                                   "il50_p6": 44700,
+                                   "il50_p7": 47750,
+                                   "il50_p8": 50850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16200,
+                                   "il30_p2": 18500,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43150,
+                                   "il80_p2": 49300,
+                                   "il80_p3": 55450,
+                                   "il80_p4": 61600,
+                                   "il80_p5": 66550,
+                                   "il80_p6": 71500,
+                                   "il80_p7": 76400,
+                                   "il80_p8": 81350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Sheboygan County, WI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sheboygan, WI",
+                            "area_name": "Sheboygan, WI MSA",
+                            "year": "2022",
+                            "median_income": 84600,
+                            "very_low": {
+                                   "il50_p1": 29650,
+                                   "il50_p2": 33850,
+                                   "il50_p3": 38100,
+                                   "il50_p4": 42300,
+                                   "il50_p5": 45700,
+                                   "il50_p6": 49100,
+                                   "il50_p7": 52500,
+                                   "il50_p8": 55850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17800,
+                                   "il30_p2": 20350,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47400,
+                                   "il80_p2": 54200,
+                                   "il80_p3": 60950,
+                                   "il80_p4": 67700,
+                                   "il80_p5": 73150,
+                                   "il80_p6": 78550,
+                                   "il80_p7": 83950,
+                                   "il80_p8": 89400
+                            }
+                     }
+              ]
+       }
+}

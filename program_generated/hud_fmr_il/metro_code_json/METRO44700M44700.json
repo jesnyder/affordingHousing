@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 967,
+                                   "Three-Bedroom": 1408,
+                                   "Four-Bedroom": 1704,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 746,
+                                   "Two-Bedroom": 990,
+                                   "Three-Bedroom": 1440,
+                                   "Four-Bedroom": 1744,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 702,
+                                   "One-Bedroom": 826,
+                                   "Two-Bedroom": 1092,
+                                   "Three-Bedroom": 1579,
+                                   "Four-Bedroom": 1918,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 745,
+                                   "One-Bedroom": 869,
+                                   "Two-Bedroom": 1144,
+                                   "Three-Bedroom": 1650,
+                                   "Four-Bedroom": 2009,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 845,
+                                   "One-Bedroom": 964,
+                                   "Two-Bedroom": 1270,
+                                   "Three-Bedroom": 1818,
+                                   "Four-Bedroom": 2199,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton, CA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 891,
+                                   "One-Bedroom": 992,
+                                   "Two-Bedroom": 1305,
+                                   "Three-Bedroom": 1854,
+                                   "Four-Bedroom": 2234,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "year": "2017",
+                            "median_income": 61100,
+                            "very_low": {
+                                   "il50_p1": 21400,
+                                   "il50_p2": 24450,
+                                   "il50_p3": 27500,
+                                   "il50_p4": 30550,
+                                   "il50_p5": 33000,
+                                   "il50_p6": 35450,
+                                   "il50_p7": 37900,
+                                   "il50_p8": 40350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40350
+                            },
+                            "low": {
+                                   "il80_p1": 34250,
+                                   "il80_p2": 39150,
+                                   "il80_p3": 44050,
+                                   "il80_p4": 48900,
+                                   "il80_p5": 52850,
+                                   "il80_p6": 56750,
+                                   "il80_p7": 60650,
+                                   "il80_p8": 64550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "year": "2018",
+                            "median_income": 63700,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25500,
+                                   "il50_p3": 28700,
+                                   "il50_p4": 31850,
+                                   "il50_p5": 34400,
+                                   "il50_p6": 36950,
+                                   "il50_p7": 39500,
+                                   "il50_p8": 42050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42050
+                            },
+                            "low": {
+                                   "il80_p1": 35700,
+                                   "il80_p2": 40800,
+                                   "il80_p3": 45900,
+                                   "il80_p4": 50950,
+                                   "il80_p5": 55050,
+                                   "il80_p6": 59150,
+                                   "il80_p7": 63200,
+                                   "il80_p8": 67300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "year": "2019",
+                            "median_income": 71400,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 35000,
+                                   "il50_p5": 37800,
+                                   "il50_p6": 40600,
+                                   "il50_p7": 43400,
+                                   "il50_p8": 46200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39200,
+                                   "il80_p2": 44800,
+                                   "il80_p3": 50400,
+                                   "il80_p4": 56000,
+                                   "il80_p5": 60500,
+                                   "il80_p6": 65000,
+                                   "il80_p7": 69450,
+                                   "il80_p8": 73950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "year": "2020",
+                            "median_income": 75000,
+                            "very_low": {
+                                   "il50_p1": 26250,
+                                   "il50_p2": 30000,
+                                   "il50_p3": 33750,
+                                   "il50_p4": 37500,
+                                   "il50_p5": 40500,
+                                   "il50_p6": 43500,
+                                   "il50_p7": 46500,
+                                   "il50_p8": 49500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42000,
+                                   "il80_p2": 48000,
+                                   "il80_p3": 54000,
+                                   "il80_p4": 60000,
+                                   "il80_p5": 64800,
+                                   "il80_p6": 69600,
+                                   "il80_p7": 74400,
+                                   "il80_p8": 79200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton-Lodi, CA MSA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "year": "2021",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 37000,
+                                   "il50_p5": 40000,
+                                   "il50_p6": 42950,
+                                   "il50_p7": 45900,
+                                   "il50_p8": 48850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41450,
+                                   "il80_p2": 47400,
+                                   "il80_p3": 53300,
+                                   "il80_p4": 59200,
+                                   "il80_p5": 63950,
+                                   "il80_p6": 68700,
+                                   "il80_p7": 73450,
+                                   "il80_p8": 78150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "San Joaquin County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Stockton, CA",
+                            "area_name": "Stockton-Lodi, CA MSA",
+                            "year": "2022",
+                            "median_income": 85000,
+                            "very_low": {
+                                   "il50_p1": 29000,
+                                   "il50_p2": 33150,
+                                   "il50_p3": 37300,
+                                   "il50_p4": 41400,
+                                   "il50_p5": 44750,
+                                   "il50_p6": 48050,
+                                   "il50_p7": 51350,
+                                   "il50_p8": 54650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46350,
+                                   "il80_p2": 53000,
+                                   "il80_p3": 59600,
+                                   "il80_p4": 66200,
+                                   "il80_p5": 71500,
+                                   "il80_p6": 76800,
+                                   "il80_p7": 82100,
+                                   "il80_p8": 87400
+                            }
+                     }
+              ]
+       }
+}

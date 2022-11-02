@@ -1,0 +1,2597 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 548,
+                                   "One-Bedroom": 710,
+                                   "Two-Bedroom": 864,
+                                   "Three-Bedroom": 1110,
+                                   "Four-Bedroom": 1191,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "smallarea_status": "1",
+                            "year": "2018",
+                            "basicdata": [
+                                   {
+                                          "zip_code": "46301",
+                                          "Efficiency": 730,
+                                          "One-Bedroom": 940,
+                                          "Two-Bedroom": 1150,
+                                          "Three-Bedroom": 1470,
+                                          "Four-Bedroom": 1580
+                                   },
+                                   {
+                                          "zip_code": "46302",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46303",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1230,
+                                          "Four-Bedroom": 1330
+                                   },
+                                   {
+                                          "zip_code": "46304",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1230,
+                                          "Four-Bedroom": 1330
+                                   },
+                                   {
+                                          "zip_code": "46307",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 850,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1320,
+                                          "Four-Bedroom": 1430
+                                   },
+                                   {
+                                          "zip_code": "46308",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46310",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1530
+                                   },
+                                   {
+                                          "zip_code": "46311",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1030,
+                                          "Three-Bedroom": 1310,
+                                          "Four-Bedroom": 1410
+                                   },
+                                   {
+                                          "zip_code": "46312",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1070
+                                   },
+                                   {
+                                          "zip_code": "46319",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1220
+                                   },
+                                   {
+                                          "zip_code": "46320",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 700,
+                                          "Two-Bedroom": 850,
+                                          "Three-Bedroom": 1090,
+                                          "Four-Bedroom": 1180
+                                   },
+                                   {
+                                          "zip_code": "46321",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 820,
+                                          "Two-Bedroom": 1000,
+                                          "Three-Bedroom": 1280,
+                                          "Four-Bedroom": 1380
+                                   },
+                                   {
+                                          "zip_code": "46322",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1030,
+                                          "Three-Bedroom": 1310,
+                                          "Four-Bedroom": 1420
+                                   },
+                                   {
+                                          "zip_code": "46323",
+                                          "Efficiency": 580,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1160,
+                                          "Four-Bedroom": 1250
+                                   },
+                                   {
+                                          "zip_code": "46324",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 980,
+                                          "Three-Bedroom": 1250,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46327",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1220
+                                   },
+                                   {
+                                          "zip_code": "46341",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 830,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1210
+                                   },
+                                   {
+                                          "zip_code": "46342",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46347",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1040,
+                                          "Four-Bedroom": 1130
+                                   },
+                                   {
+                                          "zip_code": "46348",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46349",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1160
+                                   },
+                                   {
+                                          "zip_code": "46356",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 810,
+                                          "Two-Bedroom": 990,
+                                          "Three-Bedroom": 1260,
+                                          "Four-Bedroom": 1360
+                                   },
+                                   {
+                                          "zip_code": "46360",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1090
+                                   },
+                                   {
+                                          "zip_code": "46368",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1320
+                                   },
+                                   {
+                                          "zip_code": "46373",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46375",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1210,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46376",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46377",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46379",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "46381",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "46383",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1230,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46384",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46385",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 880,
+                                          "Two-Bedroom": 1080,
+                                          "Three-Bedroom": 1370,
+                                          "Four-Bedroom": 1490
+                                   },
+                                   {
+                                          "zip_code": "46390",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 1010,
+                                          "Three-Bedroom": 1260,
+                                          "Four-Bedroom": 1370
+                                   },
+                                   {
+                                          "zip_code": "46391",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1160,
+                                          "Four-Bedroom": 1260
+                                   },
+                                   {
+                                          "zip_code": "46393",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46394",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1040,
+                                          "Four-Bedroom": 1130
+                                   },
+                                   {
+                                          "zip_code": "46401",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46402",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1110,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46403",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1070
+                                   },
+                                   {
+                                          "zip_code": "46404",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 830,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1140
+                                   },
+                                   {
+                                          "zip_code": "46405",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 880,
+                                          "Three-Bedroom": 1120,
+                                          "Four-Bedroom": 1210
+                                   },
+                                   {
+                                          "zip_code": "46406",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 660,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1110
+                                   },
+                                   {
+                                          "zip_code": "46407",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1130
+                                   },
+                                   {
+                                          "zip_code": "46408",
+                                          "Efficiency": 500,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 790,
+                                          "Three-Bedroom": 1010,
+                                          "Four-Bedroom": 1090
+                                   },
+                                   {
+                                          "zip_code": "46409",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1180,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46410",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 880,
+                                          "Two-Bedroom": 1080,
+                                          "Three-Bedroom": 1370,
+                                          "Four-Bedroom": 1490
+                                   },
+                                   {
+                                          "zip_code": "46411",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "47922",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1210
+                                   },
+                                   {
+                                          "zip_code": "47942",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "47943",
+                                          "Efficiency": 900,
+                                          "One-Bedroom": 940,
+                                          "Two-Bedroom": 1220,
+                                          "Three-Bedroom": 1540,
+                                          "Four-Bedroom": 2090
+                                   },
+                                   {
+                                          "zip_code": "47948",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "47951",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1070
+                                   },
+                                   {
+                                          "zip_code": "47963",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1070
+                                   },
+                                   {
+                                          "zip_code": "47964",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "47978",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1330
+                                   }
+                            ]
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "smallarea_status": "1",
+                            "year": "2019",
+                            "basicdata": [
+                                   {
+                                          "zip_code": "46301",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 850,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1330,
+                                          "Four-Bedroom": 1430
+                                   },
+                                   {
+                                          "zip_code": "46302",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46303",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1330
+                                   },
+                                   {
+                                          "zip_code": "46304",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46307",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 850,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1320,
+                                          "Four-Bedroom": 1450
+                                   },
+                                   {
+                                          "zip_code": "46308",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "46310",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1180,
+                                          "Four-Bedroom": 1530
+                                   },
+                                   {
+                                          "zip_code": "46311",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 860,
+                                          "Two-Bedroom": 1050,
+                                          "Three-Bedroom": 1330,
+                                          "Four-Bedroom": 1470
+                                   },
+                                   {
+                                          "zip_code": "46312",
+                                          "Efficiency": 470,
+                                          "One-Bedroom": 600,
+                                          "Two-Bedroom": 730,
+                                          "Three-Bedroom": 920,
+                                          "Four-Bedroom": 1020
+                                   },
+                                   {
+                                          "zip_code": "46319",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46320",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1100,
+                                          "Four-Bedroom": 1220
+                                   },
+                                   {
+                                          "zip_code": "46321",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 860,
+                                          "Two-Bedroom": 1050,
+                                          "Three-Bedroom": 1330,
+                                          "Four-Bedroom": 1470
+                                   },
+                                   {
+                                          "zip_code": "46322",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 850,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1320,
+                                          "Four-Bedroom": 1450
+                                   },
+                                   {
+                                          "zip_code": "46323",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "46324",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 820,
+                                          "Two-Bedroom": 1000,
+                                          "Three-Bedroom": 1270,
+                                          "Four-Bedroom": 1400
+                                   },
+                                   {
+                                          "zip_code": "46327",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46341",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1010,
+                                          "Four-Bedroom": 1120
+                                   },
+                                   {
+                                          "zip_code": "46342",
+                                          "Efficiency": 580,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1270
+                                   },
+                                   {
+                                          "zip_code": "46347",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46348",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 990,
+                                          "Three-Bedroom": 1260,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46349",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46356",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 830,
+                                          "Two-Bedroom": 1010,
+                                          "Three-Bedroom": 1280,
+                                          "Four-Bedroom": 1410
+                                   },
+                                   {
+                                          "zip_code": "46360",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 620,
+                                          "Two-Bedroom": 810,
+                                          "Three-Bedroom": 1030,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "46368",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46373",
+                                          "Efficiency": 740,
+                                          "One-Bedroom": 940,
+                                          "Two-Bedroom": 1150,
+                                          "Three-Bedroom": 1460,
+                                          "Four-Bedroom": 1610
+                                   },
+                                   {
+                                          "zip_code": "46375",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1230,
+                                          "Four-Bedroom": 1360
+                                   },
+                                   {
+                                          "zip_code": "46376",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46377",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "46379",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 790,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "46381",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 790,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "46383",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46384",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46385",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 880,
+                                          "Two-Bedroom": 1080,
+                                          "Three-Bedroom": 1370,
+                                          "Four-Bedroom": 1510
+                                   },
+                                   {
+                                          "zip_code": "46390",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 1030,
+                                          "Three-Bedroom": 1310,
+                                          "Four-Bedroom": 1390
+                                   },
+                                   {
+                                          "zip_code": "46391",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1160,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46393",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46394",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46401",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "46402",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1100,
+                                          "Four-Bedroom": 1220
+                                   },
+                                   {
+                                          "zip_code": "46403",
+                                          "Efficiency": 500,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 990,
+                                          "Four-Bedroom": 1090
+                                   },
+                                   {
+                                          "zip_code": "46404",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46405",
+                                          "Efficiency": 580,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1260
+                                   },
+                                   {
+                                          "zip_code": "46406",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46407",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 830,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1160
+                                   },
+                                   {
+                                          "zip_code": "46408",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 830,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1160
+                                   },
+                                   {
+                                          "zip_code": "46409",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1330
+                                   },
+                                   {
+                                          "zip_code": "46410",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 880,
+                                          "Two-Bedroom": 1080,
+                                          "Three-Bedroom": 1370,
+                                          "Four-Bedroom": 1510
+                                   },
+                                   {
+                                          "zip_code": "46411",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "47922",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 610,
+                                          "Two-Bedroom": 750,
+                                          "Three-Bedroom": 950,
+                                          "Four-Bedroom": 1090
+                                   },
+                                   {
+                                          "zip_code": "47942",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 740,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "47943",
+                                          "Efficiency": 920,
+                                          "One-Bedroom": 970,
+                                          "Two-Bedroom": 1240,
+                                          "Three-Bedroom": 1590,
+                                          "Four-Bedroom": 2090
+                                   },
+                                   {
+                                          "zip_code": "47948",
+                                          "Efficiency": 500,
+                                          "One-Bedroom": 580,
+                                          "Two-Bedroom": 710,
+                                          "Three-Bedroom": 920,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "47951",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 790,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "47963",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 790,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "47964",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 790,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "47978",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 580,
+                                          "Two-Bedroom": 750,
+                                          "Three-Bedroom": 970,
+                                          "Four-Bedroom": 1320
+                                   }
+                            ]
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "smallarea_status": "1",
+                            "year": "2020",
+                            "basicdata": [
+                                   {
+                                          "zip_code": "46301",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "46302",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1160,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46303",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46304",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46307",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 850,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1300,
+                                          "Four-Bedroom": 1470
+                                   },
+                                   {
+                                          "zip_code": "46308",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46310",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1500
+                                   },
+                                   {
+                                          "zip_code": "46311",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 850,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1300,
+                                          "Four-Bedroom": 1470
+                                   },
+                                   {
+                                          "zip_code": "46312",
+                                          "Efficiency": 470,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 720,
+                                          "Three-Bedroom": 900,
+                                          "Four-Bedroom": 1010
+                                   },
+                                   {
+                                          "zip_code": "46319",
+                                          "Efficiency": 580,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1110,
+                                          "Four-Bedroom": 1250
+                                   },
+                                   {
+                                          "zip_code": "46320",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46321",
+                                          "Efficiency": 700,
+                                          "One-Bedroom": 880,
+                                          "Two-Bedroom": 1080,
+                                          "Three-Bedroom": 1350,
+                                          "Four-Bedroom": 1520
+                                   },
+                                   {
+                                          "zip_code": "46322",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 850,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1300,
+                                          "Four-Bedroom": 1470
+                                   },
+                                   {
+                                          "zip_code": "46323",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46324",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 810,
+                                          "Two-Bedroom": 990,
+                                          "Three-Bedroom": 1230,
+                                          "Four-Bedroom": 1400
+                                   },
+                                   {
+                                          "zip_code": "46327",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46341",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 610,
+                                          "Two-Bedroom": 750,
+                                          "Three-Bedroom": 930,
+                                          "Four-Bedroom": 1060
+                                   },
+                                   {
+                                          "zip_code": "46342",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46347",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46348",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1260,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46349",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1180
+                                   },
+                                   {
+                                          "zip_code": "46356",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1030,
+                                          "Three-Bedroom": 1280,
+                                          "Four-Bedroom": 1450
+                                   },
+                                   {
+                                          "zip_code": "46360",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 810,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "46368",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1320
+                                   },
+                                   {
+                                          "zip_code": "46373",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 860,
+                                          "Two-Bedroom": 1060,
+                                          "Three-Bedroom": 1320,
+                                          "Four-Bedroom": 1490
+                                   },
+                                   {
+                                          "zip_code": "46375",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 980,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1380
+                                   },
+                                   {
+                                          "zip_code": "46376",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 880,
+                                          "Three-Bedroom": 1100,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46377",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 830,
+                                          "Two-Bedroom": 1020,
+                                          "Three-Bedroom": 1270,
+                                          "Four-Bedroom": 1460
+                                   },
+                                   {
+                                          "zip_code": "46379",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 880,
+                                          "Three-Bedroom": 1090,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46381",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1500
+                                   },
+                                   {
+                                          "zip_code": "46383",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46384",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1160,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46385",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 860,
+                                          "Two-Bedroom": 1060,
+                                          "Three-Bedroom": 1320,
+                                          "Four-Bedroom": 1490
+                                   },
+                                   {
+                                          "zip_code": "46390",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 980,
+                                          "Three-Bedroom": 1270,
+                                          "Four-Bedroom": 1330
+                                   },
+                                   {
+                                          "zip_code": "46391",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 880,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46393",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1290
+                                   },
+                                   {
+                                          "zip_code": "46394",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 850,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46401",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46402",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1160
+                                   },
+                                   {
+                                          "zip_code": "46403",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1130
+                                   },
+                                   {
+                                          "zip_code": "46404",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1050,
+                                          "Four-Bedroom": 1180
+                                   },
+                                   {
+                                          "zip_code": "46405",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1160,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46406",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 850,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46407",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 830,
+                                          "Three-Bedroom": 1030,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46408",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 850,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46409",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1180,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46410",
+                                          "Efficiency": 710,
+                                          "One-Bedroom": 890,
+                                          "Two-Bedroom": 1090,
+                                          "Three-Bedroom": 1360,
+                                          "Four-Bedroom": 1540
+                                   },
+                                   {
+                                          "zip_code": "46411",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 740,
+                                          "Two-Bedroom": 910,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "47922",
+                                          "Efficiency": 480,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 720,
+                                          "Three-Bedroom": 900,
+                                          "Four-Bedroom": 1030
+                                   },
+                                   {
+                                          "zip_code": "47942",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 740,
+                                          "Three-Bedroom": 1000,
+                                          "Four-Bedroom": 1270
+                                   },
+                                   {
+                                          "zip_code": "47943",
+                                          "Efficiency": 920,
+                                          "One-Bedroom": 960,
+                                          "Two-Bedroom": 1240,
+                                          "Three-Bedroom": 1580,
+                                          "Four-Bedroom": 2010
+                                   },
+                                   {
+                                          "zip_code": "47948",
+                                          "Efficiency": 470,
+                                          "One-Bedroom": 580,
+                                          "Two-Bedroom": 710,
+                                          "Three-Bedroom": 900,
+                                          "Four-Bedroom": 1060
+                                   },
+                                   {
+                                          "zip_code": "47951",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 660,
+                                          "Two-Bedroom": 810,
+                                          "Three-Bedroom": 1010,
+                                          "Four-Bedroom": 1140
+                                   },
+                                   {
+                                          "zip_code": "47963",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 970,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "47964",
+                                          "Efficiency": 470,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 720,
+                                          "Three-Bedroom": 900,
+                                          "Four-Bedroom": 1020
+                                   },
+                                   {
+                                          "zip_code": "47978",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 620,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 1030,
+                                          "Four-Bedroom": 1340
+                                   }
+                            ]
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "smallarea_status": "1",
+                            "year": "2021",
+                            "basicdata": [
+                                   {
+                                          "zip_code": "46301",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1120,
+                                          "Four-Bedroom": 1270
+                                   },
+                                   {
+                                          "zip_code": "46302",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1320
+                                   },
+                                   {
+                                          "zip_code": "46303",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1120,
+                                          "Four-Bedroom": 1270
+                                   },
+                                   {
+                                          "zip_code": "46304",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1210,
+                                          "Four-Bedroom": 1370
+                                   },
+                                   {
+                                          "zip_code": "46307",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1030,
+                                          "Three-Bedroom": 1280,
+                                          "Four-Bedroom": 1450
+                                   },
+                                   {
+                                          "zip_code": "46308",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46310",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46311",
+                                          "Efficiency": 750,
+                                          "One-Bedroom": 930,
+                                          "Two-Bedroom": 1140,
+                                          "Three-Bedroom": 1420,
+                                          "Four-Bedroom": 1610
+                                   },
+                                   {
+                                          "zip_code": "46312",
+                                          "Efficiency": 480,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 730,
+                                          "Three-Bedroom": 910,
+                                          "Four-Bedroom": 1030
+                                   },
+                                   {
+                                          "zip_code": "46319",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1120,
+                                          "Four-Bedroom": 1270
+                                   },
+                                   {
+                                          "zip_code": "46320",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1040,
+                                          "Four-Bedroom": 1180
+                                   },
+                                   {
+                                          "zip_code": "46321",
+                                          "Efficiency": 750,
+                                          "One-Bedroom": 930,
+                                          "Two-Bedroom": 1140,
+                                          "Three-Bedroom": 1420,
+                                          "Four-Bedroom": 1610
+                                   },
+                                   {
+                                          "zip_code": "46322",
+                                          "Efficiency": 710,
+                                          "One-Bedroom": 880,
+                                          "Two-Bedroom": 1080,
+                                          "Three-Bedroom": 1340,
+                                          "Four-Bedroom": 1520
+                                   },
+                                   {
+                                          "zip_code": "46323",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1180,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46324",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 990,
+                                          "Three-Bedroom": 1230,
+                                          "Four-Bedroom": 1400
+                                   },
+                                   {
+                                          "zip_code": "46327",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46341",
+                                          "Efficiency": 480,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 730,
+                                          "Three-Bedroom": 910,
+                                          "Four-Bedroom": 1030
+                                   },
+                                   {
+                                          "zip_code": "46342",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46347",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46348",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1280,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46349",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1240,
+                                          "Four-Bedroom": 1410
+                                   },
+                                   {
+                                          "zip_code": "46355",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46356",
+                                          "Efficiency": 700,
+                                          "One-Bedroom": 860,
+                                          "Two-Bedroom": 1060,
+                                          "Three-Bedroom": 1320,
+                                          "Four-Bedroom": 1490
+                                   },
+                                   {
+                                          "zip_code": "46360",
+                                          "Efficiency": 530,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 810,
+                                          "Three-Bedroom": 1070,
+                                          "Four-Bedroom": 1120
+                                   },
+                                   {
+                                          "zip_code": "46368",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1320
+                                   },
+                                   {
+                                          "zip_code": "46372",
+                                          "Efficiency": 500,
+                                          "One-Bedroom": 620,
+                                          "Two-Bedroom": 760,
+                                          "Three-Bedroom": 950,
+                                          "Four-Bedroom": 1070
+                                   },
+                                   {
+                                          "zip_code": "46373",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 980,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1380
+                                   },
+                                   {
+                                          "zip_code": "46375",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 810,
+                                          "Two-Bedroom": 1000,
+                                          "Three-Bedroom": 1240,
+                                          "Four-Bedroom": 1410
+                                   },
+                                   {
+                                          "zip_code": "46376",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1310,
+                                          "Four-Bedroom": 1470
+                                   },
+                                   {
+                                          "zip_code": "46377",
+                                          "Efficiency": 700,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1300,
+                                          "Four-Bedroom": 1470
+                                   },
+                                   {
+                                          "zip_code": "46379",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 800,
+                                          "Three-Bedroom": 990,
+                                          "Four-Bedroom": 1110
+                                   },
+                                   {
+                                          "zip_code": "46381",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46383",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 980,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1380
+                                   },
+                                   {
+                                          "zip_code": "46384",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1320
+                                   },
+                                   {
+                                          "zip_code": "46385",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1030,
+                                          "Three-Bedroom": 1280,
+                                          "Four-Bedroom": 1450
+                                   },
+                                   {
+                                          "zip_code": "46390",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 700,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1180,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46391",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1100,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46393",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46394",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46401",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46402",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 970,
+                                          "Four-Bedroom": 1100
+                                   },
+                                   {
+                                          "zip_code": "46403",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1160
+                                   },
+                                   {
+                                          "zip_code": "46404",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 850,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46405",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1180,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46406",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 850,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46407",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 830,
+                                          "Three-Bedroom": 1030,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46408",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46409",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46410",
+                                          "Efficiency": 730,
+                                          "One-Bedroom": 900,
+                                          "Two-Bedroom": 1110,
+                                          "Three-Bedroom": 1380,
+                                          "Four-Bedroom": 1560
+                                   },
+                                   {
+                                          "zip_code": "46411",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 750,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1140,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "47922",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 740,
+                                          "Three-Bedroom": 920,
+                                          "Four-Bedroom": 1040
+                                   },
+                                   {
+                                          "zip_code": "47942",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 750,
+                                          "Three-Bedroom": 990,
+                                          "Four-Bedroom": 1250
+                                   },
+                                   {
+                                          "zip_code": "47943",
+                                          "Efficiency": 910,
+                                          "One-Bedroom": 950,
+                                          "Two-Bedroom": 1220,
+                                          "Three-Bedroom": 1550,
+                                          "Four-Bedroom": 1810
+                                   },
+                                   {
+                                          "zip_code": "47948",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 730,
+                                          "Three-Bedroom": 910,
+                                          "Four-Bedroom": 1040
+                                   },
+                                   {
+                                          "zip_code": "47951",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1020,
+                                          "Four-Bedroom": 1160
+                                   },
+                                   {
+                                          "zip_code": "47963",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 640,
+                                          "Two-Bedroom": 790,
+                                          "Three-Bedroom": 980,
+                                          "Four-Bedroom": 1110
+                                   },
+                                   {
+                                          "zip_code": "47964",
+                                          "Efficiency": 480,
+                                          "One-Bedroom": 590,
+                                          "Two-Bedroom": 730,
+                                          "Three-Bedroom": 910,
+                                          "Four-Bedroom": 1030
+                                   },
+                                   {
+                                          "zip_code": "47978",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1070,
+                                          "Four-Bedroom": 1240
+                                   }
+                            ]
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "smallarea_status": "1",
+                            "year": "2022",
+                            "basicdata": [
+                                   {
+                                          "zip_code": "46301",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 930,
+                                          "Three-Bedroom": 1150,
+                                          "Four-Bedroom": 1300
+                                   },
+                                   {
+                                          "zip_code": "46302",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 980,
+                                          "Three-Bedroom": 1210,
+                                          "Four-Bedroom": 1370
+                                   },
+                                   {
+                                          "zip_code": "46303",
+                                          "Efficiency": 620,
+                                          "One-Bedroom": 760,
+                                          "Two-Bedroom": 940,
+                                          "Three-Bedroom": 1160,
+                                          "Four-Bedroom": 1310
+                                   },
+                                   {
+                                          "zip_code": "46304",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1290,
+                                          "Four-Bedroom": 1450
+                                   },
+                                   {
+                                          "zip_code": "46307",
+                                          "Efficiency": 720,
+                                          "One-Bedroom": 890,
+                                          "Two-Bedroom": 1090,
+                                          "Three-Bedroom": 1350,
+                                          "Four-Bedroom": 1520
+                                   },
+                                   {
+                                          "zip_code": "46308",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46310",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1260
+                                   },
+                                   {
+                                          "zip_code": "46311",
+                                          "Efficiency": 840,
+                                          "One-Bedroom": 1020,
+                                          "Two-Bedroom": 1260,
+                                          "Three-Bedroom": 1560,
+                                          "Four-Bedroom": 1760
+                                   },
+                                   {
+                                          "zip_code": "46312",
+                                          "Efficiency": 500,
+                                          "One-Bedroom": 620,
+                                          "Two-Bedroom": 760,
+                                          "Three-Bedroom": 940,
+                                          "Four-Bedroom": 1060
+                                   },
+                                   {
+                                          "zip_code": "46319",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1330
+                                   },
+                                   {
+                                          "zip_code": "46320",
+                                          "Efficiency": 560,
+                                          "One-Bedroom": 680,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1040,
+                                          "Four-Bedroom": 1170
+                                   },
+                                   {
+                                          "zip_code": "46321",
+                                          "Efficiency": 790,
+                                          "One-Bedroom": 970,
+                                          "Two-Bedroom": 1190,
+                                          "Three-Bedroom": 1470,
+                                          "Four-Bedroom": 1660
+                                   },
+                                   {
+                                          "zip_code": "46322",
+                                          "Efficiency": 760,
+                                          "One-Bedroom": 930,
+                                          "Two-Bedroom": 1150,
+                                          "Three-Bedroom": 1420,
+                                          "Four-Bedroom": 1600
+                                   },
+                                   {
+                                          "zip_code": "46323",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 990,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1380
+                                   },
+                                   {
+                                          "zip_code": "46324",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 820,
+                                          "Two-Bedroom": 1010,
+                                          "Three-Bedroom": 1250,
+                                          "Four-Bedroom": 1410
+                                   },
+                                   {
+                                          "zip_code": "46327",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1110,
+                                          "Four-Bedroom": 1260
+                                   },
+                                   {
+                                          "zip_code": "46341",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 600,
+                                          "Two-Bedroom": 740,
+                                          "Three-Bedroom": 910,
+                                          "Four-Bedroom": 1030
+                                   },
+                                   {
+                                          "zip_code": "46342",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46347",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 990,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1380
+                                   },
+                                   {
+                                          "zip_code": "46348",
+                                          "Efficiency": 670,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 1000,
+                                          "Three-Bedroom": 1320,
+                                          "Four-Bedroom": 1430
+                                   },
+                                   {
+                                          "zip_code": "46349",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1130,
+                                          "Four-Bedroom": 1270
+                                   },
+                                   {
+                                          "zip_code": "46355",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46356",
+                                          "Efficiency": 750,
+                                          "One-Bedroom": 920,
+                                          "Two-Bedroom": 1130,
+                                          "Three-Bedroom": 1400,
+                                          "Four-Bedroom": 1580
+                                   },
+                                   {
+                                          "zip_code": "46360",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 650,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1180
+                                   },
+                                   {
+                                          "zip_code": "46368",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46372",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 960,
+                                          "Four-Bedroom": 1090
+                                   },
+                                   {
+                                          "zip_code": "46373",
+                                          "Efficiency": 630,
+                                          "One-Bedroom": 770,
+                                          "Two-Bedroom": 950,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1330
+                                   },
+                                   {
+                                          "zip_code": "46375",
+                                          "Efficiency": 690,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1040,
+                                          "Three-Bedroom": 1290,
+                                          "Four-Bedroom": 1450
+                                   },
+                                   {
+                                          "zip_code": "46376",
+                                          "Efficiency": 730,
+                                          "One-Bedroom": 890,
+                                          "Two-Bedroom": 1100,
+                                          "Three-Bedroom": 1380,
+                                          "Four-Bedroom": 1550
+                                   },
+                                   {
+                                          "zip_code": "46377",
+                                          "Efficiency": 740,
+                                          "One-Bedroom": 900,
+                                          "Two-Bedroom": 1110,
+                                          "Three-Bedroom": 1370,
+                                          "Four-Bedroom": 1540
+                                   },
+                                   {
+                                          "zip_code": "46379",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 780,
+                                          "Three-Bedroom": 960,
+                                          "Four-Bedroom": 1090
+                                   },
+                                   {
+                                          "zip_code": "46381",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 920,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1260
+                                   },
+                                   {
+                                          "zip_code": "46383",
+                                          "Efficiency": 680,
+                                          "One-Bedroom": 840,
+                                          "Two-Bedroom": 1030,
+                                          "Three-Bedroom": 1270,
+                                          "Four-Bedroom": 1440
+                                   },
+                                   {
+                                          "zip_code": "46384",
+                                          "Efficiency": 650,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 980,
+                                          "Three-Bedroom": 1210,
+                                          "Four-Bedroom": 1370
+                                   },
+                                   {
+                                          "zip_code": "46385",
+                                          "Efficiency": 700,
+                                          "One-Bedroom": 860,
+                                          "Two-Bedroom": 1060,
+                                          "Three-Bedroom": 1310,
+                                          "Four-Bedroom": 1480
+                                   },
+                                   {
+                                          "zip_code": "46390",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 700,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1170,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "46391",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 840,
+                                          "Three-Bedroom": 1100,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46393",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 790,
+                                          "Two-Bedroom": 970,
+                                          "Three-Bedroom": 1200,
+                                          "Four-Bedroom": 1350
+                                   },
+                                   {
+                                          "zip_code": "46394",
+                                          "Efficiency": 600,
+                                          "One-Bedroom": 730,
+                                          "Two-Bedroom": 900,
+                                          "Three-Bedroom": 1110,
+                                          "Four-Bedroom": 1260
+                                   },
+                                   {
+                                          "zip_code": "46401",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "46402",
+                                          "Efficiency": 510,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 770,
+                                          "Three-Bedroom": 950,
+                                          "Four-Bedroom": 1070
+                                   },
+                                   {
+                                          "zip_code": "46403",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 700,
+                                          "Two-Bedroom": 860,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46404",
+                                          "Efficiency": 580,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 880,
+                                          "Three-Bedroom": 1090,
+                                          "Four-Bedroom": 1230
+                                   },
+                                   {
+                                          "zip_code": "46405",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 800,
+                                          "Two-Bedroom": 990,
+                                          "Three-Bedroom": 1220,
+                                          "Four-Bedroom": 1380
+                                   },
+                                   {
+                                          "zip_code": "46406",
+                                          "Efficiency": 580,
+                                          "One-Bedroom": 710,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1080,
+                                          "Four-Bedroom": 1210
+                                   },
+                                   {
+                                          "zip_code": "46407",
+                                          "Efficiency": 570,
+                                          "One-Bedroom": 700,
+                                          "Two-Bedroom": 860,
+                                          "Three-Bedroom": 1060,
+                                          "Four-Bedroom": 1200
+                                   },
+                                   {
+                                          "zip_code": "46408",
+                                          "Efficiency": 590,
+                                          "One-Bedroom": 720,
+                                          "Two-Bedroom": 890,
+                                          "Three-Bedroom": 1100,
+                                          "Four-Bedroom": 1240
+                                   },
+                                   {
+                                          "zip_code": "46409",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 810,
+                                          "Two-Bedroom": 1000,
+                                          "Three-Bedroom": 1240,
+                                          "Four-Bedroom": 1400
+                                   },
+                                   {
+                                          "zip_code": "46410",
+                                          "Efficiency": 780,
+                                          "One-Bedroom": 950,
+                                          "Two-Bedroom": 1170,
+                                          "Three-Bedroom": 1450,
+                                          "Four-Bedroom": 1630
+                                   },
+                                   {
+                                          "zip_code": "46411",
+                                          "Efficiency": 640,
+                                          "One-Bedroom": 780,
+                                          "Two-Bedroom": 960,
+                                          "Three-Bedroom": 1190,
+                                          "Four-Bedroom": 1340
+                                   },
+                                   {
+                                          "zip_code": "47922",
+                                          "Efficiency": 520,
+                                          "One-Bedroom": 630,
+                                          "Two-Bedroom": 770,
+                                          "Three-Bedroom": 960,
+                                          "Four-Bedroom": 1080
+                                   },
+                                   {
+                                          "zip_code": "47942",
+                                          "Efficiency": 610,
+                                          "One-Bedroom": 690,
+                                          "Two-Bedroom": 810,
+                                          "Three-Bedroom": 1040,
+                                          "Four-Bedroom": 1280
+                                   },
+                                   {
+                                          "zip_code": "47943",
+                                          "Efficiency": 820,
+                                          "One-Bedroom": 860,
+                                          "Two-Bedroom": 1100,
+                                          "Three-Bedroom": 1400,
+                                          "Four-Bedroom": 1630
+                                   },
+                                   {
+                                          "zip_code": "47948",
+                                          "Efficiency": 500,
+                                          "One-Bedroom": 600,
+                                          "Two-Bedroom": 740,
+                                          "Three-Bedroom": 920,
+                                          "Four-Bedroom": 1030
+                                   },
+                                   {
+                                          "zip_code": "47951",
+                                          "Efficiency": 550,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 830,
+                                          "Three-Bedroom": 1030,
+                                          "Four-Bedroom": 1160
+                                   },
+                                   {
+                                          "zip_code": "47963",
+                                          "Efficiency": 540,
+                                          "One-Bedroom": 670,
+                                          "Two-Bedroom": 820,
+                                          "Three-Bedroom": 1010,
+                                          "Four-Bedroom": 1140
+                                   },
+                                   {
+                                          "zip_code": "47964",
+                                          "Efficiency": 490,
+                                          "One-Bedroom": 600,
+                                          "Two-Bedroom": 740,
+                                          "Three-Bedroom": 910,
+                                          "Four-Bedroom": 1030
+                                   },
+                                   {
+                                          "zip_code": "47978",
+                                          "Efficiency": 660,
+                                          "One-Bedroom": 660,
+                                          "Two-Bedroom": 870,
+                                          "Three-Bedroom": 1120,
+                                          "Four-Bedroom": 1180
+                                   }
+                            ]
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 64900,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 69100,
+                            "very_low": {
+                                   "il50_p1": 24200,
+                                   "il50_p2": 27650,
+                                   "il50_p3": 31100,
+                                   "il50_p4": 34550,
+                                   "il50_p5": 37350,
+                                   "il50_p6": 40100,
+                                   "il50_p7": 42850,
+                                   "il50_p8": 45650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 16600,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44250,
+                                   "il80_p3": 49800,
+                                   "il80_p4": 55300,
+                                   "il80_p5": 59750,
+                                   "il80_p6": 64150,
+                                   "il80_p7": 68600,
+                                   "il80_p8": 73000
+                            }
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 72800,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 74900,
+                            "very_low": {
+                                   "il50_p1": 26250,
+                                   "il50_p2": 30000,
+                                   "il50_p3": 33750,
+                                   "il50_p4": 37450,
+                                   "il50_p5": 40450,
+                                   "il50_p6": 43450,
+                                   "il50_p7": 46450,
+                                   "il50_p8": 49450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41950,
+                                   "il80_p2": 47950,
+                                   "il80_p3": 53950,
+                                   "il80_p4": 59900,
+                                   "il80_p5": 64700,
+                                   "il80_p6": 69500,
+                                   "il80_p7": 74300,
+                                   "il80_p8": 79100
+                            }
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 75500,
+                            "very_low": {
+                                   "il50_p1": 26450,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 34000,
+                                   "il50_p4": 37750,
+                                   "il50_p5": 40800,
+                                   "il50_p6": 43800,
+                                   "il50_p7": 46850,
+                                   "il50_p8": 49850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18150,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42300,
+                                   "il80_p2": 48350,
+                                   "il80_p3": 54400,
+                                   "il80_p4": 60400,
+                                   "il80_p5": 65250,
+                                   "il80_p6": 70100,
+                                   "il80_p7": 74900,
+                                   "il80_p8": 79750
+                            }
+                     },
+                     {
+                            "county_name": "Newton County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI",
+                            "area_name": "Gary, IN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 85000,
+                            "very_low": {
+                                   "il50_p1": 29550,
+                                   "il50_p2": 33800,
+                                   "il50_p3": 38000,
+                                   "il50_p4": 42200,
+                                   "il50_p5": 45600,
+                                   "il50_p6": 49000,
+                                   "il50_p7": 52350,
+                                   "il50_p8": 55750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20250,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47250,
+                                   "il80_p2": 54000,
+                                   "il80_p3": 60750,
+                                   "il80_p4": 67500,
+                                   "il80_p5": 72900,
+                                   "il80_p6": 78300,
+                                   "il80_p7": 83700,
+                                   "il80_p8": 89100
+                            }
+                     }
+              ]
+       }
+}

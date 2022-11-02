@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 476,
+                                   "One-Bedroom": 490,
+                                   "Two-Bedroom": 611,
+                                   "Three-Bedroom": 818,
+                                   "Four-Bedroom": 918,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 477,
+                                   "One-Bedroom": 480,
+                                   "Two-Bedroom": 634,
+                                   "Three-Bedroom": 864,
+                                   "Four-Bedroom": 988,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 481,
+                                   "One-Bedroom": 491,
+                                   "Two-Bedroom": 650,
+                                   "Three-Bedroom": 878,
+                                   "Four-Bedroom": 929,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 468,
+                                   "One-Bedroom": 487,
+                                   "Two-Bedroom": 642,
+                                   "Three-Bedroom": 847,
+                                   "Four-Bedroom": 907,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 506,
+                                   "One-Bedroom": 524,
+                                   "Two-Bedroom": 691,
+                                   "Three-Bedroom": 874,
+                                   "Four-Bedroom": 943,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 514,
+                                   "One-Bedroom": 527,
+                                   "Two-Bedroom": 694,
+                                   "Three-Bedroom": 858,
+                                   "Four-Bedroom": 941,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "year": "2017",
+                            "median_income": 50000,
+                            "very_low": {
+                                   "il50_p1": 17500,
+                                   "il50_p2": 20000,
+                                   "il50_p3": 22500,
+                                   "il50_p4": 25000,
+                                   "il50_p5": 27000,
+                                   "il50_p6": 29000,
+                                   "il50_p7": 31000,
+                                   "il50_p8": 33000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27000,
+                                   "il30_p6": 29000,
+                                   "il30_p7": 31000,
+                                   "il30_p8": 33000
+                            },
+                            "low": {
+                                   "il80_p1": 28000,
+                                   "il80_p2": 32000,
+                                   "il80_p3": 36000,
+                                   "il80_p4": 40000,
+                                   "il80_p5": 43200,
+                                   "il80_p6": 46400,
+                                   "il80_p7": 49600,
+                                   "il80_p8": 52800
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "year": "2018",
+                            "median_income": 48800,
+                            "very_low": {
+                                   "il50_p1": 17100,
+                                   "il50_p2": 19550,
+                                   "il50_p3": 22000,
+                                   "il50_p4": 24400,
+                                   "il50_p5": 26400,
+                                   "il50_p6": 28350,
+                                   "il50_p7": 30300,
+                                   "il50_p8": 32250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24400,
+                                   "il30_p5": 26400,
+                                   "il30_p6": 28350,
+                                   "il30_p7": 30300,
+                                   "il30_p8": 32250
+                            },
+                            "low": {
+                                   "il80_p1": 27350,
+                                   "il80_p2": 31250,
+                                   "il80_p3": 35150,
+                                   "il80_p4": 39050,
+                                   "il80_p5": 42200,
+                                   "il80_p6": 45300,
+                                   "il80_p7": 48450,
+                                   "il80_p8": 51550
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "year": "2019",
+                            "median_income": 49400,
+                            "very_low": {
+                                   "il50_p1": 18250,
+                                   "il50_p2": 20850,
+                                   "il50_p3": 23450,
+                                   "il50_p4": 26050,
+                                   "il50_p5": 28150,
+                                   "il50_p6": 30250,
+                                   "il50_p7": 32350,
+                                   "il50_p8": 34400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28150,
+                                   "il30_p6": 30250,
+                                   "il30_p7": 32350,
+                                   "il30_p8": 34400
+                            },
+                            "low": {
+                                   "il80_p1": 29200,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37550,
+                                   "il80_p4": 41700,
+                                   "il80_p5": 45050,
+                                   "il80_p6": 48400,
+                                   "il80_p7": 51750,
+                                   "il80_p8": 55050
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "year": "2020",
+                            "median_income": 51800,
+                            "very_low": {
+                                   "il50_p1": 18400,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23650,
+                                   "il50_p4": 26250,
+                                   "il50_p5": 28350,
+                                   "il50_p6": 30450,
+                                   "il50_p7": 32550,
+                                   "il50_p8": 34650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 28350,
+                                   "il30_p6": 30450,
+                                   "il30_p7": 32550,
+                                   "il30_p8": 34650
+                            },
+                            "low": {
+                                   "il80_p1": 29400,
+                                   "il80_p2": 33600,
+                                   "il80_p3": 37800,
+                                   "il80_p4": 42000,
+                                   "il80_p5": 45400,
+                                   "il80_p6": 48750,
+                                   "il80_p7": 52100,
+                                   "il80_p8": 55450
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "year": "2021",
+                            "median_income": 54400,
+                            "very_low": {
+                                   "il50_p1": 19050,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24500,
+                                   "il50_p4": 27200,
+                                   "il50_p5": 29400,
+                                   "il50_p6": 31600,
+                                   "il50_p7": 33750,
+                                   "il50_p8": 35950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29400,
+                                   "il30_p6": 31600,
+                                   "il30_p7": 33750,
+                                   "il30_p8": 35950
+                            },
+                            "low": {
+                                   "il80_p1": 30450,
+                                   "il80_p2": 34800,
+                                   "il80_p3": 39150,
+                                   "il80_p4": 43500,
+                                   "il80_p5": 47000,
+                                   "il80_p6": 50500,
+                                   "il80_p7": 53950,
+                                   "il80_p8": 57450
+                            }
+                     },
+                     {
+                            "county_name": "Arkansas County, AR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Arkansas County, AR",
+                            "year": "2022",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 21300,
+                                   "il50_p2": 24350,
+                                   "il50_p3": 27400,
+                                   "il50_p4": 30400,
+                                   "il50_p5": 32850,
+                                   "il50_p6": 35300,
+                                   "il50_p7": 37700,
+                                   "il50_p8": 40150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35300,
+                                   "il30_p7": 37700,
+                                   "il30_p8": 40150
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 38950,
+                                   "il80_p3": 43800,
+                                   "il80_p4": 48650,
+                                   "il80_p5": 52550,
+                                   "il80_p6": 56450,
+                                   "il80_p7": 60350,
+                                   "il80_p8": 64250
+                            }
+                     }
+              ]
+       }
+}

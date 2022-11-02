@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 801,
+                                   "One-Bedroom": 831,
+                                   "Two-Bedroom": 1034,
+                                   "Three-Bedroom": 1444,
+                                   "Four-Bedroom": 1777,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 786,
+                                   "One-Bedroom": 825,
+                                   "Two-Bedroom": 1032,
+                                   "Three-Bedroom": 1444,
+                                   "Four-Bedroom": 1776,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 855,
+                                   "One-Bedroom": 873,
+                                   "Two-Bedroom": 1105,
+                                   "Three-Bedroom": 1524,
+                                   "Four-Bedroom": 1834,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 932,
+                                   "One-Bedroom": 938,
+                                   "Two-Bedroom": 1207,
+                                   "Three-Bedroom": 1642,
+                                   "Four-Bedroom": 1907,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 926,
+                                   "One-Bedroom": 932,
+                                   "Two-Bedroom": 1211,
+                                   "Three-Bedroom": 1618,
+                                   "Four-Bedroom": 1830,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 980,
+                                   "One-Bedroom": 987,
+                                   "Two-Bedroom": 1275,
+                                   "Three-Bedroom": 1711,
+                                   "Four-Bedroom": 1962,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "year": "2017",
+                            "median_income": 58000,
+                            "very_low": {
+                                   "il50_p1": 21100,
+                                   "il50_p2": 24100,
+                                   "il50_p3": 27100,
+                                   "il50_p4": 30100,
+                                   "il50_p5": 32550,
+                                   "il50_p6": 34950,
+                                   "il50_p7": 37350,
+                                   "il50_p8": 39750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12650,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39750
+                            },
+                            "low": {
+                                   "il80_p1": 33750,
+                                   "il80_p2": 38550,
+                                   "il80_p3": 43350,
+                                   "il80_p4": 48150,
+                                   "il80_p5": 52050,
+                                   "il80_p6": 55900,
+                                   "il80_p7": 59750,
+                                   "il80_p8": 63600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "year": "2018",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "year": "2019",
+                            "median_income": 59500,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29000,
+                                   "il50_p4": 32200,
+                                   "il50_p5": 34800,
+                                   "il50_p6": 37400,
+                                   "il50_p7": 39950,
+                                   "il50_p8": 42550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42550
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51500,
+                                   "il80_p5": 55650,
+                                   "il80_p6": 59750,
+                                   "il80_p7": 63900,
+                                   "il80_p8": 68000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "year": "2020",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 24350,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31300,
+                                   "il50_p4": 34750,
+                                   "il50_p5": 37550,
+                                   "il50_p6": 40350,
+                                   "il50_p7": 43100,
+                                   "il50_p8": 45900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38900,
+                                   "il80_p2": 44450,
+                                   "il80_p3": 50000,
+                                   "il80_p4": 55550,
+                                   "il80_p5": 60000,
+                                   "il80_p6": 64450,
+                                   "il80_p7": 68900,
+                                   "il80_p8": 73350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL MSA",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "year": "2021",
+                            "median_income": 71500,
+                            "very_low": {
+                                   "il50_p1": 25050,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32200,
+                                   "il50_p4": 35750,
+                                   "il50_p5": 38650,
+                                   "il50_p6": 41500,
+                                   "il50_p7": 44350,
+                                   "il50_p8": 47200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40050,
+                                   "il80_p2": 45800,
+                                   "il80_p3": 51500,
+                                   "il80_p4": 57200,
+                                   "il80_p5": 61800,
+                                   "il80_p6": 66400,
+                                   "il80_p7": 70950,
+                                   "il80_p8": 75550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Martin County, FL; St. Lucie County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Port St. Lucie, FL",
+                            "area_name": "Port St. Lucie, FL MSA",
+                            "year": "2022",
+                            "median_income": 84500,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     }
+              ]
+       }
+}

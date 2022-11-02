@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 830,
+                                   "One-Bedroom": 1035,
+                                   "Two-Bedroom": 1294,
+                                   "Three-Bedroom": 1884,
+                                   "Four-Bedroom": 2280,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 874,
+                                   "One-Bedroom": 1087,
+                                   "Two-Bedroom": 1341,
+                                   "Three-Bedroom": 1951,
+                                   "Four-Bedroom": 2361,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 983,
+                                   "One-Bedroom": 1184,
+                                   "Two-Bedroom": 1443,
+                                   "Three-Bedroom": 2086,
+                                   "Four-Bedroom": 2531,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1124,
+                                   "One-Bedroom": 1318,
+                                   "Two-Bedroom": 1589,
+                                   "Three-Bedroom": 2292,
+                                   "Four-Bedroom": 2790,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1190,
+                                   "One-Bedroom": 1351,
+                                   "Two-Bedroom": 1617,
+                                   "Three-Bedroom": 2314,
+                                   "Four-Bedroom": 2800,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo, CA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1232,
+                                   "One-Bedroom": 1408,
+                                   "Two-Bedroom": 1677,
+                                   "Three-Bedroom": 2382,
+                                   "Four-Bedroom": 2870,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "year": "2017",
+                            "median_income": 80400,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36200,
+                                   "il50_p4": 40200,
+                                   "il50_p5": 43450,
+                                   "il50_p6": 46650,
+                                   "il50_p7": 49850,
+                                   "il50_p8": 53100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 21700,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 45050,
+                                   "il80_p2": 51450,
+                                   "il80_p3": 57900,
+                                   "il80_p4": 64300,
+                                   "il80_p5": 69450,
+                                   "il80_p6": 74600,
+                                   "il80_p7": 79750,
+                                   "il80_p8": 84900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "year": "2018",
+                            "median_income": 83700,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33500,
+                                   "il50_p3": 37700,
+                                   "il50_p4": 41850,
+                                   "il50_p5": 45200,
+                                   "il50_p6": 48550,
+                                   "il50_p7": 51900,
+                                   "il50_p8": 55250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 46900,
+                                   "il80_p2": 53600,
+                                   "il80_p3": 60300,
+                                   "il80_p4": 66950,
+                                   "il80_p5": 72350,
+                                   "il80_p6": 77700,
+                                   "il80_p7": 83050,
+                                   "il80_p8": 88400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "year": "2019",
+                            "median_income": 85700,
+                            "very_low": {
+                                   "il50_p1": 30000,
+                                   "il50_p2": 34300,
+                                   "il50_p3": 38600,
+                                   "il50_p4": 42850,
+                                   "il50_p5": 46300,
+                                   "il50_p6": 49750,
+                                   "il50_p7": 53150,
+                                   "il50_p8": 56600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18000,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23150,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 48000,
+                                   "il80_p2": 54850,
+                                   "il80_p3": 61700,
+                                   "il80_p4": 68550,
+                                   "il80_p5": 74050,
+                                   "il80_p6": 79550,
+                                   "il80_p7": 85050,
+                                   "il80_p8": 90500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "year": "2020",
+                            "median_income": 95400,
+                            "very_low": {
+                                   "il50_p1": 32400,
+                                   "il50_p2": 37000,
+                                   "il50_p3": 41650,
+                                   "il50_p4": 46250,
+                                   "il50_p5": 49950,
+                                   "il50_p6": 53650,
+                                   "il50_p7": 57350,
+                                   "il50_p8": 61050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19450,
+                                   "il30_p2": 22200,
+                                   "il30_p3": 25000,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 51800,
+                                   "il80_p2": 59200,
+                                   "il80_p3": 66600,
+                                   "il80_p4": 73950,
+                                   "il80_p5": 79900,
+                                   "il80_p6": 85800,
+                                   "il80_p7": 91700,
+                                   "il80_p8": 97650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo-Fairfield, CA MSA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "year": "2021",
+                            "median_income": 99300,
+                            "very_low": {
+                                   "il50_p1": 34000,
+                                   "il50_p2": 38850,
+                                   "il50_p3": 43700,
+                                   "il50_p4": 48550,
+                                   "il50_p5": 52450,
+                                   "il50_p6": 56350,
+                                   "il50_p7": 60250,
+                                   "il50_p8": 64100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20450,
+                                   "il30_p2": 23350,
+                                   "il30_p3": 26250,
+                                   "il30_p4": 29150,
+                                   "il30_p5": 31500,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 54350,
+                                   "il80_p2": 62100,
+                                   "il80_p3": 69850,
+                                   "il80_p4": 77600,
+                                   "il80_p5": 83850,
+                                   "il80_p6": 90050,
+                                   "il80_p7": 96250,
+                                   "il80_p8": 102450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Solano County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Vallejo, CA",
+                            "area_name": "Vallejo-Fairfield, CA MSA",
+                            "year": "2022",
+                            "median_income": 108700,
+                            "very_low": {
+                                   "il50_p1": 38050,
+                                   "il50_p2": 43450,
+                                   "il50_p3": 48900,
+                                   "il50_p4": 54300,
+                                   "il50_p5": 58650,
+                                   "il50_p6": 63000,
+                                   "il50_p7": 67350,
+                                   "il50_p8": 71700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22850,
+                                   "il30_p2": 26100,
+                                   "il30_p3": 29350,
+                                   "il30_p4": 32600,
+                                   "il30_p5": 35250,
+                                   "il30_p6": 37850,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 60800,
+                                   "il80_p2": 69450,
+                                   "il80_p3": 78150,
+                                   "il80_p4": 86800,
+                                   "il80_p5": 93750,
+                                   "il80_p6": 100700,
+                                   "il80_p7": 107650,
+                                   "il80_p8": 114600
+                            }
+                     }
+              ]
+       }
+}

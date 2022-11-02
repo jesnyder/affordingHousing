@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 555,
+                                   "One-Bedroom": 559,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 933,
+                                   "Four-Bedroom": 997,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 527,
+                                   "One-Bedroom": 560,
+                                   "Two-Bedroom": 745,
+                                   "Three-Bedroom": 934,
+                                   "Four-Bedroom": 1050,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 488,
+                                   "One-Bedroom": 575,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 952,
+                                   "Four-Bedroom": 1078,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 477,
+                                   "One-Bedroom": 556,
+                                   "Two-Bedroom": 732,
+                                   "Three-Bedroom": 912,
+                                   "Four-Bedroom": 1048,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 490,
+                                   "One-Bedroom": 556,
+                                   "Two-Bedroom": 720,
+                                   "Three-Bedroom": 920,
+                                   "Four-Bedroom": 1045,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 503,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 735,
+                                   "Three-Bedroom": 995,
+                                   "Four-Bedroom": 1067,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "year": "2017",
+                            "median_income": 65800,
+                            "very_low": {
+                                   "il50_p1": 23050,
+                                   "il50_p2": 26350,
+                                   "il50_p3": 29650,
+                                   "il50_p4": 32900,
+                                   "il50_p5": 35550,
+                                   "il50_p6": 38200,
+                                   "il50_p7": 40800,
+                                   "il50_p8": 43450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42150,
+                                   "il80_p3": 47400,
+                                   "il80_p4": 52650,
+                                   "il80_p5": 56900,
+                                   "il80_p6": 61100,
+                                   "il80_p7": 65300,
+                                   "il80_p8": 69500
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "year": "2018",
+                            "median_income": 68700,
+                            "very_low": {
+                                   "il50_p1": 24050,
+                                   "il50_p2": 27500,
+                                   "il50_p3": 30950,
+                                   "il50_p4": 34350,
+                                   "il50_p5": 37100,
+                                   "il50_p6": 39850,
+                                   "il50_p7": 42600,
+                                   "il50_p8": 45350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14450,
+                                   "il30_p2": 16500,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38500,
+                                   "il80_p2": 44000,
+                                   "il80_p3": 49500,
+                                   "il80_p4": 54950,
+                                   "il80_p5": 59350,
+                                   "il80_p6": 63750,
+                                   "il80_p7": 68150,
+                                   "il80_p8": 72550
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "year": "2019",
+                            "median_income": 70900,
+                            "very_low": {
+                                   "il50_p1": 24850,
+                                   "il50_p2": 28400,
+                                   "il50_p3": 31950,
+                                   "il50_p4": 35450,
+                                   "il50_p5": 38300,
+                                   "il50_p6": 41150,
+                                   "il50_p7": 44000,
+                                   "il50_p8": 46800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 17000,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45400,
+                                   "il80_p3": 51050,
+                                   "il80_p4": 56700,
+                                   "il80_p5": 61250,
+                                   "il80_p6": 65800,
+                                   "il80_p7": 70350,
+                                   "il80_p8": 74850
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "year": "2020",
+                            "median_income": 76000,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 38000,
+                                   "il50_p5": 41050,
+                                   "il50_p6": 44100,
+                                   "il50_p7": 47150,
+                                   "il50_p8": 50200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18250,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42600,
+                                   "il80_p2": 48650,
+                                   "il80_p3": 54750,
+                                   "il80_p4": 60800,
+                                   "il80_p5": 65700,
+                                   "il80_p6": 70550,
+                                   "il80_p7": 75400,
+                                   "il80_p8": 80300
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "year": "2021",
+                            "median_income": 77700,
+                            "very_low": {
+                                   "il50_p1": 27200,
+                                   "il50_p2": 31100,
+                                   "il50_p3": 35000,
+                                   "il50_p4": 38850,
+                                   "il50_p5": 42000,
+                                   "il50_p6": 45100,
+                                   "il50_p7": 48200,
+                                   "il50_p8": 51300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18650,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43550,
+                                   "il80_p2": 49750,
+                                   "il80_p3": 55950,
+                                   "il80_p4": 62150,
+                                   "il80_p5": 67150,
+                                   "il80_p6": 72100,
+                                   "il80_p7": 77100,
+                                   "il80_p8": 82050
+                            }
+                     },
+                     {
+                            "county_name": "Lee County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lee County, IL",
+                            "year": "2022",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     }
+              ]
+       }
+}

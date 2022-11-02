@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 633,
+                                   "One-Bedroom": 675,
+                                   "Two-Bedroom": 820,
+                                   "Three-Bedroom": 1103,
+                                   "Four-Bedroom": 1190,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 602,
+                                   "One-Bedroom": 674,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1191,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 712,
+                                   "Two-Bedroom": 867,
+                                   "Three-Bedroom": 1154,
+                                   "Four-Bedroom": 1281,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 650,
+                                   "One-Bedroom": 730,
+                                   "Two-Bedroom": 899,
+                                   "Three-Bedroom": 1186,
+                                   "Four-Bedroom": 1334,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 757,
+                                   "Two-Bedroom": 939,
+                                   "Three-Bedroom": 1226,
+                                   "Four-Bedroom": 1356,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL",
+                            "area_name": "Ocala, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 740,
+                                   "One-Bedroom": 806,
+                                   "Two-Bedroom": 995,
+                                   "Three-Bedroom": 1285,
+                                   "Four-Bedroom": 1418,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "year": "2017",
+                            "median_income": 51500,
+                            "very_low": {
+                                   "il50_p1": 17800,
+                                   "il50_p2": 20350,
+                                   "il50_p3": 22900,
+                                   "il50_p4": 25400,
+                                   "il50_p5": 27450,
+                                   "il50_p6": 29500,
+                                   "il50_p7": 31500,
+                                   "il50_p8": 33550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27450,
+                                   "il30_p6": 29500,
+                                   "il30_p7": 31500,
+                                   "il30_p8": 33550
+                            },
+                            "low": {
+                                   "il80_p1": 28500,
+                                   "il80_p2": 32550,
+                                   "il80_p3": 36600,
+                                   "il80_p4": 40650,
+                                   "il80_p5": 43950,
+                                   "il80_p6": 47200,
+                                   "il80_p7": 50450,
+                                   "il80_p8": 53700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "year": "2018",
+                            "median_income": 53400,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24050,
+                                   "il50_p4": 26700,
+                                   "il50_p5": 28850,
+                                   "il50_p6": 31000,
+                                   "il50_p7": 33150,
+                                   "il50_p8": 35250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28850,
+                                   "il30_p6": 31000,
+                                   "il30_p7": 33150,
+                                   "il30_p8": 35250
+                            },
+                            "low": {
+                                   "il80_p1": 29900,
+                                   "il80_p2": 34200,
+                                   "il80_p3": 38450,
+                                   "il80_p4": 42700,
+                                   "il80_p5": 46150,
+                                   "il80_p6": 49550,
+                                   "il80_p7": 52950,
+                                   "il80_p8": 56400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "year": "2019",
+                            "median_income": 50200,
+                            "very_low": {
+                                   "il50_p1": 18100,
+                                   "il50_p2": 20700,
+                                   "il50_p3": 23300,
+                                   "il50_p4": 25850,
+                                   "il50_p5": 27950,
+                                   "il50_p6": 30000,
+                                   "il50_p7": 32100,
+                                   "il50_p8": 34150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 27950,
+                                   "il30_p6": 30000,
+                                   "il30_p7": 32100,
+                                   "il30_p8": 34150
+                            },
+                            "low": {
+                                   "il80_p1": 28950,
+                                   "il80_p2": 33100,
+                                   "il80_p3": 37250,
+                                   "il80_p4": 41350,
+                                   "il80_p5": 44700,
+                                   "il80_p6": 48000,
+                                   "il80_p7": 51300,
+                                   "il80_p8": 54600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "year": "2020",
+                            "median_income": 55000,
+                            "very_low": {
+                                   "il50_p1": 19250,
+                                   "il50_p2": 22000,
+                                   "il50_p3": 24750,
+                                   "il50_p4": 27500,
+                                   "il50_p5": 29700,
+                                   "il50_p6": 31900,
+                                   "il50_p7": 34100,
+                                   "il50_p8": 36300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29700,
+                                   "il30_p6": 31900,
+                                   "il30_p7": 34100,
+                                   "il30_p8": 36300
+                            },
+                            "low": {
+                                   "il80_p1": 30800,
+                                   "il80_p2": 35200,
+                                   "il80_p3": 39600,
+                                   "il80_p4": 44000,
+                                   "il80_p5": 47550,
+                                   "il80_p6": 51050,
+                                   "il80_p7": 54600,
+                                   "il80_p8": 58100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL MSA",
+                            "area_name": "Ocala, FL MSA",
+                            "year": "2021",
+                            "median_income": 55600,
+                            "very_low": {
+                                   "il50_p1": 19500,
+                                   "il50_p2": 22250,
+                                   "il50_p3": 25050,
+                                   "il50_p4": 27800,
+                                   "il50_p5": 30050,
+                                   "il50_p6": 32250,
+                                   "il50_p7": 34500,
+                                   "il50_p8": 36700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30050,
+                                   "il30_p6": 32250,
+                                   "il30_p7": 34500,
+                                   "il30_p8": 36700
+                            },
+                            "low": {
+                                   "il80_p1": 31150,
+                                   "il80_p2": 35600,
+                                   "il80_p3": 40050,
+                                   "il80_p4": 44500,
+                                   "il80_p5": 48100,
+                                   "il80_p6": 51650,
+                                   "il80_p7": 55200,
+                                   "il80_p8": 58750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Marion County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocala, FL",
+                            "area_name": "Ocala, FL MSA",
+                            "year": "2022",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 21800,
+                                   "il50_p2": 24900,
+                                   "il50_p3": 28000,
+                                   "il50_p4": 31100,
+                                   "il50_p5": 33600,
+                                   "il50_p6": 36100,
+                                   "il50_p7": 38600,
+                                   "il50_p8": 41100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36100,
+                                   "il30_p7": 38600,
+                                   "il30_p8": 41100
+                            },
+                            "low": {
+                                   "il80_p1": 34850,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44800,
+                                   "il80_p4": 49750,
+                                   "il80_p5": 53750,
+                                   "il80_p6": 57750,
+                                   "il80_p7": 61700,
+                                   "il80_p8": 65700
+                            }
+                     }
+              ]
+       }
+}

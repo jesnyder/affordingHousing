@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 346,
+                                   "One-Bedroom": 362,
+                                   "Two-Bedroom": 432,
+                                   "Three-Bedroom": 580,
+                                   "Four-Bedroom": 706,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 311,
+                                   "One-Bedroom": 326,
+                                   "Two-Bedroom": 389,
+                                   "Three-Bedroom": 522,
+                                   "Four-Bedroom": 635,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 334,
+                                   "One-Bedroom": 363,
+                                   "Two-Bedroom": 416,
+                                   "Three-Bedroom": 540,
+                                   "Four-Bedroom": 572,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 327,
+                                   "One-Bedroom": 359,
+                                   "Two-Bedroom": 409,
+                                   "Three-Bedroom": 520,
+                                   "Four-Bedroom": 554,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 337,
+                                   "One-Bedroom": 369,
+                                   "Two-Bedroom": 421,
+                                   "Three-Bedroom": 524,
+                                   "Four-Bedroom": 573,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Bayam\u00f3n-Caguas, PR",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 360,
+                                   "One-Bedroom": 390,
+                                   "Two-Bedroom": 444,
+                                   "Three-Bedroom": 549,
+                                   "Four-Bedroom": 605,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 16700,
+                            "very_low": {
+                                   "il50_p1": 8850,
+                                   "il50_p2": 10100,
+                                   "il50_p3": 11350,
+                                   "il50_p4": 12600,
+                                   "il50_p5": 13650,
+                                   "il50_p6": 14650,
+                                   "il50_p7": 15650,
+                                   "il50_p8": 16650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5300,
+                                   "il30_p2": 6050,
+                                   "il30_p3": 6800,
+                                   "il30_p4": 7550,
+                                   "il30_p5": 8200,
+                                   "il30_p6": 8800,
+                                   "il30_p7": 9400,
+                                   "il30_p8": 10000
+                            },
+                            "low": {
+                                   "il80_p1": 14150,
+                                   "il80_p2": 16150,
+                                   "il80_p3": 18150,
+                                   "il80_p4": 20150,
+                                   "il80_p5": 21800,
+                                   "il80_p6": 23400,
+                                   "il80_p7": 25000,
+                                   "il80_p8": 26600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 17700,
+                            "very_low": {
+                                   "il50_p1": 8400,
+                                   "il50_p2": 9600,
+                                   "il50_p3": 10800,
+                                   "il50_p4": 12000,
+                                   "il50_p5": 13000,
+                                   "il50_p6": 13950,
+                                   "il50_p7": 14900,
+                                   "il50_p8": 15850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5050,
+                                   "il30_p2": 5800,
+                                   "il30_p3": 6500,
+                                   "il30_p4": 7200,
+                                   "il30_p5": 7800,
+                                   "il30_p6": 8400,
+                                   "il30_p7": 8950,
+                                   "il30_p8": 9550
+                            },
+                            "low": {
+                                   "il80_p1": 13450,
+                                   "il80_p2": 15400,
+                                   "il80_p3": 17300,
+                                   "il80_p4": 19200,
+                                   "il80_p5": 20750,
+                                   "il80_p6": 22300,
+                                   "il80_p7": 23850,
+                                   "il80_p8": 25350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 22300,
+                            "very_low": {
+                                   "il50_p1": 8500,
+                                   "il50_p2": 9700,
+                                   "il50_p3": 10900,
+                                   "il50_p4": 12100,
+                                   "il50_p5": 13100,
+                                   "il50_p6": 14050,
+                                   "il50_p7": 15050,
+                                   "il50_p8": 16000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5100,
+                                   "il30_p2": 5800,
+                                   "il30_p3": 6550,
+                                   "il30_p4": 7250,
+                                   "il30_p5": 7850,
+                                   "il30_p6": 8450,
+                                   "il30_p7": 9000,
+                                   "il30_p8": 9600
+                            },
+                            "low": {
+                                   "il80_p1": 13550,
+                                   "il80_p2": 15500,
+                                   "il80_p3": 17450,
+                                   "il80_p4": 19350,
+                                   "il80_p5": 20900,
+                                   "il80_p6": 22450,
+                                   "il80_p7": 24000,
+                                   "il80_p8": 25550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 19700,
+                            "very_low": {
+                                   "il50_p1": 8350,
+                                   "il50_p2": 9550,
+                                   "il50_p3": 10750,
+                                   "il50_p4": 11900,
+                                   "il50_p5": 12900,
+                                   "il50_p6": 13850,
+                                   "il50_p7": 14800,
+                                   "il50_p8": 15750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5050,
+                                   "il30_p2": 5750,
+                                   "il30_p3": 6450,
+                                   "il30_p4": 7150,
+                                   "il30_p5": 7750,
+                                   "il30_p6": 8300,
+                                   "il30_p7": 8900,
+                                   "il30_p8": 9450
+                            },
+                            "low": {
+                                   "il80_p1": 13350,
+                                   "il80_p2": 15250,
+                                   "il80_p3": 17150,
+                                   "il80_p4": 19050,
+                                   "il80_p5": 20600,
+                                   "il80_p6": 22100,
+                                   "il80_p7": 23650,
+                                   "il80_p8": 25150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; Maunabo Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Carolina-Caguas, PR MSA",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 21700,
+                            "very_low": {
+                                   "il50_p1": 8600,
+                                   "il50_p2": 9800,
+                                   "il50_p3": 11050,
+                                   "il50_p4": 12250,
+                                   "il50_p5": 13250,
+                                   "il50_p6": 14250,
+                                   "il50_p7": 15200,
+                                   "il50_p8": 16200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5150,
+                                   "il30_p2": 5900,
+                                   "il30_p3": 6650,
+                                   "il30_p4": 7350,
+                                   "il30_p5": 7950,
+                                   "il30_p6": 8550,
+                                   "il30_p7": 9150,
+                                   "il30_p8": 9750
+                            },
+                            "low": {
+                                   "il80_p1": 13750,
+                                   "il80_p2": 15700,
+                                   "il80_p3": 17650,
+                                   "il80_p4": 19600,
+                                   "il80_p5": 21200,
+                                   "il80_p6": 22750,
+                                   "il80_p7": 24350,
+                                   "il80_p8": 25900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Aibonito Municipio, PR; Barranquitas Municipio, PR; Ciales Municipio, PR; and Orocovis Municipio, PR",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Juan-Bayam\u00f3n-Caguas, PR",
+                            "area_name": "Barranquitas-Aibonito, PR HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 25500,
+                            "very_low": {
+                                   "il50_p1": 9100,
+                                   "il50_p2": 10400,
+                                   "il50_p3": 11700,
+                                   "il50_p4": 12950,
+                                   "il50_p5": 14000,
+                                   "il50_p6": 15050,
+                                   "il50_p7": 16100,
+                                   "il50_p8": 17100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5450,
+                                   "il30_p2": 6200,
+                                   "il30_p3": 7000,
+                                   "il30_p4": 7750,
+                                   "il30_p5": 8400,
+                                   "il30_p6": 9000,
+                                   "il30_p7": 9650,
+                                   "il30_p8": 10250
+                            },
+                            "low": {
+                                   "il80_p1": 14500,
+                                   "il80_p2": 16600,
+                                   "il80_p3": 18650,
+                                   "il80_p4": 20700,
+                                   "il80_p5": 22400,
+                                   "il80_p6": 24050,
+                                   "il80_p7": 25700,
+                                   "il80_p8": 27350
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 514,
+                                   "One-Bedroom": 546,
+                                   "Two-Bedroom": 713,
+                                   "Three-Bedroom": 892,
+                                   "Four-Bedroom": 1014,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 539,
+                                   "One-Bedroom": 552,
+                                   "Two-Bedroom": 721,
+                                   "Three-Bedroom": 904,
+                                   "Four-Bedroom": 1047,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 544,
+                                   "One-Bedroom": 548,
+                                   "Two-Bedroom": 710,
+                                   "Three-Bedroom": 904,
+                                   "Four-Bedroom": 1035,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 551,
+                                   "One-Bedroom": 555,
+                                   "Two-Bedroom": 722,
+                                   "Three-Bedroom": 930,
+                                   "Four-Bedroom": 1034,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 556,
+                                   "Two-Bedroom": 724,
+                                   "Three-Bedroom": 949,
+                                   "Four-Bedroom": 1017,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 1009,
+                                   "Four-Bedroom": 1058,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 59500,
+                            "very_low": {
+                                   "il50_p1": 20850,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26800,
+                                   "il50_p4": 29750,
+                                   "il50_p5": 32150,
+                                   "il50_p6": 34550,
+                                   "il50_p7": 36900,
+                                   "il50_p8": 39300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36900,
+                                   "il30_p8": 39300
+                            },
+                            "low": {
+                                   "il80_p1": 33350,
+                                   "il80_p2": 38100,
+                                   "il80_p3": 42850,
+                                   "il80_p4": 47600,
+                                   "il80_p5": 51450,
+                                   "il80_p6": 55250,
+                                   "il80_p7": 59050,
+                                   "il80_p8": 62850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 64700,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25900,
+                                   "il50_p3": 29150,
+                                   "il50_p4": 32350,
+                                   "il50_p5": 34950,
+                                   "il50_p6": 37550,
+                                   "il50_p7": 40150,
+                                   "il50_p8": 42750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36250,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46600,
+                                   "il80_p4": 51750,
+                                   "il80_p5": 55900,
+                                   "il80_p6": 60050,
+                                   "il80_p7": 64200,
+                                   "il80_p8": 68350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 66700,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26700,
+                                   "il50_p3": 30050,
+                                   "il50_p4": 33350,
+                                   "il50_p5": 36050,
+                                   "il50_p6": 38700,
+                                   "il50_p7": 41400,
+                                   "il50_p8": 44050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44050
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42700,
+                                   "il80_p3": 48050,
+                                   "il80_p4": 53350,
+                                   "il80_p5": 57650,
+                                   "il80_p6": 61900,
+                                   "il80_p7": 66200,
+                                   "il80_p8": 70450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA MSA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 66600,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26650,
+                                   "il50_p3": 30000,
+                                   "il50_p4": 33300,
+                                   "il50_p5": 36000,
+                                   "il50_p6": 38650,
+                                   "il50_p7": 41300,
+                                   "il50_p8": 44000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44000
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42650,
+                                   "il80_p3": 48000,
+                                   "il80_p4": 53300,
+                                   "il80_p5": 57600,
+                                   "il80_p6": 61850,
+                                   "il80_p7": 66100,
+                                   "il80_p8": 70400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Mercer County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Youngstown-Warren-Boardman, OH-PA",
+                            "area_name": "Sharon, PA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 78300,
+                            "very_low": {
+                                   "il50_p1": 26100,
+                                   "il50_p2": 29800,
+                                   "il50_p3": 33550,
+                                   "il50_p4": 37250,
+                                   "il50_p5": 40250,
+                                   "il50_p6": 43250,
+                                   "il50_p7": 46200,
+                                   "il50_p8": 49200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41750,
+                                   "il80_p2": 47700,
+                                   "il80_p3": 53650,
+                                   "il80_p4": 59600,
+                                   "il80_p5": 64400,
+                                   "il80_p6": 69150,
+                                   "il80_p7": 73950,
+                                   "il80_p8": 78700
+                            }
+                     }
+              ]
+       }
+}

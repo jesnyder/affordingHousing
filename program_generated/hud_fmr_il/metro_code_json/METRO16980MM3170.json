@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 776,
+                                   "One-Bedroom": 779,
+                                   "Two-Bedroom": 1036,
+                                   "Three-Bedroom": 1423,
+                                   "Four-Bedroom": 1428,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 698,
+                                   "One-Bedroom": 813,
+                                   "Two-Bedroom": 1081,
+                                   "Three-Bedroom": 1467,
+                                   "Four-Bedroom": 1472,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 843,
+                                   "One-Bedroom": 849,
+                                   "Two-Bedroom": 1123,
+                                   "Three-Bedroom": 1517,
+                                   "Four-Bedroom": 1518,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 873,
+                                   "One-Bedroom": 879,
+                                   "Two-Bedroom": 1158,
+                                   "Three-Bedroom": 1492,
+                                   "Four-Bedroom": 1569,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 887,
+                                   "One-Bedroom": 893,
+                                   "Two-Bedroom": 1177,
+                                   "Three-Bedroom": 1478,
+                                   "Four-Bedroom": 1596,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 910,
+                                   "One-Bedroom": 916,
+                                   "Two-Bedroom": 1205,
+                                   "Three-Bedroom": 1514,
+                                   "Four-Bedroom": 1634,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 82000,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 41000,
+                                   "il50_p5": 44300,
+                                   "il50_p6": 47600,
+                                   "il50_p7": 50850,
+                                   "il50_p8": 54150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17250,
+                                   "il30_p2": 19700,
+                                   "il30_p3": 22150,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 45950,
+                                   "il80_p2": 52500,
+                                   "il80_p3": 59050,
+                                   "il80_p4": 65600,
+                                   "il80_p5": 70850,
+                                   "il80_p6": 76100,
+                                   "il80_p7": 81350,
+                                   "il80_p8": 86600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 84500,
+                            "very_low": {
+                                   "il50_p1": 29600,
+                                   "il50_p2": 33800,
+                                   "il50_p3": 38050,
+                                   "il50_p4": 42250,
+                                   "il50_p5": 45650,
+                                   "il50_p6": 49050,
+                                   "il50_p7": 52400,
+                                   "il50_p8": 55800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20300,
+                                   "il30_p3": 22850,
+                                   "il30_p4": 25350,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 47350,
+                                   "il80_p2": 54100,
+                                   "il80_p3": 60850,
+                                   "il80_p4": 67600,
+                                   "il80_p5": 73050,
+                                   "il80_p6": 78450,
+                                   "il80_p7": 83850,
+                                   "il80_p8": 89250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 85300,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34150,
+                                   "il50_p3": 38400,
+                                   "il50_p4": 42650,
+                                   "il50_p5": 46100,
+                                   "il50_p6": 49500,
+                                   "il50_p7": 52900,
+                                   "il50_p8": 56300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47800,
+                                   "il80_p2": 54600,
+                                   "il80_p3": 61450,
+                                   "il80_p4": 68250,
+                                   "il80_p5": 73750,
+                                   "il80_p6": 79200,
+                                   "il80_p7": 84650,
+                                   "il80_p8": 90100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 88900,
+                            "very_low": {
+                                   "il50_p1": 31150,
+                                   "il50_p2": 35600,
+                                   "il50_p3": 40050,
+                                   "il50_p4": 44450,
+                                   "il50_p5": 48050,
+                                   "il50_p6": 51600,
+                                   "il50_p7": 55150,
+                                   "il50_p8": 58700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18700,
+                                   "il30_p2": 21350,
+                                   "il30_p3": 24000,
+                                   "il30_p4": 26650,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 49800,
+                                   "il80_p2": 56900,
+                                   "il80_p3": 64000,
+                                   "il80_p4": 71100,
+                                   "il80_p5": 76800,
+                                   "il80_p6": 82500,
+                                   "il80_p7": 88200,
+                                   "il80_p8": 93900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI MSA",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 90300,
+                            "very_low": {
+                                   "il50_p1": 31650,
+                                   "il50_p2": 36150,
+                                   "il50_p3": 40650,
+                                   "il50_p4": 45150,
+                                   "il50_p5": 48800,
+                                   "il50_p6": 52400,
+                                   "il50_p7": 56000,
+                                   "il50_p8": 59600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19000,
+                                   "il30_p2": 21700,
+                                   "il30_p3": 24400,
+                                   "il30_p4": 27100,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 50600,
+                                   "il80_p2": 57800,
+                                   "il80_p3": 65050,
+                                   "il80_p4": 72250,
+                                   "il80_p5": 78050,
+                                   "il80_p6": 83850,
+                                   "il80_p7": 89600,
+                                   "il80_p8": 95400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grundy County, IL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chicago-Naperville-Elgin, IL-IN-WI",
+                            "area_name": "Grundy County, IL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 97600,
+                            "very_low": {
+                                   "il50_p1": 34200,
+                                   "il50_p2": 39050,
+                                   "il50_p3": 43950,
+                                   "il50_p4": 48800,
+                                   "il50_p5": 52750,
+                                   "il50_p6": 56650,
+                                   "il50_p7": 60550,
+                                   "il50_p8": 64450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20550,
+                                   "il30_p2": 23450,
+                                   "il30_p3": 26400,
+                                   "il30_p4": 29300,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54700,
+                                   "il80_p2": 62500,
+                                   "il80_p3": 70300,
+                                   "il80_p4": 78100,
+                                   "il80_p5": 84350,
+                                   "il80_p6": 90600,
+                                   "il80_p7": 96850,
+                                   "il80_p8": 103100
+                            }
+                     }
+              ]
+       }
+}

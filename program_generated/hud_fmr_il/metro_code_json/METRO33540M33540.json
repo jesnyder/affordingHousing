@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 639,
+                                   "One-Bedroom": 691,
+                                   "Two-Bedroom": 855,
+                                   "Three-Bedroom": 1245,
+                                   "Four-Bedroom": 1507,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 662,
+                                   "One-Bedroom": 735,
+                                   "Two-Bedroom": 925,
+                                   "Three-Bedroom": 1346,
+                                   "Four-Bedroom": 1629,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 642,
+                                   "One-Bedroom": 732,
+                                   "Two-Bedroom": 927,
+                                   "Three-Bedroom": 1340,
+                                   "Four-Bedroom": 1628,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 626,
+                                   "One-Bedroom": 722,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1324,
+                                   "Four-Bedroom": 1612,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 685,
+                                   "One-Bedroom": 772,
+                                   "Two-Bedroom": 979,
+                                   "Three-Bedroom": 1401,
+                                   "Four-Bedroom": 1695,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT",
+                            "area_name": "Missoula, MT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 717,
+                                   "One-Bedroom": 813,
+                                   "Two-Bedroom": 1020,
+                                   "Three-Bedroom": 1440,
+                                   "Four-Bedroom": 1746,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "year": "2017",
+                            "median_income": 71200,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "year": "2018",
+                            "median_income": 70400,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31700,
+                                   "il50_p4": 35200,
+                                   "il50_p5": 38050,
+                                   "il50_p6": 40850,
+                                   "il50_p7": 43650,
+                                   "il50_p8": 46500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 16900,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39450,
+                                   "il80_p2": 45050,
+                                   "il80_p3": 50700,
+                                   "il80_p4": 56300,
+                                   "il80_p5": 60850,
+                                   "il80_p6": 65350,
+                                   "il80_p7": 69850,
+                                   "il80_p8": 74350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "year": "2019",
+                            "median_income": 73300,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29350,
+                                   "il50_p3": 33000,
+                                   "il50_p4": 36650,
+                                   "il50_p5": 39600,
+                                   "il50_p6": 42550,
+                                   "il50_p7": 45450,
+                                   "il50_p8": 48400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 46950,
+                                   "il80_p3": 52800,
+                                   "il80_p4": 58650,
+                                   "il80_p5": 63350,
+                                   "il80_p6": 68050,
+                                   "il80_p7": 72750,
+                                   "il80_p8": 77450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "year": "2020",
+                            "median_income": 84300,
+                            "very_low": {
+                                   "il50_p1": 27700,
+                                   "il50_p2": 31650,
+                                   "il50_p3": 35600,
+                                   "il50_p4": 39550,
+                                   "il50_p5": 42750,
+                                   "il50_p6": 45900,
+                                   "il50_p7": 49050,
+                                   "il50_p8": 52250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50650,
+                                   "il80_p3": 57000,
+                                   "il80_p4": 63300,
+                                   "il80_p5": 68400,
+                                   "il80_p6": 73450,
+                                   "il80_p7": 78500,
+                                   "il80_p8": 83600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT MSA",
+                            "area_name": "Missoula, MT MSA",
+                            "year": "2021",
+                            "median_income": 70900,
+                            "very_low": {
+                                   "il50_p1": 26350,
+                                   "il50_p2": 30100,
+                                   "il50_p3": 33850,
+                                   "il50_p4": 37600,
+                                   "il50_p5": 40650,
+                                   "il50_p6": 43650,
+                                   "il50_p7": 46650,
+                                   "il50_p8": 49650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18050,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42150,
+                                   "il80_p2": 48150,
+                                   "il80_p3": 54150,
+                                   "il80_p4": 60150,
+                                   "il80_p5": 65000,
+                                   "il80_p6": 69800,
+                                   "il80_p7": 74600,
+                                   "il80_p8": 79400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Missoula County, MT; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Missoula, MT",
+                            "area_name": "Missoula, MT MSA",
+                            "year": "2022",
+                            "median_income": 80200,
+                            "very_low": {
+                                   "il50_p1": 28600,
+                                   "il50_p2": 32650,
+                                   "il50_p3": 36750,
+                                   "il50_p4": 40800,
+                                   "il50_p5": 44100,
+                                   "il50_p6": 47350,
+                                   "il50_p7": 50600,
+                                   "il50_p8": 53900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45750,
+                                   "il80_p2": 52250,
+                                   "il80_p3": 58800,
+                                   "il80_p4": 65300,
+                                   "il80_p5": 70550,
+                                   "il80_p6": 75750,
+                                   "il80_p7": 81000,
+                                   "il80_p8": 86200
+                            }
+                     }
+              ]
+       }
+}

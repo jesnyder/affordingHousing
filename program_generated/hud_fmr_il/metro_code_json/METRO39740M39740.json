@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 722,
+                                   "Two-Bedroom": 955,
+                                   "Three-Bedroom": 1195,
+                                   "Four-Bedroom": 1316,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 580,
+                                   "One-Bedroom": 693,
+                                   "Two-Bedroom": 909,
+                                   "Three-Bedroom": 1140,
+                                   "Four-Bedroom": 1238,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 662,
+                                   "One-Bedroom": 792,
+                                   "Two-Bedroom": 1030,
+                                   "Three-Bedroom": 1295,
+                                   "Four-Bedroom": 1396,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 599,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 927,
+                                   "Three-Bedroom": 1166,
+                                   "Four-Bedroom": 1257,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 628,
+                                   "One-Bedroom": 741,
+                                   "Two-Bedroom": 952,
+                                   "Three-Bedroom": 1184,
+                                   "Four-Bedroom": 1291,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA",
+                            "area_name": "Reading, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 690,
+                                   "One-Bedroom": 811,
+                                   "Two-Bedroom": 1038,
+                                   "Three-Bedroom": 1286,
+                                   "Four-Bedroom": 1408,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "year": "2017",
+                            "median_income": 68900,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34450,
+                                   "il50_p5": 37250,
+                                   "il50_p6": 40000,
+                                   "il50_p7": 42750,
+                                   "il50_p8": 45500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16550,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38600,
+                                   "il80_p2": 44100,
+                                   "il80_p3": 49600,
+                                   "il80_p4": 55100,
+                                   "il80_p5": 59550,
+                                   "il80_p6": 63950,
+                                   "il80_p7": 68350,
+                                   "il80_p8": 72750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "year": "2018",
+                            "median_income": 71900,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 35950,
+                                   "il50_p5": 38850,
+                                   "il50_p6": 41750,
+                                   "il50_p7": 44600,
+                                   "il50_p8": 47500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 17250,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57500,
+                                   "il80_p5": 62100,
+                                   "il80_p6": 66700,
+                                   "il80_p7": 71300,
+                                   "il80_p8": 75900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "year": "2019",
+                            "median_income": 76300,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30550,
+                                   "il50_p3": 34350,
+                                   "il50_p4": 38150,
+                                   "il50_p5": 41250,
+                                   "il50_p6": 44300,
+                                   "il50_p7": 47350,
+                                   "il50_p8": 50400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42750,
+                                   "il80_p2": 48850,
+                                   "il80_p3": 54950,
+                                   "il80_p4": 61050,
+                                   "il80_p5": 65950,
+                                   "il80_p6": 70850,
+                                   "il80_p7": 75750,
+                                   "il80_p8": 80600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "year": "2020",
+                            "median_income": 78600,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31450,
+                                   "il50_p3": 35400,
+                                   "il50_p4": 39300,
+                                   "il50_p5": 42450,
+                                   "il50_p6": 45600,
+                                   "il50_p7": 48750,
+                                   "il50_p8": 51900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44050,
+                                   "il80_p2": 50350,
+                                   "il80_p3": 56650,
+                                   "il80_p4": 62900,
+                                   "il80_p5": 67950,
+                                   "il80_p6": 73000,
+                                   "il80_p7": 78000,
+                                   "il80_p8": 83050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA MSA",
+                            "area_name": "Reading, PA MSA",
+                            "year": "2021",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 28800,
+                                   "il50_p2": 32900,
+                                   "il50_p3": 37000,
+                                   "il50_p4": 41100,
+                                   "il50_p5": 44400,
+                                   "il50_p6": 47700,
+                                   "il50_p7": 51000,
+                                   "il50_p8": 54300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 22200,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46050,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59200,
+                                   "il80_p4": 65750,
+                                   "il80_p5": 71050,
+                                   "il80_p6": 76300,
+                                   "il80_p7": 81550,
+                                   "il80_p8": 86800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Berks County, PA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Reading, PA",
+                            "area_name": "Reading, PA MSA",
+                            "year": "2022",
+                            "median_income": 90700,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36300,
+                                   "il50_p3": 40850,
+                                   "il50_p4": 45350,
+                                   "il50_p5": 49000,
+                                   "il50_p6": 52650,
+                                   "il50_p7": 56250,
+                                   "il50_p8": 59900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50800,
+                                   "il80_p2": 58050,
+                                   "il80_p3": 65300,
+                                   "il80_p4": 72550,
+                                   "il80_p5": 78400,
+                                   "il80_p6": 84200,
+                                   "il80_p7": 90000,
+                                   "il80_p8": 95800
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 682,
+                                   "One-Bedroom": 715,
+                                   "Two-Bedroom": 825,
+                                   "Three-Bedroom": 1055,
+                                   "Four-Bedroom": 1454,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 701,
+                                   "One-Bedroom": 721,
+                                   "Two-Bedroom": 828,
+                                   "Three-Bedroom": 1065,
+                                   "Four-Bedroom": 1458,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 743,
+                                   "One-Bedroom": 763,
+                                   "Two-Bedroom": 873,
+                                   "Three-Bedroom": 1153,
+                                   "Four-Bedroom": 1533,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 748,
+                                   "One-Bedroom": 770,
+                                   "Two-Bedroom": 876,
+                                   "Three-Bedroom": 1170,
+                                   "Four-Bedroom": 1538,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 791,
+                                   "One-Bedroom": 810,
+                                   "Two-Bedroom": 923,
+                                   "Three-Bedroom": 1244,
+                                   "Four-Bedroom": 1582,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 798,
+                                   "One-Bedroom": 812,
+                                   "Two-Bedroom": 925,
+                                   "Three-Bedroom": 1232,
+                                   "Four-Bedroom": 1583,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 17550,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 70700,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28300,
+                                   "il50_p3": 31850,
+                                   "il50_p4": 35350,
+                                   "il50_p5": 38200,
+                                   "il50_p6": 41050,
+                                   "il50_p7": 43850,
+                                   "il50_p8": 46700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17000,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39600,
+                                   "il80_p2": 45250,
+                                   "il80_p3": 50900,
+                                   "il80_p4": 56550,
+                                   "il80_p5": 61100,
+                                   "il80_p6": 65600,
+                                   "il80_p7": 70150,
+                                   "il80_p8": 74650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 73100,
+                            "very_low": {
+                                   "il50_p1": 25600,
+                                   "il50_p2": 29250,
+                                   "il50_p3": 32900,
+                                   "il50_p4": 36550,
+                                   "il50_p5": 39500,
+                                   "il50_p6": 42400,
+                                   "il50_p7": 45350,
+                                   "il50_p8": 48250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40950,
+                                   "il80_p2": 46800,
+                                   "il80_p3": 52650,
+                                   "il80_p4": 58500,
+                                   "il80_p5": 63200,
+                                   "il80_p6": 67900,
+                                   "il80_p7": 72550,
+                                   "il80_p8": 77250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 69700,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27900,
+                                   "il50_p3": 31400,
+                                   "il50_p4": 34850,
+                                   "il50_p5": 37650,
+                                   "il50_p6": 40450,
+                                   "il50_p7": 43250,
+                                   "il50_p8": 46050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39050,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50200,
+                                   "il80_p4": 55750,
+                                   "il80_p5": 60250,
+                                   "il80_p6": 64700,
+                                   "il80_p7": 69150,
+                                   "il80_p8": 73600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Iredell County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Iredell County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 90700,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     }
+              ]
+       }
+}

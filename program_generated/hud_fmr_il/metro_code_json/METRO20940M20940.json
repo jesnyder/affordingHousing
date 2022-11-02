@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 626,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1123,
+                                   "Four-Bedroom": 1434,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 575,
+                                   "One-Bedroom": 687,
+                                   "Two-Bedroom": 901,
+                                   "Three-Bedroom": 1199,
+                                   "Four-Bedroom": 1564,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 612,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 953,
+                                   "Three-Bedroom": 1247,
+                                   "Four-Bedroom": 1657,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 669,
+                                   "One-Bedroom": 781,
+                                   "Two-Bedroom": 1027,
+                                   "Three-Bedroom": 1365,
+                                   "Four-Bedroom": 1744,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 708,
+                                   "One-Bedroom": 810,
+                                   "Two-Bedroom": 1060,
+                                   "Three-Bedroom": 1444,
+                                   "Four-Bedroom": 1793,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA",
+                            "area_name": "El Centro, CA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 716,
+                                   "One-Bedroom": 815,
+                                   "Two-Bedroom": 1065,
+                                   "Three-Bedroom": 1486,
+                                   "Four-Bedroom": 1793,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "year": "2017",
+                            "median_income": 49700,
+                            "very_low": {
+                                   "il50_p1": 21000,
+                                   "il50_p2": 24000,
+                                   "il50_p3": 27000,
+                                   "il50_p4": 29950,
+                                   "il50_p5": 32350,
+                                   "il50_p6": 34750,
+                                   "il50_p7": 37150,
+                                   "il50_p8": 39550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12600,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39550
+                            },
+                            "low": {
+                                   "il80_p1": 33550,
+                                   "il80_p2": 38350,
+                                   "il80_p3": 43150,
+                                   "il80_p4": 47900,
+                                   "il80_p5": 51750,
+                                   "il80_p6": 55600,
+                                   "il80_p7": 59400,
+                                   "il80_p8": 63250
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "year": "2018",
+                            "median_income": 48200,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23900,
+                                   "il50_p3": 26900,
+                                   "il50_p4": 29850,
+                                   "il50_p5": 32250,
+                                   "il50_p6": 34650,
+                                   "il50_p7": 37050,
+                                   "il50_p8": 39450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37050,
+                                   "il30_p8": 39450
+                            },
+                            "low": {
+                                   "il80_p1": 33450,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 43000,
+                                   "il80_p4": 47750,
+                                   "il80_p5": 51600,
+                                   "il80_p6": 55400,
+                                   "il80_p7": 59250,
+                                   "il80_p8": 63050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "year": "2019",
+                            "median_income": 60700,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42800
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41500,
+                                   "il80_p3": 46700,
+                                   "il80_p4": 51850,
+                                   "il80_p5": 56000,
+                                   "il80_p6": 60150,
+                                   "il80_p7": 64300,
+                                   "il80_p8": 68450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "year": "2020",
+                            "median_income": 55600,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 34950,
+                                   "il50_p5": 37750,
+                                   "il50_p6": 40550,
+                                   "il50_p7": 43350,
+                                   "il50_p8": 46150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39150,
+                                   "il80_p2": 44750,
+                                   "il80_p3": 50350,
+                                   "il80_p4": 55900,
+                                   "il80_p5": 60400,
+                                   "il80_p6": 64850,
+                                   "il80_p7": 69350,
+                                   "il80_p8": 73800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA MSA",
+                            "area_name": "El Centro, CA MSA",
+                            "year": "2021",
+                            "median_income": 56200,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27900,
+                                   "il50_p3": 31400,
+                                   "il50_p4": 34850,
+                                   "il50_p5": 37650,
+                                   "il50_p6": 40450,
+                                   "il50_p7": 43250,
+                                   "il50_p8": 46050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39050,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50200,
+                                   "il80_p4": 55750,
+                                   "il80_p5": 60250,
+                                   "il80_p6": 64700,
+                                   "il80_p7": 69150,
+                                   "il80_p8": 73600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Imperial County, CA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "El Centro, CA",
+                            "area_name": "El Centro, CA MSA",
+                            "year": "2022",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     }
+              ]
+       }
+}

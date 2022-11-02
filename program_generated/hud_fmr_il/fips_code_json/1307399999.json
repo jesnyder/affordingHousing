@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 618,
+                                   "Two-Bedroom": 745,
+                                   "Three-Bedroom": 1013,
+                                   "Four-Bedroom": 1313,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 636,
+                                   "Two-Bedroom": 771,
+                                   "Three-Bedroom": 1053,
+                                   "Four-Bedroom": 1358,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 691,
+                                   "One-Bedroom": 697,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1142,
+                                   "Four-Bedroom": 1468,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 689,
+                                   "One-Bedroom": 722,
+                                   "Two-Bedroom": 848,
+                                   "Three-Bedroom": 1156,
+                                   "Four-Bedroom": 1489,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 708,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1411,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 685,
+                                   "One-Bedroom": 789,
+                                   "Two-Bedroom": 906,
+                                   "Three-Bedroom": 1228,
+                                   "Four-Bedroom": 1532,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 62000,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 62300,
+                            "very_low": {
+                                   "il50_p1": 21850,
+                                   "il50_p2": 24950,
+                                   "il50_p3": 28050,
+                                   "il50_p4": 31150,
+                                   "il50_p5": 33650,
+                                   "il50_p6": 36150,
+                                   "il50_p7": 38650,
+                                   "il50_p8": 41150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41150
+                            },
+                            "low": {
+                                   "il80_p1": 34900,
+                                   "il80_p2": 39900,
+                                   "il80_p3": 44900,
+                                   "il80_p4": 49850,
+                                   "il80_p5": 53850,
+                                   "il80_p6": 57850,
+                                   "il80_p7": 61850,
+                                   "il80_p8": 65850
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 62800,
+                            "very_low": {
+                                   "il50_p1": 22000,
+                                   "il50_p2": 25150,
+                                   "il50_p3": 28300,
+                                   "il50_p4": 31400,
+                                   "il50_p5": 33950,
+                                   "il50_p6": 36450,
+                                   "il50_p7": 38950,
+                                   "il50_p8": 41450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38950,
+                                   "il30_p8": 41450
+                            },
+                            "low": {
+                                   "il80_p1": 35200,
+                                   "il80_p2": 40200,
+                                   "il80_p3": 45250,
+                                   "il80_p4": 50250,
+                                   "il80_p5": 54300,
+                                   "il80_p6": 58300,
+                                   "il80_p7": 62350,
+                                   "il80_p8": 66350
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43500
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC MSA",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 69900,
+                            "very_low": {
+                                   "il50_p1": 24200,
+                                   "il50_p2": 27650,
+                                   "il50_p3": 31100,
+                                   "il50_p4": 34550,
+                                   "il50_p5": 37350,
+                                   "il50_p6": 40100,
+                                   "il50_p7": 42850,
+                                   "il50_p8": 45650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44250,
+                                   "il80_p3": 49800,
+                                   "il80_p4": 55300,
+                                   "il80_p5": 59750,
+                                   "il80_p6": 64150,
+                                   "il80_p7": 68600,
+                                   "il80_p8": 73000
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Augusta-Richmond County, GA-SC",
+                            "area_name": "Augusta-Richmond County, GA-SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74100,
+                            "very_low": {
+                                   "il50_p1": 25950,
+                                   "il50_p2": 29650,
+                                   "il50_p3": 33350,
+                                   "il50_p4": 37050,
+                                   "il50_p5": 40050,
+                                   "il50_p6": 43000,
+                                   "il50_p7": 45950,
+                                   "il50_p8": 48950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47450,
+                                   "il80_p3": 53400,
+                                   "il80_p4": 59300,
+                                   "il80_p5": 64050,
+                                   "il80_p6": 68800,
+                                   "il80_p7": 73550,
+                                   "il80_p8": 78300
+                            }
+                     }
+              ]
+       }
+}

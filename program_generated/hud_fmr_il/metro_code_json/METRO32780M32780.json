@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 649,
+                                   "Two-Bedroom": 862,
+                                   "Three-Bedroom": 1255,
+                                   "Four-Bedroom": 1439,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 632,
+                                   "One-Bedroom": 676,
+                                   "Two-Bedroom": 899,
+                                   "Three-Bedroom": 1308,
+                                   "Four-Bedroom": 1555,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 747,
+                                   "Two-Bedroom": 988,
+                                   "Three-Bedroom": 1429,
+                                   "Four-Bedroom": 1735,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 729,
+                                   "One-Bedroom": 792,
+                                   "Two-Bedroom": 1043,
+                                   "Three-Bedroom": 1505,
+                                   "Four-Bedroom": 1831,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 727,
+                                   "One-Bedroom": 788,
+                                   "Two-Bedroom": 1039,
+                                   "Three-Bedroom": 1487,
+                                   "Four-Bedroom": 1799,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR",
+                            "area_name": "Medford, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 825,
+                                   "One-Bedroom": 908,
+                                   "Two-Bedroom": 1195,
+                                   "Three-Bedroom": 1697,
+                                   "Four-Bedroom": 2045,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "year": "2017",
+                            "median_income": 53600,
+                            "very_low": {
+                                   "il50_p1": 18800,
+                                   "il50_p2": 21450,
+                                   "il50_p3": 24150,
+                                   "il50_p4": 26800,
+                                   "il50_p5": 28950,
+                                   "il50_p6": 31100,
+                                   "il50_p7": 33250,
+                                   "il50_p8": 35400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31100,
+                                   "il30_p7": 33250,
+                                   "il30_p8": 35400
+                            },
+                            "low": {
+                                   "il80_p1": 30050,
+                                   "il80_p2": 34350,
+                                   "il80_p3": 38650,
+                                   "il80_p4": 42900,
+                                   "il80_p5": 46350,
+                                   "il80_p6": 49800,
+                                   "il80_p7": 53200,
+                                   "il80_p8": 56650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "year": "2018",
+                            "median_income": 58900,
+                            "very_low": {
+                                   "il50_p1": 20650,
+                                   "il50_p2": 23600,
+                                   "il50_p3": 26550,
+                                   "il50_p4": 29450,
+                                   "il50_p5": 31850,
+                                   "il50_p6": 34200,
+                                   "il50_p7": 36550,
+                                   "il50_p8": 38900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12400,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36550,
+                                   "il30_p8": 38900
+                            },
+                            "low": {
+                                   "il80_p1": 33000,
+                                   "il80_p2": 37700,
+                                   "il80_p3": 42400,
+                                   "il80_p4": 47100,
+                                   "il80_p5": 50900,
+                                   "il80_p6": 54650,
+                                   "il80_p7": 58450,
+                                   "il80_p8": 62200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "year": "2019",
+                            "median_income": 66300,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42800
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41450,
+                                   "il80_p3": 46650,
+                                   "il80_p4": 51800,
+                                   "il80_p5": 55950,
+                                   "il80_p6": 60100,
+                                   "il80_p7": 64250,
+                                   "il80_p8": 68400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "year": "2020",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43000
+                            },
+                            "low": {
+                                   "il80_p1": 36500,
+                                   "il80_p2": 41700,
+                                   "il80_p3": 46900,
+                                   "il80_p4": 52100,
+                                   "il80_p5": 56300,
+                                   "il80_p6": 60450,
+                                   "il80_p7": 64650,
+                                   "il80_p8": 68800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR MSA",
+                            "area_name": "Medford, OR MSA",
+                            "year": "2021",
+                            "median_income": 73100,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27350,
+                                   "il50_p3": 30750,
+                                   "il50_p4": 34150,
+                                   "il50_p5": 36900,
+                                   "il50_p6": 39650,
+                                   "il50_p7": 42350,
+                                   "il50_p8": 45100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43750,
+                                   "il80_p3": 49200,
+                                   "il80_p4": 54650,
+                                   "il80_p5": 59050,
+                                   "il80_p6": 63400,
+                                   "il80_p7": 67800,
+                                   "il80_p8": 72150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Jackson County, OR; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Medford, OR",
+                            "area_name": "Medford, OR MSA",
+                            "year": "2022",
+                            "median_income": 81400,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30600,
+                                   "il50_p3": 34400,
+                                   "il50_p4": 38200,
+                                   "il50_p5": 41300,
+                                   "il50_p6": 44350,
+                                   "il50_p7": 47400,
+                                   "il50_p8": 50450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42800,
+                                   "il80_p2": 48900,
+                                   "il80_p3": 55000,
+                                   "il80_p4": 61100,
+                                   "il80_p5": 66000,
+                                   "il80_p6": 70900,
+                                   "il80_p7": 75800,
+                                   "il80_p8": 80700
+                            }
+                     }
+              ]
+       }
+}

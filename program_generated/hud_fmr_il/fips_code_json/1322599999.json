@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 430,
+                                   "One-Bedroom": 547,
+                                   "Two-Bedroom": 678,
+                                   "Three-Bedroom": 910,
+                                   "Four-Bedroom": 935,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 579,
+                                   "Two-Bedroom": 694,
+                                   "Three-Bedroom": 908,
+                                   "Four-Bedroom": 945,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 560,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 742,
+                                   "Three-Bedroom": 968,
+                                   "Four-Bedroom": 1003,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 504,
+                                   "One-Bedroom": 551,
+                                   "Two-Bedroom": 726,
+                                   "Three-Bedroom": 980,
+                                   "Four-Bedroom": 983,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 484,
+                                   "One-Bedroom": 556,
+                                   "Two-Bedroom": 733,
+                                   "Three-Bedroom": 995,
+                                   "Four-Bedroom": 1036,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 511,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 769,
+                                   "Three-Bedroom": 1044,
+                                   "Four-Bedroom": 1130,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 51700,
+                            "very_low": {
+                                   "il50_p1": 18100,
+                                   "il50_p2": 20700,
+                                   "il50_p3": 23300,
+                                   "il50_p4": 25850,
+                                   "il50_p5": 27950,
+                                   "il50_p6": 30000,
+                                   "il50_p7": 32100,
+                                   "il50_p8": 34150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27950,
+                                   "il30_p6": 30000,
+                                   "il30_p7": 32100,
+                                   "il30_p8": 34150
+                            },
+                            "low": {
+                                   "il80_p1": 28950,
+                                   "il80_p2": 33100,
+                                   "il80_p3": 37250,
+                                   "il80_p4": 41350,
+                                   "il80_p5": 44700,
+                                   "il80_p6": 48000,
+                                   "il80_p7": 51300,
+                                   "il80_p8": 54600
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 56400,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25400,
+                                   "il50_p4": 28200,
+                                   "il50_p5": 30500,
+                                   "il50_p6": 32750,
+                                   "il50_p7": 35000,
+                                   "il50_p8": 37250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32750,
+                                   "il30_p7": 35000,
+                                   "il30_p8": 37250
+                            },
+                            "low": {
+                                   "il80_p1": 31600,
+                                   "il80_p2": 36100,
+                                   "il80_p3": 40600,
+                                   "il80_p4": 45100,
+                                   "il80_p5": 48750,
+                                   "il80_p6": 52350,
+                                   "il80_p7": 55950,
+                                   "il80_p8": 59550
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 56600,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22650,
+                                   "il50_p3": 25500,
+                                   "il50_p4": 28300,
+                                   "il50_p5": 30600,
+                                   "il50_p6": 32850,
+                                   "il50_p7": 35100,
+                                   "il50_p8": 37400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 32850,
+                                   "il30_p7": 35100,
+                                   "il30_p8": 37400
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36250,
+                                   "il80_p3": 40800,
+                                   "il80_p4": 45300,
+                                   "il80_p5": 48950,
+                                   "il80_p6": 52550,
+                                   "il80_p7": 56200,
+                                   "il80_p8": 59800
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 59500,
+                            "very_low": {
+                                   "il50_p1": 20850,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26800,
+                                   "il50_p4": 29750,
+                                   "il50_p5": 32150,
+                                   "il50_p6": 34550,
+                                   "il50_p7": 36900,
+                                   "il50_p8": 39300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34550,
+                                   "il30_p7": 36900,
+                                   "il30_p8": 39300
+                            },
+                            "low": {
+                                   "il80_p1": 33350,
+                                   "il80_p2": 38100,
+                                   "il80_p3": 42850,
+                                   "il80_p4": 47600,
+                                   "il80_p5": 51450,
+                                   "il80_p6": 55250,
+                                   "il80_p7": 59050,
+                                   "il80_p8": 62850
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA MSA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 55600,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22650,
+                                   "il50_p3": 25500,
+                                   "il50_p4": 28300,
+                                   "il50_p5": 30600,
+                                   "il50_p6": 32850,
+                                   "il50_p7": 35100,
+                                   "il50_p8": 37400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30600,
+                                   "il30_p6": 32850,
+                                   "il30_p7": 35100,
+                                   "il30_p8": 37400
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36250,
+                                   "il80_p3": 40800,
+                                   "il80_p4": 45300,
+                                   "il80_p5": 48950,
+                                   "il80_p6": 52550,
+                                   "il80_p7": 56200,
+                                   "il80_p8": 59800
+                            }
+                     },
+                     {
+                            "county_name": "Peach County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Warner Robins, GA",
+                            "area_name": "Peach County, GA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 66700,
+                            "very_low": {
+                                   "il50_p1": 22200,
+                                   "il50_p2": 25350,
+                                   "il50_p3": 28500,
+                                   "il50_p4": 31650,
+                                   "il50_p5": 34200,
+                                   "il50_p6": 36750,
+                                   "il50_p7": 39250,
+                                   "il50_p8": 41800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36750,
+                                   "il30_p7": 39250,
+                                   "il30_p8": 41800
+                            },
+                            "low": {
+                                   "il80_p1": 35500,
+                                   "il80_p2": 40550,
+                                   "il80_p3": 45600,
+                                   "il80_p4": 50650,
+                                   "il80_p5": 54750,
+                                   "il80_p6": 58800,
+                                   "il80_p7": 62850,
+                                   "il80_p8": 66900
+                            }
+                     }
+              ]
+       }
+}

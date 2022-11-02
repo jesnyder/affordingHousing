@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 558,
+                                   "Two-Bedroom": 742,
+                                   "Three-Bedroom": 1021,
+                                   "Four-Bedroom": 1224,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 494,
+                                   "One-Bedroom": 558,
+                                   "Two-Bedroom": 739,
+                                   "Three-Bedroom": 1036,
+                                   "Four-Bedroom": 1207,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 476,
+                                   "One-Bedroom": 565,
+                                   "Two-Bedroom": 716,
+                                   "Three-Bedroom": 1028,
+                                   "Four-Bedroom": 1206,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 645,
+                                   "Two-Bedroom": 792,
+                                   "Three-Bedroom": 1143,
+                                   "Four-Bedroom": 1364,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 538,
+                                   "One-Bedroom": 670,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1166,
+                                   "Four-Bedroom": 1411,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 575,
+                                   "One-Bedroom": 704,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1229,
+                                   "Four-Bedroom": 1481,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 59600,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23850,
+                                   "il50_p3": 26850,
+                                   "il50_p4": 29800,
+                                   "il50_p5": 32200,
+                                   "il50_p6": 34600,
+                                   "il50_p7": 37000,
+                                   "il50_p8": 39350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37000,
+                                   "il30_p8": 39350
+                            },
+                            "low": {
+                                   "il80_p1": 33400,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 42950,
+                                   "il80_p4": 47700,
+                                   "il80_p5": 51550,
+                                   "il80_p6": 55350,
+                                   "il80_p7": 59150,
+                                   "il80_p8": 63000
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 62200,
+                            "very_low": {
+                                   "il50_p1": 21800,
+                                   "il50_p2": 24900,
+                                   "il50_p3": 28000,
+                                   "il50_p4": 31100,
+                                   "il50_p5": 33600,
+                                   "il50_p6": 36100,
+                                   "il50_p7": 38600,
+                                   "il50_p8": 41100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41100
+                            },
+                            "low": {
+                                   "il80_p1": 34850,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44800,
+                                   "il80_p4": 49750,
+                                   "il80_p5": 53750,
+                                   "il80_p6": 57750,
+                                   "il80_p7": 61700,
+                                   "il80_p8": 65700
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 72500,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 70500,
+                            "very_low": {
+                                   "il50_p1": 24700,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31750,
+                                   "il50_p4": 35250,
+                                   "il50_p5": 38100,
+                                   "il50_p6": 40900,
+                                   "il50_p7": 43750,
+                                   "il50_p8": 46550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39500,
+                                   "il80_p2": 45150,
+                                   "il80_p3": 50800,
+                                   "il80_p4": 56400,
+                                   "il80_p5": 60950,
+                                   "il80_p6": 65450,
+                                   "il80_p7": 69950,
+                                   "il80_p8": 74450
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID MSA",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 72200,
+                            "very_low": {
+                                   "il50_p1": 25300,
+                                   "il50_p2": 28900,
+                                   "il50_p3": 32500,
+                                   "il50_p4": 36100,
+                                   "il50_p5": 39000,
+                                   "il50_p6": 41900,
+                                   "il50_p7": 44800,
+                                   "il50_p8": 47700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40450,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 52000,
+                                   "il80_p4": 57750,
+                                   "il80_p5": 62400,
+                                   "il80_p6": 67000,
+                                   "il80_p7": 71650,
+                                   "il80_p8": 76250
+                            }
+                     },
+                     {
+                            "county_name": "Bonneville County, ID",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Idaho Falls, ID",
+                            "area_name": "Idaho Falls, ID HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 82900,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     }
+              ]
+       }
+}

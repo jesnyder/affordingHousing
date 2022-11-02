@@ -1,0 +1,898 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "year": "2017",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Kalawao County, HI HUD Metro FMR Area",
+                                          "code": "METRO27980N15005",
+                                          "Efficiency": 475,
+                                          "One-Bedroom": 541,
+                                          "Two-Bedroom": 681,
+                                          "Three-Bedroom": 991,
+                                          "Four-Bedroom": 1200,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Maui County, HI HUD Metro FMR Area",
+                                          "code": "METRO27980N15009",
+                                          "Efficiency": 1115,
+                                          "One-Bedroom": 1248,
+                                          "Two-Bedroom": 1568,
+                                          "Three-Bedroom": 2283,
+                                          "Four-Bedroom": 2763,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "code": "METRO46520M46520",
+                                          "Efficiency": 1333,
+                                          "One-Bedroom": 1492,
+                                          "Two-Bedroom": 1982,
+                                          "Three-Bedroom": 2885,
+                                          "Four-Bedroom": 3473,
+                                          "FMR Percentile": 50,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Hawaii County",
+                                          "metro_name": "Hawaii County, HI",
+                                          "fips_code": "1500199999",
+                                          "Efficiency": 859,
+                                          "One-Bedroom": 991,
+                                          "Two-Bedroom": 1271,
+                                          "Three-Bedroom": 1629,
+                                          "Four-Bedroom": 2046,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Honolulu County",
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "fips_code": "1500399999",
+                                          "Efficiency": 1333,
+                                          "One-Bedroom": 1492,
+                                          "Two-Bedroom": 1982,
+                                          "Three-Bedroom": 2885,
+                                          "Four-Bedroom": 3473,
+                                          "FMR Percentile": 50,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kalawao County",
+                                          "metro_name": "Kalawao County, HI HUD Metro FMR Area",
+                                          "fips_code": "1500599999",
+                                          "Efficiency": 475,
+                                          "One-Bedroom": 541,
+                                          "Two-Bedroom": 681,
+                                          "Three-Bedroom": 991,
+                                          "Four-Bedroom": 1200,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kauai County",
+                                          "metro_name": "Kauai County, HI",
+                                          "fips_code": "1500799999",
+                                          "Efficiency": 928,
+                                          "One-Bedroom": 1189,
+                                          "Two-Bedroom": 1463,
+                                          "Three-Bedroom": 1933,
+                                          "Four-Bedroom": 2263,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Maui County",
+                                          "metro_name": "Maui County, HI HUD Metro FMR Area",
+                                          "fips_code": "1500999999",
+                                          "Efficiency": 1115,
+                                          "One-Bedroom": 1248,
+                                          "Two-Bedroom": 1568,
+                                          "Three-Bedroom": 2283,
+                                          "Four-Bedroom": 2763,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2018",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Kalawao County, HI HUD Metro FMR Area",
+                                          "code": "METRO27980N15005",
+                                          "Efficiency": 1126,
+                                          "One-Bedroom": 1295,
+                                          "Two-Bedroom": 1623,
+                                          "Three-Bedroom": 2361,
+                                          "Four-Bedroom": 2859,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Maui County, HI HUD Metro FMR Area",
+                                          "code": "METRO27980N15009",
+                                          "Efficiency": 1124,
+                                          "One-Bedroom": 1292,
+                                          "Two-Bedroom": 1619,
+                                          "Three-Bedroom": 2355,
+                                          "Four-Bedroom": 2852,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "code": "METRO46520M46520",
+                                          "Efficiency": 1352,
+                                          "One-Bedroom": 1527,
+                                          "Two-Bedroom": 2031,
+                                          "Three-Bedroom": 2954,
+                                          "Four-Bedroom": 3525,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Hawaii County",
+                                          "metro_name": "Hawaii County, HI",
+                                          "fips_code": "1500199999",
+                                          "Efficiency": 877,
+                                          "One-Bedroom": 1009,
+                                          "Two-Bedroom": 1322,
+                                          "Three-Bedroom": 1663,
+                                          "Four-Bedroom": 1936,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Honolulu County",
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "fips_code": "1500399999",
+                                          "Efficiency": 1352,
+                                          "One-Bedroom": 1527,
+                                          "Two-Bedroom": 2031,
+                                          "Three-Bedroom": 2954,
+                                          "Four-Bedroom": 3525,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kalawao County",
+                                          "metro_name": "Kalawao County, HI HUD Metro FMR Area",
+                                          "fips_code": "1500599999",
+                                          "Efficiency": 1126,
+                                          "One-Bedroom": 1295,
+                                          "Two-Bedroom": 1623,
+                                          "Three-Bedroom": 2361,
+                                          "Four-Bedroom": 2859,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kauai County",
+                                          "metro_name": "Kauai County, HI",
+                                          "fips_code": "1500799999",
+                                          "Efficiency": 964,
+                                          "One-Bedroom": 1220,
+                                          "Two-Bedroom": 1511,
+                                          "Three-Bedroom": 2013,
+                                          "Four-Bedroom": 2413,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Maui County",
+                                          "metro_name": "Maui County, HI HUD Metro FMR Area",
+                                          "fips_code": "1500999999",
+                                          "Efficiency": 1124,
+                                          "One-Bedroom": 1292,
+                                          "Two-Bedroom": 1619,
+                                          "Three-Bedroom": 2355,
+                                          "Four-Bedroom": 2852,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2019",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "code": "METRO27980M27980",
+                                          "Efficiency": 1186,
+                                          "One-Bedroom": 1335,
+                                          "Two-Bedroom": 1675,
+                                          "Three-Bedroom": 2416,
+                                          "Four-Bedroom": 2940,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "code": "METRO46520M46520",
+                                          "Efficiency": 1390,
+                                          "One-Bedroom": 1563,
+                                          "Two-Bedroom": 2067,
+                                          "Three-Bedroom": 2989,
+                                          "Four-Bedroom": 3631,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Hawaii County",
+                                          "metro_name": "Hawaii County, HI",
+                                          "fips_code": "1500199999",
+                                          "Efficiency": 865,
+                                          "One-Bedroom": 1018,
+                                          "Two-Bedroom": 1346,
+                                          "Three-Bedroom": 1686,
+                                          "Four-Bedroom": 1855,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Honolulu County",
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "fips_code": "1500399999",
+                                          "Efficiency": 1390,
+                                          "One-Bedroom": 1563,
+                                          "Two-Bedroom": 2067,
+                                          "Three-Bedroom": 2989,
+                                          "Four-Bedroom": 3631,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kalawao County",
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "fips_code": "1500599999",
+                                          "Efficiency": 1186,
+                                          "One-Bedroom": 1335,
+                                          "Two-Bedroom": 1675,
+                                          "Three-Bedroom": 2416,
+                                          "Four-Bedroom": 2940,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kauai County",
+                                          "metro_name": "Kauai County, HI",
+                                          "fips_code": "1500799999",
+                                          "Efficiency": 984,
+                                          "One-Bedroom": 1210,
+                                          "Two-Bedroom": 1531,
+                                          "Three-Bedroom": 2044,
+                                          "Four-Bedroom": 2492,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Maui County",
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "fips_code": "1500999999",
+                                          "Efficiency": 1186,
+                                          "One-Bedroom": 1335,
+                                          "Two-Bedroom": 1675,
+                                          "Three-Bedroom": 2416,
+                                          "Four-Bedroom": 2940,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2020",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "code": "METRO27980M27980",
+                                          "Efficiency": 1275,
+                                          "One-Bedroom": 1394,
+                                          "Two-Bedroom": 1759,
+                                          "Three-Bedroom": 2496,
+                                          "Four-Bedroom": 2846,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "code": "METRO46520M46520",
+                                          "Efficiency": 1473,
+                                          "One-Bedroom": 1640,
+                                          "Two-Bedroom": 2160,
+                                          "Three-Bedroom": 3116,
+                                          "Four-Bedroom": 3792,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Hawaii County",
+                                          "metro_name": "Hawaii County, HI",
+                                          "fips_code": "1500199999",
+                                          "Efficiency": 931,
+                                          "One-Bedroom": 1085,
+                                          "Two-Bedroom": 1429,
+                                          "Three-Bedroom": 1800,
+                                          "Four-Bedroom": 1936,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Honolulu County",
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "fips_code": "1500399999",
+                                          "Efficiency": 1473,
+                                          "One-Bedroom": 1640,
+                                          "Two-Bedroom": 2160,
+                                          "Three-Bedroom": 3116,
+                                          "Four-Bedroom": 3792,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kalawao County",
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "fips_code": "1500599999",
+                                          "Efficiency": 1275,
+                                          "One-Bedroom": 1394,
+                                          "Two-Bedroom": 1759,
+                                          "Three-Bedroom": 2496,
+                                          "Four-Bedroom": 2846,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kauai County",
+                                          "metro_name": "Kauai County, HI",
+                                          "fips_code": "1500799999",
+                                          "Efficiency": 1226,
+                                          "One-Bedroom": 1519,
+                                          "Two-Bedroom": 1881,
+                                          "Three-Bedroom": 2595,
+                                          "Four-Bedroom": 3212,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Maui County",
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "fips_code": "1500999999",
+                                          "Efficiency": 1275,
+                                          "One-Bedroom": 1394,
+                                          "Two-Bedroom": 1759,
+                                          "Three-Bedroom": 2496,
+                                          "Four-Bedroom": 2846,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2021",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "code": "METRO27980M27980",
+                                          "Efficiency": 1321,
+                                          "One-Bedroom": 1408,
+                                          "Two-Bedroom": 1772,
+                                          "Three-Bedroom": 2461,
+                                          "Four-Bedroom": 2724,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "code": "METRO46520M46520",
+                                          "Efficiency": 1433,
+                                          "One-Bedroom": 1577,
+                                          "Two-Bedroom": 2073,
+                                          "Three-Bedroom": 2967,
+                                          "Four-Bedroom": 3589,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Hawaii County",
+                                          "metro_name": "Hawaii County, HI",
+                                          "fips_code": "1500199999",
+                                          "Efficiency": 969,
+                                          "One-Bedroom": 1115,
+                                          "Two-Bedroom": 1469,
+                                          "Three-Bedroom": 1889,
+                                          "Four-Bedroom": 1992,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Honolulu County",
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "fips_code": "1500399999",
+                                          "Efficiency": 1433,
+                                          "One-Bedroom": 1577,
+                                          "Two-Bedroom": 2073,
+                                          "Three-Bedroom": 2967,
+                                          "Four-Bedroom": 3589,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kalawao County",
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "fips_code": "1500599999",
+                                          "Efficiency": 1321,
+                                          "One-Bedroom": 1408,
+                                          "Two-Bedroom": 1772,
+                                          "Three-Bedroom": 2461,
+                                          "Four-Bedroom": 2724,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kauai County",
+                                          "metro_name": "Kauai County, HI",
+                                          "fips_code": "1500799999",
+                                          "Efficiency": 1255,
+                                          "One-Bedroom": 1519,
+                                          "Two-Bedroom": 1902,
+                                          "Three-Bedroom": 2621,
+                                          "Four-Bedroom": 3274,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Maui County",
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "fips_code": "1500999999",
+                                          "Efficiency": 1321,
+                                          "One-Bedroom": 1408,
+                                          "Two-Bedroom": 1772,
+                                          "Three-Bedroom": 2461,
+                                          "Four-Bedroom": 2724,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     },
+                     {
+                            "year": "2022",
+                            "metroareas": [
+                                   {
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "code": "METRO27980M27980",
+                                          "Efficiency": 1467,
+                                          "One-Bedroom": 1568,
+                                          "Two-Bedroom": 1957,
+                                          "Three-Bedroom": 2678,
+                                          "Four-Bedroom": 2944,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "code": "METRO46520M46520",
+                                          "Efficiency": 1552,
+                                          "One-Bedroom": 1705,
+                                          "Two-Bedroom": 2240,
+                                          "Three-Bedroom": 3182,
+                                          "Four-Bedroom": 3834,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   }
+                            ],
+                            "counties": [
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Hawaii County",
+                                          "metro_name": "Hawaii County, HI",
+                                          "fips_code": "1500199999",
+                                          "Efficiency": 1017,
+                                          "One-Bedroom": 1164,
+                                          "Two-Bedroom": 1531,
+                                          "Three-Bedroom": 1969,
+                                          "Four-Bedroom": 2076,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Honolulu County",
+                                          "metro_name": "Urban Honolulu, HI MSA",
+                                          "fips_code": "1500399999",
+                                          "Efficiency": 1552,
+                                          "One-Bedroom": 1705,
+                                          "Two-Bedroom": 2240,
+                                          "Three-Bedroom": 3182,
+                                          "Four-Bedroom": 3834,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "1"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kalawao County",
+                                          "metro_name": "Kalawao County, HI",
+                                          "fips_code": "1500599999",
+                                          "Efficiency": 1189,
+                                          "One-Bedroom": 1303,
+                                          "Two-Bedroom": 1714,
+                                          "Three-Bedroom": 2247,
+                                          "Four-Bedroom": 2452,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Kauai County",
+                                          "metro_name": "Kauai County, HI",
+                                          "fips_code": "1500799999",
+                                          "Efficiency": 1327,
+                                          "One-Bedroom": 1590,
+                                          "Two-Bedroom": 1997,
+                                          "Three-Bedroom": 2770,
+                                          "Four-Bedroom": 3418,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   },
+                                   {
+                                          "town_name": null,
+                                          "county_name": "Maui County",
+                                          "metro_name": "Kahului-Wailuku-Lahaina, HI MSA",
+                                          "fips_code": "1500999999",
+                                          "Efficiency": 1467,
+                                          "One-Bedroom": 1568,
+                                          "Two-Bedroom": 1957,
+                                          "Three-Bedroom": 2678,
+                                          "Four-Bedroom": 2944,
+                                          "FMR Percentile": 40,
+                                          "statename": "Hawaii",
+                                          "statecode": "HI",
+                                          "smallarea_status": "0"
+                                   }
+                            ]
+                     }
+              ],
+              "il": [
+                     {
+                            "year": "2017",
+                            "statecode": "HI",
+                            "stateID": 15,
+                            "median_income": 81700,
+                            "very_low": {
+                                   "il50_p1": 28600,
+                                   "il50_p2": 32700,
+                                   "il50_p3": 36750,
+                                   "il50_p4": 40850,
+                                   "il50_p5": 44100,
+                                   "il50_p6": 47400,
+                                   "il50_p7": 50650,
+                                   "il50_p8": 53900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 22050,
+                                   "il30_p4": 24500,
+                                   "il30_p5": 26450,
+                                   "il30_p6": 28450,
+                                   "il30_p7": 30400,
+                                   "il30_p8": 32350
+                            },
+                            "low": {
+                                   "il80_p1": 45750,
+                                   "il80_p2": 52300,
+                                   "il80_p3": 58800,
+                                   "il80_p4": 65350,
+                                   "il80_p5": 70600,
+                                   "il80_p6": 75800,
+                                   "il80_p7": 81050,
+                                   "il80_p8": 86300
+                            }
+                     },
+                     {
+                            "year": "2018",
+                            "statecode": "HI",
+                            "stateID": "15",
+                            "median_income": 88300,
+                            "very_low": {
+                                   "il50_p1": 30900,
+                                   "il50_p2": 35300,
+                                   "il50_p3": 39750,
+                                   "il50_p4": 44150,
+                                   "il50_p5": 47700,
+                                   "il50_p6": 51200,
+                                   "il50_p7": 54750,
+                                   "il50_p8": 58300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 28600,
+                                   "il30_p6": 30750,
+                                   "il30_p7": 32850,
+                                   "il30_p8": 34950
+                            },
+                            "low": {
+                                   "il80_p1": 49450,
+                                   "il80_p2": 56500,
+                                   "il80_p3": 63600,
+                                   "il80_p4": 70650,
+                                   "il80_p5": 76300,
+                                   "il80_p6": 81950,
+                                   "il80_p7": 87600,
+                                   "il80_p8": 93250
+                            }
+                     },
+                     {
+                            "year": "2019",
+                            "statecode": "HI",
+                            "stateID": "15",
+                            "median_income": 92200,
+                            "very_low": {
+                                   "il50_p1": 32250,
+                                   "il50_p2": 36900,
+                                   "il50_p3": 41500,
+                                   "il50_p4": 46100,
+                                   "il50_p5": 49800,
+                                   "il50_p6": 53500,
+                                   "il50_p7": 57150,
+                                   "il50_p8": 60850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19350,
+                                   "il30_p2": 22150,
+                                   "il30_p3": 24900,
+                                   "il30_p4": 27650,
+                                   "il30_p5": 29850,
+                                   "il30_p6": 32100,
+                                   "il30_p7": 34300,
+                                   "il30_p8": 36500
+                            },
+                            "low": {
+                                   "il80_p1": 51650,
+                                   "il80_p2": 59000,
+                                   "il80_p3": 66400,
+                                   "il80_p4": 73750,
+                                   "il80_p5": 79650,
+                                   "il80_p6": 85550,
+                                   "il80_p7": 91450,
+                                   "il80_p8": 97350
+                            }
+                     },
+                     {
+                            "year": "2020",
+                            "statecode": "HI",
+                            "stateID": "15",
+                            "median_income": 97100,
+                            "very_low": {
+                                   "il50_p1": 34000,
+                                   "il50_p2": 38850,
+                                   "il50_p3": 43700,
+                                   "il50_p4": 48550,
+                                   "il50_p5": 52450,
+                                   "il50_p6": 56300,
+                                   "il50_p7": 60200,
+                                   "il50_p8": 64100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20400,
+                                   "il30_p2": 23300,
+                                   "il30_p3": 26200,
+                                   "il30_p4": 29150,
+                                   "il30_p5": 31450,
+                                   "il30_p6": 33800,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 54400,
+                                   "il80_p2": 62150,
+                                   "il80_p3": 69900,
+                                   "il80_p4": 77700,
+                                   "il80_p5": 83900,
+                                   "il80_p6": 90100,
+                                   "il80_p7": 96300,
+                                   "il80_p8": 102550
+                            }
+                     },
+                     {
+                            "year": "2021",
+                            "statecode": "HI",
+                            "stateID": "15",
+                            "median_income": 99800,
+                            "very_low": {
+                                   "il50_p1": 34950,
+                                   "il50_p2": 39900,
+                                   "il50_p3": 44900,
+                                   "il50_p4": 49900,
+                                   "il50_p5": 53900,
+                                   "il50_p6": 57900,
+                                   "il50_p7": 61900,
+                                   "il50_p8": 65850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20950,
+                                   "il30_p2": 23950,
+                                   "il30_p3": 26950,
+                                   "il30_p4": 29950,
+                                   "il30_p5": 32350,
+                                   "il30_p6": 34750,
+                                   "il30_p7": 37150,
+                                   "il30_p8": 39500
+                            },
+                            "low": {
+                                   "il80_p1": 55900,
+                                   "il80_p2": 63850,
+                                   "il80_p3": 71850,
+                                   "il80_p4": 79850,
+                                   "il80_p5": 86250,
+                                   "il80_p6": 92600,
+                                   "il80_p7": 99000,
+                                   "il80_p8": 105400
+                            }
+                     },
+                     {
+                            "year": "2022",
+                            "statecode": "HI",
+                            "stateID": 15,
+                            "median_income": 107200,
+                            "very_low": {
+                                   "il50_p1": 37500,
+                                   "il50_p2": 42900,
+                                   "il50_p3": 48250,
+                                   "il50_p4": 53600,
+                                   "il50_p5": 57900,
+                                   "il50_p6": 62200,
+                                   "il50_p7": 66450,
+                                   "il50_p8": 70750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22500,
+                                   "il30_p2": 25750,
+                                   "il30_p3": 28950,
+                                   "il30_p4": 32150,
+                                   "il30_p5": 34750,
+                                   "il30_p6": 37300,
+                                   "il30_p7": 39900,
+                                   "il30_p8": 42450
+                            },
+                            "low": {
+                                   "il80_p1": 60050,
+                                   "il80_p2": 68600,
+                                   "il80_p3": 77200,
+                                   "il80_p4": 85750,
+                                   "il80_p5": 92600,
+                                   "il80_p6": 99500,
+                                   "il80_p7": 106350,
+                                   "il80_p8": 113200
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,293 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 518,
+                                   "One-Bedroom": 549,
+                                   "Two-Bedroom": 633,
+                                   "Three-Bedroom": 792,
+                                   "Four-Bedroom": 1115,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 684,
+                                   "Three-Bedroom": 917,
+                                   "Four-Bedroom": 1205,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 1001,
+                                   "Four-Bedroom": 1230,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 627,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 1030,
+                                   "Four-Bedroom": 1254,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 615,
+                                   "Two-Bedroom": 701,
+                                   "Three-Bedroom": 1003,
+                                   "Four-Bedroom": 1214,
+                                   "year": "2021"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 19950,
+                                   "il50_p2": 22800,
+                                   "il50_p3": 25650,
+                                   "il50_p4": 28450,
+                                   "il50_p5": 30750,
+                                   "il50_p6": 33050,
+                                   "il50_p7": 35300,
+                                   "il50_p8": 37600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35300,
+                                   "il30_p8": 37600
+                            },
+                            "low": {
+                                   "il80_p1": 31850,
+                                   "il80_p2": 36400,
+                                   "il80_p3": 40950,
+                                   "il80_p4": 45500,
+                                   "il80_p5": 49150,
+                                   "il80_p6": 52800,
+                                   "il80_p7": 56450,
+                                   "il80_p8": 60100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 59800,
+                            "very_low": {
+                                   "il50_p1": 20950,
+                                   "il50_p2": 23950,
+                                   "il50_p3": 26950,
+                                   "il50_p4": 29900,
+                                   "il50_p5": 32300,
+                                   "il50_p6": 34700,
+                                   "il50_p7": 37100,
+                                   "il50_p8": 39500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37100,
+                                   "il30_p8": 39500
+                            },
+                            "low": {
+                                   "il80_p1": 33500,
+                                   "il80_p2": 38300,
+                                   "il80_p3": 43100,
+                                   "il80_p4": 47850,
+                                   "il80_p5": 51700,
+                                   "il80_p6": 55550,
+                                   "il80_p7": 59350,
+                                   "il80_p8": 63200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 60600,
+                            "very_low": {
+                                   "il50_p1": 21250,
+                                   "il50_p2": 24250,
+                                   "il50_p3": 27300,
+                                   "il50_p4": 30300,
+                                   "il50_p5": 32750,
+                                   "il50_p6": 35150,
+                                   "il50_p7": 37600,
+                                   "il50_p8": 40000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37600,
+                                   "il30_p8": 40000
+                            },
+                            "low": {
+                                   "il80_p1": 33950,
+                                   "il80_p2": 38800,
+                                   "il80_p3": 43650,
+                                   "il80_p4": 48500,
+                                   "il80_p5": 52400,
+                                   "il80_p6": 56300,
+                                   "il80_p7": 60150,
+                                   "il80_p8": 64050
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 61600,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24650,
+                                   "il50_p3": 27750,
+                                   "il50_p4": 30800,
+                                   "il50_p5": 33300,
+                                   "il50_p6": 35750,
+                                   "il50_p7": 38200,
+                                   "il50_p8": 40700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38200,
+                                   "il30_p8": 40700
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39450,
+                                   "il80_p3": 44400,
+                                   "il80_p4": 49300,
+                                   "il80_p5": 53250,
+                                   "il80_p6": 57200,
+                                   "il80_p7": 61150,
+                                   "il80_p8": 65100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Floyd County, VA; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Blacksburg-Christiansburg-Radford, VA MSA",
+                            "area_name": "Floyd County, VA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39450,
+                                   "il30_p8": 42000
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     }
+              ]
+       }
+}

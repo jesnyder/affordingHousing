@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 618,
+                                   "One-Bedroom": 758,
+                                   "Two-Bedroom": 974,
+                                   "Three-Bedroom": 1378,
+                                   "Four-Bedroom": 1539,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 574,
+                                   "One-Bedroom": 695,
+                                   "Two-Bedroom": 900,
+                                   "Three-Bedroom": 1240,
+                                   "Four-Bedroom": 1449,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 732,
+                                   "Two-Bedroom": 958,
+                                   "Three-Bedroom": 1293,
+                                   "Four-Bedroom": 1539,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 627,
+                                   "One-Bedroom": 740,
+                                   "Two-Bedroom": 963,
+                                   "Three-Bedroom": 1284,
+                                   "Four-Bedroom": 1529,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 647,
+                                   "One-Bedroom": 762,
+                                   "Two-Bedroom": 980,
+                                   "Three-Bedroom": 1297,
+                                   "Four-Bedroom": 1572,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX",
+                            "area_name": "San Angelo, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 790,
+                                   "Two-Bedroom": 992,
+                                   "Three-Bedroom": 1314,
+                                   "Four-Bedroom": 1629,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "year": "2017",
+                            "median_income": 61400,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27650,
+                                   "il50_p4": 30700,
+                                   "il50_p5": 33200,
+                                   "il50_p6": 35650,
+                                   "il50_p7": 38100,
+                                   "il50_p8": 40550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40550
+                            },
+                            "low": {
+                                   "il80_p1": 34400,
+                                   "il80_p2": 39300,
+                                   "il80_p3": 44200,
+                                   "il80_p4": 49100,
+                                   "il80_p5": 53050,
+                                   "il80_p6": 57000,
+                                   "il80_p7": 60900,
+                                   "il80_p8": 64850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "year": "2018",
+                            "median_income": 64800,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41500,
+                                   "il80_p3": 46700,
+                                   "il80_p4": 51850,
+                                   "il80_p5": 56000,
+                                   "il80_p6": 60150,
+                                   "il80_p7": 64300,
+                                   "il80_p8": 68450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "year": "2019",
+                            "median_income": 64900,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42850
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "year": "2020",
+                            "median_income": 72400,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 35000,
+                                   "il50_p5": 37800,
+                                   "il50_p6": 40600,
+                                   "il50_p7": 43400,
+                                   "il50_p8": 46200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39200,
+                                   "il80_p2": 44800,
+                                   "il80_p3": 50400,
+                                   "il80_p4": 56000,
+                                   "il80_p5": 60500,
+                                   "il80_p6": 65000,
+                                   "il80_p7": 69450,
+                                   "il80_p8": 73950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX MSA",
+                            "area_name": "San Angelo, TX MSA",
+                            "year": "2021",
+                            "median_income": 68500,
+                            "very_low": {
+                                   "il50_p1": 24000,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30850,
+                                   "il50_p4": 34250,
+                                   "il50_p5": 37000,
+                                   "il50_p6": 39750,
+                                   "il50_p7": 42500,
+                                   "il50_p8": 45250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14400,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38400,
+                                   "il80_p2": 43850,
+                                   "il80_p3": 49350,
+                                   "il80_p4": 54800,
+                                   "il80_p5": 59200,
+                                   "il80_p6": 63600,
+                                   "il80_p7": 68000,
+                                   "il80_p8": 72350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Irion County, TX; Tom Green County, TX; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Angelo, TX",
+                            "area_name": "San Angelo, TX HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 86900,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     }
+              ]
+       }
+}

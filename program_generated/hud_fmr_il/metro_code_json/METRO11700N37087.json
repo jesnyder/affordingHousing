@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 548,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 746,
+                                   "Three-Bedroom": 937,
+                                   "Four-Bedroom": 1314,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 509,
+                                   "One-Bedroom": 608,
+                                   "Two-Bedroom": 720,
+                                   "Three-Bedroom": 924,
+                                   "Four-Bedroom": 1237,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 612,
+                                   "One-Bedroom": 735,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1083,
+                                   "Four-Bedroom": 1398,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 652,
+                                   "One-Bedroom": 806,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1167,
+                                   "Four-Bedroom": 1484,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 587,
+                                   "One-Bedroom": 726,
+                                   "Two-Bedroom": 827,
+                                   "Three-Bedroom": 1051,
+                                   "Four-Bedroom": 1336,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 822,
+                                   "Two-Bedroom": 937,
+                                   "Three-Bedroom": 1165,
+                                   "Four-Bedroom": 1422,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 53300,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21350,
+                                   "il50_p3": 24000,
+                                   "il50_p4": 26650,
+                                   "il50_p5": 28800,
+                                   "il50_p6": 30950,
+                                   "il50_p7": 33050,
+                                   "il50_p8": 35200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 30950,
+                                   "il30_p7": 33050,
+                                   "il30_p8": 35200
+                            },
+                            "low": {
+                                   "il80_p1": 29900,
+                                   "il80_p2": 34150,
+                                   "il80_p3": 38400,
+                                   "il80_p4": 42650,
+                                   "il80_p5": 46100,
+                                   "il80_p6": 49500,
+                                   "il80_p7": 52900,
+                                   "il80_p8": 56300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 56300,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22550,
+                                   "il50_p3": 25350,
+                                   "il50_p4": 28150,
+                                   "il50_p5": 30450,
+                                   "il50_p6": 32700,
+                                   "il50_p7": 34950,
+                                   "il50_p8": 37200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32700,
+                                   "il30_p7": 34950,
+                                   "il30_p8": 37200
+                            },
+                            "low": {
+                                   "il80_p1": 31550,
+                                   "il80_p2": 36050,
+                                   "il80_p3": 40550,
+                                   "il80_p4": 45050,
+                                   "il80_p5": 48700,
+                                   "il80_p6": 52300,
+                                   "il80_p7": 55900,
+                                   "il80_p8": 59500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 58600,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23450,
+                                   "il50_p3": 26400,
+                                   "il50_p4": 29300,
+                                   "il50_p5": 31650,
+                                   "il50_p6": 34000,
+                                   "il50_p7": 36350,
+                                   "il50_p8": 38700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34000,
+                                   "il30_p7": 36350,
+                                   "il30_p8": 38700
+                            },
+                            "low": {
+                                   "il80_p1": 32850,
+                                   "il80_p2": 37550,
+                                   "il80_p3": 42250,
+                                   "il80_p4": 46900,
+                                   "il80_p5": 50700,
+                                   "il80_p6": 54450,
+                                   "il80_p7": 58200,
+                                   "il80_p8": 61950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 60400,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27200,
+                                   "il50_p4": 30200,
+                                   "il50_p5": 32650,
+                                   "il50_p6": 35050,
+                                   "il50_p7": 37450,
+                                   "il50_p8": 39900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35050,
+                                   "il30_p7": 37450,
+                                   "il30_p8": 39900
+                            },
+                            "low": {
+                                   "il80_p1": 33850,
+                                   "il80_p2": 38650,
+                                   "il80_p3": 43500,
+                                   "il80_p4": 48300,
+                                   "il80_p5": 52200,
+                                   "il80_p6": 56050,
+                                   "il80_p7": 59900,
+                                   "il80_p8": 63800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 65600,
+                            "very_low": {
+                                   "il50_p1": 22200,
+                                   "il50_p2": 25400,
+                                   "il50_p3": 28550,
+                                   "il50_p4": 31700,
+                                   "il50_p5": 34250,
+                                   "il50_p6": 36800,
+                                   "il50_p7": 39350,
+                                   "il50_p8": 41850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39350,
+                                   "il30_p8": 41850
+                            },
+                            "low": {
+                                   "il80_p1": 35500,
+                                   "il80_p2": 40600,
+                                   "il80_p3": 45650,
+                                   "il80_p4": 50700,
+                                   "il80_p5": 54800,
+                                   "il80_p6": 58850,
+                                   "il80_p7": 62900,
+                                   "il80_p8": 66950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Haywood County, NC; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC",
+                            "area_name": "Haywood County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 73600,
+                            "very_low": {
+                                   "il50_p1": 24850,
+                                   "il50_p2": 28400,
+                                   "il50_p3": 31950,
+                                   "il50_p4": 35450,
+                                   "il50_p5": 38300,
+                                   "il50_p6": 41150,
+                                   "il50_p7": 44000,
+                                   "il50_p8": 46800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45400,
+                                   "il80_p3": 51050,
+                                   "il80_p4": 56700,
+                                   "il80_p5": 61250,
+                                   "il80_p6": 65800,
+                                   "il80_p7": 70350,
+                                   "il80_p8": 74850
+                            }
+                     }
+              ]
+       }
+}

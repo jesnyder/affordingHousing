@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 804,
+                                   "One-Bedroom": 953,
+                                   "Two-Bedroom": 1267,
+                                   "Three-Bedroom": 1844,
+                                   "Four-Bedroom": 2232,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 873,
+                                   "One-Bedroom": 1029,
+                                   "Two-Bedroom": 1368,
+                                   "Three-Bedroom": 1990,
+                                   "Four-Bedroom": 2409,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 871,
+                                   "One-Bedroom": 1025,
+                                   "Two-Bedroom": 1356,
+                                   "Three-Bedroom": 1961,
+                                   "Four-Bedroom": 2382,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 863,
+                                   "One-Bedroom": 1006,
+                                   "Two-Bedroom": 1325,
+                                   "Three-Bedroom": 1911,
+                                   "Four-Bedroom": 2326,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 858,
+                                   "One-Bedroom": 987,
+                                   "Two-Bedroom": 1301,
+                                   "Three-Bedroom": 1862,
+                                   "Four-Bedroom": 2253,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK",
+                            "area_name": "Fairbanks, AK MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 877,
+                                   "One-Bedroom": 1003,
+                                   "Two-Bedroom": 1320,
+                                   "Three-Bedroom": 1875,
+                                   "Four-Bedroom": 2259,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "year": "2017",
+                            "median_income": 84800,
+                            "very_low": {
+                                   "il50_p1": 29700,
+                                   "il50_p2": 33950,
+                                   "il50_p3": 38200,
+                                   "il50_p4": 42400,
+                                   "il50_p5": 45800,
+                                   "il50_p6": 49200,
+                                   "il50_p7": 52600,
+                                   "il50_p8": 56000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 25520,
+                                   "il30_p4": 30750,
+                                   "il30_p5": 35980,
+                                   "il30_p6": 41210,
+                                   "il30_p7": 46440,
+                                   "il30_p8": 51670
+                            },
+                            "low": {
+                                   "il80_p1": 47500,
+                                   "il80_p2": 54300,
+                                   "il80_p3": 61100,
+                                   "il80_p4": 67850,
+                                   "il80_p5": 73300,
+                                   "il80_p6": 78750,
+                                   "il80_p7": 84150,
+                                   "il80_p8": 89600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "year": "2018",
+                            "median_income": 93000,
+                            "very_low": {
+                                   "il50_p1": 32550,
+                                   "il50_p2": 37200,
+                                   "il50_p3": 41850,
+                                   "il50_p4": 46500,
+                                   "il50_p5": 50250,
+                                   "il50_p6": 53950,
+                                   "il50_p7": 57700,
+                                   "il50_p8": 61400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19550,
+                                   "il30_p2": 22350,
+                                   "il30_p3": 25980,
+                                   "il30_p4": 31380,
+                                   "il30_p5": 36780,
+                                   "il30_p6": 42180,
+                                   "il30_p7": 47580,
+                                   "il30_p8": 52980
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "year": "2019",
+                            "median_income": 92400,
+                            "very_low": {
+                                   "il50_p1": 32350,
+                                   "il50_p2": 37000,
+                                   "il50_p3": 41600,
+                                   "il50_p4": 46200,
+                                   "il50_p5": 49900,
+                                   "il50_p6": 53600,
+                                   "il50_p7": 57300,
+                                   "il50_p8": 61000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19400,
+                                   "il30_p2": 22200,
+                                   "il30_p3": 26660,
+                                   "il30_p4": 32190,
+                                   "il30_p5": 37720,
+                                   "il30_p6": 43250,
+                                   "il30_p7": 48780,
+                                   "il30_p8": 54310
+                            },
+                            "low": {
+                                   "il80_p1": 51750,
+                                   "il80_p2": 59150,
+                                   "il80_p3": 66550,
+                                   "il80_p4": 73900,
+                                   "il80_p5": 79850,
+                                   "il80_p6": 85750,
+                                   "il80_p7": 91650,
+                                   "il80_p8": 97550
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "year": "2020",
+                            "median_income": 93100,
+                            "very_low": {
+                                   "il50_p1": 32600,
+                                   "il50_p2": 37250,
+                                   "il50_p3": 41900,
+                                   "il50_p4": 46550,
+                                   "il50_p5": 50300,
+                                   "il50_p6": 54000,
+                                   "il50_p7": 57750,
+                                   "il50_p8": 61450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 27150,
+                                   "il30_p4": 32750,
+                                   "il30_p5": 38350,
+                                   "il30_p6": 43950,
+                                   "il30_p7": 49550,
+                                   "il30_p8": 55150
+                            },
+                            "low": {
+                                   "il80_p1": 52150,
+                                   "il80_p2": 59600,
+                                   "il80_p3": 67050,
+                                   "il80_p4": 74500,
+                                   "il80_p5": 80500,
+                                   "il80_p6": 86450,
+                                   "il80_p7": 92400,
+                                   "il80_p8": 98350
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK MSA",
+                            "area_name": "Fairbanks, AK MSA",
+                            "year": "2021",
+                            "median_income": 92500,
+                            "very_low": {
+                                   "il50_p1": 32400,
+                                   "il50_p2": 37000,
+                                   "il50_p3": 41650,
+                                   "il50_p4": 46250,
+                                   "il50_p5": 49950,
+                                   "il50_p6": 53650,
+                                   "il50_p7": 57350,
+                                   "il50_p8": 61050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19450,
+                                   "il30_p2": 22200,
+                                   "il30_p3": 27450,
+                                   "il30_p4": 33130,
+                                   "il30_p5": 38810,
+                                   "il30_p6": 44490,
+                                   "il30_p7": 50170,
+                                   "il30_p8": 55850
+                            },
+                            "low": {
+                                   "il80_p1": 51800,
+                                   "il80_p2": 59200,
+                                   "il80_p3": 66600,
+                                   "il80_p4": 74000,
+                                   "il80_p5": 79950,
+                                   "il80_p6": 85850,
+                                   "il80_p7": 91800,
+                                   "il80_p8": 97700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Fairbanks North Star Borough, AK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fairbanks, AK",
+                            "area_name": "Fairbanks, AK MSA",
+                            "year": "2022",
+                            "median_income": 97800,
+                            "very_low": {
+                                   "il50_p1": 34250,
+                                   "il50_p2": 39150,
+                                   "il50_p3": 44050,
+                                   "il50_p4": 48900,
+                                   "il50_p5": 52850,
+                                   "il50_p6": 56750,
+                                   "il50_p7": 60650,
+                                   "il50_p8": 64550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20550,
+                                   "il30_p2": 23500,
+                                   "il30_p3": 28790,
+                                   "il30_p4": 34690,
+                                   "il30_p5": 40590,
+                                   "il30_p6": 46490,
+                                   "il30_p7": 52390,
+                                   "il30_p8": 58290
+                            },
+                            "low": {
+                                   "il80_p1": 54800,
+                                   "il80_p2": 62600,
+                                   "il80_p3": 70450,
+                                   "il80_p4": 78250,
+                                   "il80_p5": 84550,
+                                   "il80_p6": 90800,
+                                   "il80_p7": 97050,
+                                   "il80_p8": 103300
+                            }
+                     }
+              ]
+       }
+}

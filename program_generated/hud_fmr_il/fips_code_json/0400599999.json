@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 704,
+                                   "One-Bedroom": 835,
+                                   "Two-Bedroom": 1037,
+                                   "Three-Bedroom": 1309,
+                                   "Four-Bedroom": 1551,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 782,
+                                   "One-Bedroom": 920,
+                                   "Two-Bedroom": 1129,
+                                   "Three-Bedroom": 1446,
+                                   "Four-Bedroom": 1719,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 898,
+                                   "One-Bedroom": 1007,
+                                   "Two-Bedroom": 1237,
+                                   "Three-Bedroom": 1611,
+                                   "Four-Bedroom": 1948,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 964,
+                                   "One-Bedroom": 1024,
+                                   "Two-Bedroom": 1266,
+                                   "Three-Bedroom": 1653,
+                                   "Four-Bedroom": 2003,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1026,
+                                   "One-Bedroom": 1062,
+                                   "Two-Bedroom": 1315,
+                                   "Three-Bedroom": 1712,
+                                   "Four-Bedroom": 2058,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1138,
+                                   "One-Bedroom": 1166,
+                                   "Two-Bedroom": 1474,
+                                   "Three-Bedroom": 1868,
+                                   "Four-Bedroom": 2245,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "year": "2017",
+                            "median_income": 62800,
+                            "very_low": {
+                                   "il50_p1": 22000,
+                                   "il50_p2": 25150,
+                                   "il50_p3": 28300,
+                                   "il50_p4": 31400,
+                                   "il50_p5": 33950,
+                                   "il50_p6": 36450,
+                                   "il50_p7": 38950,
+                                   "il50_p8": 41450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35200,
+                                   "il80_p2": 40200,
+                                   "il80_p3": 45250,
+                                   "il80_p4": 50250,
+                                   "il80_p5": 54300,
+                                   "il80_p6": 58300,
+                                   "il80_p7": 62350,
+                                   "il80_p8": 66350
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "year": "2018",
+                            "median_income": 75100,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 35000,
+                                   "il50_p5": 37800,
+                                   "il50_p6": 40600,
+                                   "il50_p7": 43400,
+                                   "il50_p8": 46200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16800,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39200,
+                                   "il80_p2": 44800,
+                                   "il80_p3": 50400,
+                                   "il80_p4": 56000,
+                                   "il80_p5": 60500,
+                                   "il80_p6": 65000,
+                                   "il80_p7": 69450,
+                                   "il80_p8": 73950
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "year": "2019",
+                            "median_income": 76400,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30600,
+                                   "il50_p3": 34400,
+                                   "il50_p4": 38200,
+                                   "il50_p5": 41300,
+                                   "il50_p6": 44350,
+                                   "il50_p7": 47400,
+                                   "il50_p8": 50450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42800,
+                                   "il80_p2": 48900,
+                                   "il80_p3": 55000,
+                                   "il80_p4": 61100,
+                                   "il80_p5": 66000,
+                                   "il80_p6": 70900,
+                                   "il80_p7": 75800,
+                                   "il80_p8": 80700
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "year": "2020",
+                            "median_income": 75200,
+                            "very_low": {
+                                   "il50_p1": 26350,
+                                   "il50_p2": 30100,
+                                   "il50_p3": 33850,
+                                   "il50_p4": 37600,
+                                   "il50_p5": 40650,
+                                   "il50_p6": 43650,
+                                   "il50_p7": 46650,
+                                   "il50_p8": 49650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18050,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42150,
+                                   "il80_p2": 48150,
+                                   "il80_p3": 54150,
+                                   "il80_p4": 60150,
+                                   "il80_p5": 65000,
+                                   "il80_p6": 69800,
+                                   "il80_p7": 74600,
+                                   "il80_p8": 79400
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ MSA",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "year": "2021",
+                            "median_income": 76800,
+                            "very_low": {
+                                   "il50_p1": 26900,
+                                   "il50_p2": 30750,
+                                   "il50_p3": 34600,
+                                   "il50_p4": 38400,
+                                   "il50_p5": 41500,
+                                   "il50_p6": 44550,
+                                   "il50_p7": 47650,
+                                   "il50_p8": 50700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61450,
+                                   "il80_p5": 66400,
+                                   "il80_p6": 71300,
+                                   "il80_p7": 76200,
+                                   "il80_p8": 81150
+                            }
+                     },
+                     {
+                            "county_name": "Coconino County, AZ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Flagstaff, AZ",
+                            "area_name": "Flagstaff, AZ MSA",
+                            "year": "2022",
+                            "median_income": 85200,
+                            "very_low": {
+                                   "il50_p1": 30100,
+                                   "il50_p2": 34400,
+                                   "il50_p3": 38700,
+                                   "il50_p4": 42950,
+                                   "il50_p5": 46400,
+                                   "il50_p6": 49850,
+                                   "il50_p7": 53300,
+                                   "il50_p8": 56700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18050,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23200,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48100,
+                                   "il80_p2": 55000,
+                                   "il80_p3": 61850,
+                                   "il80_p4": 68700,
+                                   "il80_p5": 74200,
+                                   "il80_p6": 79700,
+                                   "il80_p7": 85200,
+                                   "il80_p8": 90700
+                            }
+                     }
+              ]
+       }
+}

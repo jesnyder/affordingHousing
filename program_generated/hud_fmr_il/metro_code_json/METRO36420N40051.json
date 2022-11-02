@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 524,
+                                   "Two-Bedroom": 679,
+                                   "Three-Bedroom": 916,
+                                   "Four-Bedroom": 1047,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 506,
+                                   "One-Bedroom": 528,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 957,
+                                   "Four-Bedroom": 1076,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 518,
+                                   "One-Bedroom": 529,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 969,
+                                   "Four-Bedroom": 1056,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 530,
+                                   "Two-Bedroom": 698,
+                                   "Three-Bedroom": 978,
+                                   "Four-Bedroom": 1009,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 555,
+                                   "One-Bedroom": 559,
+                                   "Two-Bedroom": 728,
+                                   "Three-Bedroom": 1009,
+                                   "Four-Bedroom": 1034,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 533,
+                                   "One-Bedroom": 578,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 1012,
+                                   "Four-Bedroom": 1073,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 61400,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27650,
+                                   "il50_p4": 30700,
+                                   "il50_p5": 33200,
+                                   "il50_p6": 35650,
+                                   "il50_p7": 38100,
+                                   "il50_p8": 40550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40550
+                            },
+                            "low": {
+                                   "il80_p1": 34400,
+                                   "il80_p2": 39300,
+                                   "il80_p3": 44200,
+                                   "il80_p4": 49100,
+                                   "il80_p5": 53050,
+                                   "il80_p6": 57000,
+                                   "il80_p7": 60900,
+                                   "il80_p8": 64850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 64800,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41500,
+                                   "il80_p3": 46700,
+                                   "il80_p4": 51850,
+                                   "il80_p5": 56000,
+                                   "il80_p6": 60150,
+                                   "il80_p7": 64300,
+                                   "il80_p8": 68450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 23650,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30400,
+                                   "il50_p4": 33750,
+                                   "il50_p5": 36450,
+                                   "il50_p6": 39150,
+                                   "il50_p7": 41850,
+                                   "il50_p8": 44550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14200,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37800,
+                                   "il80_p2": 43200,
+                                   "il80_p3": 48600,
+                                   "il80_p4": 54000,
+                                   "il80_p5": 58350,
+                                   "il80_p6": 62650,
+                                   "il80_p7": 67000,
+                                   "il80_p8": 71300
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 69800,
+                            "very_low": {
+                                   "il50_p1": 24450,
+                                   "il50_p2": 27950,
+                                   "il50_p3": 31450,
+                                   "il50_p4": 34900,
+                                   "il50_p5": 37700,
+                                   "il50_p6": 40500,
+                                   "il50_p7": 43300,
+                                   "il50_p8": 46100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39100,
+                                   "il80_p2": 44700,
+                                   "il80_p3": 50300,
+                                   "il80_p4": 55850,
+                                   "il80_p5": 60350,
+                                   "il80_p6": 64800,
+                                   "il80_p7": 69300,
+                                   "il80_p8": 73750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 72700,
+                            "very_low": {
+                                   "il50_p1": 25450,
+                                   "il50_p2": 29100,
+                                   "il50_p3": 32750,
+                                   "il50_p4": 36350,
+                                   "il50_p5": 39300,
+                                   "il50_p6": 42200,
+                                   "il50_p7": 45100,
+                                   "il50_p8": 48000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17450,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40750,
+                                   "il80_p2": 46550,
+                                   "il80_p3": 52350,
+                                   "il80_p4": 58150,
+                                   "il80_p5": 62850,
+                                   "il80_p6": 67500,
+                                   "il80_p7": 72150,
+                                   "il80_p8": 76800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Grady County, OK; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK",
+                            "area_name": "Grady County, OK HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 81000,
+                            "very_low": {
+                                   "il50_p1": 28350,
+                                   "il50_p2": 32400,
+                                   "il50_p3": 36450,
+                                   "il50_p4": 40500,
+                                   "il50_p5": 43750,
+                                   "il50_p6": 47000,
+                                   "il50_p7": 50250,
+                                   "il50_p8": 53500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19450,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45400,
+                                   "il80_p2": 51850,
+                                   "il80_p3": 58350,
+                                   "il80_p4": 64800,
+                                   "il80_p5": 70000,
+                                   "il80_p6": 75200,
+                                   "il80_p7": 80400,
+                                   "il80_p8": 85550
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 815,
+                                   "Two-Bedroom": 1038,
+                                   "Three-Bedroom": 1332,
+                                   "Four-Bedroom": 1431,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 668,
+                                   "One-Bedroom": 824,
+                                   "Two-Bedroom": 1048,
+                                   "Three-Bedroom": 1352,
+                                   "Four-Bedroom": 1427,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 737,
+                                   "One-Bedroom": 887,
+                                   "Two-Bedroom": 1129,
+                                   "Three-Bedroom": 1464,
+                                   "Four-Bedroom": 1526,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 694,
+                                   "One-Bedroom": 804,
+                                   "Two-Bedroom": 1026,
+                                   "Three-Bedroom": 1327,
+                                   "Four-Bedroom": 1390,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 788,
+                                   "One-Bedroom": 891,
+                                   "Two-Bedroom": 1139,
+                                   "Three-Bedroom": 1474,
+                                   "Four-Bedroom": 1545,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 834,
+                                   "One-Bedroom": 939,
+                                   "Two-Bedroom": 1196,
+                                   "Three-Bedroom": 1542,
+                                   "Four-Bedroom": 1622,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33050,
+                                   "il50_p4": 36700,
+                                   "il50_p5": 39650,
+                                   "il50_p6": 42600,
+                                   "il50_p7": 45550,
+                                   "il50_p8": 48450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 47000,
+                                   "il80_p3": 52850,
+                                   "il80_p4": 58700,
+                                   "il80_p5": 63400,
+                                   "il80_p6": 68100,
+                                   "il80_p7": 72800,
+                                   "il80_p8": 77500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 74600,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29850,
+                                   "il50_p3": 33600,
+                                   "il50_p4": 37300,
+                                   "il50_p5": 40300,
+                                   "il50_p6": 43300,
+                                   "il50_p7": 46300,
+                                   "il50_p8": 49250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41800,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53750,
+                                   "il80_p4": 59700,
+                                   "il80_p5": 64500,
+                                   "il80_p6": 69300,
+                                   "il80_p7": 74050,
+                                   "il80_p8": 78850
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 78400,
+                            "very_low": {
+                                   "il50_p1": 27450,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35300,
+                                   "il50_p4": 39200,
+                                   "il50_p5": 42350,
+                                   "il50_p6": 45500,
+                                   "il50_p7": 48650,
+                                   "il50_p8": 51750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43900,
+                                   "il80_p2": 50200,
+                                   "il80_p3": 56450,
+                                   "il80_p4": 62700,
+                                   "il80_p5": 67750,
+                                   "il80_p6": 72750,
+                                   "il80_p7": 77750,
+                                   "il80_p8": 82800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 78200,
+                            "very_low": {
+                                   "il50_p1": 27400,
+                                   "il50_p2": 31300,
+                                   "il50_p3": 35200,
+                                   "il50_p4": 39100,
+                                   "il50_p5": 42250,
+                                   "il50_p6": 45400,
+                                   "il50_p7": 48500,
+                                   "il50_p8": 51650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 43800,
+                                   "il80_p2": 50050,
+                                   "il80_p3": 56300,
+                                   "il80_p4": 62550,
+                                   "il80_p5": 67600,
+                                   "il80_p6": 72600,
+                                   "il80_p7": 77600,
+                                   "il80_p8": 82600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ MSA",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 81900,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 40950,
+                                   "il50_p5": 44250,
+                                   "il50_p6": 47550,
+                                   "il50_p7": 50800,
+                                   "il50_p8": 54100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65500,
+                                   "il80_p5": 70750,
+                                   "il80_p6": 76000,
+                                   "il80_p7": 81250,
+                                   "il80_p8": 86500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Carbon County, PA; Lehigh County, PA; and Northampton County, PA",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Allentown-Bethlehem-Easton, PA-NJ",
+                            "area_name": "Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 90600,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36250,
+                                   "il50_p3": 40800,
+                                   "il50_p4": 45300,
+                                   "il50_p5": 48950,
+                                   "il50_p6": 52550,
+                                   "il50_p7": 56200,
+                                   "il50_p8": 59800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50750,
+                                   "il80_p2": 58000,
+                                   "il80_p3": 65250,
+                                   "il80_p4": 72500,
+                                   "il80_p5": 78300,
+                                   "il80_p6": 84100,
+                                   "il80_p7": 89900,
+                                   "il80_p8": 95700
+                            }
+                     }
+              ]
+       }
+}

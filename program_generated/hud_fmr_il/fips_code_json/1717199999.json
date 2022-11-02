@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 436,
+                                   "One-Bedroom": 492,
+                                   "Two-Bedroom": 654,
+                                   "Three-Bedroom": 818,
+                                   "Four-Bedroom": 948,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 451,
+                                   "One-Bedroom": 504,
+                                   "Two-Bedroom": 670,
+                                   "Three-Bedroom": 840,
+                                   "Four-Bedroom": 913,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 473,
+                                   "One-Bedroom": 527,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 873,
+                                   "Four-Bedroom": 942,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 474,
+                                   "One-Bedroom": 530,
+                                   "Two-Bedroom": 698,
+                                   "Three-Bedroom": 870,
+                                   "Four-Bedroom": 1018,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 476,
+                                   "One-Bedroom": 531,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 871,
+                                   "Four-Bedroom": 1167,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 503,
+                                   "One-Bedroom": 564,
+                                   "Two-Bedroom": 735,
+                                   "Three-Bedroom": 909,
+                                   "Four-Bedroom": 1238,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "year": "2017",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "year": "2018",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "year": "2019",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 23250,
+                                   "il50_p2": 26550,
+                                   "il50_p3": 29850,
+                                   "il50_p4": 33150,
+                                   "il50_p5": 35850,
+                                   "il50_p6": 38500,
+                                   "il50_p7": 41150,
+                                   "il50_p8": 43800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13950,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37150,
+                                   "il80_p2": 42450,
+                                   "il80_p3": 47750,
+                                   "il80_p4": 53050,
+                                   "il80_p5": 57300,
+                                   "il80_p6": 61550,
+                                   "il80_p7": 65800,
+                                   "il80_p8": 70050
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "year": "2020",
+                            "median_income": 68700,
+                            "very_low": {
+                                   "il50_p1": 24050,
+                                   "il50_p2": 27500,
+                                   "il50_p3": 30950,
+                                   "il50_p4": 34350,
+                                   "il50_p5": 37100,
+                                   "il50_p6": 39850,
+                                   "il50_p7": 42600,
+                                   "il50_p8": 45350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14450,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38500,
+                                   "il80_p2": 44000,
+                                   "il80_p3": 49500,
+                                   "il80_p4": 54950,
+                                   "il80_p5": 59350,
+                                   "il80_p6": 63750,
+                                   "il80_p7": 68150,
+                                   "il80_p8": 72550
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "year": "2021",
+                            "median_income": 70600,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28250,
+                                   "il50_p3": 31800,
+                                   "il50_p4": 35300,
+                                   "il50_p5": 38150,
+                                   "il50_p6": 40950,
+                                   "il50_p7": 43800,
+                                   "il50_p8": 46600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39550,
+                                   "il80_p2": 45200,
+                                   "il80_p3": 50850,
+                                   "il80_p4": 56500,
+                                   "il80_p5": 61050,
+                                   "il80_p6": 65550,
+                                   "il80_p7": 70100,
+                                   "il80_p8": 74600
+                            }
+                     },
+                     {
+                            "county_name": "Scott County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Scott County, IL",
+                            "year": "2022",
+                            "median_income": 77800,
+                            "very_low": {
+                                   "il50_p1": 27250,
+                                   "il50_p2": 31150,
+                                   "il50_p3": 35050,
+                                   "il50_p4": 38900,
+                                   "il50_p5": 42050,
+                                   "il50_p6": 45150,
+                                   "il50_p7": 48250,
+                                   "il50_p8": 51350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43600,
+                                   "il80_p2": 49800,
+                                   "il80_p3": 56050,
+                                   "il80_p4": 62250,
+                                   "il80_p5": 67250,
+                                   "il80_p6": 72250,
+                                   "il80_p7": 77200,
+                                   "il80_p8": 82200
+                            }
+                     }
+              ]
+       }
+}

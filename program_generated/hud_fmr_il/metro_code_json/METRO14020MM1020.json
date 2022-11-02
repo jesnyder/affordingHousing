@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 688,
+                                   "Two-Bedroom": 884,
+                                   "Three-Bedroom": 1183,
+                                   "Four-Bedroom": 1520,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 709,
+                                   "Two-Bedroom": 920,
+                                   "Three-Bedroom": 1208,
+                                   "Four-Bedroom": 1620,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 697,
+                                   "One-Bedroom": 736,
+                                   "Two-Bedroom": 945,
+                                   "Three-Bedroom": 1241,
+                                   "Four-Bedroom": 1660,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 879,
+                                   "Three-Bedroom": 1175,
+                                   "Four-Bedroom": 1543,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 681,
+                                   "One-Bedroom": 748,
+                                   "Two-Bedroom": 927,
+                                   "Three-Bedroom": 1274,
+                                   "Four-Bedroom": 1605,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 706,
+                                   "One-Bedroom": 803,
+                                   "Two-Bedroom": 971,
+                                   "Three-Bedroom": 1369,
+                                   "Four-Bedroom": 1662,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 62300,
+                            "very_low": {
+                                   "il50_p1": 21850,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28100,
+                                   "il50_p4": 31200,
+                                   "il50_p5": 33700,
+                                   "il50_p6": 36200,
+                                   "il50_p7": 38700,
+                                   "il50_p8": 41200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41200
+                            },
+                            "low": {
+                                   "il80_p1": 34950,
+                                   "il80_p2": 39950,
+                                   "il80_p3": 44950,
+                                   "il80_p4": 49900,
+                                   "il80_p5": 53900,
+                                   "il80_p6": 57900,
+                                   "il80_p7": 61900,
+                                   "il80_p8": 65900
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 75800,
+                            "very_low": {
+                                   "il50_p1": 24350,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31300,
+                                   "il50_p4": 34750,
+                                   "il50_p5": 37550,
+                                   "il50_p6": 40350,
+                                   "il50_p7": 43100,
+                                   "il50_p8": 45900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 16700,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38950,
+                                   "il80_p2": 44500,
+                                   "il80_p3": 50050,
+                                   "il80_p4": 55600,
+                                   "il80_p5": 60050,
+                                   "il80_p6": 64500,
+                                   "il80_p7": 68950,
+                                   "il80_p8": 73400
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73800,
+                            "very_low": {
+                                   "il50_p1": 25850,
+                                   "il50_p2": 29550,
+                                   "il50_p3": 33250,
+                                   "il50_p4": 36900,
+                                   "il50_p5": 39900,
+                                   "il50_p6": 42850,
+                                   "il50_p7": 45800,
+                                   "il50_p8": 48750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41350,
+                                   "il80_p2": 47250,
+                                   "il80_p3": 53150,
+                                   "il80_p4": 59050,
+                                   "il80_p5": 63800,
+                                   "il80_p6": 68500,
+                                   "il80_p7": 73250,
+                                   "il80_p8": 77950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 74900,
+                            "very_low": {
+                                   "il50_p1": 26250,
+                                   "il50_p2": 30000,
+                                   "il50_p3": 33750,
+                                   "il50_p4": 37450,
+                                   "il50_p5": 40450,
+                                   "il50_p6": 43450,
+                                   "il50_p7": 46450,
+                                   "il50_p8": 49450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41950,
+                                   "il80_p2": 47950,
+                                   "il80_p3": 53950,
+                                   "il80_p4": 59900,
+                                   "il80_p5": 64700,
+                                   "il80_p6": 69500,
+                                   "il80_p7": 74300,
+                                   "il80_p8": 79100
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN MSA",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 76300,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30550,
+                                   "il50_p3": 34350,
+                                   "il50_p4": 38150,
+                                   "il50_p5": 41250,
+                                   "il50_p6": 44300,
+                                   "il50_p7": 47350,
+                                   "il50_p8": 50400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42750,
+                                   "il80_p2": 48850,
+                                   "il80_p3": 54950,
+                                   "il80_p4": 61050,
+                                   "il80_p5": 65950,
+                                   "il80_p6": 70850,
+                                   "il80_p7": 75750,
+                                   "il80_p8": 80600
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Monroe County, IN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomington, IN",
+                            "area_name": "Bloomington, IN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 91400,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34150,
+                                   "il50_p3": 38400,
+                                   "il50_p4": 42650,
+                                   "il50_p5": 46100,
+                                   "il50_p6": 49500,
+                                   "il50_p7": 52900,
+                                   "il50_p8": 56300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47800,
+                                   "il80_p2": 54600,
+                                   "il80_p3": 61450,
+                                   "il80_p4": 68250,
+                                   "il80_p5": 73750,
+                                   "il80_p6": 79200,
+                                   "il80_p7": 84650,
+                                   "il80_p8": 90100
+                            }
+                     }
+              ]
+       }
+}

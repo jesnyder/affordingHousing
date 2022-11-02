@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 605,
+                                   "One-Bedroom": 648,
+                                   "Two-Bedroom": 777,
+                                   "Three-Bedroom": 1082,
+                                   "Four-Bedroom": 1369,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 685,
+                                   "Two-Bedroom": 823,
+                                   "Three-Bedroom": 1142,
+                                   "Four-Bedroom": 1450,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 643,
+                                   "One-Bedroom": 714,
+                                   "Two-Bedroom": 862,
+                                   "Three-Bedroom": 1175,
+                                   "Four-Bedroom": 1514,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 670,
+                                   "Two-Bedroom": 790,
+                                   "Three-Bedroom": 1062,
+                                   "Four-Bedroom": 1387,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 644,
+                                   "One-Bedroom": 717,
+                                   "Two-Bedroom": 832,
+                                   "Three-Bedroom": 1118,
+                                   "Four-Bedroom": 1441,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL",
+                            "area_name": "Columbus, GA-AL HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 654,
+                                   "One-Bedroom": 724,
+                                   "Two-Bedroom": 827,
+                                   "Three-Bedroom": 1122,
+                                   "Four-Bedroom": 1415,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "year": "2017",
+                            "median_income": 53400,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24050,
+                                   "il50_p4": 26700,
+                                   "il50_p5": 28850,
+                                   "il50_p6": 31000,
+                                   "il50_p7": 33150,
+                                   "il50_p8": 35250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31000,
+                                   "il30_p7": 33150,
+                                   "il30_p8": 35250
+                            },
+                            "low": {
+                                   "il80_p1": 29900,
+                                   "il80_p2": 34200,
+                                   "il80_p3": 38450,
+                                   "il80_p4": 42700,
+                                   "il80_p5": 46150,
+                                   "il80_p6": 49550,
+                                   "il80_p7": 52950,
+                                   "il80_p8": 56400
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "year": "2018",
+                            "median_income": 56000,
+                            "very_low": {
+                                   "il50_p1": 19600,
+                                   "il50_p2": 22400,
+                                   "il50_p3": 25200,
+                                   "il50_p4": 28000,
+                                   "il50_p5": 30250,
+                                   "il50_p6": 32500,
+                                   "il50_p7": 34750,
+                                   "il50_p8": 37000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32500,
+                                   "il30_p7": 34750,
+                                   "il30_p8": 37000
+                            },
+                            "low": {
+                                   "il80_p1": 31400,
+                                   "il80_p2": 35850,
+                                   "il80_p3": 40350,
+                                   "il80_p4": 44800,
+                                   "il80_p5": 48400,
+                                   "il80_p6": 52000,
+                                   "il80_p7": 55600,
+                                   "il80_p8": 59150
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "year": "2019",
+                            "median_income": 59600,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23850,
+                                   "il50_p3": 26850,
+                                   "il50_p4": 29800,
+                                   "il50_p5": 32200,
+                                   "il50_p6": 34600,
+                                   "il50_p7": 37000,
+                                   "il50_p8": 39350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37000,
+                                   "il30_p8": 39350
+                            },
+                            "low": {
+                                   "il80_p1": 33400,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 42950,
+                                   "il80_p4": 47700,
+                                   "il80_p5": 51550,
+                                   "il80_p6": 55350,
+                                   "il80_p7": 59150,
+                                   "il80_p8": 63000
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "year": "2020",
+                            "median_income": 62300,
+                            "very_low": {
+                                   "il50_p1": 21850,
+                                   "il50_p2": 24950,
+                                   "il50_p3": 28050,
+                                   "il50_p4": 31150,
+                                   "il50_p5": 33650,
+                                   "il50_p6": 36150,
+                                   "il50_p7": 38650,
+                                   "il50_p8": 41150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38650,
+                                   "il30_p8": 41150
+                            },
+                            "low": {
+                                   "il80_p1": 34900,
+                                   "il80_p2": 39900,
+                                   "il80_p3": 44900,
+                                   "il80_p4": 49850,
+                                   "il80_p5": 53850,
+                                   "il80_p6": 57850,
+                                   "il80_p7": 61850,
+                                   "il80_p8": 65850
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL MSA",
+                            "area_name": "Columbus, GA-AL MSA",
+                            "year": "2021",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Chattahoochee County, GA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, GA-AL",
+                            "area_name": "Columbus, GA-AL HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 68200,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 45050
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     }
+              ]
+       }
+}

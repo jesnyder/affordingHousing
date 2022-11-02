@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1019,
+                                   "One-Bedroom": 1133,
+                                   "Two-Bedroom": 1490,
+                                   "Three-Bedroom": 2169,
+                                   "Four-Bedroom": 2625,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1269,
+                                   "One-Bedroom": 1277,
+                                   "Two-Bedroom": 1699,
+                                   "Three-Bedroom": 2471,
+                                   "Four-Bedroom": 2992,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1314,
+                                   "One-Bedroom": 1323,
+                                   "Two-Bedroom": 1750,
+                                   "Three-Bedroom": 2530,
+                                   "Four-Bedroom": 3074,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1290,
+                                   "One-Bedroom": 1298,
+                                   "Two-Bedroom": 1710,
+                                   "Three-Bedroom": 2467,
+                                   "Four-Bedroom": 3002,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1200,
+                                   "One-Bedroom": 1270,
+                                   "Two-Bedroom": 1674,
+                                   "Three-Bedroom": 2396,
+                                   "Four-Bedroom": 2898,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1096,
+                                   "One-Bedroom": 1253,
+                                   "Two-Bedroom": 1649,
+                                   "Three-Bedroom": 2342,
+                                   "Four-Bedroom": 2822,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33450,
+                                   "il50_p3": 37650,
+                                   "il50_p4": 41800,
+                                   "il50_p5": 45150,
+                                   "il50_p6": 48500,
+                                   "il50_p7": 51850,
+                                   "il50_p8": 55200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 46850,
+                                   "il80_p2": 53550,
+                                   "il80_p3": 60250,
+                                   "il80_p4": 66900,
+                                   "il80_p5": 72300,
+                                   "il80_p6": 77650,
+                                   "il80_p7": 83000,
+                                   "il80_p8": 88350
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 79800,
+                            "very_low": {
+                                   "il50_p1": 32600,
+                                   "il50_p2": 37250,
+                                   "il50_p3": 41900,
+                                   "il50_p4": 46550,
+                                   "il50_p5": 50300,
+                                   "il50_p6": 54000,
+                                   "il50_p7": 57750,
+                                   "il50_p8": 61450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 25200,
+                                   "il30_p4": 27950,
+                                   "il30_p5": 30200,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 52200,
+                                   "il80_p2": 59650,
+                                   "il80_p3": 67100,
+                                   "il80_p4": 74550,
+                                   "il80_p5": 80550,
+                                   "il80_p6": 86500,
+                                   "il80_p7": 92450,
+                                   "il80_p8": 98450
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 84500,
+                            "very_low": {
+                                   "il50_p1": 35700,
+                                   "il50_p2": 40800,
+                                   "il50_p3": 45900,
+                                   "il50_p4": 51000,
+                                   "il50_p5": 55100,
+                                   "il50_p6": 59200,
+                                   "il50_p7": 63250,
+                                   "il50_p8": 67350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21450,
+                                   "il30_p2": 24500,
+                                   "il30_p3": 27550,
+                                   "il30_p4": 30600,
+                                   "il30_p5": 33050,
+                                   "il30_p6": 35500,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 57150,
+                                   "il80_p2": 65300,
+                                   "il80_p3": 73450,
+                                   "il80_p4": 81600,
+                                   "il80_p5": 88150,
+                                   "il80_p6": 94700,
+                                   "il80_p7": 101200,
+                                   "il80_p8": 107750
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 89700,
+                            "very_low": {
+                                   "il50_p1": 34900,
+                                   "il50_p2": 39900,
+                                   "il50_p3": 44900,
+                                   "il50_p4": 49850,
+                                   "il50_p5": 53850,
+                                   "il50_p6": 57850,
+                                   "il50_p7": 61850,
+                                   "il50_p8": 65850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20950,
+                                   "il30_p2": 23950,
+                                   "il30_p3": 26950,
+                                   "il30_p4": 29900,
+                                   "il30_p5": 32300,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 55850,
+                                   "il80_p2": 63800,
+                                   "il80_p3": 71800,
+                                   "il80_p4": 79750,
+                                   "il80_p5": 86150,
+                                   "il80_p6": 92550,
+                                   "il80_p7": 98900,
+                                   "il80_p8": 105300
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA MSA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 90700,
+                            "very_low": {
+                                   "il50_p1": 34200,
+                                   "il50_p2": 39050,
+                                   "il50_p3": 43950,
+                                   "il50_p4": 48800,
+                                   "il50_p5": 52750,
+                                   "il50_p6": 56650,
+                                   "il50_p7": 60550,
+                                   "il50_p8": 64450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20550,
+                                   "il30_p2": 23450,
+                                   "il30_p3": 26400,
+                                   "il30_p4": 29300,
+                                   "il30_p5": 31650,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 54700,
+                                   "il80_p2": 62500,
+                                   "il80_p3": 70300,
+                                   "il80_p4": 78100,
+                                   "il80_p5": 84350,
+                                   "il80_p6": 90600,
+                                   "il80_p7": 96850,
+                                   "il80_p8": 103100
+                            }
+                     },
+                     {
+                            "county_name": "San Benito County, CA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Jose-Sunnyvale-Santa Clara, CA",
+                            "area_name": "San Benito County, CA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 105100,
+                            "very_low": {
+                                   "il50_p1": 36800,
+                                   "il50_p2": 42050,
+                                   "il50_p3": 47300,
+                                   "il50_p4": 52550,
+                                   "il50_p5": 56800,
+                                   "il50_p6": 61000,
+                                   "il50_p7": 65200,
+                                   "il50_p8": 69400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22100,
+                                   "il30_p2": 25250,
+                                   "il30_p3": 28400,
+                                   "il30_p4": 31550,
+                                   "il30_p5": 34100,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 58900,
+                                   "il80_p2": 67300,
+                                   "il80_p3": 75700,
+                                   "il80_p4": 84100,
+                                   "il80_p5": 90850,
+                                   "il80_p6": 97600,
+                                   "il80_p7": 104300,
+                                   "il80_p8": 111050
+                            }
+                     }
+              ]
+       }
+}

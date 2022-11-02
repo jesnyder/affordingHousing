@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 582,
+                                   "One-Bedroom": 680,
+                                   "Two-Bedroom": 823,
+                                   "Three-Bedroom": 1143,
+                                   "Four-Bedroom": 1439,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 670,
+                                   "One-Bedroom": 730,
+                                   "Two-Bedroom": 922,
+                                   "Three-Bedroom": 1315,
+                                   "Four-Bedroom": 1437,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 714,
+                                   "One-Bedroom": 718,
+                                   "Two-Bedroom": 950,
+                                   "Three-Bedroom": 1279,
+                                   "Four-Bedroom": 1294,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 726,
+                                   "One-Bedroom": 731,
+                                   "Two-Bedroom": 963,
+                                   "Three-Bedroom": 1300,
+                                   "Four-Bedroom": 1305,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 736,
+                                   "One-Bedroom": 741,
+                                   "Two-Bedroom": 976,
+                                   "Three-Bedroom": 1319,
+                                   "Four-Bedroom": 1324,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 792,
+                                   "One-Bedroom": 797,
+                                   "Two-Bedroom": 1049,
+                                   "Three-Bedroom": 1417,
+                                   "Four-Bedroom": 1423,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 75600,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 78400,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21800,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 80500,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35500,
+                                   "il50_p3": 39950,
+                                   "il50_p4": 44350,
+                                   "il50_p5": 47900,
+                                   "il50_p6": 51450,
+                                   "il50_p7": 55000,
+                                   "il50_p8": 58550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 49700,
+                                   "il80_p2": 56800,
+                                   "il80_p3": 63900,
+                                   "il80_p4": 70950,
+                                   "il80_p5": 76650,
+                                   "il80_p6": 82350,
+                                   "il80_p7": 88000,
+                                   "il80_p8": 93700
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 88400,
+                            "very_low": {
+                                   "il50_p1": 30950,
+                                   "il50_p2": 35400,
+                                   "il50_p3": 39800,
+                                   "il50_p4": 44200,
+                                   "il50_p5": 47750,
+                                   "il50_p6": 51300,
+                                   "il50_p7": 54850,
+                                   "il50_p8": 58350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 49500,
+                                   "il80_p2": 56600,
+                                   "il80_p3": 63650,
+                                   "il80_p4": 70700,
+                                   "il80_p5": 76400,
+                                   "il80_p6": 82050,
+                                   "il80_p7": 87700,
+                                   "il80_p8": 93350
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT MSA",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 87400,
+                            "very_low": {
+                                   "il50_p1": 30600,
+                                   "il50_p2": 35000,
+                                   "il50_p3": 39350,
+                                   "il50_p4": 43700,
+                                   "il50_p5": 47200,
+                                   "il50_p6": 50700,
+                                   "il50_p7": 54200,
+                                   "il50_p8": 57700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 21000,
+                                   "il30_p3": 23600,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48950,
+                                   "il80_p2": 55950,
+                                   "il80_p3": 62950,
+                                   "il80_p4": 69900,
+                                   "il80_p5": 75500,
+                                   "il80_p6": 81100,
+                                   "il80_p7": 86700,
+                                   "il80_p8": 92300
+                            }
+                     },
+                     {
+                            "county_name": "Worcester County, MA",
+                            "counties_msa": "",
+                            "town_name": "Athol town",
+                            "metro_status": "1",
+                            "metro_name": "Worcester, MA-CT",
+                            "area_name": "Western Worcester County, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 94600,
+                            "very_low": {
+                                   "il50_p1": 34200,
+                                   "il50_p2": 39100,
+                                   "il50_p3": 44000,
+                                   "il50_p4": 48850,
+                                   "il50_p5": 52800,
+                                   "il50_p6": 56700,
+                                   "il50_p7": 60600,
+                                   "il50_p8": 64500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20550,
+                                   "il30_p2": 23450,
+                                   "il30_p3": 26400,
+                                   "il30_p4": 29300,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54750,
+                                   "il80_p2": 62550,
+                                   "il80_p3": 70350,
+                                   "il80_p4": 78150,
+                                   "il80_p5": 84450,
+                                   "il80_p6": 90700,
+                                   "il80_p7": 96950,
+                                   "il80_p8": 103200
+                            }
+                     }
+              ]
+       }
+}

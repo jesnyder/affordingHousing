@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County (part), MA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 736,
+                                   "Two-Bedroom": 913,
+                                   "Three-Bedroom": 1142,
+                                   "Four-Bedroom": 1331,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County (part), MA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 859,
+                                   "One-Bedroom": 864,
+                                   "Two-Bedroom": 1084,
+                                   "Three-Bedroom": 1359,
+                                   "Four-Bedroom": 1535,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County (part), MA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 870,
+                                   "One-Bedroom": 876,
+                                   "Two-Bedroom": 1113,
+                                   "Three-Bedroom": 1446,
+                                   "Four-Bedroom": 1583,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County, MA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 842,
+                                   "One-Bedroom": 859,
+                                   "Two-Bedroom": 1095,
+                                   "Three-Bedroom": 1467,
+                                   "Four-Bedroom": 1577,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County, MA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 886,
+                                   "One-Bedroom": 972,
+                                   "Two-Bedroom": 1245,
+                                   "Three-Bedroom": 1653,
+                                   "Four-Bedroom": 1781,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MA",
+                            "area_name": "Franklin County, MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 798,
+                                   "One-Bedroom": 909,
+                                   "Two-Bedroom": 1160,
+                                   "Three-Bedroom": 1488,
+                                   "Four-Bedroom": 1672,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County (part), MA HUD Nonmetro FMR Area",
+                            "year": "2017",
+                            "median_income": 76500,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County (part), MA HUD Nonmetro FMR Area",
+                            "year": "2018",
+                            "median_income": 74800,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21800,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County (part), MA HUD Nonmetro FMR Area",
+                            "year": "2019",
+                            "median_income": 85100,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35500,
+                                   "il50_p3": 39950,
+                                   "il50_p4": 44350,
+                                   "il50_p5": 47900,
+                                   "il50_p6": 51450,
+                                   "il50_p7": 55000,
+                                   "il50_p8": 58550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 49700,
+                                   "il80_p2": 56800,
+                                   "il80_p3": 63900,
+                                   "il80_p4": 70950,
+                                   "il80_p5": 76650,
+                                   "il80_p6": 82350,
+                                   "il80_p7": 88000,
+                                   "il80_p8": 93700
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County, MA",
+                            "year": "2020",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34200,
+                                   "il50_p3": 38450,
+                                   "il50_p4": 42700,
+                                   "il50_p5": 46150,
+                                   "il50_p6": 49550,
+                                   "il50_p7": 52950,
+                                   "il50_p8": 56400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 47850,
+                                   "il80_p2": 54650,
+                                   "il80_p3": 61500,
+                                   "il80_p4": 68300,
+                                   "il80_p5": 73800,
+                                   "il80_p6": 79250,
+                                   "il80_p7": 84700,
+                                   "il80_p8": 90200
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Franklin County, MA",
+                            "year": "2021",
+                            "median_income": 82900,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, MA",
+                            "counties_msa": "",
+                            "town_name": "Wendell town",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MA",
+                            "area_name": "Franklin County, MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 92200,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52750,
+                                   "il80_p2": 60250,
+                                   "il80_p3": 67800,
+                                   "il80_p4": 75300,
+                                   "il80_p5": 81350,
+                                   "il80_p6": 87350,
+                                   "il80_p7": 93400,
+                                   "il80_p8": 99400
+                            }
+                     }
+              ]
+       }
+}

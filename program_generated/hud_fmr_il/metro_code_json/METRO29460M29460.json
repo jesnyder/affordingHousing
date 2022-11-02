@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 838,
+                                   "Three-Bedroom": 1111,
+                                   "Four-Bedroom": 1407,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 648,
+                                   "One-Bedroom": 652,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1135,
+                                   "Four-Bedroom": 1423,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 703,
+                                   "One-Bedroom": 708,
+                                   "Two-Bedroom": 925,
+                                   "Three-Bedroom": 1233,
+                                   "Four-Bedroom": 1532,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 698,
+                                   "One-Bedroom": 702,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1221,
+                                   "Four-Bedroom": 1545,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 794,
+                                   "One-Bedroom": 799,
+                                   "Two-Bedroom": 1023,
+                                   "Three-Bedroom": 1375,
+                                   "Four-Bedroom": 1764,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 830,
+                                   "One-Bedroom": 836,
+                                   "Two-Bedroom": 1056,
+                                   "Three-Bedroom": 1418,
+                                   "Four-Bedroom": 1807,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "year": "2017",
+                            "median_income": 52500,
+                            "very_low": {
+                                   "il50_p1": 18400,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23650,
+                                   "il50_p4": 26250,
+                                   "il50_p5": 28350,
+                                   "il50_p6": 30450,
+                                   "il50_p7": 32550,
+                                   "il50_p8": 34650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28350,
+                                   "il30_p6": 30450,
+                                   "il30_p7": 32550,
+                                   "il30_p8": 34650
+                            },
+                            "low": {
+                                   "il80_p1": 29400,
+                                   "il80_p2": 33600,
+                                   "il80_p3": 37800,
+                                   "il80_p4": 42000,
+                                   "il80_p5": 45400,
+                                   "il80_p6": 48750,
+                                   "il80_p7": 52100,
+                                   "il80_p8": 55450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "year": "2018",
+                            "median_income": 53600,
+                            "very_low": {
+                                   "il50_p1": 18800,
+                                   "il50_p2": 21450,
+                                   "il50_p3": 24150,
+                                   "il50_p4": 26800,
+                                   "il50_p5": 28950,
+                                   "il50_p6": 31100,
+                                   "il50_p7": 33250,
+                                   "il50_p8": 35400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28950,
+                                   "il30_p6": 31100,
+                                   "il30_p7": 33250,
+                                   "il30_p8": 35400
+                            },
+                            "low": {
+                                   "il80_p1": 30050,
+                                   "il80_p2": 34350,
+                                   "il80_p3": 38650,
+                                   "il80_p4": 42900,
+                                   "il80_p5": 46350,
+                                   "il80_p6": 49800,
+                                   "il80_p7": 53200,
+                                   "il80_p8": 56650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "year": "2019",
+                            "median_income": 58200,
+                            "very_low": {
+                                   "il50_p1": 20400,
+                                   "il50_p2": 23300,
+                                   "il50_p3": 26200,
+                                   "il50_p4": 29100,
+                                   "il50_p5": 31450,
+                                   "il50_p6": 33800,
+                                   "il50_p7": 36100,
+                                   "il50_p8": 38450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33800,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 32600,
+                                   "il80_p2": 37250,
+                                   "il80_p3": 41900,
+                                   "il80_p4": 46550,
+                                   "il80_p5": 50300,
+                                   "il80_p6": 54000,
+                                   "il80_p7": 57750,
+                                   "il80_p8": 61450
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "year": "2020",
+                            "median_income": 58800,
+                            "very_low": {
+                                   "il50_p1": 20600,
+                                   "il50_p2": 23550,
+                                   "il50_p3": 26500,
+                                   "il50_p4": 29400,
+                                   "il50_p5": 31800,
+                                   "il50_p6": 34150,
+                                   "il50_p7": 36500,
+                                   "il50_p8": 38850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34150,
+                                   "il30_p7": 36500,
+                                   "il30_p8": 38850
+                            },
+                            "low": {
+                                   "il80_p1": 32950,
+                                   "il80_p2": 37650,
+                                   "il80_p3": 42350,
+                                   "il80_p4": 47050,
+                                   "il80_p5": 50850,
+                                   "il80_p6": 54600,
+                                   "il80_p7": 58350,
+                                   "il80_p8": 62150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL MSA",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "year": "2021",
+                            "median_income": 62100,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24700,
+                                   "il50_p3": 27800,
+                                   "il50_p4": 30850,
+                                   "il50_p5": 33350,
+                                   "il50_p6": 35800,
+                                   "il50_p7": 38300,
+                                   "il50_p8": 40750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 38300,
+                                   "il30_p8": 40750
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39500,
+                                   "il80_p3": 44450,
+                                   "il80_p4": 49350,
+                                   "il80_p5": 53300,
+                                   "il80_p6": 57250,
+                                   "il80_p7": 61200,
+                                   "il80_p8": 65150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Polk County, FL; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lakeland-Winter Haven, FL",
+                            "area_name": "Lakeland-Winter Haven, FL MSA",
+                            "year": "2022",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 23650,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30400,
+                                   "il50_p4": 33750,
+                                   "il50_p5": 36450,
+                                   "il50_p6": 39150,
+                                   "il50_p7": 41850,
+                                   "il50_p8": 44550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14200,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41850,
+                                   "il30_p8": 44550
+                            },
+                            "low": {
+                                   "il80_p1": 37800,
+                                   "il80_p2": 43200,
+                                   "il80_p3": 48600,
+                                   "il80_p4": 54000,
+                                   "il80_p5": 58350,
+                                   "il80_p6": 62650,
+                                   "il80_p7": 67000,
+                                   "il80_p8": 71300
+                            }
+                     }
+              ]
+       }
+}

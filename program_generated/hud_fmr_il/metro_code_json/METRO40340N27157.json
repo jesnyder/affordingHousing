@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 489,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 771,
+                                   "Three-Bedroom": 1122,
+                                   "Four-Bedroom": 1351,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 455,
+                                   "One-Bedroom": 571,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 1030,
+                                   "Four-Bedroom": 1247,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 500,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 779,
+                                   "Three-Bedroom": 1126,
+                                   "Four-Bedroom": 1368,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 507,
+                                   "One-Bedroom": 650,
+                                   "Two-Bedroom": 772,
+                                   "Three-Bedroom": 1114,
+                                   "Four-Bedroom": 1346,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 497,
+                                   "One-Bedroom": 616,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1252,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 656,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 1075,
+                                   "Four-Bedroom": 1236,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 70000,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 35000,
+                                   "il50_p5": 37800,
+                                   "il50_p6": 40600,
+                                   "il50_p7": 43400,
+                                   "il50_p8": 46200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39200,
+                                   "il80_p2": 44800,
+                                   "il80_p3": 50400,
+                                   "il80_p4": 56000,
+                                   "il80_p5": 60500,
+                                   "il80_p6": 65000,
+                                   "il80_p7": 69450,
+                                   "il80_p8": 73950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 72100,
+                            "very_low": {
+                                   "il50_p1": 25250,
+                                   "il50_p2": 28850,
+                                   "il50_p3": 32450,
+                                   "il50_p4": 36050,
+                                   "il50_p5": 38950,
+                                   "il50_p6": 41850,
+                                   "il50_p7": 44750,
+                                   "il50_p8": 47600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17350,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40400,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 51950,
+                                   "il80_p4": 57700,
+                                   "il80_p5": 62350,
+                                   "il80_p6": 66950,
+                                   "il80_p7": 71550,
+                                   "il80_p8": 76200
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 75900,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 37950,
+                                   "il50_p5": 41000,
+                                   "il50_p6": 44050,
+                                   "il50_p7": 47100,
+                                   "il50_p8": 50100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48600,
+                                   "il80_p3": 54650,
+                                   "il80_p4": 60700,
+                                   "il80_p5": 65600,
+                                   "il80_p6": 70450,
+                                   "il80_p7": 75300,
+                                   "il80_p8": 80150
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 77600,
+                            "very_low": {
+                                   "il50_p1": 27200,
+                                   "il50_p2": 31050,
+                                   "il50_p3": 34950,
+                                   "il50_p4": 38800,
+                                   "il50_p5": 41950,
+                                   "il50_p6": 45050,
+                                   "il50_p7": 48150,
+                                   "il50_p8": 51250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18650,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 43500,
+                                   "il80_p2": 49700,
+                                   "il80_p3": 55900,
+                                   "il80_p4": 62100,
+                                   "il80_p5": 67100,
+                                   "il80_p6": 72050,
+                                   "il80_p7": 77050,
+                                   "il80_p8": 82000
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 81200,
+                            "very_low": {
+                                   "il50_p1": 28450,
+                                   "il50_p2": 32500,
+                                   "il50_p3": 36550,
+                                   "il50_p4": 40600,
+                                   "il50_p5": 43850,
+                                   "il50_p6": 47100,
+                                   "il50_p7": 50350,
+                                   "il50_p8": 53600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19500,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45500,
+                                   "il80_p2": 52000,
+                                   "il80_p3": 58500,
+                                   "il80_p4": 64950,
+                                   "il80_p5": 70150,
+                                   "il80_p6": 75350,
+                                   "il80_p7": 80550,
+                                   "il80_p8": 85750
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Wabasha County, MN; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN",
+                            "area_name": "Wabasha County, MN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 89400,
+                            "very_low": {
+                                   "il50_p1": 31300,
+                                   "il50_p2": 35800,
+                                   "il50_p3": 40250,
+                                   "il50_p4": 44700,
+                                   "il50_p5": 48300,
+                                   "il50_p6": 51900,
+                                   "il50_p7": 55450,
+                                   "il50_p8": 59050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18800,
+                                   "il30_p2": 21450,
+                                   "il30_p3": 24150,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50050,
+                                   "il80_p2": 57200,
+                                   "il80_p3": 64350,
+                                   "il80_p4": 71500,
+                                   "il80_p5": 77250,
+                                   "il80_p6": 82950,
+                                   "il80_p7": 88700,
+                                   "il80_p8": 94400
+                            }
+                     }
+              ]
+       }
+}

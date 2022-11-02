@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 720,
+                                   "Two-Bedroom": 856,
+                                   "Three-Bedroom": 1085,
+                                   "Four-Bedroom": 1180,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 628,
+                                   "One-Bedroom": 707,
+                                   "Two-Bedroom": 843,
+                                   "Three-Bedroom": 1075,
+                                   "Four-Bedroom": 1152,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 712,
+                                   "One-Bedroom": 717,
+                                   "Two-Bedroom": 856,
+                                   "Three-Bedroom": 1110,
+                                   "Four-Bedroom": 1157,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 724,
+                                   "One-Bedroom": 728,
+                                   "Two-Bedroom": 876,
+                                   "Three-Bedroom": 1136,
+                                   "Four-Bedroom": 1216,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 760,
+                                   "One-Bedroom": 764,
+                                   "Two-Bedroom": 901,
+                                   "Three-Bedroom": 1181,
+                                   "Four-Bedroom": 1331,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN",
+                            "area_name": "Columbus, IN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 822,
+                                   "One-Bedroom": 825,
+                                   "Two-Bedroom": 953,
+                                   "Three-Bedroom": 1237,
+                                   "Four-Bedroom": 1408,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "year": "2017",
+                            "median_income": 64900,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "year": "2018",
+                            "median_income": 71100,
+                            "very_low": {
+                                   "il50_p1": 24900,
+                                   "il50_p2": 28450,
+                                   "il50_p3": 32000,
+                                   "il50_p4": 35550,
+                                   "il50_p5": 38400,
+                                   "il50_p6": 41250,
+                                   "il50_p7": 44100,
+                                   "il50_p8": 46950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17100,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39850,
+                                   "il80_p2": 45550,
+                                   "il80_p3": 51250,
+                                   "il80_p4": 56900,
+                                   "il80_p5": 61500,
+                                   "il80_p6": 66050,
+                                   "il80_p7": 70600,
+                                   "il80_p8": 75150
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "year": "2019",
+                            "median_income": 72200,
+                            "very_low": {
+                                   "il50_p1": 25300,
+                                   "il50_p2": 28900,
+                                   "il50_p3": 32500,
+                                   "il50_p4": 36100,
+                                   "il50_p5": 39000,
+                                   "il50_p6": 41900,
+                                   "il50_p7": 44800,
+                                   "il50_p8": 47700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17350,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40450,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 52000,
+                                   "il80_p4": 57750,
+                                   "il80_p5": 62400,
+                                   "il80_p6": 67000,
+                                   "il80_p7": 71650,
+                                   "il80_p8": 76250
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "year": "2020",
+                            "median_income": 81300,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN MSA",
+                            "area_name": "Columbus, IN MSA",
+                            "year": "2021",
+                            "median_income": 77200,
+                            "very_low": {
+                                   "il50_p1": 27050,
+                                   "il50_p2": 30900,
+                                   "il50_p3": 34750,
+                                   "il50_p4": 38600,
+                                   "il50_p5": 41700,
+                                   "il50_p6": 44800,
+                                   "il50_p7": 47900,
+                                   "il50_p8": 51000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18550,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43250,
+                                   "il80_p2": 49400,
+                                   "il80_p3": 55600,
+                                   "il80_p4": 61750,
+                                   "il80_p5": 66700,
+                                   "il80_p6": 71650,
+                                   "il80_p7": 76600,
+                                   "il80_p8": 81550
+                            }
+                     },
+                     {
+                            "county_name": "Bartholomew County, IN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, IN",
+                            "area_name": "Columbus, IN MSA",
+                            "year": "2022",
+                            "median_income": 95000,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34550,
+                                   "il50_p3": 38850,
+                                   "il50_p4": 43150,
+                                   "il50_p5": 46650,
+                                   "il50_p6": 50100,
+                                   "il50_p7": 53550,
+                                   "il50_p8": 57000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48350,
+                                   "il80_p2": 55250,
+                                   "il80_p3": 62150,
+                                   "il80_p4": 69050,
+                                   "il80_p5": 74600,
+                                   "il80_p6": 80100,
+                                   "il80_p7": 85650,
+                                   "il80_p8": 91150
+                            }
+                     }
+              ]
+       }
+}

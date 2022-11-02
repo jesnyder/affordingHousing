@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 929,
+                                   "One-Bedroom": 1059,
+                                   "Two-Bedroom": 1392,
+                                   "Three-Bedroom": 1801,
+                                   "Four-Bedroom": 2018,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 836,
+                                   "One-Bedroom": 953,
+                                   "Two-Bedroom": 1253,
+                                   "Three-Bedroom": 1621,
+                                   "Four-Bedroom": 1816,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 753,
+                                   "One-Bedroom": 858,
+                                   "Two-Bedroom": 1128,
+                                   "Three-Bedroom": 1459,
+                                   "Four-Bedroom": 1635,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 773,
+                                   "Two-Bedroom": 1016,
+                                   "Three-Bedroom": 1314,
+                                   "Four-Bedroom": 1472,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 611,
+                                   "One-Bedroom": 696,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1183,
+                                   "Four-Bedroom": 1325,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 560,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 824,
+                                   "Three-Bedroom": 1025,
+                                   "Four-Bedroom": 1174,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "year": "2017",
+                            "median_income": 66700,
+                            "very_low": {
+                                   "il50_p1": 24250,
+                                   "il50_p2": 27700,
+                                   "il50_p3": 31150,
+                                   "il50_p4": 34600,
+                                   "il50_p5": 37400,
+                                   "il50_p6": 40150,
+                                   "il50_p7": 42950,
+                                   "il50_p8": 45700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 16600,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44300,
+                                   "il80_p3": 49850,
+                                   "il80_p4": 55350,
+                                   "il80_p5": 59800,
+                                   "il80_p6": 64250,
+                                   "il80_p7": 68650,
+                                   "il80_p8": 73100
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "year": "2018",
+                            "median_income": 71600,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 17550,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "year": "2019",
+                            "median_income": 73500,
+                            "very_low": {
+                                   "il50_p1": 25750,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33100,
+                                   "il50_p4": 36750,
+                                   "il50_p5": 39700,
+                                   "il50_p6": 42650,
+                                   "il50_p7": 45600,
+                                   "il50_p8": 48550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15450,
+                                   "il30_p2": 17650,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41200,
+                                   "il80_p2": 47050,
+                                   "il80_p3": 52950,
+                                   "il80_p4": 58800,
+                                   "il80_p5": 63550,
+                                   "il80_p6": 68250,
+                                   "il80_p7": 72950,
+                                   "il80_p8": 77650
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "year": "2020",
+                            "median_income": 77600,
+                            "very_low": {
+                                   "il50_p1": 27200,
+                                   "il50_p2": 31050,
+                                   "il50_p3": 34950,
+                                   "il50_p4": 38800,
+                                   "il50_p5": 41950,
+                                   "il50_p6": 45050,
+                                   "il50_p7": 48150,
+                                   "il50_p8": 51250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18650,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 43500,
+                                   "il80_p2": 49700,
+                                   "il80_p3": 55900,
+                                   "il80_p4": 62100,
+                                   "il80_p5": 67100,
+                                   "il80_p6": 72050,
+                                   "il80_p7": 77050,
+                                   "il80_p8": 82000
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "year": "2021",
+                            "median_income": 81100,
+                            "very_low": {
+                                   "il50_p1": 28400,
+                                   "il50_p2": 32450,
+                                   "il50_p3": 36500,
+                                   "il50_p4": 40550,
+                                   "il50_p5": 43800,
+                                   "il50_p6": 47050,
+                                   "il50_p7": 50300,
+                                   "il50_p8": 53550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19500,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45450,
+                                   "il80_p2": 51950,
+                                   "il80_p3": 58450,
+                                   "il80_p4": 64900,
+                                   "il80_p5": 70100,
+                                   "il80_p6": 75300,
+                                   "il80_p7": 80500,
+                                   "il80_p8": 85700
+                            }
+                     },
+                     {
+                            "county_name": "Brown County, IL",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Brown County, IL",
+                            "year": "2022",
+                            "median_income": 88900,
+                            "very_low": {
+                                   "il50_p1": 31150,
+                                   "il50_p2": 35600,
+                                   "il50_p3": 40050,
+                                   "il50_p4": 44450,
+                                   "il50_p5": 48050,
+                                   "il50_p6": 51600,
+                                   "il50_p7": 55150,
+                                   "il50_p8": 58700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18700,
+                                   "il30_p2": 21350,
+                                   "il30_p3": 24000,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49800,
+                                   "il80_p2": 56900,
+                                   "il80_p3": 64000,
+                                   "il80_p4": 71100,
+                                   "il80_p5": 76800,
+                                   "il80_p6": 82500,
+                                   "il80_p7": 88200,
+                                   "il80_p8": 93900
+                            }
+                     }
+              ]
+       }
+}

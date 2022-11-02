@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Newport County, RI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 780,
+                                   "One-Bedroom": 968,
+                                   "Two-Bedroom": 1229,
+                                   "Three-Bedroom": 1789,
+                                   "Four-Bedroom": 2165,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Newport County, RI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 831,
+                                   "One-Bedroom": 1021,
+                                   "Two-Bedroom": 1303,
+                                   "Three-Bedroom": 1895,
+                                   "Four-Bedroom": 2295,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Newport County, RI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 918,
+                                   "One-Bedroom": 1076,
+                                   "Two-Bedroom": 1378,
+                                   "Three-Bedroom": 1992,
+                                   "Four-Bedroom": 2420,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Newport County, RI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 978,
+                                   "One-Bedroom": 1091,
+                                   "Two-Bedroom": 1419,
+                                   "Three-Bedroom": 2042,
+                                   "Four-Bedroom": 2491,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Newport County, RI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1027,
+                                   "One-Bedroom": 1157,
+                                   "Two-Bedroom": 1502,
+                                   "Three-Bedroom": 2122,
+                                   "Four-Bedroom": 2601,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Newport County, RI; ",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1142,
+                                   "One-Bedroom": 1319,
+                                   "Two-Bedroom": 1705,
+                                   "Three-Bedroom": 2367,
+                                   "Four-Bedroom": 2918,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "",
+                            "counties_msa": "Middletown town, RI; Newport city, RI; and Portsmouth town, RI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 93700,
+                            "very_low": {
+                                   "il50_p1": 32800,
+                                   "il50_p2": 37500,
+                                   "il50_p3": 42200,
+                                   "il50_p4": 46850,
+                                   "il50_p5": 50600,
+                                   "il50_p6": 54350,
+                                   "il50_p7": 58100,
+                                   "il50_p8": 61850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19700,
+                                   "il30_p2": 22500,
+                                   "il30_p3": 25300,
+                                   "il30_p4": 28100,
+                                   "il30_p5": 30350,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Middletown town, RI; Newport city, RI; and Portsmouth town, RI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 94100,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 30550,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Middletown town, RI; Newport city, RI; and Portsmouth town, RI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 95700,
+                            "very_low": {
+                                   "il50_p1": 33500,
+                                   "il50_p2": 38300,
+                                   "il50_p3": 43100,
+                                   "il50_p4": 47850,
+                                   "il50_p5": 51700,
+                                   "il50_p6": 55550,
+                                   "il50_p7": 59350,
+                                   "il50_p8": 63200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20100,
+                                   "il30_p2": 23000,
+                                   "il30_p3": 25850,
+                                   "il30_p4": 28700,
+                                   "il30_p5": 31000,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Middletown town, RI; Newport city, RI; and Portsmouth town, RI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 100900,
+                            "very_low": {
+                                   "il50_p1": 35350,
+                                   "il50_p2": 40400,
+                                   "il50_p3": 45450,
+                                   "il50_p4": 50450,
+                                   "il50_p5": 54500,
+                                   "il50_p6": 58550,
+                                   "il50_p7": 62600,
+                                   "il50_p8": 66600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21200,
+                                   "il30_p2": 24200,
+                                   "il30_p3": 27250,
+                                   "il30_p4": 30250,
+                                   "il30_p5": 32700,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Middletown town, RI; Newport city, RI; and Portsmouth town, RI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 105800,
+                            "very_low": {
+                                   "il50_p1": 37050,
+                                   "il50_p2": 42350,
+                                   "il50_p3": 47650,
+                                   "il50_p4": 52900,
+                                   "il50_p5": 57150,
+                                   "il50_p6": 61400,
+                                   "il50_p7": 65600,
+                                   "il50_p8": 69850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22250,
+                                   "il30_p2": 25400,
+                                   "il30_p3": 28600,
+                                   "il30_p4": 31750,
+                                   "il30_p5": 34300,
+                                   "il30_p6": 36850,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "",
+                            "counties_msa": "Middletown town, RI; Newport city, RI; and Portsmouth town, RI",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 116600,
+                            "very_low": {
+                                   "il50_p1": 40850,
+                                   "il50_p2": 46650,
+                                   "il50_p3": 52500,
+                                   "il50_p4": 58300,
+                                   "il50_p5": 63000,
+                                   "il50_p6": 67650,
+                                   "il50_p7": 72300,
+                                   "il50_p8": 77000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24500,
+                                   "il30_p2": 28000,
+                                   "il30_p3": 31500,
+                                   "il30_p4": 35000,
+                                   "il30_p5": 37800,
+                                   "il30_p6": 40600,
+                                   "il30_p7": 43400,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}
