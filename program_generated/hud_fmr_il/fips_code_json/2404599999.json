@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 639,
+                                   "One-Bedroom": 712,
+                                   "Two-Bedroom": 946,
+                                   "Three-Bedroom": 1193,
+                                   "Four-Bedroom": 1602,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 662,
+                                   "One-Bedroom": 782,
+                                   "Two-Bedroom": 1001,
+                                   "Three-Bedroom": 1300,
+                                   "Four-Bedroom": 1710,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 715,
+                                   "One-Bedroom": 899,
+                                   "Two-Bedroom": 1113,
+                                   "Three-Bedroom": 1488,
+                                   "Four-Bedroom": 1902,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 652,
+                                   "One-Bedroom": 810,
+                                   "Two-Bedroom": 1002,
+                                   "Three-Bedroom": 1365,
+                                   "Four-Bedroom": 1712,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 726,
+                                   "One-Bedroom": 802,
+                                   "Two-Bedroom": 1048,
+                                   "Three-Bedroom": 1430,
+                                   "Four-Bedroom": 1650,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 787,
+                                   "One-Bedroom": 788,
+                                   "Two-Bedroom": 1037,
+                                   "Three-Bedroom": 1398,
+                                   "Four-Bedroom": 1566,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 68800,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16550,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 71800,
+                            "very_low": {
+                                   "il50_p1": 25150,
+                                   "il50_p2": 28750,
+                                   "il50_p3": 32350,
+                                   "il50_p4": 35900,
+                                   "il50_p5": 38800,
+                                   "il50_p6": 41650,
+                                   "il50_p7": 44550,
+                                   "il50_p8": 47400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 17250,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57450,
+                                   "il80_p5": 62050,
+                                   "il80_p6": 66650,
+                                   "il80_p7": 71250,
+                                   "il80_p8": 75850
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 65600,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE MSA",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 70500,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 36000,
+                                   "il50_p5": 38900,
+                                   "il50_p6": 41800,
+                                   "il50_p7": 44650,
+                                   "il50_p8": 47550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15150,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40350,
+                                   "il80_p2": 46100,
+                                   "il80_p3": 51850,
+                                   "il80_p4": 57600,
+                                   "il80_p5": 62250,
+                                   "il80_p6": 66850,
+                                   "il80_p7": 71450,
+                                   "il80_p8": 76050
+                            }
+                     },
+                     {
+                            "county_name": "Wicomico County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salisbury, MD-DE",
+                            "area_name": "Salisbury, MD HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 81500,
+                            "very_low": {
+                                   "il50_p1": 28200,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36250,
+                                   "il50_p4": 40250,
+                                   "il50_p5": 43500,
+                                   "il50_p6": 46700,
+                                   "il50_p7": 49950,
+                                   "il50_p8": 53150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19350,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45100,
+                                   "il80_p2": 51550,
+                                   "il80_p3": 58000,
+                                   "il80_p4": 64400,
+                                   "il80_p5": 69600,
+                                   "il80_p6": 74750,
+                                   "il80_p7": 79900,
+                                   "il80_p8": 85050
+                            }
+                     }
+              ]
+       }
+}

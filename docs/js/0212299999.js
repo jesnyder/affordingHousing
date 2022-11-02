@@ -1,5 +1,5 @@
 new Chart(document.getElementById("0212299999_plot"),{
-    "type": "scatter",
+    "type": "line",
     "data": {
         "labels": [
             2017,
@@ -23,5 +23,29 @@ new Chart(document.getElementById("0212299999_plot"),{
                 "fill": "false"
             }
         ]
+    },
+    "options": {
+        "responsive": true,
+        "interaction": {
+            "mode": "index",
+            "intersect": false
+        },
+        "stacked": false,
+        "title": {
+            "display": true,
+            "text": "0212299999: Kenai Peninsula Borough, AK"
+        },
+        "scales": {
+            "y": {
+                "type": "linear",
+                "display": true,
+                "position": "left"
+            },
+            "y1": {
+                "type": "linear",
+                "display": true,
+                "position": "right"
+            }
+        }
     }
 });

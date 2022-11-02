@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 551,
+                                   "One-Bedroom": 658,
+                                   "Two-Bedroom": 868,
+                                   "Three-Bedroom": 1189,
+                                   "Four-Bedroom": 1487,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 582,
+                                   "One-Bedroom": 695,
+                                   "Two-Bedroom": 913,
+                                   "Three-Bedroom": 1261,
+                                   "Four-Bedroom": 1608,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 742,
+                                   "Two-Bedroom": 967,
+                                   "Three-Bedroom": 1342,
+                                   "Four-Bedroom": 1698,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 568,
+                                   "One-Bedroom": 676,
+                                   "Two-Bedroom": 871,
+                                   "Three-Bedroom": 1238,
+                                   "Four-Bedroom": 1529,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 683,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1251,
+                                   "Four-Bedroom": 1513,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 757,
+                                   "Two-Bedroom": 972,
+                                   "Three-Bedroom": 1381,
+                                   "Four-Bedroom": 1637,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 67600,
+                            "very_low": {
+                                   "il50_p1": 24000,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30850,
+                                   "il50_p4": 34250,
+                                   "il50_p5": 37000,
+                                   "il50_p6": 39750,
+                                   "il50_p7": 42500,
+                                   "il50_p8": 45250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14400,
+                                   "il30_p2": 16450,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38400,
+                                   "il80_p2": 43900,
+                                   "il80_p3": 49400,
+                                   "il80_p4": 54850,
+                                   "il80_p5": 59250,
+                                   "il80_p6": 63650,
+                                   "il80_p7": 68050,
+                                   "il80_p8": 72450
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 72800,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 75300,
+                            "very_low": {
+                                   "il50_p1": 26400,
+                                   "il50_p2": 30150,
+                                   "il50_p3": 33900,
+                                   "il50_p4": 37650,
+                                   "il50_p5": 40700,
+                                   "il50_p6": 43700,
+                                   "il50_p7": 46700,
+                                   "il50_p8": 49700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15850,
+                                   "il30_p2": 18100,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42200,
+                                   "il80_p2": 48200,
+                                   "il80_p3": 54250,
+                                   "il80_p4": 60250,
+                                   "il80_p5": 65100,
+                                   "il80_p6": 69900,
+                                   "il80_p7": 74750,
+                                   "il80_p8": 79550
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 79800,
+                            "very_low": {
+                                   "il50_p1": 27950,
+                                   "il50_p2": 31950,
+                                   "il50_p3": 35950,
+                                   "il50_p4": 39900,
+                                   "il50_p5": 43100,
+                                   "il50_p6": 46300,
+                                   "il50_p7": 49500,
+                                   "il50_p8": 52700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44700,
+                                   "il80_p2": 51100,
+                                   "il80_p3": 57500,
+                                   "il80_p4": 63850,
+                                   "il80_p5": 69000,
+                                   "il80_p6": 74100,
+                                   "il80_p7": 79200,
+                                   "il80_p8": 84300
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 77200,
+                            "very_low": {
+                                   "il50_p1": 27050,
+                                   "il50_p2": 30900,
+                                   "il50_p3": 34750,
+                                   "il50_p4": 38600,
+                                   "il50_p5": 41700,
+                                   "il50_p6": 44800,
+                                   "il50_p7": 47900,
+                                   "il50_p8": 51000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18550,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43250,
+                                   "il80_p2": 49400,
+                                   "il80_p3": 55600,
+                                   "il80_p4": 61750,
+                                   "il80_p5": 66700,
+                                   "il80_p6": 71650,
+                                   "il80_p7": 76600,
+                                   "il80_p8": 81550
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, MD",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV",
+                            "area_name": "Hagerstown, MD HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 84600,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34550,
+                                   "il50_p3": 38850,
+                                   "il50_p4": 43150,
+                                   "il50_p5": 46650,
+                                   "il50_p6": 50100,
+                                   "il50_p7": 53550,
+                                   "il50_p8": 57000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48350,
+                                   "il80_p2": 55250,
+                                   "il80_p3": 62150,
+                                   "il80_p4": 69050,
+                                   "il80_p5": 74600,
+                                   "il80_p6": 80100,
+                                   "il80_p7": 85650,
+                                   "il80_p8": 91150
+                            }
+                     }
+              ]
+       }
+}

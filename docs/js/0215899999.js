@@ -1,5 +1,5 @@
 new Chart(document.getElementById("0215899999_plot"),{
-    "type": "scatter",
+    "type": "line",
     "data": {
         "labels": [
             2020,
@@ -17,5 +17,29 @@ new Chart(document.getElementById("0215899999_plot"),{
                 "fill": "false"
             }
         ]
+    },
+    "options": {
+        "responsive": true,
+        "interaction": {
+            "mode": "index",
+            "intersect": false
+        },
+        "stacked": false,
+        "title": {
+            "display": true,
+            "text": "0215899999: Kusilvak Census Area, AK"
+        },
+        "scales": {
+            "y": {
+                "type": "linear",
+                "display": true,
+                "position": "left"
+            },
+            "y1": {
+                "type": "linear",
+                "display": true,
+                "position": "right"
+            }
+        }
     }
 });

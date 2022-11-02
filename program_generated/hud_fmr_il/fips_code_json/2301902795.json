@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 678,
+                                   "Two-Bedroom": 860,
+                                   "Three-Bedroom": 1084,
+                                   "Four-Bedroom": 1369,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 666,
+                                   "One-Bedroom": 740,
+                                   "Two-Bedroom": 938,
+                                   "Three-Bedroom": 1176,
+                                   "Four-Bedroom": 1589,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 690,
+                                   "One-Bedroom": 784,
+                                   "Two-Bedroom": 996,
+                                   "Three-Bedroom": 1248,
+                                   "Four-Bedroom": 1749,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 743,
+                                   "Two-Bedroom": 943,
+                                   "Three-Bedroom": 1175,
+                                   "Four-Bedroom": 1631,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 708,
+                                   "One-Bedroom": 826,
+                                   "Two-Bedroom": 1057,
+                                   "Three-Bedroom": 1315,
+                                   "Four-Bedroom": 1729,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 742,
+                                   "One-Bedroom": 855,
+                                   "Two-Bedroom": 1103,
+                                   "Three-Bedroom": 1368,
+                                   "Four-Bedroom": 1671,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 63000,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31500,
+                                   "il50_p5": 34050,
+                                   "il50_p6": 36550,
+                                   "il50_p7": 39100,
+                                   "il50_p8": 41600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13250,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35300,
+                                   "il80_p2": 40350,
+                                   "il80_p3": 45400,
+                                   "il80_p4": 50400,
+                                   "il80_p5": 54450,
+                                   "il80_p6": 58500,
+                                   "il80_p7": 62500,
+                                   "il80_p8": 66550
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 72700,
+                            "very_low": {
+                                   "il50_p1": 24600,
+                                   "il50_p2": 28100,
+                                   "il50_p3": 31600,
+                                   "il50_p4": 35100,
+                                   "il50_p5": 37950,
+                                   "il50_p6": 40750,
+                                   "il50_p7": 43550,
+                                   "il50_p8": 46350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 16850,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39350,
+                                   "il80_p2": 44950,
+                                   "il80_p3": 50550,
+                                   "il80_p4": 56150,
+                                   "il80_p5": 60650,
+                                   "il80_p6": 65150,
+                                   "il80_p7": 69650,
+                                   "il80_p8": 74150
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 37000,
+                                   "il50_p5": 40000,
+                                   "il50_p6": 42950,
+                                   "il50_p7": 45900,
+                                   "il50_p8": 48850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41450,
+                                   "il80_p2": 47400,
+                                   "il80_p3": 53300,
+                                   "il80_p4": 59200,
+                                   "il80_p5": 63950,
+                                   "il80_p6": 68700,
+                                   "il80_p7": 73450,
+                                   "il80_p8": 78150
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 72900,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36450,
+                                   "il50_p5": 39400,
+                                   "il50_p6": 42300,
+                                   "il50_p7": 45200,
+                                   "il50_p8": 48150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40850,
+                                   "il80_p2": 46650,
+                                   "il80_p3": 52500,
+                                   "il80_p4": 58300,
+                                   "il80_p5": 63000,
+                                   "il80_p6": 67650,
+                                   "il80_p7": 72300,
+                                   "il80_p8": 77000
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME MSA",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 72700,
+                            "very_low": {
+                                   "il50_p1": 25450,
+                                   "il50_p2": 29100,
+                                   "il50_p3": 32750,
+                                   "il50_p4": 36350,
+                                   "il50_p5": 39300,
+                                   "il50_p6": 42200,
+                                   "il50_p7": 45100,
+                                   "il50_p8": 48000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17450,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40750,
+                                   "il80_p2": 46550,
+                                   "il80_p3": 52350,
+                                   "il80_p4": 58150,
+                                   "il80_p5": 62850,
+                                   "il80_p6": 67500,
+                                   "il80_p7": 72150,
+                                   "il80_p8": 76800
+                            }
+                     },
+                     {
+                            "county_name": "Penobscot County, ME",
+                            "counties_msa": "",
+                            "town_name": "Bangor city",
+                            "metro_status": "1",
+                            "metro_name": "Bangor, ME",
+                            "area_name": "Bangor, ME HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 88800,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32550,
+                                   "il50_p3": 36600,
+                                   "il50_p4": 40650,
+                                   "il50_p5": 43950,
+                                   "il50_p6": 47200,
+                                   "il50_p7": 50450,
+                                   "il50_p8": 53700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45550,
+                                   "il80_p2": 52050,
+                                   "il80_p3": 58550,
+                                   "il80_p4": 65050,
+                                   "il80_p5": 70300,
+                                   "il80_p6": 75500,
+                                   "il80_p7": 80700,
+                                   "il80_p8": 85900
+                            }
+                     }
+              ]
+       }
+}

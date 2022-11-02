@@ -25,7 +25,7 @@ def analyze_dataset():
     analyze dataset
     """
 
-    tasks = [0, 1]
+    tasks = []
 
     # json fids fmr and il
     if 0 not in tasks: json_fids()
@@ -79,8 +79,33 @@ def make_scatter():
         data['datasets'] = datasets
 
         chart_json = {
-            'type': 'scatter',
+            'type': 'line',
             'data': data,
+
+            'options': {
+                'responsive': True,
+                'interaction': {
+                    'mode': 'index',
+                    'intersect': False,
+                },
+                'stacked': False,
+                'title': {
+                    'display': True,
+                    'text': str(fid_code) + ': ' + str(fid['desc']['area_name'])
+                },
+            'scales': {
+                  'y': {
+                    'type': 'linear',
+                    'display': True,
+                    'position': 'left',
+                  },
+                  'y1': {
+                    'type': 'linear',
+                    'display': True,
+                    'position': 'right',
+                    },
+            },
+        },
         }
 
 
@@ -202,9 +227,11 @@ def json_fids():
 
         fil_src = os.path.join(fol_src, fil)
 
+        """
         if str(fil[0]) != '0':
             #os.remove(fil_src)
             continue
+        """
 
         print('fil_src = ')
         print(fil_src)
@@ -363,8 +390,6 @@ def list_years(ref_json):
     return(years)
 
 
-
-
 def template_html():
     """
 
@@ -398,54 +423,3 @@ def template_html():
             f.write('\n')
 
     f.close()
-
-
-def analyze_hud_fmr():
-    """
-
-    """
-
-    for fil in os.listdir(retrieve_path('chart_js')):
-
-
-        df = pd.DataFrame()
-        filename = fil.split('.')[0]
-        fil_src = os.path.join(retrieve_path('chart_js'), fil)
-        contents = retrieve_json(fil_src)
-
-        #print('contents.keys() = ')
-        #print(contents.keys())
-
-        for result in contents['results']:
-
-            #print('result.keys() = ')
-            #print(result.keys())
-
-            #print('result =')
-            #print(result)
-
-            areaname = result['returned']['data']['area_name']
-
-            df_temp = pd.DataFrame()
-
-            try:
-                for key in result['returned']['data']['basicdata'].keys():
-
-                    #print('key = ' + key)
-                    #print( result['returned']['data']['basicdata'][key])
-                    df_temp[key] = [result['returned']['data']['basicdata'][key]]
-
-            except:
-                print('except found')
-
-            df = df.append(df_temp)
-            print('df = ')
-            print(df)
-
-        fil_dst = os.path.join(retrieve_path('metro_fmr'), filename + '.csv')
-        df.to_csv(fil_dst)
-        print('df = ')
-        print(df)
-        js_var_data(filename, df, areaname)
-
-        template_html()
