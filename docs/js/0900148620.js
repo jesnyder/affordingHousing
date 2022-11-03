@@ -25,14 +25,9 @@ new Chart(document.getElementById("0900148620_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0900148620: Bridgeport, CT HUD Metro FMR Area"
         },
         "scales": {

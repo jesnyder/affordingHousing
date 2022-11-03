@@ -25,14 +25,9 @@ new Chart(document.getElementById("2300761875_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2300761875: Franklin County, ME"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 483,
+                                   "One-Bedroom": 601,
+                                   "Two-Bedroom": 761,
+                                   "Three-Bedroom": 1063,
+                                   "Four-Bedroom": 1341,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1124,
+                                   "Four-Bedroom": 1421,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 496,
+                                   "One-Bedroom": 599,
+                                   "Two-Bedroom": 772,
+                                   "Three-Bedroom": 1069,
+                                   "Four-Bedroom": 1356,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 605,
+                                   "Two-Bedroom": 784,
+                                   "Three-Bedroom": 1079,
+                                   "Four-Bedroom": 1308,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 585,
+                                   "One-Bedroom": 656,
+                                   "Two-Bedroom": 832,
+                                   "Three-Bedroom": 1136,
+                                   "Four-Bedroom": 1346,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 641,
+                                   "One-Bedroom": 707,
+                                   "Two-Bedroom": 878,
+                                   "Three-Bedroom": 1197,
+                                   "Four-Bedroom": 1362,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "year": "2017",
+                            "median_income": 58700,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23500,
+                                   "il50_p3": 26450,
+                                   "il50_p4": 29350,
+                                   "il50_p5": 31700,
+                                   "il50_p6": 34050,
+                                   "il50_p7": 36400,
+                                   "il50_p8": 38750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12350,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36400,
+                                   "il30_p8": 38750
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 46950,
+                                   "il80_p5": 50750,
+                                   "il80_p6": 54500,
+                                   "il80_p7": 58250,
+                                   "il80_p8": 62000
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "year": "2018",
+                            "median_income": 62900,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31450,
+                                   "il50_p5": 34000,
+                                   "il50_p6": 36500,
+                                   "il50_p7": 39000,
+                                   "il50_p8": 41550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41550
+                            },
+                            "low": {
+                                   "il80_p1": 35250,
+                                   "il80_p2": 40250,
+                                   "il80_p3": 45300,
+                                   "il80_p4": 50300,
+                                   "il80_p5": 54350,
+                                   "il80_p6": 58350,
+                                   "il80_p7": 62400,
+                                   "il80_p8": 66400
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "year": "2019",
+                            "median_income": 59600,
+                            "very_low": {
+                                   "il50_p1": 20950,
+                                   "il50_p2": 23950,
+                                   "il50_p3": 26950,
+                                   "il50_p4": 29900,
+                                   "il50_p5": 32300,
+                                   "il50_p6": 34700,
+                                   "il50_p7": 37100,
+                                   "il50_p8": 39500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12600,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37100,
+                                   "il30_p8": 39500
+                            },
+                            "low": {
+                                   "il80_p1": 33500,
+                                   "il80_p2": 38300,
+                                   "il80_p3": 43100,
+                                   "il80_p4": 47850,
+                                   "il80_p5": 51700,
+                                   "il80_p6": 55550,
+                                   "il80_p7": 59350,
+                                   "il80_p8": 63200
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "year": "2020",
+                            "median_income": 64700,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX MSA",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "year": "2021",
+                            "median_income": 69000,
+                            "very_low": {
+                                   "il50_p1": 23700,
+                                   "il50_p2": 27100,
+                                   "il50_p3": 30500,
+                                   "il50_p4": 33850,
+                                   "il50_p5": 36600,
+                                   "il50_p6": 39300,
+                                   "il50_p7": 42000,
+                                   "il50_p8": 44700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 37950,
+                                   "il80_p2": 43350,
+                                   "il80_p3": 48750,
+                                   "il80_p4": 54150,
+                                   "il80_p5": 58500,
+                                   "il80_p6": 62850,
+                                   "il80_p7": 67150,
+                                   "il80_p8": 71500
+                            }
+                     },
+                     {
+                            "county_name": "Wichita County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wichita Falls, TX",
+                            "area_name": "Wichita Falls, TX MSA",
+                            "year": "2022",
+                            "median_income": 78500,
+                            "very_low": {
+                                   "il50_p1": 26500,
+                                   "il50_p2": 30300,
+                                   "il50_p3": 34100,
+                                   "il50_p4": 37850,
+                                   "il50_p5": 40900,
+                                   "il50_p6": 43950,
+                                   "il50_p7": 46950,
+                                   "il50_p8": 50000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42400,
+                                   "il80_p2": 48450,
+                                   "il80_p3": 54500,
+                                   "il80_p4": 60550,
+                                   "il80_p5": 65400,
+                                   "il80_p6": 70250,
+                                   "il80_p7": 75100,
+                                   "il80_p8": 79950
+                            }
+                     }
+              ]
+       }
+}

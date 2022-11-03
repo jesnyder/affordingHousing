@@ -25,14 +25,9 @@ new Chart(document.getElementById("1209199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1209199999: Crestview-Fort Walton Beach-Destin, FL HUD Metro FMR Area"
         },
         "scales": {

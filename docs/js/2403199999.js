@@ -25,14 +25,9 @@ new Chart(document.getElementById("2403199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2403199999: Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area"
         },
         "scales": {

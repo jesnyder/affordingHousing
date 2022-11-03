@@ -25,14 +25,9 @@ new Chart(document.getElementById("2502717685_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2502717685: Worcester, MA HUD Metro FMR Area"
         },
         "scales": {

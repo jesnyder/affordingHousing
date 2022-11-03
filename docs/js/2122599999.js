@@ -25,14 +25,9 @@ new Chart(document.getElementById("2122599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2122599999: Union County, KY"
         },
         "scales": {

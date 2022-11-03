@@ -25,14 +25,9 @@ new Chart(document.getElementById("1900599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1900599999: Allamakee County, IA"
         },
         "scales": {

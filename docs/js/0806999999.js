@@ -25,14 +25,9 @@ new Chart(document.getElementById("0806999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0806999999: Fort Collins, CO MSA"
         },
         "scales": {

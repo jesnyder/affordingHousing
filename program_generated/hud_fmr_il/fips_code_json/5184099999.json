@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 775,
+                                   "One-Bedroom": 780,
+                                   "Two-Bedroom": 1037,
+                                   "Three-Bedroom": 1489,
+                                   "Four-Bedroom": 1827,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 699,
+                                   "One-Bedroom": 704,
+                                   "Two-Bedroom": 936,
+                                   "Three-Bedroom": 1340,
+                                   "Four-Bedroom": 1649,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 719,
+                                   "One-Bedroom": 724,
+                                   "Two-Bedroom": 958,
+                                   "Three-Bedroom": 1310,
+                                   "Four-Bedroom": 1683,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 778,
+                                   "One-Bedroom": 783,
+                                   "Two-Bedroom": 1027,
+                                   "Three-Bedroom": 1368,
+                                   "Four-Bedroom": 1803,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 814,
+                                   "One-Bedroom": 819,
+                                   "Two-Bedroom": 1064,
+                                   "Three-Bedroom": 1399,
+                                   "Four-Bedroom": 1814,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 868,
+                                   "One-Bedroom": 868,
+                                   "Two-Bedroom": 1117,
+                                   "Three-Bedroom": 1444,
+                                   "Four-Bedroom": 1886,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "year": "2017",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 24600,
+                                   "il50_p2": 28100,
+                                   "il50_p3": 31600,
+                                   "il50_p4": 35100,
+                                   "il50_p5": 37950,
+                                   "il50_p6": 40750,
+                                   "il50_p7": 43550,
+                                   "il50_p8": 46350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 16850,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39350,
+                                   "il80_p2": 44950,
+                                   "il80_p3": 50550,
+                                   "il80_p4": 56150,
+                                   "il80_p5": 60650,
+                                   "il80_p6": 65150,
+                                   "il80_p7": 69650,
+                                   "il80_p8": 74150
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "year": "2018",
+                            "median_income": 71100,
+                            "very_low": {
+                                   "il50_p1": 24900,
+                                   "il50_p2": 28450,
+                                   "il50_p3": 32000,
+                                   "il50_p4": 35550,
+                                   "il50_p5": 38400,
+                                   "il50_p6": 41250,
+                                   "il50_p7": 44100,
+                                   "il50_p8": 46950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17100,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39850,
+                                   "il80_p2": 45550,
+                                   "il80_p3": 51250,
+                                   "il80_p4": 56900,
+                                   "il80_p5": 61500,
+                                   "il80_p6": 66050,
+                                   "il80_p7": 70600,
+                                   "il80_p8": 75150
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "year": "2019",
+                            "median_income": 73500,
+                            "very_low": {
+                                   "il50_p1": 25750,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33100,
+                                   "il50_p4": 36750,
+                                   "il50_p5": 39700,
+                                   "il50_p6": 42650,
+                                   "il50_p7": 45600,
+                                   "il50_p8": 48550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15450,
+                                   "il30_p2": 17650,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41200,
+                                   "il80_p2": 47050,
+                                   "il80_p3": 52950,
+                                   "il80_p4": 58800,
+                                   "il80_p5": 63550,
+                                   "il80_p6": 68250,
+                                   "il80_p7": 72950,
+                                   "il80_p8": 77650
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "year": "2020",
+                            "median_income": 83400,
+                            "very_low": {
+                                   "il50_p1": 27800,
+                                   "il50_p2": 31750,
+                                   "il50_p3": 35700,
+                                   "il50_p4": 39650,
+                                   "il50_p5": 42850,
+                                   "il50_p6": 46000,
+                                   "il50_p7": 49200,
+                                   "il50_p8": 52350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19050,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44450,
+                                   "il80_p2": 50800,
+                                   "il80_p3": 57150,
+                                   "il80_p4": 63450,
+                                   "il80_p5": 68550,
+                                   "il80_p6": 73650,
+                                   "il80_p7": 78700,
+                                   "il80_p8": 83800
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV MSA",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "year": "2021",
+                            "median_income": 81400,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36650,
+                                   "il50_p4": 40700,
+                                   "il50_p5": 44000,
+                                   "il50_p6": 47250,
+                                   "il50_p7": 50500,
+                                   "il50_p8": 53750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 22000,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45600,
+                                   "il80_p2": 52100,
+                                   "il80_p3": 58600,
+                                   "il80_p4": 65100,
+                                   "il80_p5": 70350,
+                                   "il80_p6": 75550,
+                                   "il80_p7": 80750,
+                                   "il80_p8": 85950
+                            }
+                     },
+                     {
+                            "county_name": "Winchester city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winchester, VA-WV",
+                            "area_name": "Winchester, VA-WV MSA",
+                            "year": "2022",
+                            "median_income": 96400,
+                            "very_low": {
+                                   "il50_p1": 31850,
+                                   "il50_p2": 36400,
+                                   "il50_p3": 40950,
+                                   "il50_p4": 45500,
+                                   "il50_p5": 49150,
+                                   "il50_p6": 52800,
+                                   "il50_p7": 56450,
+                                   "il50_p8": 60100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19150,
+                                   "il30_p2": 21850,
+                                   "il30_p3": 24600,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51000,
+                                   "il80_p2": 58250,
+                                   "il80_p3": 65550,
+                                   "il80_p4": 72800,
+                                   "il80_p5": 78650,
+                                   "il80_p6": 84450,
+                                   "il80_p7": 90300,
+                                   "il80_p8": 96100
+                            }
+                     }
+              ]
+       }
+}

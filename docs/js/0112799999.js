@@ -25,14 +25,9 @@ new Chart(document.getElementById("0112799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0112799999: Walker County, AL HUD Metro FMR Area"
         },
         "scales": {

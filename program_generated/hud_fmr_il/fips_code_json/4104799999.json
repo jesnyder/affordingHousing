@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 546,
+                                   "One-Bedroom": 612,
+                                   "Two-Bedroom": 814,
+                                   "Three-Bedroom": 1185,
+                                   "Four-Bedroom": 1434,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 886,
+                                   "Three-Bedroom": 1289,
+                                   "Four-Bedroom": 1560,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 658,
+                                   "One-Bedroom": 736,
+                                   "Two-Bedroom": 972,
+                                   "Three-Bedroom": 1405,
+                                   "Four-Bedroom": 1707,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 709,
+                                   "One-Bedroom": 761,
+                                   "Two-Bedroom": 1001,
+                                   "Three-Bedroom": 1444,
+                                   "Four-Bedroom": 1757,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 798,
+                                   "One-Bedroom": 836,
+                                   "Two-Bedroom": 1093,
+                                   "Three-Bedroom": 1564,
+                                   "Four-Bedroom": 1892,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR",
+                            "area_name": "Salem, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 846,
+                                   "One-Bedroom": 882,
+                                   "Two-Bedroom": 1132,
+                                   "Three-Bedroom": 1608,
+                                   "Four-Bedroom": 1938,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "year": "2017",
+                            "median_income": 58400,
+                            "very_low": {
+                                   "il50_p1": 20450,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26300,
+                                   "il50_p4": 29200,
+                                   "il50_p5": 31550,
+                                   "il50_p6": 33900,
+                                   "il50_p7": 36250,
+                                   "il50_p8": 38550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36250,
+                                   "il30_p8": 38550
+                            },
+                            "low": {
+                                   "il80_p1": 32700,
+                                   "il80_p2": 37400,
+                                   "il80_p3": 42050,
+                                   "il80_p4": 46700,
+                                   "il80_p5": 50450,
+                                   "il80_p6": 54200,
+                                   "il80_p7": 57950,
+                                   "il80_p8": 61650
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "year": "2018",
+                            "median_income": 67300,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36450,
+                                   "il80_p2": 41650,
+                                   "il80_p3": 46850,
+                                   "il80_p4": 52050,
+                                   "il80_p5": 56250,
+                                   "il80_p6": 60400,
+                                   "il80_p7": 64550,
+                                   "il80_p8": 68750
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "year": "2019",
+                            "median_income": 69400,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31250,
+                                   "il50_p4": 34700,
+                                   "il50_p5": 37500,
+                                   "il50_p6": 40300,
+                                   "il50_p7": 43050,
+                                   "il50_p8": 45850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55500,
+                                   "il80_p5": 59950,
+                                   "il80_p6": 64400,
+                                   "il80_p7": 68850,
+                                   "il80_p8": 73300
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "year": "2020",
+                            "median_income": 70600,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28250,
+                                   "il50_p3": 31800,
+                                   "il50_p4": 35300,
+                                   "il50_p5": 38150,
+                                   "il50_p6": 40950,
+                                   "il50_p7": 43800,
+                                   "il50_p8": 46600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39550,
+                                   "il80_p2": 45200,
+                                   "il80_p3": 50850,
+                                   "il80_p4": 56500,
+                                   "il80_p5": 61050,
+                                   "il80_p6": 65550,
+                                   "il80_p7": 70100,
+                                   "il80_p8": 74600
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR MSA",
+                            "area_name": "Salem, OR MSA",
+                            "year": "2021",
+                            "median_income": 70700,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28300,
+                                   "il50_p3": 31850,
+                                   "il50_p4": 35350,
+                                   "il50_p5": 38200,
+                                   "il50_p6": 41050,
+                                   "il50_p7": 43850,
+                                   "il50_p8": 46700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39600,
+                                   "il80_p2": 45250,
+                                   "il80_p3": 50900,
+                                   "il80_p4": 56550,
+                                   "il80_p5": 61100,
+                                   "il80_p6": 65600,
+                                   "il80_p7": 70150,
+                                   "il80_p8": 74650
+                            }
+                     },
+                     {
+                            "county_name": "Marion County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salem, OR",
+                            "area_name": "Salem, OR MSA",
+                            "year": "2022",
+                            "median_income": 89100,
+                            "very_low": {
+                                   "il50_p1": 27700,
+                                   "il50_p2": 31650,
+                                   "il50_p3": 35600,
+                                   "il50_p4": 39550,
+                                   "il50_p5": 42750,
+                                   "il50_p6": 45900,
+                                   "il50_p7": 49050,
+                                   "il50_p8": 52250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44300,
+                                   "il80_p2": 50600,
+                                   "il80_p3": 56950,
+                                   "il80_p4": 63250,
+                                   "il80_p5": 68350,
+                                   "il80_p6": 73400,
+                                   "il80_p7": 78450,
+                                   "il80_p8": 83500
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("1208699999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1208699999: Miami-Miami Beach-Kendall, FL HUD Metro FMR Area"
         },
         "scales": {

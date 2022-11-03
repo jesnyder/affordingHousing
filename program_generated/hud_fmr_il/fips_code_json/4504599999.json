@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 551,
+                                   "One-Bedroom": 656,
+                                   "Two-Bedroom": 773,
+                                   "Three-Bedroom": 1032,
+                                   "Four-Bedroom": 1254,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 582,
+                                   "One-Bedroom": 709,
+                                   "Two-Bedroom": 824,
+                                   "Three-Bedroom": 1102,
+                                   "Four-Bedroom": 1327,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 755,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1386,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 628,
+                                   "One-Bedroom": 740,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1127,
+                                   "Four-Bedroom": 1362,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 731,
+                                   "One-Bedroom": 826,
+                                   "Two-Bedroom": 942,
+                                   "Three-Bedroom": 1254,
+                                   "Four-Bedroom": 1518,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson, SC",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 783,
+                                   "One-Bedroom": 871,
+                                   "Two-Bedroom": 992,
+                                   "Three-Bedroom": 1294,
+                                   "Four-Bedroom": 1579,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 62100,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 66500,
+                            "very_low": {
+                                   "il50_p1": 23300,
+                                   "il50_p2": 26600,
+                                   "il50_p3": 29950,
+                                   "il50_p4": 33250,
+                                   "il50_p5": 35950,
+                                   "il50_p6": 38600,
+                                   "il50_p7": 41250,
+                                   "il50_p8": 43900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37250,
+                                   "il80_p2": 42600,
+                                   "il80_p3": 47900,
+                                   "il80_p4": 53200,
+                                   "il80_p5": 57500,
+                                   "il80_p6": 61750,
+                                   "il80_p7": 66000,
+                                   "il80_p8": 70250
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 71700,
+                            "very_low": {
+                                   "il50_p1": 25100,
+                                   "il50_p2": 28700,
+                                   "il50_p3": 32300,
+                                   "il50_p4": 35850,
+                                   "il50_p5": 38750,
+                                   "il50_p6": 41600,
+                                   "il50_p7": 44500,
+                                   "il50_p8": 47350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17200,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40150,
+                                   "il80_p2": 45900,
+                                   "il80_p3": 51650,
+                                   "il80_p4": 57350,
+                                   "il80_p5": 61950,
+                                   "il80_p6": 66550,
+                                   "il80_p7": 71150,
+                                   "il80_p8": 75750
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 74900,
+                            "very_low": {
+                                   "il50_p1": 26250,
+                                   "il50_p2": 30000,
+                                   "il50_p3": 33750,
+                                   "il50_p4": 37450,
+                                   "il50_p5": 40450,
+                                   "il50_p6": 43450,
+                                   "il50_p7": 46450,
+                                   "il50_p8": 49450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41950,
+                                   "il80_p2": 47950,
+                                   "il80_p3": 53950,
+                                   "il80_p4": 59900,
+                                   "il80_p5": 64700,
+                                   "il80_p6": 69500,
+                                   "il80_p7": 74300,
+                                   "il80_p8": 79100
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 77200,
+                            "very_low": {
+                                   "il50_p1": 27050,
+                                   "il50_p2": 30900,
+                                   "il50_p3": 34750,
+                                   "il50_p4": 38600,
+                                   "il50_p5": 41700,
+                                   "il50_p6": 44800,
+                                   "il50_p7": 47900,
+                                   "il50_p8": 51000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18550,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43250,
+                                   "il80_p2": 49400,
+                                   "il80_p3": 55600,
+                                   "il80_p4": 61750,
+                                   "il80_p5": 66700,
+                                   "il80_p6": 71650,
+                                   "il80_p7": 76600,
+                                   "il80_p8": 81550
+                            }
+                     },
+                     {
+                            "county_name": "Greenville County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson, SC",
+                            "area_name": "Greenville-Mauldin-Easley, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 85200,
+                            "very_low": {
+                                   "il50_p1": 29850,
+                                   "il50_p2": 34100,
+                                   "il50_p3": 38350,
+                                   "il50_p4": 42600,
+                                   "il50_p5": 46050,
+                                   "il50_p6": 49450,
+                                   "il50_p7": 52850,
+                                   "il50_p8": 56250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17900,
+                                   "il30_p2": 20450,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47750,
+                                   "il80_p2": 54550,
+                                   "il80_p3": 61350,
+                                   "il80_p4": 68150,
+                                   "il80_p5": 73650,
+                                   "il80_p6": 79100,
+                                   "il80_p7": 84550,
+                                   "il80_p8": 90000
+                            }
+                     }
+              ]
+       }
+}

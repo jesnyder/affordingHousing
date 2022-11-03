@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 473,
+                                   "One-Bedroom": 561,
+                                   "Two-Bedroom": 745,
+                                   "Three-Bedroom": 950,
+                                   "Four-Bedroom": 1198,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 485,
+                                   "One-Bedroom": 571,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 965,
+                                   "Four-Bedroom": 1213,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 513,
+                                   "One-Bedroom": 604,
+                                   "Two-Bedroom": 799,
+                                   "Three-Bedroom": 1024,
+                                   "Four-Bedroom": 1233,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 613,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1029,
+                                   "Four-Bedroom": 1214,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 536,
+                                   "One-Bedroom": 617,
+                                   "Two-Bedroom": 813,
+                                   "Three-Bedroom": 1056,
+                                   "Four-Bedroom": 1212,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN",
+                            "area_name": "Cleveland, TN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 570,
+                                   "One-Bedroom": 631,
+                                   "Two-Bedroom": 830,
+                                   "Three-Bedroom": 1079,
+                                   "Four-Bedroom": 1224,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "year": "2017",
+                            "median_income": 52200,
+                            "very_low": {
+                                   "il50_p1": 18300,
+                                   "il50_p2": 20900,
+                                   "il50_p3": 23500,
+                                   "il50_p4": 26100,
+                                   "il50_p5": 28200,
+                                   "il50_p6": 30300,
+                                   "il50_p7": 32400,
+                                   "il50_p8": 34500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28200,
+                                   "il30_p6": 30300,
+                                   "il30_p7": 32400,
+                                   "il30_p8": 34500
+                            },
+                            "low": {
+                                   "il80_p1": 29250,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37600,
+                                   "il80_p4": 41750,
+                                   "il80_p5": 45100,
+                                   "il80_p6": 48450,
+                                   "il80_p7": 51800,
+                                   "il80_p8": 55150
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "year": "2018",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 20350,
+                                   "il50_p2": 23250,
+                                   "il50_p3": 26150,
+                                   "il50_p4": 29050,
+                                   "il50_p5": 31400,
+                                   "il50_p6": 33700,
+                                   "il50_p7": 36050,
+                                   "il50_p8": 38350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33700,
+                                   "il30_p7": 36050,
+                                   "il30_p8": 38350
+                            },
+                            "low": {
+                                   "il80_p1": 32550,
+                                   "il80_p2": 37200,
+                                   "il80_p3": 41850,
+                                   "il80_p4": 46500,
+                                   "il80_p5": 50250,
+                                   "il80_p6": 53950,
+                                   "il80_p7": 57700,
+                                   "il80_p8": 61400
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "year": "2019",
+                            "median_income": 57700,
+                            "very_low": {
+                                   "il50_p1": 20200,
+                                   "il50_p2": 23100,
+                                   "il50_p3": 26000,
+                                   "il50_p4": 28850,
+                                   "il50_p5": 31200,
+                                   "il50_p6": 33500,
+                                   "il50_p7": 35800,
+                                   "il50_p8": 38100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33500,
+                                   "il30_p7": 35800,
+                                   "il30_p8": 38100
+                            },
+                            "low": {
+                                   "il80_p1": 32350,
+                                   "il80_p2": 36950,
+                                   "il80_p3": 41550,
+                                   "il80_p4": 46150,
+                                   "il80_p5": 49850,
+                                   "il80_p6": 53550,
+                                   "il80_p7": 57250,
+                                   "il80_p8": 60950
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "year": "2020",
+                            "median_income": 61400,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27650,
+                                   "il50_p4": 30700,
+                                   "il50_p5": 33200,
+                                   "il50_p6": 35650,
+                                   "il50_p7": 38100,
+                                   "il50_p8": 40550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38100,
+                                   "il30_p8": 40550
+                            },
+                            "low": {
+                                   "il80_p1": 34400,
+                                   "il80_p2": 39300,
+                                   "il80_p3": 44200,
+                                   "il80_p4": 49100,
+                                   "il80_p5": 53050,
+                                   "il80_p6": 57000,
+                                   "il80_p7": 60900,
+                                   "il80_p8": 64850
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN MSA",
+                            "area_name": "Cleveland, TN MSA",
+                            "year": "2021",
+                            "median_income": 57800,
+                            "very_low": {
+                                   "il50_p1": 20450,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26300,
+                                   "il50_p4": 29200,
+                                   "il50_p5": 31550,
+                                   "il50_p6": 33900,
+                                   "il50_p7": 36250,
+                                   "il50_p8": 38550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 33900,
+                                   "il30_p7": 36250,
+                                   "il30_p8": 38550
+                            },
+                            "low": {
+                                   "il80_p1": 32700,
+                                   "il80_p2": 37400,
+                                   "il80_p3": 42050,
+                                   "il80_p4": 46700,
+                                   "il80_p5": 50450,
+                                   "il80_p6": 54200,
+                                   "il80_p7": 57950,
+                                   "il80_p8": 61650
+                            }
+                     },
+                     {
+                            "county_name": "Polk County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland, TN",
+                            "area_name": "Cleveland, TN MSA",
+                            "year": "2022",
+                            "median_income": 70900,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40500,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     }
+              ]
+       }
+}

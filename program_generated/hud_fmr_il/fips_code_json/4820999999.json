@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 799,
+                                   "One-Bedroom": 968,
+                                   "Two-Bedroom": 1195,
+                                   "Three-Bedroom": 1619,
+                                   "Four-Bedroom": 1948,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 860,
+                                   "One-Bedroom": 1023,
+                                   "Two-Bedroom": 1251,
+                                   "Three-Bedroom": 1679,
+                                   "Four-Bedroom": 2018,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 931,
+                                   "One-Bedroom": 1086,
+                                   "Two-Bedroom": 1315,
+                                   "Three-Bedroom": 1734,
+                                   "Four-Bedroom": 2099,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 988,
+                                   "One-Bedroom": 1134,
+                                   "Two-Bedroom": 1356,
+                                   "Three-Bedroom": 1763,
+                                   "Four-Bedroom": 2128,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1059,
+                                   "One-Bedroom": 1212,
+                                   "Two-Bedroom": 1434,
+                                   "Three-Bedroom": 1848,
+                                   "Four-Bedroom": 2207,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock-Georgetown, TX",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1092,
+                                   "One-Bedroom": 1236,
+                                   "Two-Bedroom": 1451,
+                                   "Three-Bedroom": 1867,
+                                   "Four-Bedroom": 2194,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "year": "2017",
+                            "median_income": 81400,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36650,
+                                   "il50_p4": 40700,
+                                   "il50_p5": 44000,
+                                   "il50_p6": 47250,
+                                   "il50_p7": 50500,
+                                   "il50_p8": 53750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 22000,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 45600,
+                                   "il80_p2": 52100,
+                                   "il80_p3": 58600,
+                                   "il80_p4": 65100,
+                                   "il80_p5": 70350,
+                                   "il80_p6": 75550,
+                                   "il80_p7": 80750,
+                                   "il80_p8": 85950
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "year": "2018",
+                            "median_income": 86000,
+                            "very_low": {
+                                   "il50_p1": 30100,
+                                   "il50_p2": 34400,
+                                   "il50_p3": 38700,
+                                   "il50_p4": 43000,
+                                   "il50_p5": 46450,
+                                   "il50_p6": 49900,
+                                   "il50_p7": 53350,
+                                   "il50_p8": 56800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18100,
+                                   "il30_p2": 20650,
+                                   "il30_p3": 23250,
+                                   "il30_p4": 25800,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 48200,
+                                   "il80_p2": 55050,
+                                   "il80_p3": 61950,
+                                   "il80_p4": 68800,
+                                   "il80_p5": 74350,
+                                   "il80_p6": 79850,
+                                   "il80_p7": 85350,
+                                   "il80_p8": 90850
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "year": "2019",
+                            "median_income": 95900,
+                            "very_low": {
+                                   "il50_p1": 33150,
+                                   "il50_p2": 37850,
+                                   "il50_p3": 42600,
+                                   "il50_p4": 47300,
+                                   "il50_p5": 51100,
+                                   "il50_p6": 54900,
+                                   "il50_p7": 58700,
+                                   "il50_p8": 62450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19900,
+                                   "il30_p2": 22750,
+                                   "il30_p3": 25600,
+                                   "il30_p4": 28400,
+                                   "il30_p5": 30700,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "year": "2020",
+                            "median_income": 97600,
+                            "very_low": {
+                                   "il50_p1": 34200,
+                                   "il50_p2": 39050,
+                                   "il50_p3": 43950,
+                                   "il50_p4": 48800,
+                                   "il50_p5": 52750,
+                                   "il50_p6": 56650,
+                                   "il50_p7": 60550,
+                                   "il50_p8": 64450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20550,
+                                   "il30_p2": 23450,
+                                   "il30_p3": 26400,
+                                   "il30_p4": 29300,
+                                   "il30_p5": 31650,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54700,
+                                   "il80_p2": 62500,
+                                   "il80_p3": 70300,
+                                   "il80_p4": 78100,
+                                   "il80_p5": 84350,
+                                   "il80_p6": 90600,
+                                   "il80_p7": 96850,
+                                   "il80_p8": 103100
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock, TX MSA",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "year": "2021",
+                            "median_income": 98900,
+                            "very_low": {
+                                   "il50_p1": 34650,
+                                   "il50_p2": 39600,
+                                   "il50_p3": 44550,
+                                   "il50_p4": 49450,
+                                   "il50_p5": 53450,
+                                   "il50_p6": 57400,
+                                   "il50_p7": 61350,
+                                   "il50_p8": 65300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20800,
+                                   "il30_p2": 23750,
+                                   "il30_p3": 26700,
+                                   "il30_p4": 29650,
+                                   "il30_p5": 32050,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55400,
+                                   "il80_p2": 63300,
+                                   "il80_p3": 71200,
+                                   "il80_p4": 79100,
+                                   "il80_p5": 85450,
+                                   "il80_p6": 91800,
+                                   "il80_p7": 98100,
+                                   "il80_p8": 104450
+                            }
+                     },
+                     {
+                            "county_name": "Hays County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Austin-Round Rock-Georgetown, TX",
+                            "area_name": "Austin-Round Rock, TX MSA",
+                            "year": "2022",
+                            "median_income": 110300,
+                            "very_low": {
+                                   "il50_p1": 38650,
+                                   "il50_p2": 44150,
+                                   "il50_p3": 49650,
+                                   "il50_p4": 55150,
+                                   "il50_p5": 59600,
+                                   "il50_p6": 64000,
+                                   "il50_p7": 68400,
+                                   "il50_p8": 72800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23200,
+                                   "il30_p2": 26500,
+                                   "il30_p3": 29800,
+                                   "il30_p4": 33100,
+                                   "il30_p5": 35750,
+                                   "il30_p6": 38400,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 61800,
+                                   "il80_p2": 70600,
+                                   "il80_p3": 79450,
+                                   "il80_p4": 88250,
+                                   "il80_p5": 95350,
+                                   "il80_p6": 102400,
+                                   "il80_p7": 109450,
+                                   "il80_p8": 116500
+                            }
+                     }
+              ]
+       }
+}

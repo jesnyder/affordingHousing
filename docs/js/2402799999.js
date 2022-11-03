@@ -25,14 +25,9 @@ new Chart(document.getElementById("2402799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2402799999: Baltimore-Columbia-Towson, MD MSA"
         },
         "scales": {

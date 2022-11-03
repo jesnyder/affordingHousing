@@ -25,14 +25,9 @@ new Chart(document.getElementById("0901142390_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0901142390: Colchester-Lebanon, CT HUD Metro FMR Area"
         },
         "scales": {

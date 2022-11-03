@@ -25,14 +25,9 @@ new Chart(document.getElementById("0605399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0605399999: Salinas, CA MSA"
         },
         "scales": {

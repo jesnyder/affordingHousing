@@ -25,14 +25,9 @@ new Chart(document.getElementById("2206199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2206199999: Lincoln Parish, LA"
         },
         "scales": {

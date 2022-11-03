@@ -25,14 +25,9 @@ new Chart(document.getElementById("1213199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1213199999: Walton County, FL HUD Metro FMR Area"
         },
         "scales": {

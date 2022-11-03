@@ -25,14 +25,9 @@ new Chart(document.getElementById("1908999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1908999999: Howard County, IA"
         },
         "scales": {

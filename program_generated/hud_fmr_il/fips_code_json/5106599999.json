@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 714,
+                                   "One-Bedroom": 976,
+                                   "Two-Bedroom": 1126,
+                                   "Three-Bedroom": 1409,
+                                   "Four-Bedroom": 1653,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 752,
+                                   "One-Bedroom": 1027,
+                                   "Two-Bedroom": 1179,
+                                   "Three-Bedroom": 1478,
+                                   "Four-Bedroom": 1772,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 851,
+                                   "One-Bedroom": 1146,
+                                   "Two-Bedroom": 1325,
+                                   "Three-Bedroom": 1660,
+                                   "Four-Bedroom": 2013,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 854,
+                                   "One-Bedroom": 1082,
+                                   "Two-Bedroom": 1262,
+                                   "Three-Bedroom": 1573,
+                                   "Four-Bedroom": 1942,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 949,
+                                   "One-Bedroom": 1077,
+                                   "Two-Bedroom": 1266,
+                                   "Three-Bedroom": 1575,
+                                   "Four-Bedroom": 1965,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA",
+                            "area_name": "Charlottesville, VA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1024,
+                                   "One-Bedroom": 1063,
+                                   "Two-Bedroom": 1264,
+                                   "Three-Bedroom": 1562,
+                                   "Four-Bedroom": 1959,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 76600,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 20700,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 89600,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34150,
+                                   "il50_p3": 38400,
+                                   "il50_p4": 42650,
+                                   "il50_p5": 46100,
+                                   "il50_p6": 49500,
+                                   "il50_p7": 52900,
+                                   "il50_p8": 56300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 25600,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 47800,
+                                   "il80_p2": 54600,
+                                   "il80_p3": 61450,
+                                   "il80_p4": 68250,
+                                   "il80_p5": 73750,
+                                   "il80_p6": 79200,
+                                   "il80_p7": 84650,
+                                   "il80_p8": 90100
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 89400,
+                            "very_low": {
+                                   "il50_p1": 31300,
+                                   "il50_p2": 35800,
+                                   "il50_p3": 40250,
+                                   "il50_p4": 44700,
+                                   "il50_p5": 48300,
+                                   "il50_p6": 51900,
+                                   "il50_p7": 55450,
+                                   "il50_p8": 59050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18800,
+                                   "il30_p2": 21450,
+                                   "il30_p3": 24150,
+                                   "il30_p4": 26800,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 50050,
+                                   "il80_p2": 57200,
+                                   "il80_p3": 64350,
+                                   "il80_p4": 71500,
+                                   "il80_p5": 77250,
+                                   "il80_p6": 82950,
+                                   "il80_p7": 88700,
+                                   "il80_p8": 94400
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 93900,
+                            "very_low": {
+                                   "il50_p1": 32900,
+                                   "il50_p2": 37600,
+                                   "il50_p3": 42300,
+                                   "il50_p4": 46950,
+                                   "il50_p5": 50750,
+                                   "il50_p6": 54500,
+                                   "il50_p7": 58250,
+                                   "il50_p8": 62000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19750,
+                                   "il30_p2": 22550,
+                                   "il30_p3": 25350,
+                                   "il30_p4": 28150,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 52600,
+                                   "il80_p2": 60100,
+                                   "il80_p3": 67600,
+                                   "il80_p4": 75100,
+                                   "il80_p5": 81150,
+                                   "il80_p6": 87150,
+                                   "il80_p7": 93150,
+                                   "il80_p8": 99150
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA MSA",
+                            "area_name": "Charlottesville, VA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 93700,
+                            "very_low": {
+                                   "il50_p1": 32800,
+                                   "il50_p2": 37500,
+                                   "il50_p3": 42200,
+                                   "il50_p4": 46850,
+                                   "il50_p5": 50600,
+                                   "il50_p6": 54350,
+                                   "il50_p7": 58100,
+                                   "il50_p8": 61850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19700,
+                                   "il30_p2": 22500,
+                                   "il30_p3": 25300,
+                                   "il30_p4": 28100,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 52500,
+                                   "il80_p2": 60000,
+                                   "il80_p3": 67500,
+                                   "il80_p4": 74950,
+                                   "il80_p5": 80950,
+                                   "il80_p6": 86950,
+                                   "il80_p7": 92950,
+                                   "il80_p8": 98950
+                            }
+                     },
+                     {
+                            "county_name": "Fluvanna County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlottesville, VA",
+                            "area_name": "Charlottesville, VA MSA",
+                            "year": "2022",
+                            "median_income": 111200,
+                            "very_low": {
+                                   "il50_p1": 36700,
+                                   "il50_p2": 41950,
+                                   "il50_p3": 47200,
+                                   "il50_p4": 52400,
+                                   "il50_p5": 56600,
+                                   "il50_p6": 60800,
+                                   "il50_p7": 65000,
+                                   "il50_p8": 69200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22050,
+                                   "il30_p2": 25200,
+                                   "il30_p3": 28350,
+                                   "il30_p4": 31450,
+                                   "il30_p5": 34000,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 58700,
+                                   "il80_p2": 67100,
+                                   "il80_p3": 75500,
+                                   "il80_p4": 83850,
+                                   "il80_p5": 90600,
+                                   "il80_p6": 97300,
+                                   "il80_p7": 104000,
+                                   "il80_p8": 110700
+                            }
+                     }
+              ]
+       }
+}

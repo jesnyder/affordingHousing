@@ -25,14 +25,9 @@ new Chart(document.getElementById("1211599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1211599999: North Port-Sarasota-Bradenton, FL MSA"
         },
         "scales": {

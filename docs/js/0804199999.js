@@ -25,14 +25,9 @@ new Chart(document.getElementById("0804199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0804199999: Colorado Springs, CO HUD Metro FMR Area"
         },
         "scales": {

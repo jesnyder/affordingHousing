@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 557,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1226,
+                                   "Four-Bedroom": 1433,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 571,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 882,
+                                   "Three-Bedroom": 1258,
+                                   "Four-Bedroom": 1471,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 594,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 910,
+                                   "Three-Bedroom": 1290,
+                                   "Four-Bedroom": 1514,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 673,
+                                   "One-Bedroom": 802,
+                                   "Two-Bedroom": 1024,
+                                   "Three-Bedroom": 1438,
+                                   "Four-Bedroom": 1697,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 721,
+                                   "One-Bedroom": 812,
+                                   "Two-Bedroom": 1021,
+                                   "Three-Bedroom": 1432,
+                                   "Four-Bedroom": 1707,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 811,
+                                   "One-Bedroom": 891,
+                                   "Two-Bedroom": 1105,
+                                   "Three-Bedroom": 1535,
+                                   "Four-Bedroom": 1864,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 76600,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 20700,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 78100,
+                            "very_low": {
+                                   "il50_p1": 27350,
+                                   "il50_p2": 31250,
+                                   "il50_p3": 35150,
+                                   "il50_p4": 39050,
+                                   "il50_p5": 42200,
+                                   "il50_p6": 45300,
+                                   "il50_p7": 48450,
+                                   "il50_p8": 51550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21150,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43750,
+                                   "il80_p2": 50000,
+                                   "il80_p3": 56250,
+                                   "il80_p4": 62500,
+                                   "il80_p5": 67500,
+                                   "il80_p6": 72500,
+                                   "il80_p7": 77500,
+                                   "il80_p8": 82500
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 85000,
+                            "very_low": {
+                                   "il50_p1": 29750,
+                                   "il50_p2": 34000,
+                                   "il50_p3": 38250,
+                                   "il50_p4": 42500,
+                                   "il50_p5": 45900,
+                                   "il50_p6": 49300,
+                                   "il50_p7": 52700,
+                                   "il50_p8": 56100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 22950,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 86300,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34550,
+                                   "il50_p3": 38850,
+                                   "il50_p4": 43150,
+                                   "il50_p5": 46650,
+                                   "il50_p6": 50100,
+                                   "il50_p7": 53550,
+                                   "il50_p8": 57000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48350,
+                                   "il80_p2": 55250,
+                                   "il80_p3": 62150,
+                                   "il80_p4": 69050,
+                                   "il80_p5": 74600,
+                                   "il80_p6": 80100,
+                                   "il80_p7": 85650,
+                                   "il80_p8": 91150
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 90900,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36250,
+                                   "il50_p3": 40800,
+                                   "il50_p4": 45300,
+                                   "il50_p5": 48950,
+                                   "il50_p6": 52550,
+                                   "il50_p7": 56200,
+                                   "il50_p8": 59800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27200,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 50750,
+                                   "il80_p2": 58000,
+                                   "il80_p3": 65250,
+                                   "il80_p4": 72500,
+                                   "il80_p5": 78300,
+                                   "il80_p6": 84100,
+                                   "il80_p7": 89900,
+                                   "il80_p8": 95700
+                            }
+                     },
+                     {
+                            "county_name": "Davis County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT",
+                            "area_name": "Ogden-Clearfield, UT HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 100500,
+                            "very_low": {
+                                   "il50_p1": 35200,
+                                   "il50_p2": 40200,
+                                   "il50_p3": 45250,
+                                   "il50_p4": 50250,
+                                   "il50_p5": 54300,
+                                   "il50_p6": 58300,
+                                   "il50_p7": 62350,
+                                   "il50_p8": 66350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21150,
+                                   "il30_p2": 24150,
+                                   "il30_p3": 27150,
+                                   "il30_p4": 30150,
+                                   "il30_p5": 32600,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 56300,
+                                   "il80_p2": 64350,
+                                   "il80_p3": 72400,
+                                   "il80_p4": 80400,
+                                   "il80_p5": 86850,
+                                   "il80_p6": 93300,
+                                   "il80_p7": 99700,
+                                   "il80_p8": 106150
+                            }
+                     }
+              ]
+       }
+}

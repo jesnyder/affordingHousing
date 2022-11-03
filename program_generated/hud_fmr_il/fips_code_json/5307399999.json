@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 747,
+                                   "Two-Bedroom": 968,
+                                   "Three-Bedroom": 1409,
+                                   "Four-Bedroom": 1706,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 790,
+                                   "Two-Bedroom": 1028,
+                                   "Three-Bedroom": 1495,
+                                   "Four-Bedroom": 1811,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 747,
+                                   "One-Bedroom": 811,
+                                   "Two-Bedroom": 1058,
+                                   "Three-Bedroom": 1530,
+                                   "Four-Bedroom": 1858,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 846,
+                                   "One-Bedroom": 905,
+                                   "Two-Bedroom": 1175,
+                                   "Three-Bedroom": 1695,
+                                   "Four-Bedroom": 2063,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 907,
+                                   "One-Bedroom": 972,
+                                   "Two-Bedroom": 1245,
+                                   "Three-Bedroom": 1782,
+                                   "Four-Bedroom": 2156,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA",
+                            "area_name": "Bellingham, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 926,
+                                   "One-Bedroom": 996,
+                                   "Two-Bedroom": 1254,
+                                   "Three-Bedroom": 1781,
+                                   "Four-Bedroom": 2146,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "year": "2017",
+                            "median_income": 68300,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27350,
+                                   "il50_p3": 30750,
+                                   "il50_p4": 34150,
+                                   "il50_p5": 36900,
+                                   "il50_p6": 39650,
+                                   "il50_p7": 42350,
+                                   "il50_p8": 45100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16400,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43750,
+                                   "il80_p3": 49200,
+                                   "il80_p4": 54650,
+                                   "il80_p5": 59050,
+                                   "il80_p6": 63400,
+                                   "il80_p7": 67800,
+                                   "il80_p8": 72150
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "year": "2018",
+                            "median_income": 77500,
+                            "very_low": {
+                                   "il50_p1": 26650,
+                                   "il50_p2": 30450,
+                                   "il50_p3": 34250,
+                                   "il50_p4": 38050,
+                                   "il50_p5": 41100,
+                                   "il50_p6": 44150,
+                                   "il50_p7": 47200,
+                                   "il50_p8": 50250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18300,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42650,
+                                   "il80_p2": 48750,
+                                   "il80_p3": 54850,
+                                   "il80_p4": 60900,
+                                   "il80_p5": 65800,
+                                   "il80_p6": 70650,
+                                   "il80_p7": 75550,
+                                   "il80_p8": 80400
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "year": "2019",
+                            "median_income": 79100,
+                            "very_low": {
+                                   "il50_p1": 27700,
+                                   "il50_p2": 31650,
+                                   "il50_p3": 35600,
+                                   "il50_p4": 39550,
+                                   "il50_p5": 42750,
+                                   "il50_p6": 45900,
+                                   "il50_p7": 49050,
+                                   "il50_p8": 52250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21400,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50650,
+                                   "il80_p3": 57000,
+                                   "il80_p4": 63300,
+                                   "il80_p5": 68400,
+                                   "il80_p6": 73450,
+                                   "il80_p7": 78500,
+                                   "il80_p8": 83600
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "year": "2020",
+                            "median_income": 86300,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34150,
+                                   "il50_p3": 38400,
+                                   "il50_p4": 42650,
+                                   "il50_p5": 46100,
+                                   "il50_p6": 49500,
+                                   "il50_p7": 52900,
+                                   "il50_p8": 56300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 47800,
+                                   "il80_p2": 54600,
+                                   "il80_p3": 61450,
+                                   "il80_p4": 68250,
+                                   "il80_p5": 73750,
+                                   "il80_p6": 79200,
+                                   "il80_p7": 84650,
+                                   "il80_p8": 90100
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA MSA",
+                            "area_name": "Bellingham, WA MSA",
+                            "year": "2021",
+                            "median_income": 79100,
+                            "very_low": {
+                                   "il50_p1": 28400,
+                                   "il50_p2": 32450,
+                                   "il50_p3": 36500,
+                                   "il50_p4": 40550,
+                                   "il50_p5": 43800,
+                                   "il50_p6": 47050,
+                                   "il50_p7": 50300,
+                                   "il50_p8": 53550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19500,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45450,
+                                   "il80_p2": 51950,
+                                   "il80_p3": 58450,
+                                   "il80_p4": 64900,
+                                   "il80_p5": 70100,
+                                   "il80_p6": 75300,
+                                   "il80_p7": 80500,
+                                   "il80_p8": 85700
+                            }
+                     },
+                     {
+                            "county_name": "Whatcom County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bellingham, WA",
+                            "area_name": "Bellingham, WA MSA",
+                            "year": "2022",
+                            "median_income": 97300,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36300,
+                                   "il50_p3": 40850,
+                                   "il50_p4": 45350,
+                                   "il50_p5": 49000,
+                                   "il50_p6": 52650,
+                                   "il50_p7": 56250,
+                                   "il50_p8": 59900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50800,
+                                   "il80_p2": 58050,
+                                   "il80_p3": 65300,
+                                   "il80_p4": 72550,
+                                   "il80_p5": 78400,
+                                   "il80_p6": 84200,
+                                   "il80_p7": 90000,
+                                   "il80_p8": 95800
+                            }
+                     }
+              ]
+       }
+}

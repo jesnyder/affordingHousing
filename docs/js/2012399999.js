@@ -25,14 +25,9 @@ new Chart(document.getElementById("2012399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2012399999: Mitchell County, KS"
         },
         "scales": {

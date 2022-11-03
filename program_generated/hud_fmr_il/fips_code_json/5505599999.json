@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 504,
+                                   "One-Bedroom": 598,
+                                   "Two-Bedroom": 795,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1096,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 527,
+                                   "One-Bedroom": 618,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1140,
+                                   "Four-Bedroom": 1143,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 568,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1182,
+                                   "Four-Bedroom": 1236,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 595,
+                                   "One-Bedroom": 687,
+                                   "Two-Bedroom": 897,
+                                   "Three-Bedroom": 1236,
+                                   "Four-Bedroom": 1312,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 595,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 897,
+                                   "Three-Bedroom": 1235,
+                                   "Four-Bedroom": 1310,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 721,
+                                   "Two-Bedroom": 949,
+                                   "Three-Bedroom": 1293,
+                                   "Four-Bedroom": 1332,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "year": "2017",
+                            "median_income": 70300,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28150,
+                                   "il50_p3": 31650,
+                                   "il50_p4": 35150,
+                                   "il50_p5": 38000,
+                                   "il50_p6": 40800,
+                                   "il50_p7": 43600,
+                                   "il50_p8": 46400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 16900,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39400,
+                                   "il80_p2": 45000,
+                                   "il80_p3": 50650,
+                                   "il80_p4": 56250,
+                                   "il80_p5": 60750,
+                                   "il80_p6": 65250,
+                                   "il80_p7": 69750,
+                                   "il80_p8": 74250
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "year": "2018",
+                            "median_income": 76300,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30550,
+                                   "il50_p3": 34350,
+                                   "il50_p4": 38150,
+                                   "il50_p5": 41250,
+                                   "il50_p6": 44300,
+                                   "il50_p7": 47350,
+                                   "il50_p8": 50400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42750,
+                                   "il80_p2": 48850,
+                                   "il80_p3": 54950,
+                                   "il80_p4": 61050,
+                                   "il80_p5": 65950,
+                                   "il80_p6": 70850,
+                                   "il80_p7": 75750,
+                                   "il80_p8": 80600
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "year": "2019",
+                            "median_income": 77300,
+                            "very_low": {
+                                   "il50_p1": 27100,
+                                   "il50_p2": 30950,
+                                   "il50_p3": 34800,
+                                   "il50_p4": 38650,
+                                   "il50_p5": 41750,
+                                   "il50_p6": 44850,
+                                   "il50_p7": 47950,
+                                   "il50_p8": 51050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43300,
+                                   "il80_p2": 49500,
+                                   "il80_p3": 55700,
+                                   "il80_p4": 61850,
+                                   "il80_p5": 66800,
+                                   "il80_p6": 71750,
+                                   "il80_p7": 76700,
+                                   "il80_p8": 81650
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "year": "2020",
+                            "median_income": 76600,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "year": "2021",
+                            "median_income": 78800,
+                            "very_low": {
+                                   "il50_p1": 27600,
+                                   "il50_p2": 31550,
+                                   "il50_p3": 35500,
+                                   "il50_p4": 39400,
+                                   "il50_p5": 42600,
+                                   "il50_p6": 45750,
+                                   "il50_p7": 48900,
+                                   "il50_p8": 52050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44150,
+                                   "il80_p2": 50450,
+                                   "il80_p3": 56750,
+                                   "il80_p4": 63050,
+                                   "il80_p5": 68100,
+                                   "il80_p6": 73150,
+                                   "il80_p7": 78200,
+                                   "il80_p8": 83250
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, WI",
+                            "year": "2022",
+                            "median_income": 96700,
+                            "very_low": {
+                                   "il50_p1": 30850,
+                                   "il50_p2": 35250,
+                                   "il50_p3": 39650,
+                                   "il50_p4": 44050,
+                                   "il50_p5": 47600,
+                                   "il50_p6": 51100,
+                                   "il50_p7": 54650,
+                                   "il50_p8": 58150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49350,
+                                   "il80_p2": 56400,
+                                   "il80_p3": 63450,
+                                   "il80_p4": 70500,
+                                   "il80_p5": 76150,
+                                   "il80_p6": 81800,
+                                   "il80_p7": 87450,
+                                   "il80_p8": 93100
+                            }
+                     }
+              ]
+       }
+}

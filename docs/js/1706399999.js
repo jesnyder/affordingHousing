@@ -25,14 +25,9 @@ new Chart(document.getElementById("1706399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1706399999: Grundy County, IL HUD Metro FMR Area"
         },
         "scales": {

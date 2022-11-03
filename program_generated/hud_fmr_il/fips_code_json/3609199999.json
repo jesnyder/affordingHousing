@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 690,
+                                   "One-Bedroom": 817,
+                                   "Two-Bedroom": 1006,
+                                   "Three-Bedroom": 1259,
+                                   "Four-Bedroom": 1387,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 700,
+                                   "One-Bedroom": 837,
+                                   "Two-Bedroom": 1032,
+                                   "Three-Bedroom": 1294,
+                                   "Four-Bedroom": 1406,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 768,
+                                   "One-Bedroom": 904,
+                                   "Two-Bedroom": 1115,
+                                   "Three-Bedroom": 1397,
+                                   "Four-Bedroom": 1507,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 747,
+                                   "One-Bedroom": 855,
+                                   "Two-Bedroom": 1054,
+                                   "Three-Bedroom": 1313,
+                                   "Four-Bedroom": 1428,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 809,
+                                   "One-Bedroom": 912,
+                                   "Two-Bedroom": 1117,
+                                   "Three-Bedroom": 1389,
+                                   "Four-Bedroom": 1515,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 890,
+                                   "One-Bedroom": 991,
+                                   "Two-Bedroom": 1207,
+                                   "Three-Bedroom": 1492,
+                                   "Four-Bedroom": 1637,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "year": "2017",
+                            "median_income": 83100,
+                            "very_low": {
+                                   "il50_p1": 29100,
+                                   "il50_p2": 33250,
+                                   "il50_p3": 37400,
+                                   "il50_p4": 41550,
+                                   "il50_p5": 44900,
+                                   "il50_p6": 48200,
+                                   "il50_p7": 51550,
+                                   "il50_p8": 54850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17500,
+                                   "il30_p2": 20000,
+                                   "il30_p3": 22500,
+                                   "il30_p4": 24950,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 46550,
+                                   "il80_p2": 53200,
+                                   "il80_p3": 59850,
+                                   "il80_p4": 66500,
+                                   "il80_p5": 71850,
+                                   "il80_p6": 77150,
+                                   "il80_p7": 82500,
+                                   "il80_p8": 87800
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "year": "2018",
+                            "median_income": 86400,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38900,
+                                   "il50_p4": 43200,
+                                   "il50_p5": 46700,
+                                   "il50_p6": 50150,
+                                   "il50_p7": 53600,
+                                   "il50_p8": 57050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 25900,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 48400,
+                                   "il80_p2": 55300,
+                                   "il80_p3": 62200,
+                                   "il80_p4": 69100,
+                                   "il80_p5": 74650,
+                                   "il80_p6": 80200,
+                                   "il80_p7": 85700,
+                                   "il80_p8": 91250
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "year": "2019",
+                            "median_income": 89900,
+                            "very_low": {
+                                   "il50_p1": 31500,
+                                   "il50_p2": 36000,
+                                   "il50_p3": 40500,
+                                   "il50_p4": 44950,
+                                   "il50_p5": 48550,
+                                   "il50_p6": 52150,
+                                   "il50_p7": 55750,
+                                   "il50_p8": 59350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 26950,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "year": "2020",
+                            "median_income": 99200,
+                            "very_low": {
+                                   "il50_p1": 33950,
+                                   "il50_p2": 38800,
+                                   "il50_p3": 43650,
+                                   "il50_p4": 48500,
+                                   "il50_p5": 52400,
+                                   "il50_p6": 56300,
+                                   "il50_p7": 60150,
+                                   "il50_p8": 64050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20400,
+                                   "il30_p2": 23300,
+                                   "il30_p3": 26200,
+                                   "il30_p4": 29100,
+                                   "il30_p5": 31450,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54350,
+                                   "il80_p2": 62100,
+                                   "il80_p3": 69850,
+                                   "il80_p4": 77600,
+                                   "il80_p5": 83850,
+                                   "il80_p6": 90050,
+                                   "il80_p7": 96250,
+                                   "il80_p8": 102450
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY MSA",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "year": "2021",
+                            "median_income": 95600,
+                            "very_low": {
+                                   "il50_p1": 33500,
+                                   "il50_p2": 38250,
+                                   "il50_p3": 43050,
+                                   "il50_p4": 47800,
+                                   "il50_p5": 51650,
+                                   "il50_p6": 55450,
+                                   "il50_p7": 59300,
+                                   "il50_p8": 63100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20100,
+                                   "il30_p2": 23000,
+                                   "il30_p3": 25850,
+                                   "il30_p4": 28700,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 53550,
+                                   "il80_p2": 61200,
+                                   "il80_p3": 68850,
+                                   "il80_p4": 76500,
+                                   "il80_p5": 82650,
+                                   "il80_p6": 88750,
+                                   "il80_p7": 94900,
+                                   "il80_p8": 101000
+                            }
+                     },
+                     {
+                            "county_name": "Saratoga County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Schenectady-Troy, NY",
+                            "area_name": "Albany-Schenectady-Troy, NY MSA",
+                            "year": "2022",
+                            "median_income": 106000,
+                            "very_low": {
+                                   "il50_p1": 37100,
+                                   "il50_p2": 42400,
+                                   "il50_p3": 47700,
+                                   "il50_p4": 53000,
+                                   "il50_p5": 57250,
+                                   "il50_p6": 61500,
+                                   "il50_p7": 65750,
+                                   "il50_p8": 70000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22300,
+                                   "il30_p2": 25450,
+                                   "il30_p3": 28650,
+                                   "il30_p4": 31800,
+                                   "il30_p5": 34350,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 59400,
+                                   "il80_p2": 67850,
+                                   "il80_p3": 76350,
+                                   "il80_p4": 84800,
+                                   "il80_p5": 91600,
+                                   "il80_p6": 98400,
+                                   "il80_p7": 105200,
+                                   "il80_p8": 111950
+                            }
+                     }
+              ]
+       }
+}

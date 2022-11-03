@@ -25,14 +25,9 @@ new Chart(document.getElementById("0500199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0500199999: Arkansas County, AR"
         },
         "scales": {

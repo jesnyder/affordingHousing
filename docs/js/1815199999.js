@@ -25,14 +25,9 @@ new Chart(document.getElementById("1815199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1815199999: Steuben County, IN"
         },
         "scales": {

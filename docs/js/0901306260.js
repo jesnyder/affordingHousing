@@ -25,14 +25,9 @@ new Chart(document.getElementById("0901306260_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0901306260: Hartford-West Hartford-East Hartford, CT HUD Metro FMR Area"
         },
         "scales": {

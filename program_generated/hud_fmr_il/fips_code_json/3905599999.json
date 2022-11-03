@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 626,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 1027,
+                                   "Four-Bedroom": 1088,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 529,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 785,
+                                   "Three-Bedroom": 1032,
+                                   "Four-Bedroom": 1091,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 569,
+                                   "One-Bedroom": 678,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1102,
+                                   "Four-Bedroom": 1158,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 585,
+                                   "One-Bedroom": 691,
+                                   "Two-Bedroom": 849,
+                                   "Three-Bedroom": 1119,
+                                   "Four-Bedroom": 1174,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 599,
+                                   "One-Bedroom": 705,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1137,
+                                   "Four-Bedroom": 1188,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 632,
+                                   "One-Bedroom": 732,
+                                   "Two-Bedroom": 893,
+                                   "Three-Bedroom": 1169,
+                                   "Four-Bedroom": 1224,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "year": "2017",
+                            "median_income": 67900,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 33950,
+                                   "il50_p5": 36700,
+                                   "il50_p6": 39400,
+                                   "il50_p7": 42100,
+                                   "il50_p8": 44850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16300,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38050,
+                                   "il80_p2": 43450,
+                                   "il80_p3": 48900,
+                                   "il80_p4": 54300,
+                                   "il80_p5": 58650,
+                                   "il80_p6": 63000,
+                                   "il80_p7": 67350,
+                                   "il80_p8": 71700
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "year": "2018",
+                            "median_income": 70700,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28300,
+                                   "il50_p3": 31850,
+                                   "il50_p4": 35350,
+                                   "il50_p5": 38200,
+                                   "il50_p6": 41050,
+                                   "il50_p7": 43850,
+                                   "il50_p8": 46700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17000,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39600,
+                                   "il80_p2": 45250,
+                                   "il80_p3": 50900,
+                                   "il80_p4": 56550,
+                                   "il80_p5": 61100,
+                                   "il80_p6": 65600,
+                                   "il80_p7": 70150,
+                                   "il80_p8": 74650
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "year": "2019",
+                            "median_income": 73700,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29500,
+                                   "il50_p3": 33200,
+                                   "il50_p4": 36850,
+                                   "il50_p5": 39800,
+                                   "il50_p6": 42750,
+                                   "il50_p7": 45700,
+                                   "il50_p8": 48650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 17700,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41300,
+                                   "il80_p2": 47200,
+                                   "il80_p3": 53100,
+                                   "il80_p4": 58950,
+                                   "il80_p5": 63700,
+                                   "il80_p6": 68400,
+                                   "il80_p7": 73100,
+                                   "il80_p8": 77850
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "year": "2020",
+                            "median_income": 76000,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 38000,
+                                   "il50_p5": 41050,
+                                   "il50_p6": 44100,
+                                   "il50_p7": 47150,
+                                   "il50_p8": 50200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18250,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42600,
+                                   "il80_p2": 48650,
+                                   "il80_p3": 54750,
+                                   "il80_p4": 60800,
+                                   "il80_p5": 65700,
+                                   "il80_p6": 70550,
+                                   "il80_p7": 75400,
+                                   "il80_p8": 80300
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH MSA",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "year": "2021",
+                            "median_income": 78600,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31450,
+                                   "il50_p3": 35400,
+                                   "il50_p4": 39300,
+                                   "il50_p5": 42450,
+                                   "il50_p6": 45600,
+                                   "il50_p7": 48750,
+                                   "il50_p8": 51900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44050,
+                                   "il80_p2": 50350,
+                                   "il80_p3": 56650,
+                                   "il80_p4": 62900,
+                                   "il80_p5": 67950,
+                                   "il80_p6": 73000,
+                                   "il80_p7": 78000,
+                                   "il80_p8": 83050
+                            }
+                     },
+                     {
+                            "county_name": "Geauga County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cleveland-Elyria, OH",
+                            "area_name": "Cleveland-Elyria, OH MSA",
+                            "year": "2022",
+                            "median_income": 85400,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34200,
+                                   "il50_p3": 38450,
+                                   "il50_p4": 42700,
+                                   "il50_p5": 46150,
+                                   "il50_p6": 49550,
+                                   "il50_p7": 52950,
+                                   "il50_p8": 56400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47850,
+                                   "il80_p2": 54650,
+                                   "il80_p3": 61500,
+                                   "il80_p4": 68300,
+                                   "il80_p5": 73800,
+                                   "il80_p6": 79250,
+                                   "il80_p7": 84700,
+                                   "il80_p8": 90200
+                            }
+                     }
+              ]
+       }
+}

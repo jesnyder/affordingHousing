@@ -25,14 +25,9 @@ new Chart(document.getElementById("1905799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1905799999: Des Moines County, IA"
         },
         "scales": {

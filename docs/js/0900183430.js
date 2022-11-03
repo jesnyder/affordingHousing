@@ -25,14 +25,9 @@ new Chart(document.getElementById("0900183430_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0900183430: Stamford-Norwalk, CT HUD Metro FMR Area"
         },
         "scales": {

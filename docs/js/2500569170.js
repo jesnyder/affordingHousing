@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500569170_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500569170: Taunton-Mansfield-Norton, MA HUD Metro FMR Area"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2502769275_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2502769275: Fitchburg-Leominster, MA HUD Metro FMR Area"
         },
         "scales": {

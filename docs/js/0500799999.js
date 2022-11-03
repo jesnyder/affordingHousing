@@ -25,14 +25,9 @@ new Chart(document.getElementById("0500799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0500799999: Fayetteville-Springdale-Rogers, AR HUD Metro FMR Area"
         },
         "scales": {

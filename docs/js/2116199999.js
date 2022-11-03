@@ -25,14 +25,9 @@ new Chart(document.getElementById("2116199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2116199999: Mason County, KY"
         },
         "scales": {

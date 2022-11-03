@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 485,
+                                   "One-Bedroom": 558,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 861,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 500,
+                                   "One-Bedroom": 558,
+                                   "Two-Bedroom": 695,
+                                   "Three-Bedroom": 871,
+                                   "Four-Bedroom": 947,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 498,
+                                   "One-Bedroom": 539,
+                                   "Two-Bedroom": 682,
+                                   "Three-Bedroom": 856,
+                                   "Four-Bedroom": 922,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 528,
+                                   "Two-Bedroom": 696,
+                                   "Three-Bedroom": 867,
+                                   "Four-Bedroom": 943,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 548,
+                                   "One-Bedroom": 557,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 913,
+                                   "Four-Bedroom": 995,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 547,
+                                   "One-Bedroom": 561,
+                                   "Two-Bedroom": 738,
+                                   "Three-Bedroom": 912,
+                                   "Four-Bedroom": 1001,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "year": "2017",
+                            "median_income": 56300,
+                            "very_low": {
+                                   "il50_p1": 20200,
+                                   "il50_p2": 23050,
+                                   "il50_p3": 25950,
+                                   "il50_p4": 28800,
+                                   "il50_p5": 31150,
+                                   "il50_p6": 33450,
+                                   "il50_p7": 35750,
+                                   "il50_p8": 38050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12150,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35750,
+                                   "il30_p8": 38050
+                            },
+                            "low": {
+                                   "il80_p1": 32300,
+                                   "il80_p2": 36900,
+                                   "il80_p3": 41500,
+                                   "il80_p4": 46100,
+                                   "il80_p5": 49800,
+                                   "il80_p6": 53500,
+                                   "il80_p7": 57200,
+                                   "il80_p8": 60900
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "year": "2018",
+                            "median_income": 63400,
+                            "very_low": {
+                                   "il50_p1": 22200,
+                                   "il50_p2": 25400,
+                                   "il50_p3": 28550,
+                                   "il50_p4": 31700,
+                                   "il50_p5": 34250,
+                                   "il50_p6": 36800,
+                                   "il50_p7": 39350,
+                                   "il50_p8": 41850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41850
+                            },
+                            "low": {
+                                   "il80_p1": 35500,
+                                   "il80_p2": 40600,
+                                   "il80_p3": 45650,
+                                   "il80_p4": 50700,
+                                   "il80_p5": 54800,
+                                   "il80_p6": 58850,
+                                   "il80_p7": 62900,
+                                   "il80_p8": 66950
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "year": "2019",
+                            "median_income": 65600,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26250,
+                                   "il50_p3": 29550,
+                                   "il50_p4": 32800,
+                                   "il50_p5": 35450,
+                                   "il50_p6": 38050,
+                                   "il50_p7": 40700,
+                                   "il50_p8": 43300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43300
+                            },
+                            "low": {
+                                   "il80_p1": 36750,
+                                   "il80_p2": 42000,
+                                   "il80_p3": 47250,
+                                   "il80_p4": 52500,
+                                   "il80_p5": 56700,
+                                   "il80_p6": 60900,
+                                   "il80_p7": 65100,
+                                   "il80_p8": 69300
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "year": "2020",
+                            "median_income": 69300,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27750,
+                                   "il50_p3": 31200,
+                                   "il50_p4": 34650,
+                                   "il50_p5": 37450,
+                                   "il50_p6": 40200,
+                                   "il50_p7": 43000,
+                                   "il50_p8": 45750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55450,
+                                   "il80_p5": 59900,
+                                   "il80_p6": 64350,
+                                   "il80_p7": 68800,
+                                   "il80_p8": 73200
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "year": "2021",
+                            "median_income": 72500,
+                            "very_low": {
+                                   "il50_p1": 25400,
+                                   "il50_p2": 29000,
+                                   "il50_p3": 32650,
+                                   "il50_p4": 36250,
+                                   "il50_p5": 39150,
+                                   "il50_p6": 42050,
+                                   "il50_p7": 44950,
+                                   "il50_p8": 47850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15250,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40600,
+                                   "il80_p2": 46400,
+                                   "il80_p3": 52200,
+                                   "il80_p4": 58000,
+                                   "il80_p5": 62650,
+                                   "il80_p6": 67300,
+                                   "il80_p7": 71950,
+                                   "il80_p8": 76600
+                            }
+                     },
+                     {
+                            "county_name": "Holmes County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Holmes County, OH",
+                            "year": "2022",
+                            "median_income": 79300,
+                            "very_low": {
+                                   "il50_p1": 27800,
+                                   "il50_p2": 31750,
+                                   "il50_p3": 35700,
+                                   "il50_p4": 39650,
+                                   "il50_p5": 42850,
+                                   "il50_p6": 46000,
+                                   "il50_p7": 49200,
+                                   "il50_p8": 52350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19050,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44450,
+                                   "il80_p2": 50800,
+                                   "il80_p3": 57150,
+                                   "il80_p4": 63450,
+                                   "il80_p5": 68550,
+                                   "il80_p6": 73650,
+                                   "il80_p7": 78700,
+                                   "il80_p8": 83800
+                            }
+                     }
+              ]
+       }
+}

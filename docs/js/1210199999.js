@@ -25,14 +25,9 @@ new Chart(document.getElementById("1210199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1210199999: Tampa-St. Petersburg-Clearwater, FL MSA"
         },
         "scales": {

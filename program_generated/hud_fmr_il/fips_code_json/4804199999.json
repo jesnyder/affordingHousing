@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 699,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1230,
+                                   "Four-Bedroom": 1489,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 655,
+                                   "One-Bedroom": 756,
+                                   "Two-Bedroom": 908,
+                                   "Three-Bedroom": 1321,
+                                   "Four-Bedroom": 1599,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 660,
+                                   "One-Bedroom": 767,
+                                   "Two-Bedroom": 911,
+                                   "Three-Bedroom": 1317,
+                                   "Four-Bedroom": 1600,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 682,
+                                   "One-Bedroom": 791,
+                                   "Two-Bedroom": 938,
+                                   "Three-Bedroom": 1353,
+                                   "Four-Bedroom": 1647,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 686,
+                                   "One-Bedroom": 774,
+                                   "Two-Bedroom": 909,
+                                   "Three-Bedroom": 1301,
+                                   "Four-Bedroom": 1574,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 759,
+                                   "One-Bedroom": 841,
+                                   "Two-Bedroom": 975,
+                                   "Three-Bedroom": 1385,
+                                   "Four-Bedroom": 1582,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "year": "2017",
+                            "median_income": 60400,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27200,
+                                   "il50_p4": 30200,
+                                   "il50_p5": 32650,
+                                   "il50_p6": 35050,
+                                   "il50_p7": 37450,
+                                   "il50_p8": 39900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12700,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39900
+                            },
+                            "low": {
+                                   "il80_p1": 33850,
+                                   "il80_p2": 38650,
+                                   "il80_p3": 43500,
+                                   "il80_p4": 48300,
+                                   "il80_p5": 52200,
+                                   "il80_p6": 56050,
+                                   "il80_p7": 59900,
+                                   "il80_p8": 63800
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "year": "2018",
+                            "median_income": 73900,
+                            "very_low": {
+                                   "il50_p1": 23600,
+                                   "il50_p2": 26950,
+                                   "il50_p3": 30300,
+                                   "il50_p4": 33650,
+                                   "il50_p5": 36350,
+                                   "il50_p6": 39050,
+                                   "il50_p7": 41750,
+                                   "il50_p8": 44450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37700,
+                                   "il80_p2": 43050,
+                                   "il80_p3": 48450,
+                                   "il80_p4": 53800,
+                                   "il80_p5": 58150,
+                                   "il80_p6": 62450,
+                                   "il80_p7": 66750,
+                                   "il80_p8": 71050
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "year": "2019",
+                            "median_income": 68500,
+                            "very_low": {
+                                   "il50_p1": 24000,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30850,
+                                   "il50_p4": 34250,
+                                   "il50_p5": 37000,
+                                   "il50_p6": 39750,
+                                   "il50_p7": 42500,
+                                   "il50_p8": 45250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14400,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38400,
+                                   "il80_p2": 43850,
+                                   "il80_p3": 49350,
+                                   "il80_p4": 54800,
+                                   "il80_p5": 59200,
+                                   "il80_p6": 63600,
+                                   "il80_p7": 68000,
+                                   "il80_p8": 72350
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "year": "2020",
+                            "median_income": 65600,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26250,
+                                   "il50_p3": 29550,
+                                   "il50_p4": 32800,
+                                   "il50_p5": 35450,
+                                   "il50_p6": 38050,
+                                   "il50_p7": 40700,
+                                   "il50_p8": 43300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43300
+                            },
+                            "low": {
+                                   "il80_p1": 36750,
+                                   "il80_p2": 42000,
+                                   "il80_p3": 47250,
+                                   "il80_p4": 52500,
+                                   "il80_p5": 56700,
+                                   "il80_p6": 60900,
+                                   "il80_p7": 65100,
+                                   "il80_p8": 69300
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX MSA",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "year": "2021",
+                            "median_income": 75600,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Brazos County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "College Station-Bryan, TX",
+                            "area_name": "College Station-Bryan, TX MSA",
+                            "year": "2022",
+                            "median_income": 83000,
+                            "very_low": {
+                                   "il50_p1": 26950,
+                                   "il50_p2": 30800,
+                                   "il50_p3": 34650,
+                                   "il50_p4": 38450,
+                                   "il50_p5": 41550,
+                                   "il50_p6": 44650,
+                                   "il50_p7": 47700,
+                                   "il50_p8": 50800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61500,
+                                   "il80_p5": 66450,
+                                   "il80_p6": 71350,
+                                   "il80_p7": 76300,
+                                   "il80_p8": 81200
+                            }
+                     }
+              ]
+       }
+}

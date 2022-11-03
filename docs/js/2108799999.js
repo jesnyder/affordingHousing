@@ -25,14 +25,9 @@ new Chart(document.getElementById("2108799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2108799999: Green County, KY"
         },
         "scales": {

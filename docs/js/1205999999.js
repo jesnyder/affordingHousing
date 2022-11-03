@@ -25,14 +25,9 @@ new Chart(document.getElementById("1205999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1205999999: Holmes County, FL"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("0808799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0808799999: Morgan County, CO"
         },
         "scales": {

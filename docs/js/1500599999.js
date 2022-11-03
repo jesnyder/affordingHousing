@@ -25,14 +25,9 @@ new Chart(document.getElementById("1500599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1500599999: Kalawao County, HI HUD Metro FMR Area"
         },
         "scales": {

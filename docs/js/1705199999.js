@@ -25,14 +25,9 @@ new Chart(document.getElementById("1705199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1705199999: Fayette County, IL"
         },
         "scales": {

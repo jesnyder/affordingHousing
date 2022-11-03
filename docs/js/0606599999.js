@@ -25,14 +25,9 @@ new Chart(document.getElementById("0606599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0606599999: Riverside-San Bernardino-Ontario, CA MSA"
         },
         "scales": {

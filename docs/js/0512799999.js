@@ -25,14 +25,9 @@ new Chart(document.getElementById("0512799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0512799999: Scott County, AR"
         },
         "scales": {

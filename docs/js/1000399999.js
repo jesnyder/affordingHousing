@@ -25,14 +25,9 @@ new Chart(document.getElementById("1000399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1000399999: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA"
         },
         "scales": {

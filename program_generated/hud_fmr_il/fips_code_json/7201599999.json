@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 357,
+                                   "One-Bedroom": 374,
+                                   "Two-Bedroom": 432,
+                                   "Three-Bedroom": 570,
+                                   "Four-Bedroom": 595,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 341,
+                                   "One-Bedroom": 351,
+                                   "Two-Bedroom": 403,
+                                   "Three-Bedroom": 547,
+                                   "Four-Bedroom": 549,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 360,
+                                   "One-Bedroom": 369,
+                                   "Two-Bedroom": 423,
+                                   "Three-Bedroom": 570,
+                                   "Four-Bedroom": 572,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 359,
+                                   "One-Bedroom": 370,
+                                   "Two-Bedroom": 421,
+                                   "Three-Bedroom": 568,
+                                   "Four-Bedroom": 570,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 361,
+                                   "One-Bedroom": 369,
+                                   "Two-Bedroom": 421,
+                                   "Three-Bedroom": 569,
+                                   "Four-Bedroom": 571,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR",
+                            "area_name": "Guayama, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 370,
+                                   "One-Bedroom": 378,
+                                   "Two-Bedroom": 431,
+                                   "Three-Bedroom": 582,
+                                   "Four-Bedroom": 584,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "year": "2017",
+                            "median_income": 18000,
+                            "very_low": {
+                                   "il50_p1": 9950,
+                                   "il50_p2": 11350,
+                                   "il50_p3": 12750,
+                                   "il50_p4": 14150,
+                                   "il50_p5": 15300,
+                                   "il50_p6": 16450,
+                                   "il50_p7": 17550,
+                                   "il50_p8": 18700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5950,
+                                   "il30_p2": 6800,
+                                   "il30_p3": 7650,
+                                   "il30_p4": 8500,
+                                   "il30_p5": 9200,
+                                   "il30_p6": 9900,
+                                   "il30_p7": 10550,
+                                   "il30_p8": 11250
+                            },
+                            "low": {
+                                   "il80_p1": 15900,
+                                   "il80_p2": 18150,
+                                   "il80_p3": 20400,
+                                   "il80_p4": 22650,
+                                   "il80_p5": 24500,
+                                   "il80_p6": 26300,
+                                   "il80_p7": 28100,
+                                   "il80_p8": 29900
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "year": "2018",
+                            "median_income": 20200,
+                            "very_low": {
+                                   "il50_p1": 9450,
+                                   "il50_p2": 10800,
+                                   "il50_p3": 12150,
+                                   "il50_p4": 13450,
+                                   "il50_p5": 14550,
+                                   "il50_p6": 15650,
+                                   "il50_p7": 16700,
+                                   "il50_p8": 17800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5650,
+                                   "il30_p2": 6450,
+                                   "il30_p3": 7250,
+                                   "il30_p4": 8050,
+                                   "il30_p5": 8700,
+                                   "il30_p6": 9350,
+                                   "il30_p7": 10000,
+                                   "il30_p8": 10650
+                            },
+                            "low": {
+                                   "il80_p1": 15100,
+                                   "il80_p2": 17250,
+                                   "il80_p3": 19400,
+                                   "il80_p4": 21550,
+                                   "il80_p5": 23300,
+                                   "il80_p6": 25000,
+                                   "il80_p7": 26750,
+                                   "il80_p8": 28450
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "year": "2019",
+                            "median_income": 24000,
+                            "very_low": {
+                                   "il50_p1": 9000,
+                                   "il50_p2": 10250,
+                                   "il50_p3": 11550,
+                                   "il50_p4": 12800,
+                                   "il50_p5": 13850,
+                                   "il50_p6": 14850,
+                                   "il50_p7": 15900,
+                                   "il50_p8": 16900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5400,
+                                   "il30_p2": 6200,
+                                   "il30_p3": 6950,
+                                   "il30_p4": 7700,
+                                   "il30_p5": 8350,
+                                   "il30_p6": 8950,
+                                   "il30_p7": 9550,
+                                   "il30_p8": 10200
+                            },
+                            "low": {
+                                   "il80_p1": 14350,
+                                   "il80_p2": 16400,
+                                   "il80_p3": 18450,
+                                   "il80_p4": 20500,
+                                   "il80_p5": 22150,
+                                   "il80_p6": 23800,
+                                   "il80_p7": 25450,
+                                   "il80_p8": 27100
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "year": "2020",
+                            "median_income": 18800,
+                            "very_low": {
+                                   "il50_p1": 8600,
+                                   "il50_p2": 9800,
+                                   "il50_p3": 11050,
+                                   "il50_p4": 12250,
+                                   "il50_p5": 13250,
+                                   "il50_p6": 14250,
+                                   "il50_p7": 15200,
+                                   "il50_p8": 16200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5150,
+                                   "il30_p2": 5900,
+                                   "il30_p3": 6650,
+                                   "il30_p4": 7350,
+                                   "il30_p5": 7950,
+                                   "il30_p6": 8550,
+                                   "il30_p7": 9150,
+                                   "il30_p8": 9750
+                            },
+                            "low": {
+                                   "il80_p1": 13750,
+                                   "il80_p2": 15700,
+                                   "il80_p3": 17650,
+                                   "il80_p4": 19600,
+                                   "il80_p5": 21200,
+                                   "il80_p6": 22750,
+                                   "il80_p7": 24350,
+                                   "il80_p8": 25900
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR MSA",
+                            "area_name": "Guayama, PR MSA",
+                            "year": "2021",
+                            "median_income": 20200,
+                            "very_low": {
+                                   "il50_p1": 8600,
+                                   "il50_p2": 9800,
+                                   "il50_p3": 11050,
+                                   "il50_p4": 12250,
+                                   "il50_p5": 13250,
+                                   "il50_p6": 14250,
+                                   "il50_p7": 15200,
+                                   "il50_p8": 16200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5150,
+                                   "il30_p2": 5900,
+                                   "il30_p3": 6650,
+                                   "il30_p4": 7350,
+                                   "il30_p5": 7950,
+                                   "il30_p6": 8550,
+                                   "il30_p7": 9150,
+                                   "il30_p8": 9750
+                            },
+                            "low": {
+                                   "il80_p1": 13750,
+                                   "il80_p2": 15700,
+                                   "il80_p3": 17650,
+                                   "il80_p4": 19600,
+                                   "il80_p5": 21200,
+                                   "il80_p6": 22750,
+                                   "il80_p7": 24350,
+                                   "il80_p8": 25900
+                            }
+                     },
+                     {
+                            "county_name": "Arroyo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Guayama, PR",
+                            "area_name": "Guayama, PR MSA",
+                            "year": "2022",
+                            "median_income": 25300,
+                            "very_low": {
+                                   "il50_p1": 8900,
+                                   "il50_p2": 10150,
+                                   "il50_p3": 11400,
+                                   "il50_p4": 12650,
+                                   "il50_p5": 13700,
+                                   "il50_p6": 14700,
+                                   "il50_p7": 15700,
+                                   "il50_p8": 16700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5350,
+                                   "il30_p2": 6100,
+                                   "il30_p3": 6850,
+                                   "il30_p4": 7600,
+                                   "il30_p5": 8250,
+                                   "il30_p6": 8850,
+                                   "il30_p7": 9450,
+                                   "il30_p8": 10050
+                            },
+                            "low": {
+                                   "il80_p1": 14200,
+                                   "il80_p2": 16200,
+                                   "il80_p3": 18250,
+                                   "il80_p4": 20250,
+                                   "il80_p5": 21900,
+                                   "il80_p6": 23500,
+                                   "il80_p7": 25150,
+                                   "il80_p8": 26750
+                            }
+                     }
+              ]
+       }
+}

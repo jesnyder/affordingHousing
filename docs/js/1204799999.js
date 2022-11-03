@@ -25,14 +25,9 @@ new Chart(document.getElementById("1204799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1204799999: Hamilton County, FL"
         },
         "scales": {

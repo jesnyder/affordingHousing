@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 673,
+                                   "One-Bedroom": 813,
+                                   "Two-Bedroom": 964,
+                                   "Three-Bedroom": 1342,
+                                   "Four-Bedroom": 1549,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 769,
+                                   "One-Bedroom": 924,
+                                   "Two-Bedroom": 1091,
+                                   "Three-Bedroom": 1522,
+                                   "Four-Bedroom": 1817,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 776,
+                                   "One-Bedroom": 931,
+                                   "Two-Bedroom": 1093,
+                                   "Three-Bedroom": 1519,
+                                   "Four-Bedroom": 1844,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 861,
+                                   "One-Bedroom": 1015,
+                                   "Two-Bedroom": 1186,
+                                   "Three-Bedroom": 1635,
+                                   "Four-Bedroom": 1972,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 889,
+                                   "One-Bedroom": 1039,
+                                   "Two-Bedroom": 1211,
+                                   "Three-Bedroom": 1641,
+                                   "Four-Bedroom": 1965,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 929,
+                                   "One-Bedroom": 1076,
+                                   "Two-Bedroom": 1254,
+                                   "Three-Bedroom": 1676,
+                                   "Four-Bedroom": 1948,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 85200,
+                            "very_low": {
+                                   "il50_p1": 29850,
+                                   "il50_p2": 34100,
+                                   "il50_p3": 38350,
+                                   "il50_p4": 42600,
+                                   "il50_p5": 46050,
+                                   "il50_p6": 49450,
+                                   "il50_p7": 52850,
+                                   "il50_p8": 56250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17900,
+                                   "il30_p2": 20450,
+                                   "il30_p3": 23000,
+                                   "il30_p4": 25550,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 91700,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36700,
+                                   "il50_p3": 41300,
+                                   "il50_p4": 45850,
+                                   "il50_p5": 49550,
+                                   "il50_p6": 53200,
+                                   "il50_p7": 56900,
+                                   "il50_p8": 60550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27500,
+                                   "il30_p5": 29700,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 100400,
+                            "very_low": {
+                                   "il50_p1": 35150,
+                                   "il50_p2": 40200,
+                                   "il50_p3": 45200,
+                                   "il50_p4": 50200,
+                                   "il50_p5": 54250,
+                                   "il50_p6": 58250,
+                                   "il50_p7": 62250,
+                                   "il50_p8": 66300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21100,
+                                   "il30_p2": 24100,
+                                   "il30_p3": 27100,
+                                   "il30_p4": 30100,
+                                   "il30_p5": 32550,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 100100,
+                            "very_low": {
+                                   "il50_p1": 35050,
+                                   "il50_p2": 40050,
+                                   "il50_p3": 45050,
+                                   "il50_p4": 50050,
+                                   "il50_p5": 54100,
+                                   "il50_p6": 58100,
+                                   "il50_p7": 62100,
+                                   "il50_p8": 66100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21050,
+                                   "il30_p2": 24050,
+                                   "il30_p3": 27050,
+                                   "il30_p4": 30050,
+                                   "il30_p5": 32500,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 103100,
+                            "very_low": {
+                                   "il50_p1": 36100,
+                                   "il50_p2": 41250,
+                                   "il50_p3": 46400,
+                                   "il50_p4": 51550,
+                                   "il50_p5": 55700,
+                                   "il50_p6": 59800,
+                                   "il50_p7": 63950,
+                                   "il50_p8": 68050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21700,
+                                   "il30_p2": 24800,
+                                   "il30_p3": 27900,
+                                   "il30_p4": 30950,
+                                   "il30_p5": 33450,
+                                   "il30_p6": 35950,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Dane County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Madison, WI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 118700,
+                            "very_low": {
+                                   "il50_p1": 40400,
+                                   "il50_p2": 46150,
+                                   "il50_p3": 51900,
+                                   "il50_p4": 57650,
+                                   "il50_p5": 62300,
+                                   "il50_p6": 66900,
+                                   "il50_p7": 71500,
+                                   "il50_p8": 76100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24250,
+                                   "il30_p2": 27700,
+                                   "il30_p3": 31150,
+                                   "il30_p4": 34600,
+                                   "il30_p5": 37400,
+                                   "il30_p6": 40150,
+                                   "il30_p7": 42950,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

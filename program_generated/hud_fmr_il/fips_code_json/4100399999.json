@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 619,
+                                   "One-Bedroom": 750,
+                                   "Two-Bedroom": 930,
+                                   "Three-Bedroom": 1354,
+                                   "Four-Bedroom": 1639,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 680,
+                                   "One-Bedroom": 801,
+                                   "Two-Bedroom": 976,
+                                   "Three-Bedroom": 1420,
+                                   "Four-Bedroom": 1719,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 767,
+                                   "One-Bedroom": 886,
+                                   "Two-Bedroom": 1066,
+                                   "Three-Bedroom": 1541,
+                                   "Four-Bedroom": 1872,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 869,
+                                   "One-Bedroom": 991,
+                                   "Two-Bedroom": 1177,
+                                   "Three-Bedroom": 1698,
+                                   "Four-Bedroom": 2066,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 932,
+                                   "One-Bedroom": 1031,
+                                   "Two-Bedroom": 1217,
+                                   "Three-Bedroom": 1742,
+                                   "Four-Bedroom": 2107,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR",
+                            "area_name": "Corvallis, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1000,
+                                   "One-Bedroom": 1065,
+                                   "Two-Bedroom": 1272,
+                                   "Three-Bedroom": 1807,
+                                   "Four-Bedroom": 2177,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "year": "2017",
+                            "median_income": 87400,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65450,
+                                   "il80_p5": 70700,
+                                   "il80_p6": 75950,
+                                   "il80_p7": 81200,
+                                   "il80_p8": 86400
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "year": "2018",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 25250,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "year": "2019",
+                            "median_income": 83700,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33500,
+                                   "il50_p3": 37700,
+                                   "il50_p4": 41850,
+                                   "il50_p5": 45200,
+                                   "il50_p6": 48550,
+                                   "il50_p7": 51900,
+                                   "il50_p8": 55250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46900,
+                                   "il80_p2": 53600,
+                                   "il80_p3": 60300,
+                                   "il80_p4": 66950,
+                                   "il80_p5": 72350,
+                                   "il80_p6": 77700,
+                                   "il80_p7": 83050,
+                                   "il80_p8": 88400
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "year": "2020",
+                            "median_income": 81000,
+                            "very_low": {
+                                   "il50_p1": 28350,
+                                   "il50_p2": 32400,
+                                   "il50_p3": 36450,
+                                   "il50_p4": 40500,
+                                   "il50_p5": 43750,
+                                   "il50_p6": 47000,
+                                   "il50_p7": 50250,
+                                   "il50_p8": 53500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19450,
+                                   "il30_p3": 21900,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45400,
+                                   "il80_p2": 51850,
+                                   "il80_p3": 58350,
+                                   "il80_p4": 64800,
+                                   "il80_p5": 70000,
+                                   "il80_p6": 75200,
+                                   "il80_p7": 80400,
+                                   "il80_p8": 85550
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR MSA",
+                            "area_name": "Corvallis, OR MSA",
+                            "year": "2021",
+                            "median_income": 93000,
+                            "very_low": {
+                                   "il50_p1": 29750,
+                                   "il50_p2": 34000,
+                                   "il50_p3": 38250,
+                                   "il50_p4": 42500,
+                                   "il50_p5": 45900,
+                                   "il50_p6": 49300,
+                                   "il50_p7": 52700,
+                                   "il50_p8": 56100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 22950,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Benton County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corvallis, OR",
+                            "area_name": "Corvallis, OR MSA",
+                            "year": "2022",
+                            "median_income": 111200,
+                            "very_low": {
+                                   "il50_p1": 33300,
+                                   "il50_p2": 38050,
+                                   "il50_p3": 42800,
+                                   "il50_p4": 47550,
+                                   "il50_p5": 51400,
+                                   "il50_p6": 55200,
+                                   "il50_p7": 59000,
+                                   "il50_p8": 62800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20000,
+                                   "il30_p2": 22850,
+                                   "il30_p3": 25700,
+                                   "il30_p4": 28550,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 53250,
+                                   "il80_p2": 60850,
+                                   "il80_p3": 68450,
+                                   "il80_p4": 76050,
+                                   "il80_p5": 82150,
+                                   "il80_p6": 88250,
+                                   "il80_p7": 94350,
+                                   "il80_p8": 100400
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2005799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2005799999: Ford County, KS"
         },
         "scales": {

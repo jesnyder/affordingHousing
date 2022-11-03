@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 818,
+                                   "Three-Bedroom": 1105,
+                                   "Four-Bedroom": 1215,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 554,
+                                   "One-Bedroom": 649,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1136,
+                                   "Four-Bedroom": 1262,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 569,
+                                   "One-Bedroom": 669,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1162,
+                                   "Four-Bedroom": 1315,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 597,
+                                   "One-Bedroom": 696,
+                                   "Two-Bedroom": 898,
+                                   "Three-Bedroom": 1199,
+                                   "Four-Bedroom": 1374,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 607,
+                                   "One-Bedroom": 697,
+                                   "Two-Bedroom": 896,
+                                   "Three-Bedroom": 1187,
+                                   "Four-Bedroom": 1381,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 724,
+                                   "Two-Bedroom": 925,
+                                   "Three-Bedroom": 1219,
+                                   "Four-Bedroom": 1428,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 67100,
+                            "very_low": {
+                                   "il50_p1": 23500,
+                                   "il50_p2": 26850,
+                                   "il50_p3": 30200,
+                                   "il50_p4": 33550,
+                                   "il50_p5": 36250,
+                                   "il50_p6": 38950,
+                                   "il50_p7": 41650,
+                                   "il50_p8": 44300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37600,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48350,
+                                   "il80_p4": 53700,
+                                   "il80_p5": 58000,
+                                   "il80_p6": 62300,
+                                   "il80_p7": 66600,
+                                   "il80_p8": 70900
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 69700,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27900,
+                                   "il50_p3": 31400,
+                                   "il50_p4": 34850,
+                                   "il50_p5": 37650,
+                                   "il50_p6": 40450,
+                                   "il50_p7": 43250,
+                                   "il50_p8": 46050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39050,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50200,
+                                   "il80_p4": 55750,
+                                   "il80_p5": 60250,
+                                   "il80_p6": 64700,
+                                   "il80_p7": 69150,
+                                   "il80_p8": 73600
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 68600,
+                            "very_low": {
+                                   "il50_p1": 24050,
+                                   "il50_p2": 27450,
+                                   "il50_p3": 30900,
+                                   "il50_p4": 34300,
+                                   "il50_p5": 37050,
+                                   "il50_p6": 39800,
+                                   "il50_p7": 42550,
+                                   "il50_p8": 45300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14450,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38450,
+                                   "il80_p2": 43950,
+                                   "il80_p3": 49450,
+                                   "il80_p4": 54900,
+                                   "il80_p5": 59300,
+                                   "il80_p6": 63700,
+                                   "il80_p7": 68100,
+                                   "il80_p8": 72500
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 74200,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 36000,
+                                   "il50_p5": 38900,
+                                   "il50_p6": 41800,
+                                   "il50_p7": 44650,
+                                   "il50_p8": 47550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15150,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40350,
+                                   "il80_p2": 46100,
+                                   "il80_p3": 51850,
+                                   "il80_p4": 57600,
+                                   "il80_p5": 62250,
+                                   "il80_p6": 66850,
+                                   "il80_p7": 71450,
+                                   "il80_p8": 76050
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK",
+                            "area_name": "Tulsa, OK HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 28200,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36250,
+                                   "il50_p4": 40250,
+                                   "il50_p5": 43500,
+                                   "il50_p6": 46700,
+                                   "il50_p7": 49950,
+                                   "il50_p8": 53150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19350,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45100,
+                                   "il80_p2": 51550,
+                                   "il80_p3": 58000,
+                                   "il80_p4": 64400,
+                                   "il80_p5": 69600,
+                                   "il80_p6": 74750,
+                                   "il80_p7": 79900,
+                                   "il80_p8": 85050
+                            }
+                     }
+              ]
+       }
+}

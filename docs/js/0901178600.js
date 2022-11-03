@@ -25,14 +25,9 @@ new Chart(document.getElementById("0901178600_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0901178600: Norwich-New London, CT HUD Metro FMR Area"
         },
         "scales": {

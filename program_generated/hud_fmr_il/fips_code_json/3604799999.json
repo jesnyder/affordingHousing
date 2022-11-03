@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1352,
+                                   "One-Bedroom": 1419,
+                                   "Two-Bedroom": 1637,
+                                   "Three-Bedroom": 2102,
+                                   "Four-Bedroom": 2267,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1514,
+                                   "One-Bedroom": 1558,
+                                   "Two-Bedroom": 1789,
+                                   "Three-Bedroom": 2280,
+                                   "Four-Bedroom": 2437,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1559,
+                                   "One-Bedroom": 1599,
+                                   "Two-Bedroom": 1831,
+                                   "Three-Bedroom": 2324,
+                                   "Four-Bedroom": 2475,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1665,
+                                   "One-Bedroom": 1714,
+                                   "Two-Bedroom": 1951,
+                                   "Three-Bedroom": 2472,
+                                   "Four-Bedroom": 2643,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1760,
+                                   "One-Bedroom": 1801,
+                                   "Two-Bedroom": 2053,
+                                   "Three-Bedroom": 2598,
+                                   "Four-Bedroom": 2784,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 2018,
+                                   "One-Bedroom": 2054,
+                                   "Two-Bedroom": 2340,
+                                   "Three-Bedroom": 2952,
+                                   "Four-Bedroom": 3173,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 66200,
+                            "very_low": {
+                                   "il50_p1": 33400,
+                                   "il50_p2": 38200,
+                                   "il50_p3": 42950,
+                                   "il50_p4": 47700,
+                                   "il50_p5": 51550,
+                                   "il50_p6": 55350,
+                                   "il50_p7": 59150,
+                                   "il50_p8": 63000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20050,
+                                   "il30_p2": 22900,
+                                   "il30_p3": 25750,
+                                   "il30_p4": 28600,
+                                   "il30_p5": 30900,
+                                   "il30_p6": 33200,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 53450,
+                                   "il80_p2": 61050,
+                                   "il80_p3": 68700,
+                                   "il80_p4": 76300,
+                                   "il80_p5": 82450,
+                                   "il80_p6": 88550,
+                                   "il80_p7": 94650,
+                                   "il80_p8": 100750
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 70300,
+                            "very_low": {
+                                   "il50_p1": 36550,
+                                   "il50_p2": 41750,
+                                   "il50_p3": 46950,
+                                   "il50_p4": 52150,
+                                   "il50_p5": 56350,
+                                   "il50_p6": 60500,
+                                   "il50_p7": 64700,
+                                   "il50_p8": 68850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21950,
+                                   "il30_p2": 25050,
+                                   "il30_p3": 28200,
+                                   "il30_p4": 31300,
+                                   "il30_p5": 33850,
+                                   "il30_p6": 36350,
+                                   "il30_p7": 38850,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 58450,
+                                   "il80_p2": 66800,
+                                   "il80_p3": 75150,
+                                   "il80_p4": 83450,
+                                   "il80_p5": 90150,
+                                   "il80_p6": 96850,
+                                   "il80_p7": 103500,
+                                   "il80_p8": 110200
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 75500,
+                            "very_low": {
+                                   "il50_p1": 37350,
+                                   "il50_p2": 42700,
+                                   "il50_p3": 48050,
+                                   "il50_p4": 53350,
+                                   "il50_p5": 57650,
+                                   "il50_p6": 61900,
+                                   "il50_p7": 66200,
+                                   "il50_p8": 70450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22400,
+                                   "il30_p2": 25600,
+                                   "il30_p3": 28800,
+                                   "il30_p4": 32000,
+                                   "il30_p5": 34600,
+                                   "il30_p6": 37150,
+                                   "il30_p7": 39700,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 59750,
+                                   "il80_p2": 68300,
+                                   "il80_p3": 76850,
+                                   "il80_p4": 85350,
+                                   "il80_p5": 92200,
+                                   "il80_p6": 99050,
+                                   "il80_p7": 105850,
+                                   "il80_p8": 112700
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 78700,
+                            "very_low": {
+                                   "il50_p1": 39800,
+                                   "il50_p2": 45500,
+                                   "il50_p3": 51200,
+                                   "il50_p4": 56850,
+                                   "il50_p5": 61400,
+                                   "il50_p6": 65950,
+                                   "il50_p7": 70500,
+                                   "il50_p8": 75050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23900,
+                                   "il30_p2": 27300,
+                                   "il30_p3": 30700,
+                                   "il30_p4": 34100,
+                                   "il30_p5": 36850,
+                                   "il30_p6": 39600,
+                                   "il30_p7": 42300,
+                                   "il30_p8": 45050
+                            },
+                            "low": {
+                                   "il80_p1": 63700,
+                                   "il80_p2": 72800,
+                                   "il80_p3": 81900,
+                                   "il80_p4": 90950,
+                                   "il80_p5": 98250,
+                                   "il80_p6": 105550,
+                                   "il80_p7": 112800,
+                                   "il80_p8": 120100
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 81700,
+                            "very_low": {
+                                   "il50_p1": 41800,
+                                   "il50_p2": 47750,
+                                   "il50_p3": 53700,
+                                   "il50_p4": 59650,
+                                   "il50_p5": 64450,
+                                   "il50_p6": 69200,
+                                   "il50_p7": 74000,
+                                   "il50_p8": 78750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25100,
+                                   "il30_p2": 28650,
+                                   "il30_p3": 32250,
+                                   "il30_p4": 35800,
+                                   "il30_p5": 38700,
+                                   "il30_p6": 41550,
+                                   "il30_p7": 44400,
+                                   "il30_p8": 47300
+                            },
+                            "low": {
+                                   "il80_p1": 66850,
+                                   "il80_p2": 76400,
+                                   "il80_p3": 85950,
+                                   "il80_p4": 95450,
+                                   "il80_p5": 103100,
+                                   "il80_p6": 110750,
+                                   "il80_p7": 118400,
+                                   "il80_p8": 126000
+                            }
+                     },
+                     {
+                            "county_name": "Kings County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "New York, NY HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 94500,
+                            "very_low": {
+                                   "il50_p1": 46700,
+                                   "il50_p2": 53400,
+                                   "il50_p3": 60050,
+                                   "il50_p4": 66700,
+                                   "il50_p5": 72050,
+                                   "il50_p6": 77400,
+                                   "il50_p7": 82750,
+                                   "il50_p8": 88050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 28000,
+                                   "il30_p2": 32000,
+                                   "il30_p3": 36000,
+                                   "il30_p4": 40000,
+                                   "il30_p5": 43200,
+                                   "il30_p6": 46400,
+                                   "il30_p7": 49600,
+                                   "il30_p8": 52800
+                            },
+                            "low": {
+                                   "il80_p1": 74800,
+                                   "il80_p2": 85450,
+                                   "il80_p3": 96150,
+                                   "il80_p4": 106800,
+                                   "il80_p5": 115350,
+                                   "il80_p6": 123900,
+                                   "il80_p7": 132450,
+                                   "il80_p8": 141000
+                            }
+                     }
+              ]
+       }
+}

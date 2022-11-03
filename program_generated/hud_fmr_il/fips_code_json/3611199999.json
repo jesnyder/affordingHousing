@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 724,
+                                   "One-Bedroom": 904,
+                                   "Two-Bedroom": 1141,
+                                   "Three-Bedroom": 1479,
+                                   "Four-Bedroom": 1573,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 737,
+                                   "One-Bedroom": 918,
+                                   "Two-Bedroom": 1155,
+                                   "Three-Bedroom": 1479,
+                                   "Four-Bedroom": 1573,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 777,
+                                   "One-Bedroom": 962,
+                                   "Two-Bedroom": 1210,
+                                   "Three-Bedroom": 1537,
+                                   "Four-Bedroom": 1676,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 792,
+                                   "One-Bedroom": 967,
+                                   "Two-Bedroom": 1215,
+                                   "Three-Bedroom": 1563,
+                                   "Four-Bedroom": 1768,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 860,
+                                   "One-Bedroom": 1020,
+                                   "Two-Bedroom": 1296,
+                                   "Three-Bedroom": 1685,
+                                   "Four-Bedroom": 1906,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY",
+                            "area_name": "Kingston, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 938,
+                                   "One-Bedroom": 1060,
+                                   "Two-Bedroom": 1364,
+                                   "Three-Bedroom": 1794,
+                                   "Four-Bedroom": 2018,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "year": "2017",
+                            "median_income": 78500,
+                            "very_low": {
+                                   "il50_p1": 27500,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35350,
+                                   "il50_p4": 39250,
+                                   "il50_p5": 42400,
+                                   "il50_p6": 45550,
+                                   "il50_p7": 48700,
+                                   "il50_p8": 51850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16500,
+                                   "il30_p2": 18850,
+                                   "il30_p3": 21200,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44000,
+                                   "il80_p2": 50250,
+                                   "il80_p3": 56550,
+                                   "il80_p4": 62800,
+                                   "il80_p5": 67850,
+                                   "il80_p6": 72850,
+                                   "il80_p7": 77900,
+                                   "il80_p8": 82900
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "year": "2018",
+                            "median_income": 79200,
+                            "very_low": {
+                                   "il50_p1": 27750,
+                                   "il50_p2": 31700,
+                                   "il50_p3": 35650,
+                                   "il50_p4": 39600,
+                                   "il50_p5": 42800,
+                                   "il50_p6": 45950,
+                                   "il50_p7": 49150,
+                                   "il50_p8": 52300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21400,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50700,
+                                   "il80_p3": 57050,
+                                   "il80_p4": 63350,
+                                   "il80_p5": 68450,
+                                   "il80_p6": 73500,
+                                   "il80_p7": 78600,
+                                   "il80_p8": 83650
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "year": "2019",
+                            "median_income": 83300,
+                            "very_low": {
+                                   "il50_p1": 29200,
+                                   "il50_p2": 33350,
+                                   "il50_p3": 37500,
+                                   "il50_p4": 41650,
+                                   "il50_p5": 45000,
+                                   "il50_p6": 48350,
+                                   "il50_p7": 51650,
+                                   "il50_p8": 55000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17500,
+                                   "il30_p2": 20000,
+                                   "il30_p3": 22500,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46700,
+                                   "il80_p2": 53350,
+                                   "il80_p3": 60000,
+                                   "il80_p4": 66650,
+                                   "il80_p5": 72000,
+                                   "il80_p6": 77350,
+                                   "il80_p7": 82650,
+                                   "il80_p8": 88000
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "year": "2020",
+                            "median_income": 83700,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33500,
+                                   "il50_p3": 37700,
+                                   "il50_p4": 41850,
+                                   "il50_p5": 45200,
+                                   "il50_p6": 48550,
+                                   "il50_p7": 51900,
+                                   "il50_p8": 55250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46900,
+                                   "il80_p2": 53600,
+                                   "il80_p3": 60300,
+                                   "il80_p4": 66950,
+                                   "il80_p5": 72350,
+                                   "il80_p6": 77700,
+                                   "il80_p7": 83050,
+                                   "il80_p8": 88400
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY MSA",
+                            "area_name": "Kingston, NY MSA",
+                            "year": "2021",
+                            "median_income": 90100,
+                            "very_low": {
+                                   "il50_p1": 30750,
+                                   "il50_p2": 35150,
+                                   "il50_p3": 39550,
+                                   "il50_p4": 43900,
+                                   "il50_p5": 47450,
+                                   "il50_p6": 50950,
+                                   "il50_p7": 54450,
+                                   "il50_p8": 57950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18450,
+                                   "il30_p2": 21100,
+                                   "il30_p3": 23750,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 49200,
+                                   "il80_p2": 56200,
+                                   "il80_p3": 63250,
+                                   "il80_p4": 70250,
+                                   "il80_p5": 75900,
+                                   "il80_p6": 81500,
+                                   "il80_p7": 87150,
+                                   "il80_p8": 92750
+                            }
+                     },
+                     {
+                            "county_name": "Ulster County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kingston, NY",
+                            "area_name": "Kingston, NY MSA",
+                            "year": "2022",
+                            "median_income": 96000,
+                            "very_low": {
+                                   "il50_p1": 33600,
+                                   "il50_p2": 38400,
+                                   "il50_p3": 43200,
+                                   "il50_p4": 48000,
+                                   "il50_p5": 51850,
+                                   "il50_p6": 55700,
+                                   "il50_p7": 59550,
+                                   "il50_p8": 63400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20200,
+                                   "il30_p2": 23050,
+                                   "il30_p3": 25950,
+                                   "il30_p4": 28800,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 53800,
+                                   "il80_p2": 61450,
+                                   "il80_p3": 69150,
+                                   "il80_p4": 76800,
+                                   "il80_p5": 82950,
+                                   "il80_p6": 89100,
+                                   "il80_p7": 95250,
+                                   "il80_p8": 101400
+                            }
+                     }
+              ]
+       }
+}

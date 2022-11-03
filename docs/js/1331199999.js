@@ -25,14 +25,9 @@ new Chart(document.getElementById("1331199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1331199999: White County, GA"
         },
         "scales": {

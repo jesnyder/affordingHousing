@@ -25,14 +25,9 @@ new Chart(document.getElementById("1715599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1715599999: Putnam County, IL"
         },
         "scales": {

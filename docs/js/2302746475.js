@@ -25,14 +25,9 @@ new Chart(document.getElementById("2302746475_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2302746475: Waldo County, ME"
         },
         "scales": {

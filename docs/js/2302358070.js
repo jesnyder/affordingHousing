@@ -25,14 +25,9 @@ new Chart(document.getElementById("2302358070_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2302358070: Sagadahoc County, ME HUD Metro FMR Area"
         },
         "scales": {

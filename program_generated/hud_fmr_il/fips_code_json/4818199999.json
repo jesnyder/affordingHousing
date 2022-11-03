@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 508,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 795,
+                                   "Three-Bedroom": 1085,
+                                   "Four-Bedroom": 1217,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 568,
+                                   "One-Bedroom": 685,
+                                   "Two-Bedroom": 868,
+                                   "Three-Bedroom": 1181,
+                                   "Four-Bedroom": 1307,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 604,
+                                   "One-Bedroom": 708,
+                                   "Two-Bedroom": 892,
+                                   "Three-Bedroom": 1212,
+                                   "Four-Bedroom": 1354,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 740,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1238,
+                                   "Four-Bedroom": 1383,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 661,
+                                   "One-Bedroom": 792,
+                                   "Two-Bedroom": 959,
+                                   "Three-Bedroom": 1292,
+                                   "Four-Bedroom": 1457,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 661,
+                                   "One-Bedroom": 830,
+                                   "Two-Bedroom": 985,
+                                   "Three-Bedroom": 1316,
+                                   "Four-Bedroom": 1570,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "year": "2017",
+                            "median_income": 66700,
+                            "very_low": {
+                                   "il50_p1": 22100,
+                                   "il50_p2": 25250,
+                                   "il50_p3": 28400,
+                                   "il50_p4": 31550,
+                                   "il50_p5": 34100,
+                                   "il50_p6": 36600,
+                                   "il50_p7": 39150,
+                                   "il50_p8": 41650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35350,
+                                   "il80_p2": 40400,
+                                   "il80_p3": 45450,
+                                   "il80_p4": 50500,
+                                   "il80_p5": 54550,
+                                   "il80_p6": 58600,
+                                   "il80_p7": 62650,
+                                   "il80_p8": 66700
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "year": "2018",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "year": "2019",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 23650,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30400,
+                                   "il50_p4": 33750,
+                                   "il50_p5": 36450,
+                                   "il50_p6": 39150,
+                                   "il50_p7": 41850,
+                                   "il50_p8": 44550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14200,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37800,
+                                   "il80_p2": 43200,
+                                   "il80_p3": 48600,
+                                   "il80_p4": 54000,
+                                   "il80_p5": 58350,
+                                   "il80_p6": 62650,
+                                   "il80_p7": 67000,
+                                   "il80_p8": 71300
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "year": "2020",
+                            "median_income": 76000,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX MSA",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "year": "2021",
+                            "median_income": 70500,
+                            "very_low": {
+                                   "il50_p1": 24700,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31750,
+                                   "il50_p4": 35250,
+                                   "il50_p5": 38100,
+                                   "il50_p6": 40900,
+                                   "il50_p7": 43750,
+                                   "il50_p8": 46550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39500,
+                                   "il80_p2": 45150,
+                                   "il80_p3": 50800,
+                                   "il80_p4": 56400,
+                                   "il80_p5": 60950,
+                                   "il80_p6": 65450,
+                                   "il80_p7": 69950,
+                                   "il80_p8": 74450
+                            }
+                     },
+                     {
+                            "county_name": "Grayson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sherman-Denison, TX",
+                            "area_name": "Sherman-Denison, TX MSA",
+                            "year": "2022",
+                            "median_income": 78200,
+                            "very_low": {
+                                   "il50_p1": 27400,
+                                   "il50_p2": 31300,
+                                   "il50_p3": 35200,
+                                   "il50_p4": 39100,
+                                   "il50_p5": 42250,
+                                   "il50_p6": 45400,
+                                   "il50_p7": 48500,
+                                   "il50_p8": 51650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43800,
+                                   "il80_p2": 50050,
+                                   "il80_p3": 56300,
+                                   "il80_p4": 62550,
+                                   "il80_p5": 67600,
+                                   "il80_p6": 72600,
+                                   "il80_p7": 77600,
+                                   "il80_p8": 82600
+                            }
+                     }
+              ]
+       }
+}

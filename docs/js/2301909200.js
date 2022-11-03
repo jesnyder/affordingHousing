@@ -25,14 +25,9 @@ new Chart(document.getElementById("2301909200_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2301909200: Penobscot County, ME (part) HUD Metro FMR Area"
         },
         "scales": {

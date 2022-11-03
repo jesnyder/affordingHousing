@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 512,
+                                   "One-Bedroom": 515,
+                                   "Two-Bedroom": 674,
+                                   "Three-Bedroom": 898,
+                                   "Four-Bedroom": 1029,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 512,
+                                   "One-Bedroom": 515,
+                                   "Two-Bedroom": 680,
+                                   "Three-Bedroom": 904,
+                                   "Four-Bedroom": 1028,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 529,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 941,
+                                   "Four-Bedroom": 1072,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 525,
+                                   "Two-Bedroom": 691,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 1044,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 556,
+                                   "Two-Bedroom": 720,
+                                   "Three-Bedroom": 941,
+                                   "Four-Bedroom": 1109,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 569,
+                                   "One-Bedroom": 572,
+                                   "Two-Bedroom": 712,
+                                   "Three-Bedroom": 966,
+                                   "Four-Bedroom": 1105,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 44500,
+                            "very_low": {
+                                   "il50_p1": 16100,
+                                   "il50_p2": 18400,
+                                   "il50_p3": 20700,
+                                   "il50_p4": 22950,
+                                   "il50_p5": 24800,
+                                   "il50_p6": 26650,
+                                   "il50_p7": 28500,
+                                   "il50_p8": 30300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 22950,
+                                   "il30_p5": 24800,
+                                   "il30_p6": 26650,
+                                   "il30_p7": 28500,
+                                   "il30_p8": 30300
+                            },
+                            "low": {
+                                   "il80_p1": 25700,
+                                   "il80_p2": 29400,
+                                   "il80_p3": 33050,
+                                   "il80_p4": 36700,
+                                   "il80_p5": 39650,
+                                   "il80_p6": 42600,
+                                   "il80_p7": 45550,
+                                   "il80_p8": 48450
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 44900,
+                            "very_low": {
+                                   "il50_p1": 16950,
+                                   "il50_p2": 19350,
+                                   "il50_p3": 21750,
+                                   "il50_p4": 24150,
+                                   "il50_p5": 26100,
+                                   "il50_p6": 28050,
+                                   "il50_p7": 29950,
+                                   "il50_p8": 31900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24150,
+                                   "il30_p5": 26100,
+                                   "il30_p6": 28050,
+                                   "il30_p7": 29950,
+                                   "il30_p8": 31900
+                            },
+                            "low": {
+                                   "il80_p1": 27100,
+                                   "il80_p2": 30950,
+                                   "il80_p3": 34800,
+                                   "il80_p4": 38650,
+                                   "il80_p5": 41750,
+                                   "il80_p6": 44850,
+                                   "il80_p7": 47950,
+                                   "il80_p8": 51050
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 50800,
+                            "very_low": {
+                                   "il50_p1": 18350,
+                                   "il50_p2": 20950,
+                                   "il50_p3": 23550,
+                                   "il50_p4": 26150,
+                                   "il50_p5": 28250,
+                                   "il50_p6": 30350,
+                                   "il50_p7": 32450,
+                                   "il50_p8": 34550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28250,
+                                   "il30_p6": 30350,
+                                   "il30_p7": 32450,
+                                   "il30_p8": 34550
+                            },
+                            "low": {
+                                   "il80_p1": 29300,
+                                   "il80_p2": 33500,
+                                   "il80_p3": 37700,
+                                   "il80_p4": 41850,
+                                   "il80_p5": 45200,
+                                   "il80_p6": 48550,
+                                   "il80_p7": 51900,
+                                   "il80_p8": 55250
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 54100,
+                            "very_low": {
+                                   "il50_p1": 18950,
+                                   "il50_p2": 21650,
+                                   "il50_p3": 24350,
+                                   "il50_p4": 27050,
+                                   "il50_p5": 29250,
+                                   "il50_p6": 31400,
+                                   "il50_p7": 33550,
+                                   "il50_p8": 35750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29250,
+                                   "il30_p6": 31400,
+                                   "il30_p7": 33550,
+                                   "il30_p8": 35750
+                            },
+                            "low": {
+                                   "il80_p1": 30350,
+                                   "il80_p2": 34650,
+                                   "il80_p3": 39000,
+                                   "il80_p4": 43300,
+                                   "il80_p5": 46800,
+                                   "il80_p6": 50250,
+                                   "il80_p7": 53700,
+                                   "il80_p8": 57200
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 57100,
+                            "very_low": {
+                                   "il50_p1": 19900,
+                                   "il50_p2": 22750,
+                                   "il50_p3": 25600,
+                                   "il50_p4": 28400,
+                                   "il50_p5": 30700,
+                                   "il50_p6": 32950,
+                                   "il50_p7": 35250,
+                                   "il50_p8": 37500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30700,
+                                   "il30_p6": 32950,
+                                   "il30_p7": 35250,
+                                   "il30_p8": 37500
+                            },
+                            "low": {
+                                   "il80_p1": 31850,
+                                   "il80_p2": 36400,
+                                   "il80_p3": 40950,
+                                   "il80_p4": 45450,
+                                   "il80_p5": 49100,
+                                   "il80_p6": 52750,
+                                   "il80_p7": 56400,
+                                   "il80_p8": 60000
+                            }
+                     },
+                     {
+                            "county_name": "Chester County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Chester County, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 61100,
+                            "very_low": {
+                                   "il50_p1": 21400,
+                                   "il50_p2": 24450,
+                                   "il50_p3": 27500,
+                                   "il50_p4": 30550,
+                                   "il50_p5": 33000,
+                                   "il50_p6": 35450,
+                                   "il50_p7": 37900,
+                                   "il50_p8": 40350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35450,
+                                   "il30_p7": 37900,
+                                   "il30_p8": 40350
+                            },
+                            "low": {
+                                   "il80_p1": 34250,
+                                   "il80_p2": 39150,
+                                   "il80_p3": 44050,
+                                   "il80_p4": 48900,
+                                   "il80_p5": 52850,
+                                   "il80_p6": 56750,
+                                   "il80_p7": 60650,
+                                   "il80_p8": 64550
+                            }
+                     }
+              ]
+       }
+}

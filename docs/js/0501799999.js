@@ -25,14 +25,9 @@ new Chart(document.getElementById("0501799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0501799999: Chicot County, AR"
         },
         "scales": {

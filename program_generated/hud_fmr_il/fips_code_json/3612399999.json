@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 493,
+                                   "One-Bedroom": 602,
+                                   "Two-Bedroom": 716,
+                                   "Three-Bedroom": 941,
+                                   "Four-Bedroom": 1030,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 504,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 735,
+                                   "Three-Bedroom": 994,
+                                   "Four-Bedroom": 1015,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 647,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 1024,
+                                   "Four-Bedroom": 1027,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 533,
+                                   "One-Bedroom": 644,
+                                   "Two-Bedroom": 775,
+                                   "Three-Bedroom": 1046,
+                                   "Four-Bedroom": 1050,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 667,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1101,
+                                   "Four-Bedroom": 1105,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 571,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 860,
+                                   "Three-Bedroom": 1162,
+                                   "Four-Bedroom": 1166,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 64900,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 69100,
+                            "very_low": {
+                                   "il50_p1": 24200,
+                                   "il50_p2": 27650,
+                                   "il50_p3": 31100,
+                                   "il50_p4": 34550,
+                                   "il50_p5": 37350,
+                                   "il50_p6": 40100,
+                                   "il50_p7": 42850,
+                                   "il50_p8": 45650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44250,
+                                   "il80_p3": 49800,
+                                   "il80_p4": 55300,
+                                   "il80_p5": 59750,
+                                   "il80_p6": 64150,
+                                   "il80_p7": 68600,
+                                   "il80_p8": 73000
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 70600,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28250,
+                                   "il50_p3": 31800,
+                                   "il50_p4": 35300,
+                                   "il50_p5": 38150,
+                                   "il50_p6": 40950,
+                                   "il50_p7": 43800,
+                                   "il50_p8": 46600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39550,
+                                   "il80_p2": 45200,
+                                   "il80_p3": 50850,
+                                   "il80_p4": 56500,
+                                   "il80_p5": 61050,
+                                   "il80_p6": 65550,
+                                   "il80_p7": 70100,
+                                   "il80_p8": 74600
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY MSA",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 73800,
+                            "very_low": {
+                                   "il50_p1": 25850,
+                                   "il50_p2": 29550,
+                                   "il50_p3": 33250,
+                                   "il50_p4": 36900,
+                                   "il50_p5": 39900,
+                                   "il50_p6": 42850,
+                                   "il50_p7": 45800,
+                                   "il50_p8": 48750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41350,
+                                   "il80_p2": 47250,
+                                   "il80_p3": 53150,
+                                   "il80_p4": 59050,
+                                   "il80_p5": 63800,
+                                   "il80_p6": 68500,
+                                   "il80_p7": 73250,
+                                   "il80_p8": 77950
+                            }
+                     },
+                     {
+                            "county_name": "Yates County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, NY",
+                            "area_name": "Yates County, NY HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 82000,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 41000,
+                                   "il50_p5": 44300,
+                                   "il50_p6": 47600,
+                                   "il50_p7": 50850,
+                                   "il50_p8": 54150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17250,
+                                   "il30_p2": 19700,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45950,
+                                   "il80_p2": 52500,
+                                   "il80_p3": 59050,
+                                   "il80_p4": 65600,
+                                   "il80_p5": 70850,
+                                   "il80_p6": 76100,
+                                   "il80_p7": 81350,
+                                   "il80_p8": 86600
+                            }
+                     }
+              ]
+       }
+}

@@ -38,3 +38,4 @@ slopes,program_generated df_compiled slopes.csv
 geojson_hud_county,docs js_map geojson_hud.js
 all_data_df,program_generated df_compiled all_data.csv
 summary_df,program_generated df_compiled summary.csv
+scatter_js,docs js_scatter scatter.js

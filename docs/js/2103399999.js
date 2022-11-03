@@ -25,14 +25,9 @@ new Chart(document.getElementById("2103399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2103399999: Caldwell County, KY"
         },
         "scales": {

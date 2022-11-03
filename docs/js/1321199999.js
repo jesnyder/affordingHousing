@@ -25,14 +25,9 @@ new Chart(document.getElementById("1321199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1321199999: Morgan County, GA HUD Metro FMR Area"
         },
         "scales": {

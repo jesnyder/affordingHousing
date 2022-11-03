@@ -25,14 +25,9 @@ new Chart(document.getElementById("0206899999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0206899999: Denali Borough, AK"
         },
         "scales": {

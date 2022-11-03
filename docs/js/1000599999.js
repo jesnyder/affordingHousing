@@ -25,14 +25,9 @@ new Chart(document.getElementById("1000599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1000599999: Sussex County, DE HUD Metro FMR Area"
         },
         "scales": {

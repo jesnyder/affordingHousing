@@ -25,14 +25,9 @@ new Chart(document.getElementById("0603799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0603799999: Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area"
         },
         "scales": {

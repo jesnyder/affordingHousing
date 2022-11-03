@@ -25,14 +25,9 @@ new Chart(document.getElementById("0607799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0607799999: Stockton-Lodi, CA MSA"
         },
         "scales": {

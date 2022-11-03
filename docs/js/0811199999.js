@@ -25,14 +25,9 @@ new Chart(document.getElementById("0811199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0811199999: San Juan County, CO"
         },
         "scales": {

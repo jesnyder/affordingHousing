@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 450,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 679,
+                                   "Three-Bedroom": 884,
+                                   "Four-Bedroom": 1041,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 463,
+                                   "One-Bedroom": 561,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 929,
+                                   "Four-Bedroom": 1093,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 465,
+                                   "One-Bedroom": 564,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 948,
+                                   "Four-Bedroom": 1151,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 450,
+                                   "One-Bedroom": 533,
+                                   "Two-Bedroom": 691,
+                                   "Three-Bedroom": 922,
+                                   "Four-Bedroom": 1176,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 480,
+                                   "One-Bedroom": 566,
+                                   "Two-Bedroom": 728,
+                                   "Three-Bedroom": 961,
+                                   "Four-Bedroom": 1237,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 492,
+                                   "One-Bedroom": 570,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 973,
+                                   "Four-Bedroom": 1247,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 56900,
+                            "very_low": {
+                                   "il50_p1": 19950,
+                                   "il50_p2": 22800,
+                                   "il50_p3": 25650,
+                                   "il50_p4": 28450,
+                                   "il50_p5": 30750,
+                                   "il50_p6": 33050,
+                                   "il50_p7": 35300,
+                                   "il50_p8": 37600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35300,
+                                   "il30_p8": 37600
+                            },
+                            "low": {
+                                   "il80_p1": 31850,
+                                   "il80_p2": 36400,
+                                   "il80_p3": 40950,
+                                   "il80_p4": 45500,
+                                   "il80_p5": 49150,
+                                   "il80_p6": 52800,
+                                   "il80_p7": 56450,
+                                   "il80_p8": 60100
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 22950,
+                                   "il50_p3": 25800,
+                                   "il50_p4": 28650,
+                                   "il50_p5": 30950,
+                                   "il50_p6": 33250,
+                                   "il50_p7": 35550,
+                                   "il50_p8": 37850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33250,
+                                   "il30_p7": 35550,
+                                   "il30_p8": 37850
+                            },
+                            "low": {
+                                   "il80_p1": 32100,
+                                   "il80_p2": 36700,
+                                   "il80_p3": 41300,
+                                   "il80_p4": 45850,
+                                   "il80_p5": 49550,
+                                   "il80_p6": 53200,
+                                   "il80_p7": 56900,
+                                   "il80_p8": 60550
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 58700,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23500,
+                                   "il50_p3": 26450,
+                                   "il50_p4": 29350,
+                                   "il50_p5": 31700,
+                                   "il50_p6": 34050,
+                                   "il50_p7": 36400,
+                                   "il50_p8": 38750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34050,
+                                   "il30_p7": 36400,
+                                   "il30_p8": 38750
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 46950,
+                                   "il80_p5": 50750,
+                                   "il80_p6": 54500,
+                                   "il80_p7": 58250,
+                                   "il80_p8": 62000
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 57600,
+                            "very_low": {
+                                   "il50_p1": 20200,
+                                   "il50_p2": 23050,
+                                   "il50_p3": 25950,
+                                   "il50_p4": 28800,
+                                   "il50_p5": 31150,
+                                   "il50_p6": 33450,
+                                   "il50_p7": 35750,
+                                   "il50_p8": 38050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 33450,
+                                   "il30_p7": 35750,
+                                   "il30_p8": 38050
+                            },
+                            "low": {
+                                   "il80_p1": 32300,
+                                   "il80_p2": 36900,
+                                   "il80_p3": 41500,
+                                   "il80_p4": 46100,
+                                   "il80_p5": 49800,
+                                   "il80_p6": 53500,
+                                   "il80_p7": 57200,
+                                   "il80_p8": 60900
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK MSA",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 34400,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     },
+                     {
+                            "county_name": "Pawnee County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tulsa, OK",
+                            "area_name": "Pawnee County, OK HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 62400,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25900,
+                                   "il50_p3": 29150,
+                                   "il50_p4": 32350,
+                                   "il50_p5": 34950,
+                                   "il50_p6": 37550,
+                                   "il50_p7": 40150,
+                                   "il50_p8": 42750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40150,
+                                   "il30_p8": 42750
+                            },
+                            "low": {
+                                   "il80_p1": 36250,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46600,
+                                   "il80_p4": 51750,
+                                   "il80_p5": 55900,
+                                   "il80_p6": 60050,
+                                   "il80_p7": 64200,
+                                   "il80_p8": 68350
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2109799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2109799999: Harrison County, KY"
         },
         "scales": {

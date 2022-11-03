@@ -25,14 +25,9 @@ new Chart(document.getElementById("2004399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2004399999: St. Joseph, MO-KS MSA"
         },
         "scales": {

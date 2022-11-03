@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 749,
+                                   "One-Bedroom": 895,
+                                   "Two-Bedroom": 1181,
+                                   "Three-Bedroom": 1642,
+                                   "Four-Bedroom": 1789,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 790,
+                                   "One-Bedroom": 938,
+                                   "Two-Bedroom": 1239,
+                                   "Three-Bedroom": 1722,
+                                   "Four-Bedroom": 1732,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 923,
+                                   "One-Bedroom": 1086,
+                                   "Two-Bedroom": 1437,
+                                   "Three-Bedroom": 1935,
+                                   "Four-Bedroom": 1942,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 889,
+                                   "One-Bedroom": 1036,
+                                   "Two-Bedroom": 1365,
+                                   "Three-Bedroom": 1833,
+                                   "Four-Bedroom": 1849,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 997,
+                                   "One-Bedroom": 1147,
+                                   "Two-Bedroom": 1511,
+                                   "Three-Bedroom": 2003,
+                                   "Four-Bedroom": 2049,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1082,
+                                   "One-Bedroom": 1237,
+                                   "Two-Bedroom": 1628,
+                                   "Three-Bedroom": 2087,
+                                   "Four-Bedroom": 2208,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 94100,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 30550,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 106300,
+                            "very_low": {
+                                   "il50_p1": 36700,
+                                   "il50_p2": 41950,
+                                   "il50_p3": 47200,
+                                   "il50_p4": 52400,
+                                   "il50_p5": 56600,
+                                   "il50_p6": 60800,
+                                   "il50_p7": 65000,
+                                   "il50_p8": 69200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22050,
+                                   "il30_p2": 25200,
+                                   "il30_p3": 28350,
+                                   "il30_p4": 31450,
+                                   "il30_p5": 34000,
+                                   "il30_p6": 36500,
+                                   "il30_p7": 39000,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 102900,
+                            "very_low": {
+                                   "il50_p1": 36050,
+                                   "il50_p2": 41200,
+                                   "il50_p3": 46350,
+                                   "il50_p4": 51450,
+                                   "il50_p5": 55600,
+                                   "il50_p6": 59700,
+                                   "il50_p7": 63800,
+                                   "il50_p8": 67950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21600,
+                                   "il30_p2": 24700,
+                                   "il30_p3": 27800,
+                                   "il30_p4": 30850,
+                                   "il30_p5": 33350,
+                                   "il30_p6": 35800,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 113600,
+                            "very_low": {
+                                   "il50_p1": 38850,
+                                   "il50_p2": 44400,
+                                   "il50_p3": 49950,
+                                   "il50_p4": 55500,
+                                   "il50_p5": 59950,
+                                   "il50_p6": 64400,
+                                   "il50_p7": 68850,
+                                   "il50_p8": 73300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23350,
+                                   "il30_p2": 26650,
+                                   "il30_p3": 30000,
+                                   "il30_p4": 33300,
+                                   "il30_p5": 36000,
+                                   "il30_p6": 38650,
+                                   "il30_p7": 41300,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH MSA",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 109600,
+                            "very_low": {
+                                   "il50_p1": 38400,
+                                   "il50_p2": 43850,
+                                   "il50_p3": 49350,
+                                   "il50_p4": 54800,
+                                   "il50_p5": 59200,
+                                   "il50_p6": 63600,
+                                   "il50_p7": 68000,
+                                   "il50_p8": 72350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23050,
+                                   "il30_p2": 26350,
+                                   "il30_p3": 29650,
+                                   "il30_p4": 32900,
+                                   "il30_p5": 35550,
+                                   "il30_p6": 38200,
+                                   "il30_p7": 40800,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Hillsborough County, NH",
+                            "counties_msa": "",
+                            "town_name": "Hollis town",
+                            "metro_status": "1",
+                            "metro_name": "Manchester-Nashua, NH",
+                            "area_name": "Nashua, NH HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 122400,
+                            "very_low": {
+                                   "il50_p1": 42850,
+                                   "il50_p2": 49000,
+                                   "il50_p3": 55100,
+                                   "il50_p4": 61200,
+                                   "il50_p5": 66100,
+                                   "il50_p6": 71000,
+                                   "il50_p7": 75900,
+                                   "il50_p8": 80800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 25700,
+                                   "il30_p2": 29400,
+                                   "il30_p3": 33050,
+                                   "il30_p4": 36700,
+                                   "il30_p5": 39650,
+                                   "il30_p6": 42600,
+                                   "il30_p7": 45550,
+                                   "il30_p8": 48450
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

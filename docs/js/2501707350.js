@@ -25,14 +25,9 @@ new Chart(document.getElementById("2501707350_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2501707350: Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area"
         },
         "scales": {

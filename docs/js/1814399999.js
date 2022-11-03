@@ -25,14 +25,9 @@ new Chart(document.getElementById("1814399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1814399999: Scott County, IN HUD Metro FMR Area"
         },
         "scales": {

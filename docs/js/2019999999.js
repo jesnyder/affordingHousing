@@ -25,14 +25,9 @@ new Chart(document.getElementById("2019999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2019999999: Wallace County, KS"
         },
         "scales": {

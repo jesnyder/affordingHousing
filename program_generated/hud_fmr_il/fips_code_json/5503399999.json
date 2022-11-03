@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 499,
+                                   "One-Bedroom": 562,
+                                   "Two-Bedroom": 726,
+                                   "Three-Bedroom": 1007,
+                                   "Four-Bedroom": 1032,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 479,
+                                   "One-Bedroom": 538,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 1002,
+                                   "Four-Bedroom": 1023,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 562,
+                                   "Two-Bedroom": 716,
+                                   "Three-Bedroom": 1035,
+                                   "Four-Bedroom": 1085,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 625,
+                                   "One-Bedroom": 629,
+                                   "Two-Bedroom": 789,
+                                   "Three-Bedroom": 1138,
+                                   "Four-Bedroom": 1146,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 614,
+                                   "Two-Bedroom": 770,
+                                   "Three-Bedroom": 1102,
+                                   "Four-Bedroom": 1149,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 665,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1196,
+                                   "Four-Bedroom": 1298,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "year": "2017",
+                            "median_income": 64300,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25750,
+                                   "il50_p3": 28950,
+                                   "il50_p4": 32150,
+                                   "il50_p5": 34750,
+                                   "il50_p6": 37300,
+                                   "il50_p7": 39900,
+                                   "il50_p8": 42450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51450,
+                                   "il80_p5": 55600,
+                                   "il80_p6": 59700,
+                                   "il80_p7": 63800,
+                                   "il80_p8": 67950
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "year": "2018",
+                            "median_income": 66900,
+                            "very_low": {
+                                   "il50_p1": 23750,
+                                   "il50_p2": 27150,
+                                   "il50_p3": 30550,
+                                   "il50_p4": 33900,
+                                   "il50_p5": 36650,
+                                   "il50_p6": 39350,
+                                   "il50_p7": 42050,
+                                   "il50_p8": 44750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38000,
+                                   "il80_p2": 43400,
+                                   "il80_p3": 48850,
+                                   "il80_p4": 54250,
+                                   "il80_p5": 58600,
+                                   "il80_p6": 62950,
+                                   "il80_p7": 67300,
+                                   "il80_p8": 71650
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "year": "2019",
+                            "median_income": 69100,
+                            "very_low": {
+                                   "il50_p1": 24200,
+                                   "il50_p2": 27650,
+                                   "il50_p3": 31100,
+                                   "il50_p4": 34550,
+                                   "il50_p5": 37350,
+                                   "il50_p6": 40100,
+                                   "il50_p7": 42850,
+                                   "il50_p8": 45650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44250,
+                                   "il80_p3": 49800,
+                                   "il80_p4": 55300,
+                                   "il80_p5": 59750,
+                                   "il80_p6": 64150,
+                                   "il80_p7": 68600,
+                                   "il80_p8": 73000
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "year": "2020",
+                            "median_income": 71500,
+                            "very_low": {
+                                   "il50_p1": 25050,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32200,
+                                   "il50_p4": 35750,
+                                   "il50_p5": 38650,
+                                   "il50_p6": 41500,
+                                   "il50_p7": 44350,
+                                   "il50_p8": 47200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40050,
+                                   "il80_p2": 45800,
+                                   "il80_p3": 51500,
+                                   "il80_p4": 57200,
+                                   "il80_p5": 61800,
+                                   "il80_p6": 66400,
+                                   "il80_p7": 70950,
+                                   "il80_p8": 75550
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "year": "2021",
+                            "median_income": 73800,
+                            "very_low": {
+                                   "il50_p1": 25850,
+                                   "il50_p2": 29550,
+                                   "il50_p3": 33250,
+                                   "il50_p4": 36900,
+                                   "il50_p5": 39900,
+                                   "il50_p6": 42850,
+                                   "il50_p7": 45800,
+                                   "il50_p8": 48750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41350,
+                                   "il80_p2": 47250,
+                                   "il80_p3": 53150,
+                                   "il80_p4": 59050,
+                                   "il80_p5": 63800,
+                                   "il80_p6": 68500,
+                                   "il80_p7": 73250,
+                                   "il80_p8": 77950
+                            }
+                     },
+                     {
+                            "county_name": "Dunn County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dunn County, WI",
+                            "year": "2022",
+                            "median_income": 82100,
+                            "very_low": {
+                                   "il50_p1": 28750,
+                                   "il50_p2": 32850,
+                                   "il50_p3": 36950,
+                                   "il50_p4": 41050,
+                                   "il50_p5": 44350,
+                                   "il50_p6": 47650,
+                                   "il50_p7": 50950,
+                                   "il50_p8": 54200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46000,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59150,
+                                   "il80_p4": 65700,
+                                   "il80_p5": 71000,
+                                   "il80_p6": 76250,
+                                   "il80_p7": 81500,
+                                   "il80_p8": 86750
+                            }
+                     }
+              ]
+       }
+}

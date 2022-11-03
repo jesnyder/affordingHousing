@@ -25,14 +25,9 @@ new Chart(document.getElementById("0900508210_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0900508210: Litchfield County, CT"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 759,
+                                   "One-Bedroom": 790,
+                                   "Two-Bedroom": 991,
+                                   "Three-Bedroom": 1315,
+                                   "Four-Bedroom": 1511,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 752,
+                                   "One-Bedroom": 789,
+                                   "Two-Bedroom": 997,
+                                   "Three-Bedroom": 1328,
+                                   "Four-Bedroom": 1518,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 826,
+                                   "One-Bedroom": 876,
+                                   "Two-Bedroom": 1110,
+                                   "Three-Bedroom": 1484,
+                                   "Four-Bedroom": 1725,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 744,
+                                   "One-Bedroom": 789,
+                                   "Two-Bedroom": 999,
+                                   "Three-Bedroom": 1336,
+                                   "Four-Bedroom": 1553,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 784,
+                                   "One-Bedroom": 864,
+                                   "Two-Bedroom": 1079,
+                                   "Three-Bedroom": 1428,
+                                   "Four-Bedroom": 1702,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX",
+                            "area_name": "Corpus Christi, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 822,
+                                   "One-Bedroom": 909,
+                                   "Two-Bedroom": 1118,
+                                   "Three-Bedroom": 1474,
+                                   "Four-Bedroom": 1720,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 63100,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 64400,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29000,
+                                   "il50_p4": 32200,
+                                   "il50_p5": 34800,
+                                   "il50_p6": 37400,
+                                   "il50_p7": 39950,
+                                   "il50_p8": 42550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51500,
+                                   "il80_p5": 55650,
+                                   "il80_p6": 59750,
+                                   "il80_p7": 63900,
+                                   "il80_p8": 68000
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 66300,
+                            "very_low": {
+                                   "il50_p1": 23250,
+                                   "il50_p2": 26550,
+                                   "il50_p3": 29850,
+                                   "il50_p4": 33150,
+                                   "il50_p5": 35850,
+                                   "il50_p6": 38500,
+                                   "il50_p7": 41150,
+                                   "il50_p8": 43800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13950,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37150,
+                                   "il80_p2": 42450,
+                                   "il80_p3": 47750,
+                                   "il80_p4": 53050,
+                                   "il80_p5": 57300,
+                                   "il80_p6": 61550,
+                                   "il80_p7": 65800,
+                                   "il80_p8": 70050
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 66600,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26650,
+                                   "il50_p3": 30000,
+                                   "il50_p4": 33300,
+                                   "il50_p5": 36000,
+                                   "il50_p6": 38650,
+                                   "il50_p7": 41300,
+                                   "il50_p8": 44000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44000
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42650,
+                                   "il80_p3": 48000,
+                                   "il80_p4": 53300,
+                                   "il80_p5": 57600,
+                                   "il80_p6": 61850,
+                                   "il80_p7": 66100,
+                                   "il80_p8": 70400
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Corpus Christi, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 69300,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27750,
+                                   "il50_p3": 31200,
+                                   "il50_p4": 34650,
+                                   "il50_p5": 37450,
+                                   "il50_p6": 40200,
+                                   "il50_p7": 43000,
+                                   "il50_p8": 45750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55450,
+                                   "il80_p5": 59900,
+                                   "il80_p6": 64350,
+                                   "il80_p7": 68800,
+                                   "il80_p8": 73200
+                            }
+                     },
+                     {
+                            "county_name": "San Patricio County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX",
+                            "area_name": "Corpus Christi, TX MSA",
+                            "year": "2022",
+                            "median_income": 80900,
+                            "very_low": {
+                                   "il50_p1": 27150,
+                                   "il50_p2": 31000,
+                                   "il50_p3": 34900,
+                                   "il50_p4": 38750,
+                                   "il50_p5": 41850,
+                                   "il50_p6": 44950,
+                                   "il50_p7": 48050,
+                                   "il50_p8": 51150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16300,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43400,
+                                   "il80_p2": 49600,
+                                   "il80_p3": 55800,
+                                   "il80_p4": 62000,
+                                   "il80_p5": 67000,
+                                   "il80_p6": 71950,
+                                   "il80_p7": 76900,
+                                   "il80_p8": 81850
+                            }
+                     }
+              ]
+       }
+}

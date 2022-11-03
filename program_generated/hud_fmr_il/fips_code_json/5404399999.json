@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 516,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 915,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 448,
+                                   "One-Bedroom": 519,
+                                   "Two-Bedroom": 644,
+                                   "Three-Bedroom": 886,
+                                   "Four-Bedroom": 889,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 453,
+                                   "One-Bedroom": 513,
+                                   "Two-Bedroom": 643,
+                                   "Three-Bedroom": 901,
+                                   "Four-Bedroom": 1015,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 482,
+                                   "One-Bedroom": 572,
+                                   "Two-Bedroom": 691,
+                                   "Three-Bedroom": 932,
+                                   "Four-Bedroom": 1074,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 495,
+                                   "One-Bedroom": 571,
+                                   "Two-Bedroom": 686,
+                                   "Three-Bedroom": 865,
+                                   "Four-Bedroom": 1035,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston, WV",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 503,
+                                   "One-Bedroom": 591,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 871,
+                                   "Four-Bedroom": 956,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 45500,
+                            "very_low": {
+                                   "il50_p1": 18700,
+                                   "il50_p2": 21400,
+                                   "il50_p3": 24050,
+                                   "il50_p4": 26700,
+                                   "il50_p5": 28850,
+                                   "il50_p6": 31000,
+                                   "il50_p7": 33150,
+                                   "il50_p8": 35250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31000,
+                                   "il30_p7": 33150,
+                                   "il30_p8": 35250
+                            },
+                            "low": {
+                                   "il80_p1": 29950,
+                                   "il80_p2": 34200,
+                                   "il80_p3": 38500,
+                                   "il80_p4": 42750,
+                                   "il80_p5": 46200,
+                                   "il80_p6": 49600,
+                                   "il80_p7": 53050,
+                                   "il80_p8": 56450
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 46400,
+                            "very_low": {
+                                   "il50_p1": 18300,
+                                   "il50_p2": 20900,
+                                   "il50_p3": 23500,
+                                   "il50_p4": 26100,
+                                   "il50_p5": 28200,
+                                   "il50_p6": 30300,
+                                   "il50_p7": 32400,
+                                   "il50_p8": 34500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28200,
+                                   "il30_p6": 30300,
+                                   "il30_p7": 32400,
+                                   "il30_p8": 34500
+                            },
+                            "low": {
+                                   "il80_p1": 29250,
+                                   "il80_p2": 33400,
+                                   "il80_p3": 37600,
+                                   "il80_p4": 41750,
+                                   "il80_p5": 45100,
+                                   "il80_p6": 48450,
+                                   "il80_p7": 51800,
+                                   "il80_p8": 55150
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 47300,
+                            "very_low": {
+                                   "il50_p1": 19000,
+                                   "il50_p2": 21700,
+                                   "il50_p3": 24400,
+                                   "il50_p4": 27100,
+                                   "il50_p5": 29300,
+                                   "il50_p6": 31450,
+                                   "il50_p7": 33650,
+                                   "il50_p8": 35800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29300,
+                                   "il30_p6": 31450,
+                                   "il30_p7": 33650,
+                                   "il30_p8": 35800
+                            },
+                            "low": {
+                                   "il80_p1": 30350,
+                                   "il80_p2": 34700,
+                                   "il80_p3": 39050,
+                                   "il80_p4": 43350,
+                                   "il80_p5": 46850,
+                                   "il80_p6": 50300,
+                                   "il80_p7": 53800,
+                                   "il80_p8": 57250
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 48700,
+                            "very_low": {
+                                   "il50_p1": 19250,
+                                   "il50_p2": 22000,
+                                   "il50_p3": 24750,
+                                   "il50_p4": 27450,
+                                   "il50_p5": 29650,
+                                   "il50_p6": 31850,
+                                   "il50_p7": 34050,
+                                   "il50_p8": 36250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29650,
+                                   "il30_p6": 31850,
+                                   "il30_p7": 34050,
+                                   "il30_p8": 36250
+                            },
+                            "low": {
+                                   "il80_p1": 30750,
+                                   "il80_p2": 35150,
+                                   "il80_p3": 39550,
+                                   "il80_p4": 43900,
+                                   "il80_p5": 47450,
+                                   "il80_p6": 50950,
+                                   "il80_p7": 54450,
+                                   "il80_p8": 57950
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Huntington-Ashland, WV-KY-OH MSA",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 49500,
+                            "very_low": {
+                                   "il50_p1": 19200,
+                                   "il50_p2": 21950,
+                                   "il50_p3": 24700,
+                                   "il50_p4": 27400,
+                                   "il50_p5": 29600,
+                                   "il50_p6": 31800,
+                                   "il50_p7": 34000,
+                                   "il50_p8": 36200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29600,
+                                   "il30_p6": 31800,
+                                   "il30_p7": 34000,
+                                   "il30_p8": 36200
+                            },
+                            "low": {
+                                   "il80_p1": 30700,
+                                   "il80_p2": 35100,
+                                   "il80_p3": 39500,
+                                   "il80_p4": 43850,
+                                   "il80_p5": 47400,
+                                   "il80_p6": 50900,
+                                   "il80_p7": 54400,
+                                   "il80_p8": 57900
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston, WV",
+                            "area_name": "Lincoln County, WV HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 54400,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23750,
+                                   "il50_p3": 26700,
+                                   "il50_p4": 29650,
+                                   "il50_p5": 32050,
+                                   "il50_p6": 34400,
+                                   "il50_p7": 36800,
+                                   "il50_p8": 39150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32050,
+                                   "il30_p6": 34400,
+                                   "il30_p7": 36800,
+                                   "il30_p8": 39150
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47450,
+                                   "il80_p5": 51250,
+                                   "il80_p6": 55050,
+                                   "il80_p7": 58850,
+                                   "il80_p8": 62650
+                            }
+                     }
+              ]
+       }
+}

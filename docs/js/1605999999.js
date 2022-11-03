@@ -25,14 +25,9 @@ new Chart(document.getElementById("1605999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1605999999: Lemhi County, ID"
         },
         "scales": {

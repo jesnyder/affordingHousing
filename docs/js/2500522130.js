@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500522130_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500522130: New Bedford, MA HUD Metro FMR Area"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("1317999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1317999999: Hinesville, GA HUD Metro FMR Area"
         },
         "scales": {

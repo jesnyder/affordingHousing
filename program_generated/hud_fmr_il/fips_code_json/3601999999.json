@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 716,
+                                   "Two-Bedroom": 852,
+                                   "Three-Bedroom": 1098,
+                                   "Four-Bedroom": 1174,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 568,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 808,
+                                   "Three-Bedroom": 1040,
+                                   "Four-Bedroom": 1100,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 659,
+                                   "Two-Bedroom": 810,
+                                   "Three-Bedroom": 1052,
+                                   "Four-Bedroom": 1131,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1168,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 697,
+                                   "Two-Bedroom": 884,
+                                   "Three-Bedroom": 1150,
+                                   "Four-Bedroom": 1266,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 682,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 884,
+                                   "Three-Bedroom": 1134,
+                                   "Four-Bedroom": 1219,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "year": "2017",
+                            "median_income": 69300,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 34000,
+                                   "il50_p5": 36750,
+                                   "il50_p6": 39450,
+                                   "il50_p7": 42200,
+                                   "il50_p8": 44900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14300,
+                                   "il30_p2": 16350,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38100,
+                                   "il80_p2": 43550,
+                                   "il80_p3": 49000,
+                                   "il80_p4": 54400,
+                                   "il80_p5": 58800,
+                                   "il80_p6": 63150,
+                                   "il80_p7": 67500,
+                                   "il80_p8": 71850
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "year": "2018",
+                            "median_income": 63500,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25850,
+                                   "il50_p3": 29100,
+                                   "il50_p4": 32300,
+                                   "il50_p5": 34900,
+                                   "il50_p6": 37500,
+                                   "il50_p7": 40100,
+                                   "il50_p8": 42650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36200,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46550,
+                                   "il80_p4": 51700,
+                                   "il80_p5": 55850,
+                                   "il80_p6": 60000,
+                                   "il80_p7": 64150,
+                                   "il80_p8": 68250
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "year": "2019",
+                            "median_income": 68300,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27350,
+                                   "il50_p3": 30750,
+                                   "il50_p4": 34150,
+                                   "il50_p5": 36900,
+                                   "il50_p6": 39650,
+                                   "il50_p7": 42350,
+                                   "il50_p8": 45100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43750,
+                                   "il80_p3": 49200,
+                                   "il80_p4": 54650,
+                                   "il80_p5": 59050,
+                                   "il80_p6": 63400,
+                                   "il80_p7": 67800,
+                                   "il80_p8": 72150
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "year": "2020",
+                            "median_income": 76800,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29500,
+                                   "il50_p3": 33200,
+                                   "il50_p4": 36850,
+                                   "il50_p5": 39800,
+                                   "il50_p6": 42750,
+                                   "il50_p7": 45700,
+                                   "il50_p8": 48650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 17700,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41300,
+                                   "il80_p2": 47200,
+                                   "il80_p3": 53100,
+                                   "il80_p4": 58950,
+                                   "il80_p5": 63700,
+                                   "il80_p6": 68400,
+                                   "il80_p7": 73100,
+                                   "il80_p8": 77850
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "year": "2021",
+                            "median_income": 71800,
+                            "very_low": {
+                                   "il50_p1": 25150,
+                                   "il50_p2": 28750,
+                                   "il50_p3": 32350,
+                                   "il50_p4": 35900,
+                                   "il50_p5": 38800,
+                                   "il50_p6": 41650,
+                                   "il50_p7": 44550,
+                                   "il50_p8": 47400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57450,
+                                   "il80_p5": 62050,
+                                   "il80_p6": 66650,
+                                   "il80_p7": 71250,
+                                   "il80_p8": 75850
+                            }
+                     },
+                     {
+                            "county_name": "Clinton County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Clinton County, NY",
+                            "year": "2022",
+                            "median_income": 86700,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32150,
+                                   "il50_p3": 36150,
+                                   "il50_p4": 40150,
+                                   "il50_p5": 43400,
+                                   "il50_p6": 46600,
+                                   "il50_p7": 49800,
+                                   "il50_p8": 53000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45000,
+                                   "il80_p2": 51400,
+                                   "il80_p3": 57850,
+                                   "il80_p4": 64250,
+                                   "il80_p5": 69400,
+                                   "il80_p6": 74550,
+                                   "il80_p7": 79700,
+                                   "il80_p8": 84850
+                            }
+                     }
+              ]
+       }
+}

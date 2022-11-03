@@ -25,14 +25,9 @@ new Chart(document.getElementById("1314199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1314199999: Hancock County, GA"
         },
         "scales": {

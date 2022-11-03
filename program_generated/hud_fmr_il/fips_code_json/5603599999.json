@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 680,
+                                   "Two-Bedroom": 784,
+                                   "Three-Bedroom": 1141,
+                                   "Four-Bedroom": 1241,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 608,
+                                   "One-Bedroom": 746,
+                                   "Two-Bedroom": 857,
+                                   "Three-Bedroom": 1247,
+                                   "Four-Bedroom": 1404,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 580,
+                                   "One-Bedroom": 701,
+                                   "Two-Bedroom": 802,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1398,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 586,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 784,
+                                   "Three-Bedroom": 1131,
+                                   "Four-Bedroom": 1376,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 572,
+                                   "One-Bedroom": 621,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1271,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 592,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 1075,
+                                   "Four-Bedroom": 1296,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "year": "2017",
+                            "median_income": 88700,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35500,
+                                   "il50_p3": 39950,
+                                   "il50_p4": 44350,
+                                   "il50_p5": 47900,
+                                   "il50_p6": 51450,
+                                   "il50_p7": 55000,
+                                   "il50_p8": 58550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "year": "2018",
+                            "median_income": 91900,
+                            "very_low": {
+                                   "il50_p1": 32200,
+                                   "il50_p2": 36800,
+                                   "il50_p3": 41400,
+                                   "il50_p4": 45950,
+                                   "il50_p5": 49650,
+                                   "il50_p6": 53350,
+                                   "il50_p7": 57000,
+                                   "il50_p8": 60700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19300,
+                                   "il30_p2": 22050,
+                                   "il30_p3": 24800,
+                                   "il30_p4": 27550,
+                                   "il30_p5": 29800,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "year": "2019",
+                            "median_income": 92400,
+                            "very_low": {
+                                   "il50_p1": 32350,
+                                   "il50_p2": 37000,
+                                   "il50_p3": 41600,
+                                   "il50_p4": 46200,
+                                   "il50_p5": 49900,
+                                   "il50_p6": 53600,
+                                   "il50_p7": 57300,
+                                   "il50_p8": 61000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19400,
+                                   "il30_p2": 22200,
+                                   "il30_p3": 24950,
+                                   "il30_p4": 27700,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 51750,
+                                   "il80_p2": 59150,
+                                   "il80_p3": 66550,
+                                   "il80_p4": 73900,
+                                   "il80_p5": 79850,
+                                   "il80_p6": 85750,
+                                   "il80_p7": 91650,
+                                   "il80_p8": 97550
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "year": "2020",
+                            "median_income": 96800,
+                            "very_low": {
+                                   "il50_p1": 33900,
+                                   "il50_p2": 38750,
+                                   "il50_p3": 43600,
+                                   "il50_p4": 48400,
+                                   "il50_p5": 52300,
+                                   "il50_p6": 56150,
+                                   "il50_p7": 60050,
+                                   "il50_p8": 63900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20350,
+                                   "il30_p2": 23250,
+                                   "il30_p3": 26150,
+                                   "il30_p4": 29050,
+                                   "il30_p5": 31400,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54250,
+                                   "il80_p2": 62000,
+                                   "il80_p3": 69750,
+                                   "il80_p4": 77450,
+                                   "il80_p5": 83650,
+                                   "il80_p6": 89850,
+                                   "il80_p7": 96050,
+                                   "il80_p8": 102250
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "year": "2021",
+                            "median_income": 93300,
+                            "very_low": {
+                                   "il50_p1": 32700,
+                                   "il50_p2": 37350,
+                                   "il50_p3": 42000,
+                                   "il50_p4": 46650,
+                                   "il50_p5": 50400,
+                                   "il50_p6": 54150,
+                                   "il50_p7": 57850,
+                                   "il50_p8": 61600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 25200,
+                                   "il30_p4": 28000,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 52300,
+                                   "il80_p2": 59750,
+                                   "il80_p3": 67200,
+                                   "il80_p4": 74650,
+                                   "il80_p5": 80650,
+                                   "il80_p6": 86600,
+                                   "il80_p7": 92600,
+                                   "il80_p8": 98550
+                            }
+                     },
+                     {
+                            "county_name": "Sublette County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Sublette County, WY",
+                            "year": "2022",
+                            "median_income": 90600,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36250,
+                                   "il50_p3": 40800,
+                                   "il50_p4": 45300,
+                                   "il50_p5": 48950,
+                                   "il50_p6": 52550,
+                                   "il50_p7": 56200,
+                                   "il50_p8": 59800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50750,
+                                   "il80_p2": 58000,
+                                   "il80_p3": 65250,
+                                   "il80_p4": 72500,
+                                   "il80_p5": 78300,
+                                   "il80_p6": 84100,
+                                   "il80_p7": 89900,
+                                   "il80_p8": 95700
+                            }
+                     }
+              ]
+       }
+}

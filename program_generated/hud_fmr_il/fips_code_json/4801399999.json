@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 789,
+                                   "Three-Bedroom": 1033,
+                                   "Four-Bedroom": 1168,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 530,
+                                   "One-Bedroom": 614,
+                                   "Two-Bedroom": 816,
+                                   "Three-Bedroom": 1046,
+                                   "Four-Bedroom": 1186,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 560,
+                                   "One-Bedroom": 645,
+                                   "Two-Bedroom": 853,
+                                   "Three-Bedroom": 1088,
+                                   "Four-Bedroom": 1259,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 683,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1053,
+                                   "Four-Bedroom": 1283,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 773,
+                                   "Two-Bedroom": 881,
+                                   "Three-Bedroom": 1096,
+                                   "Four-Bedroom": 1417,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 640,
+                                   "One-Bedroom": 801,
+                                   "Two-Bedroom": 913,
+                                   "Three-Bedroom": 1129,
+                                   "Four-Bedroom": 1505,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 57800,
+                            "very_low": {
+                                   "il50_p1": 20250,
+                                   "il50_p2": 23150,
+                                   "il50_p3": 26050,
+                                   "il50_p4": 28900,
+                                   "il50_p5": 31250,
+                                   "il50_p6": 33550,
+                                   "il50_p7": 35850,
+                                   "il50_p8": 38150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12150,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35850,
+                                   "il30_p8": 38150
+                            },
+                            "low": {
+                                   "il80_p1": 32400,
+                                   "il80_p2": 37000,
+                                   "il80_p3": 41650,
+                                   "il80_p4": 46250,
+                                   "il80_p5": 49950,
+                                   "il80_p6": 53650,
+                                   "il80_p7": 57350,
+                                   "il80_p8": 61050
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60100,
+                            "very_low": {
+                                   "il50_p1": 21050,
+                                   "il50_p2": 24050,
+                                   "il50_p3": 27050,
+                                   "il50_p4": 30050,
+                                   "il50_p5": 32500,
+                                   "il50_p6": 34900,
+                                   "il50_p7": 37300,
+                                   "il50_p8": 39700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37300,
+                                   "il30_p8": 39700
+                            },
+                            "low": {
+                                   "il80_p1": 33700,
+                                   "il80_p2": 38500,
+                                   "il80_p3": 43300,
+                                   "il80_p4": 48100,
+                                   "il80_p5": 51950,
+                                   "il80_p6": 55800,
+                                   "il80_p7": 59650,
+                                   "il80_p8": 63500
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 62100,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38550,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 62900,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31450,
+                                   "il50_p5": 34000,
+                                   "il50_p6": 36500,
+                                   "il50_p7": 39000,
+                                   "il50_p8": 41550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39000,
+                                   "il30_p8": 41550
+                            },
+                            "low": {
+                                   "il80_p1": 35250,
+                                   "il80_p2": 40250,
+                                   "il80_p3": 45300,
+                                   "il80_p4": 50300,
+                                   "il80_p5": 54350,
+                                   "il80_p6": 58350,
+                                   "il80_p7": 62400,
+                                   "il80_p8": 66400
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 63000,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31500,
+                                   "il50_p5": 34050,
+                                   "il50_p6": 36550,
+                                   "il50_p7": 39100,
+                                   "il50_p8": 41600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13250,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39100,
+                                   "il30_p8": 41600
+                            },
+                            "low": {
+                                   "il80_p1": 35300,
+                                   "il80_p2": 40350,
+                                   "il80_p3": 45400,
+                                   "il80_p4": 50400,
+                                   "il80_p5": 54450,
+                                   "il80_p6": 58500,
+                                   "il80_p7": 62500,
+                                   "il80_p8": 66550
+                            }
+                     },
+                     {
+                            "county_name": "Atascosa County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX",
+                            "area_name": "Atascosa County, TX HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 67800,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 45450
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     }
+              ]
+       }
+}

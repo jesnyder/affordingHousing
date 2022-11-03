@@ -25,14 +25,9 @@ new Chart(document.getElementById("0610799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0610799999: Visalia-Porterville, CA MSA"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("1802999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1802999999: Cincinnati, OH-KY-IN  HUD Metro FMR Area"
         },
         "scales": {

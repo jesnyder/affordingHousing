@@ -25,14 +25,9 @@ new Chart(document.getElementById("2020799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2020799999: Woodson County, KS"
         },
         "scales": {

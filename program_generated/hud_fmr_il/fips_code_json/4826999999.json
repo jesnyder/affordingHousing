@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 764,
+                                   "One-Bedroom": 793,
+                                   "Two-Bedroom": 1004,
+                                   "Three-Bedroom": 1256,
+                                   "Four-Bedroom": 1591,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 762,
+                                   "One-Bedroom": 800,
+                                   "Two-Bedroom": 1008,
+                                   "Three-Bedroom": 1264,
+                                   "Four-Bedroom": 1577,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 757,
+                                   "One-Bedroom": 801,
+                                   "Two-Bedroom": 1007,
+                                   "Three-Bedroom": 1262,
+                                   "Four-Bedroom": 1552,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 731,
+                                   "One-Bedroom": 787,
+                                   "Two-Bedroom": 986,
+                                   "Three-Bedroom": 1229,
+                                   "Four-Bedroom": 1483,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 658,
+                                   "One-Bedroom": 709,
+                                   "Two-Bedroom": 888,
+                                   "Three-Bedroom": 1107,
+                                   "Four-Bedroom": 1335,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 608,
+                                   "One-Bedroom": 652,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1084,
+                                   "Four-Bedroom": 1200,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "year": "2017",
+                            "median_income": 77400,
+                            "very_low": {
+                                   "il50_p1": 23450,
+                                   "il50_p2": 26800,
+                                   "il50_p3": 30150,
+                                   "il50_p4": 33500,
+                                   "il50_p5": 36200,
+                                   "il50_p6": 38900,
+                                   "il50_p7": 41550,
+                                   "il50_p8": 44250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37550,
+                                   "il80_p2": 42900,
+                                   "il80_p3": 48250,
+                                   "il80_p4": 53600,
+                                   "il80_p5": 57900,
+                                   "il80_p6": 62200,
+                                   "il80_p7": 66500,
+                                   "il80_p8": 70800
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "year": "2018",
+                            "median_income": 81400,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29850,
+                                   "il50_p3": 33600,
+                                   "il50_p4": 37300,
+                                   "il50_p5": 40300,
+                                   "il50_p6": 43300,
+                                   "il50_p7": 46300,
+                                   "il50_p8": 49250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41800,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53750,
+                                   "il80_p4": 59700,
+                                   "il80_p5": 64500,
+                                   "il80_p6": 69300,
+                                   "il80_p7": 74050,
+                                   "il80_p8": 78850
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "year": "2019",
+                            "median_income": 84500,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 41000,
+                                   "il50_p5": 44300,
+                                   "il50_p6": 47600,
+                                   "il50_p7": 50850,
+                                   "il50_p8": 54150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17250,
+                                   "il30_p2": 19700,
+                                   "il30_p3": 22150,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 45950,
+                                   "il80_p2": 52500,
+                                   "il80_p3": 59050,
+                                   "il80_p4": 65600,
+                                   "il80_p5": 70850,
+                                   "il80_p6": 76100,
+                                   "il80_p7": 81350,
+                                   "il80_p8": 86600
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "year": "2020",
+                            "median_income": 86900,
+                            "very_low": {
+                                   "il50_p1": 30450,
+                                   "il50_p2": 34800,
+                                   "il50_p3": 39150,
+                                   "il50_p4": 43450,
+                                   "il50_p5": 46950,
+                                   "il50_p6": 50450,
+                                   "il50_p7": 53900,
+                                   "il50_p8": 57400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18250,
+                                   "il30_p2": 20850,
+                                   "il30_p3": 23450,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48650,
+                                   "il80_p2": 55600,
+                                   "il80_p3": 62550,
+                                   "il80_p4": 69500,
+                                   "il80_p5": 75100,
+                                   "il80_p6": 80650,
+                                   "il80_p7": 86200,
+                                   "il80_p8": 91750
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "year": "2021",
+                            "median_income": 78300,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33050,
+                                   "il50_p3": 37200,
+                                   "il50_p4": 41300,
+                                   "il50_p5": 44650,
+                                   "il50_p6": 47950,
+                                   "il50_p7": 51250,
+                                   "il50_p8": 54550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 22350,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46300,
+                                   "il80_p2": 52900,
+                                   "il80_p3": 59500,
+                                   "il80_p4": 66100,
+                                   "il80_p5": 71400,
+                                   "il80_p6": 76700,
+                                   "il80_p7": 82000,
+                                   "il80_p8": 87300
+                            }
+                     },
+                     {
+                            "county_name": "King County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "King County, TX",
+                            "year": "2022",
+                            "median_income": 72900,
+                            "very_low": {
+                                   "il50_p1": 27500,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35350,
+                                   "il50_p4": 39250,
+                                   "il50_p5": 42400,
+                                   "il50_p6": 45550,
+                                   "il50_p7": 48700,
+                                   "il50_p8": 51850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16500,
+                                   "il30_p2": 18850,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44000,
+                                   "il80_p2": 50250,
+                                   "il80_p3": 56550,
+                                   "il80_p4": 62800,
+                                   "il80_p5": 67850,
+                                   "il80_p6": 72850,
+                                   "il80_p7": 77900,
+                                   "il80_p8": 82900
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2301104475_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2301104475: Kennebec County, ME"
         },
         "scales": {

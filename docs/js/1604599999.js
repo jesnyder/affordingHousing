@@ -25,14 +25,9 @@ new Chart(document.getElementById("1604599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1604599999: Gem County, ID HUD Metro FMR Area"
         },
         "scales": {

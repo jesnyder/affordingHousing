@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 589,
+                                   "Two-Bedroom": 725,
+                                   "Three-Bedroom": 907,
+                                   "Four-Bedroom": 1025,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 584,
+                                   "One-Bedroom": 623,
+                                   "Two-Bedroom": 774,
+                                   "Three-Bedroom": 970,
+                                   "Four-Bedroom": 1054,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 600,
+                                   "One-Bedroom": 638,
+                                   "Two-Bedroom": 796,
+                                   "Three-Bedroom": 997,
+                                   "Four-Bedroom": 1076,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 616,
+                                   "Two-Bedroom": 770,
+                                   "Three-Bedroom": 960,
+                                   "Four-Bedroom": 1043,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 574,
+                                   "One-Bedroom": 647,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1003,
+                                   "Four-Bedroom": 1093,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA",
+                            "area_name": "Altoona, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 552,
+                                   "One-Bedroom": 677,
+                                   "Two-Bedroom": 829,
+                                   "Three-Bedroom": 1025,
+                                   "Four-Bedroom": 1124,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "year": "2017",
+                            "median_income": 62700,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24650,
+                                   "il50_p3": 27750,
+                                   "il50_p4": 30800,
+                                   "il50_p5": 33300,
+                                   "il50_p6": 35750,
+                                   "il50_p7": 38200,
+                                   "il50_p8": 40700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40700
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39450,
+                                   "il80_p3": 44400,
+                                   "il80_p4": 49300,
+                                   "il80_p5": 53250,
+                                   "il80_p6": 57200,
+                                   "il80_p7": 61150,
+                                   "il80_p8": 65100
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "year": "2018",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36500,
+                                   "il80_p2": 41700,
+                                   "il80_p3": 46900,
+                                   "il80_p4": 52100,
+                                   "il80_p5": 56300,
+                                   "il80_p6": 60450,
+                                   "il80_p7": 64650,
+                                   "il80_p8": 68800
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "year": "2019",
+                            "median_income": 63000,
+                            "very_low": {
+                                   "il50_p1": 22150,
+                                   "il50_p2": 25300,
+                                   "il50_p3": 28450,
+                                   "il50_p4": 31600,
+                                   "il50_p5": 34150,
+                                   "il50_p6": 36700,
+                                   "il50_p7": 39200,
+                                   "il50_p8": 41750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 41750
+                            },
+                            "low": {
+                                   "il80_p1": 35400,
+                                   "il80_p2": 40450,
+                                   "il80_p3": 45500,
+                                   "il80_p4": 50550,
+                                   "il80_p5": 54600,
+                                   "il80_p6": 58650,
+                                   "il80_p7": 62700,
+                                   "il80_p8": 66750
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "year": "2020",
+                            "median_income": 60000,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42850
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA MSA",
+                            "area_name": "Altoona, PA MSA",
+                            "year": "2021",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54450,
+                                   "il80_p5": 58850,
+                                   "il80_p6": 63200,
+                                   "il80_p7": 67550,
+                                   "il80_p8": 71900
+                            }
+                     },
+                     {
+                            "county_name": "Blair County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Altoona, PA",
+                            "area_name": "Altoona, PA MSA",
+                            "year": "2022",
+                            "median_income": 72400,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36450,
+                                   "il50_p5": 39400,
+                                   "il50_p6": 42300,
+                                   "il50_p7": 45200,
+                                   "il50_p8": 48150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40850,
+                                   "il80_p2": 46650,
+                                   "il80_p3": 52500,
+                                   "il80_p4": 58300,
+                                   "il80_p5": 63000,
+                                   "il80_p6": 67650,
+                                   "il80_p7": 72300,
+                                   "il80_p8": 77000
+                            }
+                     }
+              ]
+       }
+}

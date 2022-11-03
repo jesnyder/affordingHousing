@@ -25,14 +25,9 @@ new Chart(document.getElementById("1914199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1914199999: O'Brien County, IA"
         },
         "scales": {

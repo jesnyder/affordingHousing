@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 626,
+                                   "One-Bedroom": 696,
+                                   "Two-Bedroom": 853,
+                                   "Three-Bedroom": 1127,
+                                   "Four-Bedroom": 1232,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 693,
+                                   "One-Bedroom": 728,
+                                   "Two-Bedroom": 891,
+                                   "Three-Bedroom": 1168,
+                                   "Four-Bedroom": 1365,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 742,
+                                   "One-Bedroom": 747,
+                                   "Two-Bedroom": 908,
+                                   "Three-Bedroom": 1178,
+                                   "Four-Bedroom": 1443,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 762,
+                                   "One-Bedroom": 765,
+                                   "Two-Bedroom": 923,
+                                   "Three-Bedroom": 1175,
+                                   "Four-Bedroom": 1512,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 897,
+                                   "One-Bedroom": 899,
+                                   "Two-Bedroom": 1085,
+                                   "Three-Bedroom": 1363,
+                                   "Four-Bedroom": 1774,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX",
+                            "area_name": "Tyler, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 852,
+                                   "One-Bedroom": 857,
+                                   "Two-Bedroom": 1037,
+                                   "Three-Bedroom": 1308,
+                                   "Four-Bedroom": 1669,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "year": "2017",
+                            "median_income": 58000,
+                            "very_low": {
+                                   "il50_p1": 20450,
+                                   "il50_p2": 23350,
+                                   "il50_p3": 26250,
+                                   "il50_p4": 29150,
+                                   "il50_p5": 31500,
+                                   "il50_p6": 33850,
+                                   "il50_p7": 36150,
+                                   "il50_p8": 38500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36150,
+                                   "il30_p8": 38500
+                            },
+                            "low": {
+                                   "il80_p1": 32700,
+                                   "il80_p2": 37350,
+                                   "il80_p3": 42000,
+                                   "il80_p4": 46650,
+                                   "il80_p5": 50400,
+                                   "il80_p6": 54150,
+                                   "il80_p7": 57850,
+                                   "il80_p8": 61600
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "year": "2018",
+                            "median_income": 64000,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 32000,
+                                   "il50_p5": 34600,
+                                   "il50_p6": 37150,
+                                   "il50_p7": 39700,
+                                   "il50_p8": 42250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42250
+                            },
+                            "low": {
+                                   "il80_p1": 35850,
+                                   "il80_p2": 41000,
+                                   "il80_p3": 46100,
+                                   "il80_p4": 51200,
+                                   "il80_p5": 55300,
+                                   "il80_p6": 59400,
+                                   "il80_p7": 63500,
+                                   "il80_p8": 67600
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "year": "2019",
+                            "median_income": 70900,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31700,
+                                   "il50_p4": 35200,
+                                   "il50_p5": 38050,
+                                   "il50_p6": 40850,
+                                   "il50_p7": 43650,
+                                   "il50_p8": 46500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39450,
+                                   "il80_p2": 45050,
+                                   "il80_p3": 50700,
+                                   "il80_p4": 56300,
+                                   "il80_p5": 60850,
+                                   "il80_p6": 65350,
+                                   "il80_p7": 69850,
+                                   "il80_p8": 74350
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "year": "2020",
+                            "median_income": 65600,
+                            "very_low": {
+                                   "il50_p1": 23450,
+                                   "il50_p2": 26800,
+                                   "il50_p3": 30150,
+                                   "il50_p4": 33450,
+                                   "il50_p5": 36150,
+                                   "il50_p6": 38850,
+                                   "il50_p7": 41500,
+                                   "il50_p8": 44200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14050,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 37450,
+                                   "il80_p2": 42800,
+                                   "il80_p3": 48150,
+                                   "il80_p4": 53500,
+                                   "il80_p5": 57800,
+                                   "il80_p6": 62100,
+                                   "il80_p7": 66350,
+                                   "il80_p8": 70650
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX MSA",
+                            "area_name": "Tyler, TX MSA",
+                            "year": "2021",
+                            "median_income": 72900,
+                            "very_low": {
+                                   "il50_p1": 24600,
+                                   "il50_p2": 28100,
+                                   "il50_p3": 31600,
+                                   "il50_p4": 35100,
+                                   "il50_p5": 37950,
+                                   "il50_p6": 40750,
+                                   "il50_p7": 43550,
+                                   "il50_p8": 46350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39350,
+                                   "il80_p2": 44950,
+                                   "il80_p3": 50550,
+                                   "il80_p4": 56150,
+                                   "il80_p5": 60650,
+                                   "il80_p6": 65150,
+                                   "il80_p7": 69650,
+                                   "il80_p8": 74150
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Tyler, TX",
+                            "area_name": "Tyler, TX MSA",
+                            "year": "2022",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 27500,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35350,
+                                   "il50_p4": 39250,
+                                   "il50_p5": 42400,
+                                   "il50_p6": 45550,
+                                   "il50_p7": 48700,
+                                   "il50_p8": 51850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16500,
+                                   "il30_p2": 18850,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44000,
+                                   "il80_p2": 50250,
+                                   "il80_p3": 56550,
+                                   "il80_p4": 62800,
+                                   "il80_p5": 67850,
+                                   "il80_p6": 72850,
+                                   "il80_p7": 77900,
+                                   "il80_p8": 82900
+                            }
+                     }
+              ]
+       }
+}

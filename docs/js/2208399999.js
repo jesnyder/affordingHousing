@@ -25,14 +25,9 @@ new Chart(document.getElementById("2208399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2208399999: Richland Parish, LA"
         },
         "scales": {

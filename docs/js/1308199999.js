@@ -25,14 +25,9 @@ new Chart(document.getElementById("1308199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1308199999: Crisp County, GA"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 528,
+                                   "One-Bedroom": 557,
+                                   "Two-Bedroom": 709,
+                                   "Three-Bedroom": 1004,
+                                   "Four-Bedroom": 1103,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 747,
+                                   "Three-Bedroom": 1036,
+                                   "Four-Bedroom": 1063,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 480,
+                                   "One-Bedroom": 570,
+                                   "Two-Bedroom": 739,
+                                   "Three-Bedroom": 1026,
+                                   "Four-Bedroom": 1049,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 489,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 731,
+                                   "Three-Bedroom": 1036,
+                                   "Four-Bedroom": 1212,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 570,
+                                   "One-Bedroom": 637,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1196,
+                                   "Four-Bedroom": 1447,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 544,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 795,
+                                   "Three-Bedroom": 1129,
+                                   "Four-Bedroom": 1361,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 54400,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26750,
+                                   "il50_p4": 29700,
+                                   "il50_p5": 32100,
+                                   "il50_p6": 34500,
+                                   "il50_p7": 36850,
+                                   "il50_p8": 39250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36850,
+                                   "il30_p8": 39250
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47500,
+                                   "il80_p5": 51300,
+                                   "il80_p6": 55100,
+                                   "il80_p7": 58900,
+                                   "il80_p8": 62700
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 54600,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 57400,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25750,
+                                   "il50_p3": 28950,
+                                   "il50_p4": 32150,
+                                   "il50_p5": 34750,
+                                   "il50_p6": 37300,
+                                   "il50_p7": 39900,
+                                   "il50_p8": 42450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42450
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51450,
+                                   "il80_p5": 55600,
+                                   "il80_p6": 59700,
+                                   "il80_p7": 63800,
+                                   "il80_p8": 67950
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 63500,
+                            "very_low": {
+                                   "il50_p1": 23600,
+                                   "il50_p2": 26950,
+                                   "il50_p3": 30300,
+                                   "il50_p4": 33650,
+                                   "il50_p5": 36350,
+                                   "il50_p6": 39050,
+                                   "il50_p7": 41750,
+                                   "il50_p8": 44450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 37700,
+                                   "il80_p2": 43100,
+                                   "il80_p3": 48500,
+                                   "il80_p4": 53850,
+                                   "il80_p5": 58200,
+                                   "il80_p6": 62500,
+                                   "il80_p7": 66800,
+                                   "il80_p8": 71100
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA MSA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28250,
+                                   "il50_p3": 31800,
+                                   "il50_p4": 35300,
+                                   "il50_p5": 38150,
+                                   "il50_p6": 40950,
+                                   "il50_p7": 43800,
+                                   "il50_p8": 46600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39550,
+                                   "il80_p2": 45200,
+                                   "il80_p3": 50850,
+                                   "il80_p4": 56500,
+                                   "il80_p5": 61050,
+                                   "il80_p6": 65550,
+                                   "il80_p7": 70100,
+                                   "il80_p8": 74600
+                            }
+                     },
+                     {
+                            "county_name": "Stevens County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Spokane-Spokane Valley, WA",
+                            "area_name": "Stevens County, WA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 71200,
+                            "very_low": {
+                                   "il50_p1": 27650,
+                                   "il50_p2": 31600,
+                                   "il50_p3": 35550,
+                                   "il50_p4": 39450,
+                                   "il50_p5": 42650,
+                                   "il50_p6": 45800,
+                                   "il50_p7": 48950,
+                                   "il50_p8": 52100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44200,
+                                   "il80_p2": 50500,
+                                   "il80_p3": 56800,
+                                   "il80_p4": 63100,
+                                   "il80_p5": 68150,
+                                   "il80_p6": 73200,
+                                   "il80_p7": 78250,
+                                   "il80_p8": 83300
+                            }
+                     }
+              ]
+       }
+}

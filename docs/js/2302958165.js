@@ -25,14 +25,9 @@ new Chart(document.getElementById("2302958165_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2302958165: Washington County, ME"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 357,
+                                   "One-Bedroom": 374,
+                                   "Two-Bedroom": 432,
+                                   "Three-Bedroom": 629,
+                                   "Four-Bedroom": 631,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 330,
+                                   "One-Bedroom": 340,
+                                   "Two-Bedroom": 390,
+                                   "Three-Bedroom": 566,
+                                   "Four-Bedroom": 590,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 355,
+                                   "One-Bedroom": 359,
+                                   "Two-Bedroom": 417,
+                                   "Three-Bedroom": 581,
+                                   "Four-Bedroom": 665,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 359,
+                                   "One-Bedroom": 370,
+                                   "Two-Bedroom": 421,
+                                   "Three-Bedroom": 579,
+                                   "Four-Bedroom": 698,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 393,
+                                   "One-Bedroom": 402,
+                                   "Two-Bedroom": 458,
+                                   "Three-Bedroom": 596,
+                                   "Four-Bedroom": 768,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR",
+                            "area_name": "Arecibo, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 399,
+                                   "One-Bedroom": 406,
+                                   "Two-Bedroom": 463,
+                                   "Three-Bedroom": 617,
+                                   "Four-Bedroom": 731,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 17900,
+                            "very_low": {
+                                   "il50_p1": 8850,
+                                   "il50_p2": 10100,
+                                   "il50_p3": 11350,
+                                   "il50_p4": 12600,
+                                   "il50_p5": 13650,
+                                   "il50_p6": 14650,
+                                   "il50_p7": 15650,
+                                   "il50_p8": 16650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5300,
+                                   "il30_p2": 6050,
+                                   "il30_p3": 6800,
+                                   "il30_p4": 7550,
+                                   "il30_p5": 8200,
+                                   "il30_p6": 8800,
+                                   "il30_p7": 9400,
+                                   "il30_p8": 10000
+                            },
+                            "low": {
+                                   "il80_p1": 14150,
+                                   "il80_p2": 16150,
+                                   "il80_p3": 18150,
+                                   "il80_p4": 20150,
+                                   "il80_p5": 21800,
+                                   "il80_p6": 23400,
+                                   "il80_p7": 25000,
+                                   "il80_p8": 26600
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 18300,
+                            "very_low": {
+                                   "il50_p1": 8400,
+                                   "il50_p2": 9600,
+                                   "il50_p3": 10800,
+                                   "il50_p4": 12000,
+                                   "il50_p5": 13000,
+                                   "il50_p6": 13950,
+                                   "il50_p7": 14900,
+                                   "il50_p8": 15850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5050,
+                                   "il30_p2": 5800,
+                                   "il30_p3": 6500,
+                                   "il30_p4": 7200,
+                                   "il30_p5": 7800,
+                                   "il30_p6": 8400,
+                                   "il30_p7": 8950,
+                                   "il30_p8": 9550
+                            },
+                            "low": {
+                                   "il80_p1": 13450,
+                                   "il80_p2": 15400,
+                                   "il80_p3": 17300,
+                                   "il80_p4": 19200,
+                                   "il80_p5": 20750,
+                                   "il80_p6": 22300,
+                                   "il80_p7": 23850,
+                                   "il80_p8": 25350
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 18300,
+                            "very_low": {
+                                   "il50_p1": 8550,
+                                   "il50_p2": 9750,
+                                   "il50_p3": 10950,
+                                   "il50_p4": 12150,
+                                   "il50_p5": 13150,
+                                   "il50_p6": 14100,
+                                   "il50_p7": 15100,
+                                   "il50_p8": 16050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5150,
+                                   "il30_p2": 5850,
+                                   "il30_p3": 6600,
+                                   "il30_p4": 7300,
+                                   "il30_p5": 7900,
+                                   "il30_p6": 8500,
+                                   "il30_p7": 9100,
+                                   "il30_p8": 9650
+                            },
+                            "low": {
+                                   "il80_p1": 13650,
+                                   "il80_p2": 15600,
+                                   "il80_p3": 17550,
+                                   "il80_p4": 19450,
+                                   "il80_p5": 21050,
+                                   "il80_p6": 22600,
+                                   "il80_p7": 24150,
+                                   "il80_p8": 25700
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 20300,
+                            "very_low": {
+                                   "il50_p1": 8600,
+                                   "il50_p2": 9800,
+                                   "il50_p3": 11050,
+                                   "il50_p4": 12250,
+                                   "il50_p5": 13250,
+                                   "il50_p6": 14250,
+                                   "il50_p7": 15200,
+                                   "il50_p8": 16200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5150,
+                                   "il30_p2": 5900,
+                                   "il30_p3": 6650,
+                                   "il30_p4": 7350,
+                                   "il30_p5": 7950,
+                                   "il30_p6": 8550,
+                                   "il30_p7": 9150,
+                                   "il30_p8": 9750
+                            },
+                            "low": {
+                                   "il80_p1": 13750,
+                                   "il80_p2": 15700,
+                                   "il80_p3": 17650,
+                                   "il80_p4": 19600,
+                                   "il80_p5": 21200,
+                                   "il80_p6": 22750,
+                                   "il80_p7": 24350,
+                                   "il80_p8": 25900
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Quebradillas Municipio, PR HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 20900,
+                            "very_low": {
+                                   "il50_p1": 9000,
+                                   "il50_p2": 10300,
+                                   "il50_p3": 11600,
+                                   "il50_p4": 12850,
+                                   "il50_p5": 13900,
+                                   "il50_p6": 14950,
+                                   "il50_p7": 15950,
+                                   "il50_p8": 17000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5400,
+                                   "il30_p2": 6200,
+                                   "il30_p3": 6950,
+                                   "il30_p4": 7700,
+                                   "il30_p5": 8350,
+                                   "il30_p6": 8950,
+                                   "il30_p7": 9550,
+                                   "il30_p8": 10200
+                            },
+                            "low": {
+                                   "il80_p1": 14400,
+                                   "il80_p2": 16450,
+                                   "il80_p3": 18500,
+                                   "il80_p4": 20550,
+                                   "il80_p5": 22200,
+                                   "il80_p6": 23850,
+                                   "il80_p7": 25500,
+                                   "il80_p8": 27150
+                            }
+                     },
+                     {
+                            "county_name": "Quebradillas Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR",
+                            "area_name": "Arecibo, PR MSA",
+                            "year": "2022",
+                            "median_income": 26900,
+                            "very_low": {
+                                   "il50_p1": 9450,
+                                   "il50_p2": 10800,
+                                   "il50_p3": 12150,
+                                   "il50_p4": 13500,
+                                   "il50_p5": 14600,
+                                   "il50_p6": 15700,
+                                   "il50_p7": 16750,
+                                   "il50_p8": 17850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5700,
+                                   "il30_p2": 6500,
+                                   "il30_p3": 7300,
+                                   "il30_p4": 8100,
+                                   "il30_p5": 8750,
+                                   "il30_p6": 9400,
+                                   "il30_p7": 10050,
+                                   "il30_p8": 10700
+                            },
+                            "low": {
+                                   "il80_p1": 15150,
+                                   "il80_p2": 17300,
+                                   "il80_p3": 19450,
+                                   "il80_p4": 21600,
+                                   "il80_p5": 23350,
+                                   "il80_p6": 25100,
+                                   "il80_p7": 26800,
+                                   "il80_p8": 28550
+                            }
+                     }
+              ]
+       }
+}

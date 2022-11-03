@@ -25,14 +25,9 @@ new Chart(document.getElementById("1312999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1312999999: Gordon County, GA"
         },
         "scales": {

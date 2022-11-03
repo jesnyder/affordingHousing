@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 608,
+                                   "One-Bedroom": 631,
+                                   "Two-Bedroom": 798,
+                                   "Three-Bedroom": 1117,
+                                   "Four-Bedroom": 1300,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 654,
+                                   "Two-Bedroom": 813,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1185,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 622,
+                                   "One-Bedroom": 637,
+                                   "Two-Bedroom": 828,
+                                   "Three-Bedroom": 1157,
+                                   "Four-Bedroom": 1161,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 598,
+                                   "One-Bedroom": 635,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1163,
+                                   "Four-Bedroom": 1212,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 613,
+                                   "One-Bedroom": 688,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1196,
+                                   "Four-Bedroom": 1236,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 635,
+                                   "One-Bedroom": 753,
+                                   "Two-Bedroom": 858,
+                                   "Three-Bedroom": 1219,
+                                   "Four-Bedroom": 1253,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "year": "2017",
+                            "median_income": 65300,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "year": "2018",
+                            "median_income": 71400,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32150,
+                                   "il50_p4": 35700,
+                                   "il50_p5": 38600,
+                                   "il50_p6": 41450,
+                                   "il50_p7": 44300,
+                                   "il50_p8": 47150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17150,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40000,
+                                   "il80_p2": 45700,
+                                   "il80_p3": 51400,
+                                   "il80_p4": 57100,
+                                   "il80_p5": 61700,
+                                   "il80_p6": 66250,
+                                   "il80_p7": 70850,
+                                   "il80_p8": 75400
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "year": "2019",
+                            "median_income": 73300,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29350,
+                                   "il50_p3": 33000,
+                                   "il50_p4": 36650,
+                                   "il50_p5": 39600,
+                                   "il50_p6": 42550,
+                                   "il50_p7": 45450,
+                                   "il50_p8": 48400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 46950,
+                                   "il80_p3": 52800,
+                                   "il80_p4": 58650,
+                                   "il80_p5": 63350,
+                                   "il80_p6": 68050,
+                                   "il80_p7": 72750,
+                                   "il80_p8": 77450
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "year": "2020",
+                            "median_income": 75300,
+                            "very_low": {
+                                   "il50_p1": 26400,
+                                   "il50_p2": 30150,
+                                   "il50_p3": 33900,
+                                   "il50_p4": 37650,
+                                   "il50_p5": 40700,
+                                   "il50_p6": 43700,
+                                   "il50_p7": 46700,
+                                   "il50_p8": 49700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15850,
+                                   "il30_p2": 18100,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42200,
+                                   "il80_p2": 48200,
+                                   "il80_p3": 54250,
+                                   "il80_p4": 60250,
+                                   "il80_p5": 65100,
+                                   "il80_p6": 69900,
+                                   "il80_p7": 74750,
+                                   "il80_p8": 79550
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "year": "2021",
+                            "median_income": 73700,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29500,
+                                   "il50_p3": 33200,
+                                   "il50_p4": 36850,
+                                   "il50_p5": 39800,
+                                   "il50_p6": 42750,
+                                   "il50_p7": 45700,
+                                   "il50_p8": 48650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 17700,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41300,
+                                   "il80_p2": 47200,
+                                   "il80_p3": 53100,
+                                   "il80_p4": 58950,
+                                   "il80_p5": 63700,
+                                   "il80_p6": 68400,
+                                   "il80_p7": 73100,
+                                   "il80_p8": 77850
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, TX",
+                            "year": "2022",
+                            "median_income": 81800,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65450,
+                                   "il80_p5": 70700,
+                                   "il80_p6": 75950,
+                                   "il80_p7": 81200,
+                                   "il80_p8": 86400
+                            }
+                     }
+              ]
+       }
+}

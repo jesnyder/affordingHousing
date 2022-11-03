@@ -25,14 +25,9 @@ new Chart(document.getElementById("2502333920_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2502333920: Brockton, MA HUD Metro FMR Area"
         },
         "scales": {

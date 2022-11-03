@@ -25,14 +25,9 @@ new Chart(document.getElementById("2015799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2015799999: Republic County, KS"
         },
         "scales": {

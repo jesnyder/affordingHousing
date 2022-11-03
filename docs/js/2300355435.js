@@ -25,14 +25,9 @@ new Chart(document.getElementById("2300355435_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2300355435: Aroostook County, ME"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("1209999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1209999999: West Palm Beach-Boca Raton, FL HUD Metro FMR Area"
         },
         "scales": {

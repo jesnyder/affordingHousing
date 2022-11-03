@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500304545_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500304545: Berkshire County, MA (part) HUD Metro FMR Area"
         },
         "scales": {

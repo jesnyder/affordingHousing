@@ -25,14 +25,9 @@ new Chart(document.getElementById("1711199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1711199999: Chicago-Joliet-Naperville, IL HUD Metro FMR Area"
         },
         "scales": {

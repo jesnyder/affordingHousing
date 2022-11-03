@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 468,
+                                   "One-Bedroom": 542,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 957,
+                                   "Four-Bedroom": 1098,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 473,
+                                   "One-Bedroom": 556,
+                                   "Two-Bedroom": 689,
+                                   "Three-Bedroom": 943,
+                                   "Four-Bedroom": 1142,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 478,
+                                   "One-Bedroom": 556,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 963,
+                                   "Four-Bedroom": 1182,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 548,
+                                   "One-Bedroom": 552,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 985,
+                                   "Four-Bedroom": 1172,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 500,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 1028,
+                                   "Four-Bedroom": 1155,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wausau-Weston, WI",
+                            "area_name": "Lincoln County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 503,
+                                   "One-Bedroom": 584,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 1055,
+                                   "Four-Bedroom": 1138,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "year": "2017",
+                            "median_income": 63500,
+                            "very_low": {
+                                   "il50_p1": 22250,
+                                   "il50_p2": 25400,
+                                   "il50_p3": 28600,
+                                   "il50_p4": 31750,
+                                   "il50_p5": 34300,
+                                   "il50_p6": 36850,
+                                   "il50_p7": 39400,
+                                   "il50_p8": 41950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13350,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35600,
+                                   "il80_p2": 40650,
+                                   "il80_p3": 45750,
+                                   "il80_p4": 50800,
+                                   "il80_p5": 54900,
+                                   "il80_p6": 58950,
+                                   "il80_p7": 63000,
+                                   "il80_p8": 67100
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "year": "2018",
+                            "median_income": 65300,
+                            "very_low": {
+                                   "il50_p1": 23750,
+                                   "il50_p2": 27150,
+                                   "il50_p3": 30550,
+                                   "il50_p4": 33900,
+                                   "il50_p5": 36650,
+                                   "il50_p6": 39350,
+                                   "il50_p7": 42050,
+                                   "il50_p8": 44750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38000,
+                                   "il80_p2": 43400,
+                                   "il80_p3": 48850,
+                                   "il80_p4": 54250,
+                                   "il80_p5": 58600,
+                                   "il80_p6": 62950,
+                                   "il80_p7": 67300,
+                                   "il80_p8": 71650
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "year": "2019",
+                            "median_income": 68000,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "year": "2020",
+                            "median_income": 71700,
+                            "very_low": {
+                                   "il50_p1": 25100,
+                                   "il50_p2": 28700,
+                                   "il50_p3": 32300,
+                                   "il50_p4": 35850,
+                                   "il50_p5": 38750,
+                                   "il50_p6": 41600,
+                                   "il50_p7": 44500,
+                                   "il50_p8": 47350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40150,
+                                   "il80_p2": 45900,
+                                   "il80_p3": 51650,
+                                   "il80_p4": 57350,
+                                   "il80_p5": 61950,
+                                   "il80_p6": 66550,
+                                   "il80_p7": 71150,
+                                   "il80_p8": 75750
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Lincoln County, WI",
+                            "year": "2021",
+                            "median_income": 73200,
+                            "very_low": {
+                                   "il50_p1": 25650,
+                                   "il50_p2": 29300,
+                                   "il50_p3": 32950,
+                                   "il50_p4": 36600,
+                                   "il50_p5": 39550,
+                                   "il50_p6": 42500,
+                                   "il50_p7": 45400,
+                                   "il50_p8": 48350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41000,
+                                   "il80_p2": 46850,
+                                   "il80_p3": 52700,
+                                   "il80_p4": 58550,
+                                   "il80_p5": 63250,
+                                   "il80_p6": 67950,
+                                   "il80_p7": 72650,
+                                   "il80_p8": 77300
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wausau-Weston, WI",
+                            "area_name": "Lincoln County, WI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 81500,
+                            "very_low": {
+                                   "il50_p1": 28550,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36700,
+                                   "il50_p4": 40750,
+                                   "il50_p5": 44050,
+                                   "il50_p6": 47300,
+                                   "il50_p7": 50550,
+                                   "il50_p8": 53800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45650,
+                                   "il80_p2": 52200,
+                                   "il80_p3": 58700,
+                                   "il80_p4": 65200,
+                                   "il80_p5": 70450,
+                                   "il80_p6": 75650,
+                                   "il80_p7": 80850,
+                                   "il80_p8": 86100
+                            }
+                     }
+              ]
+       }
+}

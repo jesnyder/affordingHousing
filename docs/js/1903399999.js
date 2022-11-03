@@ -25,14 +25,9 @@ new Chart(document.getElementById("1903399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1903399999: Cerro Gordo County, IA"
         },
         "scales": {

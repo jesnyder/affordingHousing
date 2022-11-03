@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 622,
+                                   "One-Bedroom": 722,
+                                   "Two-Bedroom": 833,
+                                   "Three-Bedroom": 1213,
+                                   "Four-Bedroom": 1383,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 745,
+                                   "Two-Bedroom": 856,
+                                   "Three-Bedroom": 1236,
+                                   "Four-Bedroom": 1350,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 693,
+                                   "One-Bedroom": 816,
+                                   "Two-Bedroom": 934,
+                                   "Three-Bedroom": 1350,
+                                   "Four-Bedroom": 1418,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 735,
+                                   "Two-Bedroom": 841,
+                                   "Three-Bedroom": 1215,
+                                   "Four-Bedroom": 1277,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 683,
+                                   "One-Bedroom": 779,
+                                   "Two-Bedroom": 906,
+                                   "Three-Bedroom": 1297,
+                                   "Four-Bedroom": 1420,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Aransas County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 730,
+                                   "One-Bedroom": 844,
+                                   "Two-Bedroom": 986,
+                                   "Three-Bedroom": 1401,
+                                   "Four-Bedroom": 1440,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 51800,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21850,
+                                   "il50_p3": 24600,
+                                   "il50_p4": 27300,
+                                   "il50_p5": 29500,
+                                   "il50_p6": 31700,
+                                   "il50_p7": 33900,
+                                   "il50_p8": 36050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31700,
+                                   "il30_p7": 33900,
+                                   "il30_p8": 36050
+                            },
+                            "low": {
+                                   "il80_p1": 30600,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39350,
+                                   "il80_p4": 43700,
+                                   "il80_p5": 47200,
+                                   "il80_p6": 50700,
+                                   "il80_p7": 54200,
+                                   "il80_p8": 57700
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 54000,
+                            "very_low": {
+                                   "il50_p1": 19800,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25450,
+                                   "il50_p4": 28250,
+                                   "il50_p5": 30550,
+                                   "il50_p6": 32800,
+                                   "il50_p7": 35050,
+                                   "il50_p8": 37300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32800,
+                                   "il30_p7": 35050,
+                                   "il30_p8": 37300
+                            },
+                            "low": {
+                                   "il80_p1": 31650,
+                                   "il80_p2": 36200,
+                                   "il80_p3": 40700,
+                                   "il80_p4": 45200,
+                                   "il80_p5": 48850,
+                                   "il80_p6": 52450,
+                                   "il80_p7": 56050,
+                                   "il80_p8": 59700
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 59600,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23850,
+                                   "il50_p3": 26850,
+                                   "il50_p4": 29800,
+                                   "il50_p5": 32200,
+                                   "il50_p6": 34600,
+                                   "il50_p7": 37000,
+                                   "il50_p8": 39350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37000,
+                                   "il30_p8": 39350
+                            },
+                            "low": {
+                                   "il80_p1": 33400,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 42950,
+                                   "il80_p4": 47700,
+                                   "il80_p5": 51550,
+                                   "il80_p6": 55350,
+                                   "il80_p7": 59150,
+                                   "il80_p8": 63000
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 61500,
+                            "very_low": {
+                                   "il50_p1": 21550,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27700,
+                                   "il50_p4": 30750,
+                                   "il50_p5": 33250,
+                                   "il50_p6": 35700,
+                                   "il50_p7": 38150,
+                                   "il50_p8": 40600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38150,
+                                   "il30_p8": 40600
+                            },
+                            "low": {
+                                   "il80_p1": 34450,
+                                   "il80_p2": 39400,
+                                   "il80_p3": 44300,
+                                   "il80_p4": 49200,
+                                   "il80_p5": 53150,
+                                   "il80_p6": 57100,
+                                   "il80_p7": 61050,
+                                   "il80_p8": 64950
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Corpus Christi, TX MSA",
+                            "area_name": "Aransas County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 61700,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24700,
+                                   "il50_p3": 27800,
+                                   "il50_p4": 30850,
+                                   "il50_p5": 33350,
+                                   "il50_p6": 35800,
+                                   "il50_p7": 38300,
+                                   "il50_p8": 40750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 38300,
+                                   "il30_p8": 40750
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39500,
+                                   "il80_p3": 44450,
+                                   "il80_p4": 49350,
+                                   "il80_p5": 53300,
+                                   "il80_p6": 57250,
+                                   "il80_p7": 61200,
+                                   "il80_p8": 65150
+                            }
+                     },
+                     {
+                            "county_name": "Aransas County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Aransas County, TX",
+                            "year": "2022",
+                            "median_income": 64800,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 45450
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     }
+              ]
+       }
+}

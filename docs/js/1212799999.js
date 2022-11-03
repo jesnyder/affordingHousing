@@ -25,14 +25,9 @@ new Chart(document.getElementById("1212799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1212799999: Deltona-Daytona Beach-Ormond Beach, FL HUD Metro FMR Area"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 538,
+                                   "One-Bedroom": 543,
+                                   "Two-Bedroom": 674,
+                                   "Three-Bedroom": 901,
+                                   "Four-Bedroom": 989,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 570,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 987,
+                                   "Four-Bedroom": 1116,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 614,
+                                   "Two-Bedroom": 765,
+                                   "Three-Bedroom": 1019,
+                                   "Four-Bedroom": 1210,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 573,
+                                   "One-Bedroom": 618,
+                                   "Two-Bedroom": 766,
+                                   "Three-Bedroom": 1010,
+                                   "Four-Bedroom": 1244,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 680,
+                                   "Two-Bedroom": 844,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1422,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson, SC",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 634,
+                                   "One-Bedroom": 665,
+                                   "Two-Bedroom": 833,
+                                   "Three-Bedroom": 1062,
+                                   "Four-Bedroom": 1418,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 53100,
+                            "very_low": {
+                                   "il50_p1": 18600,
+                                   "il50_p2": 21250,
+                                   "il50_p3": 23900,
+                                   "il50_p4": 26550,
+                                   "il50_p5": 28700,
+                                   "il50_p6": 30800,
+                                   "il50_p7": 32950,
+                                   "il50_p8": 35050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28700,
+                                   "il30_p6": 30800,
+                                   "il30_p7": 32950,
+                                   "il30_p8": 35050
+                            },
+                            "low": {
+                                   "il80_p1": 29750,
+                                   "il80_p2": 34000,
+                                   "il80_p3": 38250,
+                                   "il80_p4": 42500,
+                                   "il80_p5": 45900,
+                                   "il80_p6": 49300,
+                                   "il80_p7": 52700,
+                                   "il80_p8": 56100
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60800,
+                            "very_low": {
+                                   "il50_p1": 20700,
+                                   "il50_p2": 23650,
+                                   "il50_p3": 26600,
+                                   "il50_p4": 29550,
+                                   "il50_p5": 31950,
+                                   "il50_p6": 34300,
+                                   "il50_p7": 36650,
+                                   "il50_p8": 39050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36650,
+                                   "il30_p8": 39050
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37850,
+                                   "il80_p3": 42600,
+                                   "il80_p4": 47300,
+                                   "il80_p5": 51100,
+                                   "il80_p6": 54900,
+                                   "il80_p7": 58700,
+                                   "il80_p8": 62450
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 60300,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24150,
+                                   "il50_p3": 27150,
+                                   "il50_p4": 30150,
+                                   "il50_p5": 32600,
+                                   "il50_p6": 35000,
+                                   "il50_p7": 37400,
+                                   "il50_p8": 39800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12700,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37400,
+                                   "il30_p8": 39800
+                            },
+                            "low": {
+                                   "il80_p1": 33800,
+                                   "il80_p2": 38600,
+                                   "il80_p3": 43450,
+                                   "il80_p4": 48250,
+                                   "il80_p5": 52150,
+                                   "il80_p6": 56000,
+                                   "il80_p7": 59850,
+                                   "il80_p8": 63700
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42900
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson-Mauldin, SC MSA",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 69600,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     },
+                     {
+                            "county_name": "Anderson County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greenville-Anderson, SC",
+                            "area_name": "Anderson, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 73300,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29350,
+                                   "il50_p3": 33000,
+                                   "il50_p4": 36650,
+                                   "il50_p5": 39600,
+                                   "il50_p6": 42550,
+                                   "il50_p7": 45450,
+                                   "il50_p8": 48400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 46950,
+                                   "il80_p3": 52800,
+                                   "il80_p4": 58650,
+                                   "il80_p5": 63350,
+                                   "il80_p6": 68050,
+                                   "il80_p7": 72750,
+                                   "il80_p8": 77450
+                            }
+                     }
+              ]
+       }
+}

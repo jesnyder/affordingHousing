@@ -25,14 +25,9 @@ new Chart(document.getElementById("2501564145_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2501564145: Springfield, MA HUD Metro FMR Area"
         },
         "scales": {

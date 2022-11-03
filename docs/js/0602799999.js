@@ -25,14 +25,9 @@ new Chart(document.getElementById("0602799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0602799999: Inyo County, CA"
         },
         "scales": {

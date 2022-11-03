@@ -25,14 +25,9 @@ new Chart(document.getElementById("1810599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1810599999: Bloomington, IN HUD Metro FMR Area"
         },
         "scales": {

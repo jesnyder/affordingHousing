@@ -25,14 +25,9 @@ new Chart(document.getElementById("1910399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1910399999: Iowa City, IA HUD Metro FMR Area"
         },
         "scales": {

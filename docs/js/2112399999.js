@@ -25,14 +25,9 @@ new Chart(document.getElementById("2112399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2112399999: Elizabethtown, KY HUD Metro FMR Area"
         },
         "scales": {

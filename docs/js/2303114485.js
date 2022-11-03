@@ -25,14 +25,9 @@ new Chart(document.getElementById("2303114485_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2303114485: York County, ME (part) HUD Metro FMR Area"
         },
         "scales": {

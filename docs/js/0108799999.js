@@ -25,14 +25,9 @@ new Chart(document.getElementById("0108799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0108799999: Macon County, AL"
         },
         "scales": {

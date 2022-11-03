@@ -25,14 +25,9 @@ new Chart(document.getElementById("0900904580_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0900904580: New Haven-Meriden, CT HUD Metro FMR Area"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("1311999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1311999999: Franklin County, GA"
         },
         "scales": {

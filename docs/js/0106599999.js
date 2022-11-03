@@ -25,14 +25,9 @@ new Chart(document.getElementById("0106599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0106599999: Tuscaloosa, AL HUD Metro FMR Area"
         },
         "scales": {

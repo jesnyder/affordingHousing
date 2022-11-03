@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 715,
+                                   "One-Bedroom": 906,
+                                   "Two-Bedroom": 1106,
+                                   "Three-Bedroom": 1508,
+                                   "Four-Bedroom": 1949,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 745,
+                                   "One-Bedroom": 913,
+                                   "Two-Bedroom": 1148,
+                                   "Three-Bedroom": 1441,
+                                   "Four-Bedroom": 2022,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 799,
+                                   "One-Bedroom": 984,
+                                   "Two-Bedroom": 1217,
+                                   "Three-Bedroom": 1525,
+                                   "Four-Bedroom": 2138,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 819,
+                                   "One-Bedroom": 991,
+                                   "Two-Bedroom": 1224,
+                                   "Three-Bedroom": 1525,
+                                   "Four-Bedroom": 2149,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 884,
+                                   "One-Bedroom": 1061,
+                                   "Two-Bedroom": 1293,
+                                   "Three-Bedroom": 1608,
+                                   "Four-Bedroom": 2063,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 902,
+                                   "One-Bedroom": 1087,
+                                   "Two-Bedroom": 1358,
+                                   "Three-Bedroom": 1679,
+                                   "Four-Bedroom": 2130,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 91500,
+                            "very_low": {
+                                   "il50_p1": 32050,
+                                   "il50_p2": 36600,
+                                   "il50_p3": 41200,
+                                   "il50_p4": 45750,
+                                   "il50_p5": 49450,
+                                   "il50_p6": 53100,
+                                   "il50_p7": 56750,
+                                   "il50_p8": 60400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27450,
+                                   "il30_p5": 29650,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 93400,
+                            "very_low": {
+                                   "il50_p1": 32700,
+                                   "il50_p2": 37400,
+                                   "il50_p3": 42050,
+                                   "il50_p4": 46700,
+                                   "il50_p5": 50450,
+                                   "il50_p6": 54200,
+                                   "il50_p7": 57950,
+                                   "il50_p8": 61650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19600,
+                                   "il30_p2": 22400,
+                                   "il30_p3": 25200,
+                                   "il30_p4": 28000,
+                                   "il30_p5": 30250,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 93700,
+                            "very_low": {
+                                   "il50_p1": 32800,
+                                   "il50_p2": 37500,
+                                   "il50_p3": 42200,
+                                   "il50_p4": 46850,
+                                   "il50_p5": 50600,
+                                   "il50_p6": 54350,
+                                   "il50_p7": 58100,
+                                   "il50_p8": 61850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19700,
+                                   "il30_p2": 22500,
+                                   "il30_p3": 25300,
+                                   "il30_p4": 28100,
+                                   "il30_p5": 30350,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52500,
+                                   "il80_p2": 60000,
+                                   "il80_p3": 67500,
+                                   "il80_p4": 74950,
+                                   "il80_p5": 80950,
+                                   "il80_p6": 86950,
+                                   "il80_p7": 92950,
+                                   "il80_p8": 98950
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 100800,
+                            "very_low": {
+                                   "il50_p1": 35300,
+                                   "il50_p2": 40350,
+                                   "il50_p3": 45400,
+                                   "il50_p4": 50400,
+                                   "il50_p5": 54450,
+                                   "il50_p6": 58500,
+                                   "il50_p7": 62500,
+                                   "il50_p8": 66550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21200,
+                                   "il30_p2": 24200,
+                                   "il30_p3": 27250,
+                                   "il30_p4": 30250,
+                                   "il30_p5": 32700,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX MSA",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 103800,
+                            "very_low": {
+                                   "il50_p1": 36350,
+                                   "il50_p2": 41550,
+                                   "il50_p3": 46750,
+                                   "il50_p4": 51900,
+                                   "il50_p5": 56100,
+                                   "il50_p6": 60250,
+                                   "il50_p7": 64400,
+                                   "il50_p8": 68550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21850,
+                                   "il30_p2": 24950,
+                                   "il30_p3": 28050,
+                                   "il30_p4": 31150,
+                                   "il30_p5": 33650,
+                                   "il30_p6": 36150,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Kendall County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "San Antonio-New Braunfels, TX",
+                            "area_name": "Kendall County, TX HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 113200,
+                            "very_low": {
+                                   "il50_p1": 39650,
+                                   "il50_p2": 45300,
+                                   "il50_p3": 50950,
+                                   "il50_p4": 56600,
+                                   "il50_p5": 61150,
+                                   "il50_p6": 65700,
+                                   "il50_p7": 70200,
+                                   "il50_p8": 74750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23800,
+                                   "il30_p2": 27200,
+                                   "il30_p3": 30600,
+                                   "il30_p4": 33950,
+                                   "il30_p5": 36700,
+                                   "il30_p6": 39400,
+                                   "il30_p7": 42100,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

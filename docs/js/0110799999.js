@@ -25,14 +25,9 @@ new Chart(document.getElementById("0110799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0110799999: Pickens County, AL HUD Metro FMR Area"
         },
         "scales": {

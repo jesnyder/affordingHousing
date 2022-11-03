@@ -25,14 +25,9 @@ new Chart(document.getElementById("1809599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1809599999: Anderson, IN HUD Metro FMR Area"
         },
         "scales": {

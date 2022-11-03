@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 513,
+                                   "One-Bedroom": 700,
+                                   "Two-Bedroom": 808,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1114,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 482,
+                                   "One-Bedroom": 658,
+                                   "Two-Bedroom": 756,
+                                   "Three-Bedroom": 1006,
+                                   "Four-Bedroom": 1030,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 624,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 962,
+                                   "Four-Bedroom": 965,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 633,
+                                   "One-Bedroom": 662,
+                                   "Two-Bedroom": 754,
+                                   "Three-Bedroom": 1018,
+                                   "Four-Bedroom": 1021,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 635,
+                                   "One-Bedroom": 653,
+                                   "Two-Bedroom": 744,
+                                   "Three-Bedroom": 1019,
+                                   "Four-Bedroom": 1023,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV",
+                            "area_name": "Morgan County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 572,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 785,
+                                   "Three-Bedroom": 1061,
+                                   "Four-Bedroom": 1065,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "year": "2017",
+                            "median_income": 54000,
+                            "very_low": {
+                                   "il50_p1": 24000,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30850,
+                                   "il50_p4": 34250,
+                                   "il50_p5": 37000,
+                                   "il50_p6": 39750,
+                                   "il50_p7": 42500,
+                                   "il50_p8": 45250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14400,
+                                   "il30_p2": 16450,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38400,
+                                   "il80_p2": 43900,
+                                   "il80_p3": 49400,
+                                   "il80_p4": 54850,
+                                   "il80_p5": 59250,
+                                   "il80_p6": 63650,
+                                   "il80_p7": 68050,
+                                   "il80_p8": 72450
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "year": "2018",
+                            "median_income": 56700,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "year": "2019",
+                            "median_income": 58700,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 30950,
+                                   "il50_p5": 33450,
+                                   "il50_p6": 35950,
+                                   "il50_p7": 38400,
+                                   "il50_p8": 40900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13000,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38400,
+                                   "il30_p8": 40900
+                            },
+                            "low": {
+                                   "il80_p1": 34700,
+                                   "il80_p2": 39650,
+                                   "il80_p3": 44600,
+                                   "il80_p4": 49550,
+                                   "il80_p5": 53550,
+                                   "il80_p6": 57500,
+                                   "il80_p7": 61450,
+                                   "il80_p8": 65450
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "year": "2020",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39450,
+                                   "il30_p8": 42000
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Morgan County, WV",
+                            "year": "2021",
+                            "median_income": 64300,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25750,
+                                   "il50_p3": 28950,
+                                   "il50_p4": 32150,
+                                   "il50_p5": 34750,
+                                   "il50_p6": 37300,
+                                   "il50_p7": 39900,
+                                   "il50_p8": 42450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39900,
+                                   "il30_p8": 42450
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51450,
+                                   "il80_p5": 55600,
+                                   "il80_p6": 59700,
+                                   "il80_p7": 63800,
+                                   "il80_p8": 67950
+                            }
+                     },
+                     {
+                            "county_name": "Morgan County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV",
+                            "area_name": "Morgan County, WV HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 71100,
+                            "very_low": {
+                                   "il50_p1": 24900,
+                                   "il50_p2": 28450,
+                                   "il50_p3": 32000,
+                                   "il50_p4": 35550,
+                                   "il50_p5": 38400,
+                                   "il50_p6": 41250,
+                                   "il50_p7": 44100,
+                                   "il50_p8": 46950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 39850,
+                                   "il80_p2": 45550,
+                                   "il80_p3": 51250,
+                                   "il80_p4": 56900,
+                                   "il80_p5": 61500,
+                                   "il80_p6": 66050,
+                                   "il80_p7": 70600,
+                                   "il80_p8": 75150
+                            }
+                     }
+              ]
+       }
+}

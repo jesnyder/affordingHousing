@@ -2,6 +2,7 @@ import numpy as np
 
 from build_dataset import build_dataset
 from analyze_dataset import analyze_dataset
+from build_charts import build_charts
 
 
 def main():
@@ -10,11 +11,11 @@ def main():
     Map clinical trials
     """
 
-    tasks = [1]
+    tasks = []
 
-    if 0 in tasks: build_dataset()
-    if 1 in tasks: analyze_dataset()
-
+    if 0 not in tasks: build_dataset()
+    if 1 not in tasks: analyze_dataset()
+    if 2 not in tasks: build_charts()
 
 if __name__ == "__main__":
     main()

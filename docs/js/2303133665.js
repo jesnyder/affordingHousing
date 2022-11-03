@@ -25,14 +25,9 @@ new Chart(document.getElementById("2303133665_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2303133665: Portland, ME HUD Metro FMR Area"
         },
         "scales": {

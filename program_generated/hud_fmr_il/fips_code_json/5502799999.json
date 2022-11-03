@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 755,
+                                   "Three-Bedroom": 1037,
+                                   "Four-Bedroom": 1041,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 570,
+                                   "Two-Bedroom": 758,
+                                   "Three-Bedroom": 1035,
+                                   "Four-Bedroom": 1039,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 595,
+                                   "One-Bedroom": 599,
+                                   "Two-Bedroom": 788,
+                                   "Three-Bedroom": 1117,
+                                   "Four-Bedroom": 1121,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 537,
+                                   "One-Bedroom": 639,
+                                   "Two-Bedroom": 823,
+                                   "Three-Bedroom": 1157,
+                                   "Four-Bedroom": 1213,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 538,
+                                   "One-Bedroom": 638,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1115,
+                                   "Four-Bedroom": 1240,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 693,
+                                   "Two-Bedroom": 889,
+                                   "Three-Bedroom": 1191,
+                                   "Four-Bedroom": 1333,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "year": "2017",
+                            "median_income": 68800,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16550,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "year": "2018",
+                            "median_income": 74700,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41850,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53800,
+                                   "il80_p4": 59750,
+                                   "il80_p5": 64550,
+                                   "il80_p6": 69350,
+                                   "il80_p7": 74100,
+                                   "il80_p8": 78900
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "year": "2019",
+                            "median_income": 72800,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "year": "2020",
+                            "median_income": 77500,
+                            "very_low": {
+                                   "il50_p1": 27150,
+                                   "il50_p2": 31000,
+                                   "il50_p3": 34900,
+                                   "il50_p4": 38750,
+                                   "il50_p5": 41850,
+                                   "il50_p6": 44950,
+                                   "il50_p7": 48050,
+                                   "il50_p8": 51150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16300,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 43400,
+                                   "il80_p2": 49600,
+                                   "il80_p3": 55800,
+                                   "il80_p4": 62000,
+                                   "il80_p5": 67000,
+                                   "il80_p6": 71950,
+                                   "il80_p7": 76900,
+                                   "il80_p8": 81850
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "year": "2021",
+                            "median_income": 77900,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     },
+                     {
+                            "county_name": "Dodge County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Dodge County, WI",
+                            "year": "2022",
+                            "median_income": 80400,
+                            "very_low": {
+                                   "il50_p1": 28550,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36700,
+                                   "il50_p4": 40750,
+                                   "il50_p5": 44050,
+                                   "il50_p6": 47300,
+                                   "il50_p7": 50550,
+                                   "il50_p8": 53800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45650,
+                                   "il80_p2": 52200,
+                                   "il80_p3": 58700,
+                                   "il80_p4": 65200,
+                                   "il80_p5": 70450,
+                                   "il80_p6": 75650,
+                                   "il80_p7": 80850,
+                                   "il80_p8": 86100
+                            }
+                     }
+              ]
+       }
+}

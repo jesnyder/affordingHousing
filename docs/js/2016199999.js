@@ -25,14 +25,9 @@ new Chart(document.getElementById("2016199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2016199999: Manhattan, KS MSA"
         },
         "scales": {

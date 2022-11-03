@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1230,
+                                   "One-Bedroom": 1533,
+                                   "Two-Bedroom": 1878,
+                                   "Three-Bedroom": 2429,
+                                   "Four-Bedroom": 2717,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1221,
+                                   "One-Bedroom": 1527,
+                                   "Two-Bedroom": 1878,
+                                   "Three-Bedroom": 2428,
+                                   "Four-Bedroom": 2726,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1240,
+                                   "One-Bedroom": 1548,
+                                   "Two-Bedroom": 1907,
+                                   "Three-Bedroom": 2460,
+                                   "Four-Bedroom": 2756,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1298,
+                                   "One-Bedroom": 1624,
+                                   "Two-Bedroom": 1992,
+                                   "Three-Bedroom": 2563,
+                                   "Four-Bedroom": 2858,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1343,
+                                   "One-Bedroom": 1659,
+                                   "Two-Bedroom": 2035,
+                                   "Three-Bedroom": 2606,
+                                   "Four-Bedroom": 2896,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1372,
+                                   "One-Bedroom": 1695,
+                                   "Two-Bedroom": 2065,
+                                   "Three-Bedroom": 2642,
+                                   "Four-Bedroom": 2911,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 110800,
+                            "very_low": {
+                                   "il50_p1": 38800,
+                                   "il50_p2": 44350,
+                                   "il50_p3": 49900,
+                                   "il50_p4": 55400,
+                                   "il50_p5": 59850,
+                                   "il50_p6": 64300,
+                                   "il50_p7": 68700,
+                                   "il50_p8": 73150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23300,
+                                   "il30_p2": 26600,
+                                   "il30_p3": 29950,
+                                   "il30_p4": 33250,
+                                   "il30_p5": 35950,
+                                   "il30_p6": 38600,
+                                   "il30_p7": 41250,
+                                   "il30_p8": 43900
+                            },
+                            "low": {
+                                   "il80_p1": 56700,
+                                   "il80_p2": 64800,
+                                   "il80_p3": 72900,
+                                   "il80_p4": 81000,
+                                   "il80_p5": 87500,
+                                   "il80_p6": 94000,
+                                   "il80_p7": 100450,
+                                   "il80_p8": 106950
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 116700,
+                            "very_low": {
+                                   "il50_p1": 40850,
+                                   "il50_p2": 46700,
+                                   "il50_p3": 52550,
+                                   "il50_p4": 58350,
+                                   "il50_p5": 63050,
+                                   "il50_p6": 67700,
+                                   "il50_p7": 72400,
+                                   "il50_p8": 77050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24500,
+                                   "il30_p2": 28000,
+                                   "il30_p3": 31500,
+                                   "il30_p4": 35000,
+                                   "il30_p5": 37800,
+                                   "il30_p6": 40600,
+                                   "il30_p7": 43400,
+                                   "il30_p8": 46200
+                            },
+                            "low": {
+                                   "il80_p1": 61350,
+                                   "il80_p2": 70100,
+                                   "il80_p3": 78850,
+                                   "il80_p4": 87600,
+                                   "il80_p5": 94650,
+                                   "il80_p6": 101650,
+                                   "il80_p7": 108650,
+                                   "il80_p8": 115650
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 124000,
+                            "very_low": {
+                                   "il50_p1": 43400,
+                                   "il50_p2": 49600,
+                                   "il50_p3": 55800,
+                                   "il50_p4": 62000,
+                                   "il50_p5": 67000,
+                                   "il50_p6": 71950,
+                                   "il50_p7": 76900,
+                                   "il50_p8": 81850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26050,
+                                   "il30_p2": 29800,
+                                   "il30_p3": 33500,
+                                   "il30_p4": 37200,
+                                   "il30_p5": 40200,
+                                   "il30_p6": 43200,
+                                   "il30_p7": 46150,
+                                   "il30_p8": 49150
+                            },
+                            "low": {
+                                   "il80_p1": 62300,
+                                   "il80_p2": 71200,
+                                   "il80_p3": 80100,
+                                   "il80_p4": 88950,
+                                   "il80_p5": 96100,
+                                   "il80_p6": 103200,
+                                   "il80_p7": 110300,
+                                   "il80_p8": 117450
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 126600,
+                            "very_low": {
+                                   "il50_p1": 44350,
+                                   "il50_p2": 50650,
+                                   "il50_p3": 57000,
+                                   "il50_p4": 63300,
+                                   "il50_p5": 68400,
+                                   "il50_p6": 73450,
+                                   "il50_p7": 78500,
+                                   "il50_p8": 83600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26600,
+                                   "il30_p2": 30400,
+                                   "il30_p3": 34200,
+                                   "il30_p4": 38000,
+                                   "il30_p5": 41050,
+                                   "il30_p6": 44100,
+                                   "il30_p7": 47150,
+                                   "il30_p8": 50200
+                            },
+                            "low": {
+                                   "il80_p1": 65050,
+                                   "il80_p2": 74350,
+                                   "il80_p3": 83650,
+                                   "il80_p4": 92900,
+                                   "il80_p5": 100350,
+                                   "il80_p6": 107800,
+                                   "il80_p7": 115200,
+                                   "il80_p8": 122650
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 129900,
+                            "very_low": {
+                                   "il50_p1": 45500,
+                                   "il50_p2": 52000,
+                                   "il50_p3": 58500,
+                                   "il50_p4": 64950,
+                                   "il50_p5": 70150,
+                                   "il50_p6": 75350,
+                                   "il50_p7": 80550,
+                                   "il50_p8": 85750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 27300,
+                                   "il30_p2": 31200,
+                                   "il30_p3": 35100,
+                                   "il30_p4": 38950,
+                                   "il30_p5": 42100,
+                                   "il30_p6": 45200,
+                                   "il30_p7": 48300,
+                                   "il30_p8": 51450
+                            },
+                            "low": {
+                                   "il80_p1": 66450,
+                                   "il80_p2": 75950,
+                                   "il80_p3": 85450,
+                                   "il80_p4": 94900,
+                                   "il80_p5": 102500,
+                                   "il80_p6": 110100,
+                                   "il80_p7": 117700,
+                                   "il80_p8": 125300
+                            }
+                     },
+                     {
+                            "county_name": "Suffolk County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "Nassau-Suffolk, NY HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 146400,
+                            "very_low": {
+                                   "il50_p1": 50900,
+                                   "il50_p2": 58150,
+                                   "il50_p3": 65400,
+                                   "il50_p4": 72650,
+                                   "il50_p5": 78500,
+                                   "il50_p6": 84300,
+                                   "il50_p7": 90100,
+                                   "il50_p8": 95900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 30550,
+                                   "il30_p2": 34900,
+                                   "il30_p3": 39250,
+                                   "il30_p4": 43600,
+                                   "il30_p5": 47100,
+                                   "il30_p6": 50600,
+                                   "il30_p7": 54100,
+                                   "il30_p8": 57600
+                            },
+                            "low": {
+                                   "il80_p1": 67450,
+                                   "il80_p2": 77050,
+                                   "il80_p3": 86700,
+                                   "il80_p4": 96300,
+                                   "il80_p5": 104050,
+                                   "il80_p6": 111750,
+                                   "il80_p7": 119450,
+                                   "il80_p8": 127150
+                            }
+                     }
+              ]
+       }
+}

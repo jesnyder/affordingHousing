@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 642,
+                                   "One-Bedroom": 795,
+                                   "Two-Bedroom": 990,
+                                   "Three-Bedroom": 1425,
+                                   "Four-Bedroom": 1633,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 667,
+                                   "One-Bedroom": 834,
+                                   "Two-Bedroom": 1035,
+                                   "Three-Bedroom": 1475,
+                                   "Four-Bedroom": 1690,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 708,
+                                   "One-Bedroom": 870,
+                                   "Two-Bedroom": 1075,
+                                   "Three-Bedroom": 1518,
+                                   "Four-Bedroom": 1727,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 790,
+                                   "One-Bedroom": 964,
+                                   "Two-Bedroom": 1176,
+                                   "Three-Bedroom": 1649,
+                                   "Four-Bedroom": 1870,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 829,
+                                   "One-Bedroom": 1001,
+                                   "Two-Bedroom": 1204,
+                                   "Three-Bedroom": 1690,
+                                   "Four-Bedroom": 1892,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 924,
+                                   "One-Bedroom": 1112,
+                                   "Two-Bedroom": 1327,
+                                   "Three-Bedroom": 1843,
+                                   "Four-Bedroom": 2066,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 75400,
+                            "very_low": {
+                                   "il50_p1": 26400,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 33950,
+                                   "il50_p4": 37700,
+                                   "il50_p5": 40750,
+                                   "il50_p6": 43750,
+                                   "il50_p7": 46750,
+                                   "il50_p8": 49800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15850,
+                                   "il30_p2": 18100,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42250,
+                                   "il80_p2": 48250,
+                                   "il80_p3": 54300,
+                                   "il80_p4": 60300,
+                                   "il80_p5": 65150,
+                                   "il80_p6": 69950,
+                                   "il80_p7": 74800,
+                                   "il80_p8": 79600
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 82700,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33100,
+                                   "il50_p3": 37250,
+                                   "il50_p4": 41350,
+                                   "il50_p5": 44700,
+                                   "il50_p6": 48000,
+                                   "il50_p7": 51300,
+                                   "il50_p8": 54600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 22350,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46350,
+                                   "il80_p2": 52950,
+                                   "il80_p3": 59550,
+                                   "il80_p4": 66150,
+                                   "il80_p5": 71450,
+                                   "il80_p6": 76750,
+                                   "il80_p7": 82050,
+                                   "il80_p8": 87350
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 87900,
+                            "very_low": {
+                                   "il50_p1": 30800,
+                                   "il50_p2": 35200,
+                                   "il50_p3": 39600,
+                                   "il50_p4": 43950,
+                                   "il50_p5": 47500,
+                                   "il50_p6": 51000,
+                                   "il50_p7": 54500,
+                                   "il50_p8": 58050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18450,
+                                   "il30_p2": 21100,
+                                   "il30_p3": 23750,
+                                   "il30_p4": 26350,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 49250,
+                                   "il80_p2": 56250,
+                                   "il80_p3": 63300,
+                                   "il80_p4": 70300,
+                                   "il80_p5": 75950,
+                                   "il80_p6": 81550,
+                                   "il80_p7": 87200,
+                                   "il80_p8": 92800
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 92900,
+                            "very_low": {
+                                   "il50_p1": 32300,
+                                   "il50_p2": 36900,
+                                   "il50_p3": 41500,
+                                   "il50_p4": 46100,
+                                   "il50_p5": 49800,
+                                   "il50_p6": 53500,
+                                   "il50_p7": 57200,
+                                   "il50_p8": 60900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19400,
+                                   "il30_p2": 22150,
+                                   "il30_p3": 24900,
+                                   "il30_p4": 27650,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 51650,
+                                   "il80_p2": 59000,
+                                   "il80_p3": 66400,
+                                   "il80_p4": 73750,
+                                   "il80_p5": 79650,
+                                   "il80_p6": 85550,
+                                   "il80_p7": 91450,
+                                   "il80_p8": 97350
+                            }
+                     },
+                     {
+                            "county_name": "Salt Lake County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT",
+                            "area_name": "Salt Lake City, UT HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 102400,
+                            "very_low": {
+                                   "il50_p1": 35850,
+                                   "il50_p2": 41000,
+                                   "il50_p3": 46100,
+                                   "il50_p4": 51200,
+                                   "il50_p5": 55300,
+                                   "il50_p6": 59400,
+                                   "il50_p7": 63500,
+                                   "il50_p8": 67600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21500,
+                                   "il30_p2": 24600,
+                                   "il30_p3": 27650,
+                                   "il30_p4": 30700,
+                                   "il30_p5": 33200,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 57350,
+                                   "il80_p2": 65550,
+                                   "il80_p3": 73750,
+                                   "il80_p4": 81900,
+                                   "il80_p5": 88500,
+                                   "il80_p6": 95050,
+                                   "il80_p7": 101600,
+                                   "il80_p8": 108150
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 676,
+                                   "One-Bedroom": 779,
+                                   "Two-Bedroom": 941,
+                                   "Three-Bedroom": 1370,
+                                   "Four-Bedroom": 1658,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 639,
+                                   "One-Bedroom": 752,
+                                   "Two-Bedroom": 902,
+                                   "Three-Bedroom": 1298,
+                                   "Four-Bedroom": 1589,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 706,
+                                   "One-Bedroom": 834,
+                                   "Two-Bedroom": 1014,
+                                   "Three-Bedroom": 1407,
+                                   "Four-Bedroom": 1781,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 744,
+                                   "One-Bedroom": 751,
+                                   "Two-Bedroom": 951,
+                                   "Three-Bedroom": 1267,
+                                   "Four-Bedroom": 1662,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 719,
+                                   "One-Bedroom": 723,
+                                   "Two-Bedroom": 917,
+                                   "Three-Bedroom": 1204,
+                                   "Four-Bedroom": 1588,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 783,
+                                   "One-Bedroom": 788,
+                                   "Two-Bedroom": 991,
+                                   "Three-Bedroom": 1301,
+                                   "Four-Bedroom": 1696,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 71400,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32150,
+                                   "il50_p4": 35700,
+                                   "il50_p5": 38600,
+                                   "il50_p6": 41450,
+                                   "il50_p7": 44300,
+                                   "il50_p8": 47150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17150,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40000,
+                                   "il80_p2": 45700,
+                                   "il80_p3": 51400,
+                                   "il80_p4": 57100,
+                                   "il80_p5": 61700,
+                                   "il80_p6": 66250,
+                                   "il80_p7": 70850,
+                                   "il80_p8": 75400
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 67000,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 33950,
+                                   "il50_p5": 36700,
+                                   "il50_p6": 39400,
+                                   "il50_p7": 42100,
+                                   "il50_p8": 44850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38050,
+                                   "il80_p2": 43450,
+                                   "il80_p3": 48900,
+                                   "il80_p4": 54300,
+                                   "il80_p5": 58650,
+                                   "il80_p6": 63000,
+                                   "il80_p7": 67350,
+                                   "il80_p8": 71700
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 76200,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41800,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53750,
+                                   "il80_p4": 59700,
+                                   "il80_p5": 64500,
+                                   "il80_p6": 69300,
+                                   "il80_p7": 74050,
+                                   "il80_p8": 78850
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 74300,
+                            "very_low": {
+                                   "il50_p1": 26050,
+                                   "il50_p2": 29750,
+                                   "il50_p3": 33450,
+                                   "il50_p4": 37150,
+                                   "il50_p5": 40150,
+                                   "il50_p6": 43100,
+                                   "il50_p7": 46100,
+                                   "il50_p8": 49050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17850,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41650,
+                                   "il80_p2": 47600,
+                                   "il80_p3": 53550,
+                                   "il80_p4": 59450,
+                                   "il80_p5": 64250,
+                                   "il80_p6": 69000,
+                                   "il80_p7": 73750,
+                                   "il80_p8": 78500
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV MSA",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 74100,
+                            "very_low": {
+                                   "il50_p1": 25950,
+                                   "il50_p2": 29650,
+                                   "il50_p3": 33350,
+                                   "il50_p4": 37050,
+                                   "il50_p5": 40050,
+                                   "il50_p6": 43000,
+                                   "il50_p7": 45950,
+                                   "il50_p8": 48950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47450,
+                                   "il80_p3": 53400,
+                                   "il80_p4": 59300,
+                                   "il80_p5": 64050,
+                                   "il80_p6": 68800,
+                                   "il80_p7": 73550,
+                                   "il80_p8": 78300
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hagerstown-Martinsburg, MD-WV",
+                            "area_name": "Martinsburg, WV HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 72000,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 36000,
+                                   "il50_p5": 38900,
+                                   "il50_p6": 41800,
+                                   "il50_p7": 44650,
+                                   "il50_p8": 47550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15150,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40350,
+                                   "il80_p2": 46100,
+                                   "il80_p3": 51850,
+                                   "il80_p4": 57600,
+                                   "il80_p5": 62250,
+                                   "il80_p6": 66850,
+                                   "il80_p7": 71450,
+                                   "il80_p8": 76050
+                            }
+                     }
+              ]
+       }
+}

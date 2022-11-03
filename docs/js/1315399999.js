@@ -25,14 +25,9 @@ new Chart(document.getElementById("1315399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1315399999: Warner Robins, GA HUD Metro FMR Area"
         },
         "scales": {

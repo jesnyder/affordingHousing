@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 585,
+                                   "Two-Bedroom": 764,
+                                   "Three-Bedroom": 1027,
+                                   "Four-Bedroom": 1212,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 765,
+                                   "Three-Bedroom": 1024,
+                                   "Four-Bedroom": 1183,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 599,
+                                   "Two-Bedroom": 788,
+                                   "Three-Bedroom": 1053,
+                                   "Four-Bedroom": 1189,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 523,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 777,
+                                   "Three-Bedroom": 1045,
+                                   "Four-Bedroom": 1143,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 647,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1122,
+                                   "Four-Bedroom": 1214,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton-Kettering, OH",
+                            "area_name": "Dayton, OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 606,
+                                   "One-Bedroom": 680,
+                                   "Two-Bedroom": 872,
+                                   "Three-Bedroom": 1164,
+                                   "Four-Bedroom": 1248,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "year": "2017",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "year": "2018",
+                            "median_income": 65700,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26300,
+                                   "il50_p3": 29600,
+                                   "il50_p4": 32850,
+                                   "il50_p5": 35500,
+                                   "il50_p6": 38150,
+                                   "il50_p7": 40750,
+                                   "il50_p8": 43400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36800,
+                                   "il80_p2": 42050,
+                                   "il80_p3": 47300,
+                                   "il80_p4": 52550,
+                                   "il80_p5": 56800,
+                                   "il80_p6": 61000,
+                                   "il80_p7": 65200,
+                                   "il80_p8": 69400
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "year": "2019",
+                            "median_income": 70600,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28250,
+                                   "il50_p3": 31800,
+                                   "il50_p4": 35300,
+                                   "il50_p5": 38150,
+                                   "il50_p6": 40950,
+                                   "il50_p7": 43800,
+                                   "il50_p8": 46600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17000,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39550,
+                                   "il80_p2": 45200,
+                                   "il80_p3": 50850,
+                                   "il80_p4": 56500,
+                                   "il80_p5": 61050,
+                                   "il80_p6": 65550,
+                                   "il80_p7": 70100,
+                                   "il80_p8": 74600
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "year": "2020",
+                            "median_income": 72800,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton, OH MSA",
+                            "area_name": "Dayton, OH MSA",
+                            "year": "2021",
+                            "median_income": 75700,
+                            "very_low": {
+                                   "il50_p1": 26500,
+                                   "il50_p2": 30300,
+                                   "il50_p3": 34100,
+                                   "il50_p4": 37850,
+                                   "il50_p5": 40900,
+                                   "il50_p6": 43950,
+                                   "il50_p7": 46950,
+                                   "il50_p8": 50000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42400,
+                                   "il80_p2": 48450,
+                                   "il80_p3": 54500,
+                                   "il80_p4": 60550,
+                                   "il80_p5": 65400,
+                                   "il80_p6": 70250,
+                                   "il80_p7": 75100,
+                                   "il80_p8": 79950
+                            }
+                     },
+                     {
+                            "county_name": "Miami County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dayton-Kettering, OH",
+                            "area_name": "Dayton, OH MSA",
+                            "year": "2022",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     }
+              ]
+       }
+}

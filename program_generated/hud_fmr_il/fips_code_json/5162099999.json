@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 607,
+                                   "Two-Bedroom": 748,
+                                   "Three-Bedroom": 957,
+                                   "Four-Bedroom": 1318,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 667,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 824,
+                                   "Three-Bedroom": 1084,
+                                   "Four-Bedroom": 1450,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 694,
+                                   "One-Bedroom": 712,
+                                   "Two-Bedroom": 815,
+                                   "Three-Bedroom": 1117,
+                                   "Four-Bedroom": 1432,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 625,
+                                   "One-Bedroom": 719,
+                                   "Two-Bedroom": 818,
+                                   "Three-Bedroom": 1135,
+                                   "Four-Bedroom": 1436,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 786,
+                                   "Three-Bedroom": 1096,
+                                   "Four-Bedroom": 1361,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+                            "area_name": "Southampton County-Franklin city, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 703,
+                                   "One-Bedroom": 718,
+                                   "Two-Bedroom": 843,
+                                   "Three-Bedroom": 1128,
+                                   "Four-Bedroom": 1443,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "year": "2017",
+                            "median_income": 56900,
+                            "very_low": {
+                                   "il50_p1": 19950,
+                                   "il50_p2": 22800,
+                                   "il50_p3": 25650,
+                                   "il50_p4": 28450,
+                                   "il50_p5": 30750,
+                                   "il50_p6": 33050,
+                                   "il50_p7": 35300,
+                                   "il50_p8": 37600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35300,
+                                   "il30_p8": 37600
+                            },
+                            "low": {
+                                   "il80_p1": 31850,
+                                   "il80_p2": 36400,
+                                   "il80_p3": 40950,
+                                   "il80_p4": 45500,
+                                   "il80_p5": 49150,
+                                   "il80_p6": 52800,
+                                   "il80_p7": 56450,
+                                   "il80_p8": 60100
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "year": "2018",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 20700,
+                                   "il50_p2": 23650,
+                                   "il50_p3": 26600,
+                                   "il50_p4": 29550,
+                                   "il50_p5": 31950,
+                                   "il50_p6": 34300,
+                                   "il50_p7": 36650,
+                                   "il50_p8": 39050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36650,
+                                   "il30_p8": 39050
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37850,
+                                   "il80_p3": 42600,
+                                   "il80_p4": 47300,
+                                   "il80_p5": 51100,
+                                   "il80_p6": 54900,
+                                   "il80_p7": 58700,
+                                   "il80_p8": 62450
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "year": "2019",
+                            "median_income": 63000,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31500,
+                                   "il50_p5": 34050,
+                                   "il50_p6": 36550,
+                                   "il50_p7": 39100,
+                                   "il50_p8": 41600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13250,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 41600
+                            },
+                            "low": {
+                                   "il80_p1": 35300,
+                                   "il80_p2": 40350,
+                                   "il80_p3": 45400,
+                                   "il80_p4": 50400,
+                                   "il80_p5": 54450,
+                                   "il80_p6": 58500,
+                                   "il80_p7": 62500,
+                                   "il80_p8": 66550
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "year": "2020",
+                            "median_income": 66300,
+                            "very_low": {
+                                   "il50_p1": 23250,
+                                   "il50_p2": 26550,
+                                   "il50_p3": 29850,
+                                   "il50_p4": 33150,
+                                   "il50_p5": 35850,
+                                   "il50_p6": 38500,
+                                   "il50_p7": 41150,
+                                   "il50_p8": 43800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13950,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43800
+                            },
+                            "low": {
+                                   "il80_p1": 37150,
+                                   "il80_p2": 42450,
+                                   "il80_p3": 47750,
+                                   "il80_p4": 53050,
+                                   "il80_p5": 57300,
+                                   "il80_p6": 61550,
+                                   "il80_p7": 65800,
+                                   "il80_p8": 70050
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Southampton County-Franklin city, VA HUD Nonmetro FMR Area",
+                            "year": "2021",
+                            "median_income": 66000,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 33000,
+                                   "il50_p5": 35650,
+                                   "il50_p6": 38300,
+                                   "il50_p7": 40950,
+                                   "il50_p8": 43600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13900,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43600
+                            },
+                            "low": {
+                                   "il80_p1": 37000,
+                                   "il80_p2": 42250,
+                                   "il80_p3": 47550,
+                                   "il80_p4": 52800,
+                                   "il80_p5": 57050,
+                                   "il80_p6": 61250,
+                                   "il80_p7": 65500,
+                                   "il80_p8": 69700
+                            }
+                     },
+                     {
+                            "county_name": "Franklin city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+                            "area_name": "Southampton County-Franklin city, VA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74200,
+                            "very_low": {
+                                   "il50_p1": 25850,
+                                   "il50_p2": 29550,
+                                   "il50_p3": 33250,
+                                   "il50_p4": 36900,
+                                   "il50_p5": 39900,
+                                   "il50_p6": 42850,
+                                   "il50_p7": 45800,
+                                   "il50_p8": 48750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41350,
+                                   "il80_p2": 47250,
+                                   "il80_p3": 53150,
+                                   "il80_p4": 59050,
+                                   "il80_p5": 63800,
+                                   "il80_p6": 68500,
+                                   "il80_p7": 73250,
+                                   "il80_p8": 77950
+                            }
+                     }
+              ]
+       }
+}

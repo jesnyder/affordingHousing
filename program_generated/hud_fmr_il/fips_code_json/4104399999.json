@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 557,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 878,
+                                   "Three-Bedroom": 1278,
+                                   "Four-Bedroom": 1491,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 584,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 916,
+                                   "Three-Bedroom": 1332,
+                                   "Four-Bedroom": 1512,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 761,
+                                   "Two-Bedroom": 1006,
+                                   "Three-Bedroom": 1453,
+                                   "Four-Bedroom": 1663,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 721,
+                                   "One-Bedroom": 832,
+                                   "Two-Bedroom": 1096,
+                                   "Three-Bedroom": 1562,
+                                   "Four-Bedroom": 1824,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 794,
+                                   "One-Bedroom": 860,
+                                   "Two-Bedroom": 1133,
+                                   "Three-Bedroom": 1591,
+                                   "Four-Bedroom": 1888,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Lebanon, OR",
+                            "area_name": "Albany, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 808,
+                                   "One-Bedroom": 865,
+                                   "Two-Bedroom": 1138,
+                                   "Three-Bedroom": 1584,
+                                   "Four-Bedroom": 1859,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "year": "2017",
+                            "median_income": 55100,
+                            "very_low": {
+                                   "il50_p1": 19300,
+                                   "il50_p2": 22050,
+                                   "il50_p3": 24800,
+                                   "il50_p4": 27550,
+                                   "il50_p5": 29800,
+                                   "il50_p6": 32000,
+                                   "il50_p7": 34200,
+                                   "il50_p8": 36400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32000,
+                                   "il30_p7": 34200,
+                                   "il30_p8": 36400
+                            },
+                            "low": {
+                                   "il80_p1": 30900,
+                                   "il80_p2": 35300,
+                                   "il80_p3": 39700,
+                                   "il80_p4": 44100,
+                                   "il80_p5": 47650,
+                                   "il80_p6": 51200,
+                                   "il80_p7": 54700,
+                                   "il80_p8": 58250
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "year": "2018",
+                            "median_income": 59700,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23900,
+                                   "il50_p3": 26900,
+                                   "il50_p4": 29850,
+                                   "il50_p5": 32250,
+                                   "il50_p6": 34650,
+                                   "il50_p7": 37050,
+                                   "il50_p8": 39450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37050,
+                                   "il30_p8": 39450
+                            },
+                            "low": {
+                                   "il80_p1": 33450,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 43000,
+                                   "il80_p4": 47750,
+                                   "il80_p5": 51600,
+                                   "il80_p6": 55400,
+                                   "il80_p7": 59250,
+                                   "il80_p8": 63050
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "year": "2019",
+                            "median_income": 68600,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26250,
+                                   "il50_p3": 29550,
+                                   "il50_p4": 32800,
+                                   "il50_p5": 35450,
+                                   "il50_p6": 38050,
+                                   "il50_p7": 40700,
+                                   "il50_p8": 43300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43300
+                            },
+                            "low": {
+                                   "il80_p1": 36750,
+                                   "il80_p2": 42000,
+                                   "il80_p3": 47250,
+                                   "il80_p4": 52500,
+                                   "il80_p5": 56700,
+                                   "il80_p6": 60900,
+                                   "il80_p7": 65100,
+                                   "il80_p8": 69300
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "year": "2020",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany, OR MSA",
+                            "area_name": "Albany, OR MSA",
+                            "year": "2021",
+                            "median_income": 67200,
+                            "very_low": {
+                                   "il50_p1": 23550,
+                                   "il50_p2": 26900,
+                                   "il50_p3": 30250,
+                                   "il50_p4": 33600,
+                                   "il50_p5": 36300,
+                                   "il50_p6": 39000,
+                                   "il50_p7": 41700,
+                                   "il50_p8": 44400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44400
+                            },
+                            "low": {
+                                   "il80_p1": 37650,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48400,
+                                   "il80_p4": 53750,
+                                   "il80_p5": 58050,
+                                   "il80_p6": 62350,
+                                   "il80_p7": 66650,
+                                   "il80_p8": 70950
+                            }
+                     },
+                     {
+                            "county_name": "Linn County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albany-Lebanon, OR",
+                            "area_name": "Albany, OR MSA",
+                            "year": "2022",
+                            "median_income": 84900,
+                            "very_low": {
+                                   "il50_p1": 26300,
+                                   "il50_p2": 30050,
+                                   "il50_p3": 33800,
+                                   "il50_p4": 37550,
+                                   "il50_p5": 40600,
+                                   "il50_p6": 43600,
+                                   "il50_p7": 46600,
+                                   "il50_p8": 49600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42100,
+                                   "il80_p2": 48100,
+                                   "il80_p3": 54100,
+                                   "il80_p4": 60100,
+                                   "il80_p5": 64950,
+                                   "il80_p6": 69750,
+                                   "il80_p7": 74550,
+                                   "il80_p8": 79350
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2205999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2205999999: La Salle Parish, LA"
         },
         "scales": {

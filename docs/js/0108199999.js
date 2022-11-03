@@ -25,14 +25,9 @@ new Chart(document.getElementById("0108199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0108199999: Auburn-Opelika, AL MSA"
         },
         "scales": {

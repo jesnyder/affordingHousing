@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 713,
+                                   "One-Bedroom": 818,
+                                   "Two-Bedroom": 973,
+                                   "Three-Bedroom": 1290,
+                                   "Four-Bedroom": 1665,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 743,
+                                   "One-Bedroom": 884,
+                                   "Two-Bedroom": 1037,
+                                   "Three-Bedroom": 1376,
+                                   "Four-Bedroom": 1783,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 818,
+                                   "One-Bedroom": 967,
+                                   "Two-Bedroom": 1118,
+                                   "Three-Bedroom": 1479,
+                                   "Four-Bedroom": 1938,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 907,
+                                   "One-Bedroom": 1035,
+                                   "Two-Bedroom": 1179,
+                                   "Three-Bedroom": 1535,
+                                   "Four-Bedroom": 2012,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1000,
+                                   "One-Bedroom": 1059,
+                                   "Two-Bedroom": 1207,
+                                   "Three-Bedroom": 1544,
+                                   "Four-Bedroom": 2010,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1183,
+                                   "One-Bedroom": 1204,
+                                   "Two-Bedroom": 1372,
+                                   "Three-Bedroom": 1721,
+                                   "Four-Bedroom": 2206,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "year": "2017",
+                            "median_income": 68800,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16550,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "year": "2018",
+                            "median_income": 74500,
+                            "very_low": {
+                                   "il50_p1": 26100,
+                                   "il50_p2": 29800,
+                                   "il50_p3": 33550,
+                                   "il50_p4": 37250,
+                                   "il50_p5": 40250,
+                                   "il50_p6": 43250,
+                                   "il50_p7": 46200,
+                                   "il50_p8": 49200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17900,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41750,
+                                   "il80_p2": 47700,
+                                   "il80_p3": 53650,
+                                   "il80_p4": 59600,
+                                   "il80_p5": 64400,
+                                   "il80_p6": 69150,
+                                   "il80_p7": 73950,
+                                   "il80_p8": 78700
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "year": "2019",
+                            "median_income": 77900,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "year": "2020",
+                            "median_income": 81000,
+                            "very_low": {
+                                   "il50_p1": 28350,
+                                   "il50_p2": 32400,
+                                   "il50_p3": 36450,
+                                   "il50_p4": 40500,
+                                   "il50_p5": 43750,
+                                   "il50_p6": 47000,
+                                   "il50_p7": 50250,
+                                   "il50_p8": 53500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19450,
+                                   "il30_p3": 21900,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45400,
+                                   "il80_p2": 51850,
+                                   "il80_p3": 58350,
+                                   "il80_p4": 64800,
+                                   "il80_p5": 70000,
+                                   "il80_p6": 75200,
+                                   "il80_p7": 80400,
+                                   "il80_p8": 85550
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC MSA",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "year": "2021",
+                            "median_income": 82100,
+                            "very_low": {
+                                   "il50_p1": 28750,
+                                   "il50_p2": 32850,
+                                   "il50_p3": 36950,
+                                   "il50_p4": 41050,
+                                   "il50_p5": 44350,
+                                   "il50_p6": 47650,
+                                   "il50_p7": 50950,
+                                   "il50_p8": 54200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 22200,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46000,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59150,
+                                   "il80_p4": 65700,
+                                   "il80_p5": 71000,
+                                   "il80_p6": 76250,
+                                   "il80_p7": 81500,
+                                   "il80_p8": 86750
+                            }
+                     },
+                     {
+                            "county_name": "Berkeley County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston-North Charleston, SC",
+                            "area_name": "Charleston-North Charleston, SC MSA",
+                            "year": "2022",
+                            "median_income": 96400,
+                            "very_low": {
+                                   "il50_p1": 32150,
+                                   "il50_p2": 36750,
+                                   "il50_p3": 41350,
+                                   "il50_p4": 45900,
+                                   "il50_p5": 49600,
+                                   "il50_p6": 53250,
+                                   "il50_p7": 56950,
+                                   "il50_p8": 60600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19300,
+                                   "il30_p2": 22050,
+                                   "il30_p3": 24800,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51450,
+                                   "il80_p2": 58800,
+                                   "il80_p3": 66150,
+                                   "il80_p4": 73450,
+                                   "il80_p5": 79350,
+                                   "il80_p6": 85250,
+                                   "il80_p7": 91100,
+                                   "il80_p8": 97000
+                            }
+                     }
+              ]
+       }
+}

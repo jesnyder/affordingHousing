@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 934,
+                                   "One-Bedroom": 939,
+                                   "Two-Bedroom": 1130,
+                                   "Three-Bedroom": 1577,
+                                   "Four-Bedroom": 1968,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 907,
+                                   "One-Bedroom": 912,
+                                   "Two-Bedroom": 1095,
+                                   "Three-Bedroom": 1533,
+                                   "Four-Bedroom": 1912,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 919,
+                                   "One-Bedroom": 925,
+                                   "Two-Bedroom": 1104,
+                                   "Three-Bedroom": 1553,
+                                   "Four-Bedroom": 1938,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 952,
+                                   "One-Bedroom": 958,
+                                   "Two-Bedroom": 1136,
+                                   "Three-Bedroom": 1603,
+                                   "Four-Bedroom": 1994,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 960,
+                                   "One-Bedroom": 972,
+                                   "Two-Bedroom": 1147,
+                                   "Three-Bedroom": 1618,
+                                   "Four-Bedroom": 1986,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 993,
+                                   "One-Bedroom": 1015,
+                                   "Two-Bedroom": 1193,
+                                   "Three-Bedroom": 1676,
+                                   "Four-Bedroom": 2042,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 73000,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 17550,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 75000,
+                            "very_low": {
+                                   "il50_p1": 26250,
+                                   "il50_p2": 30000,
+                                   "il50_p3": 33750,
+                                   "il50_p4": 37500,
+                                   "il50_p5": 40500,
+                                   "il50_p6": 43500,
+                                   "il50_p7": 46500,
+                                   "il50_p8": 49500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42000,
+                                   "il80_p2": 48000,
+                                   "il80_p3": 54000,
+                                   "il80_p4": 60000,
+                                   "il80_p5": 64800,
+                                   "il80_p6": 69600,
+                                   "il80_p7": 74400,
+                                   "il80_p8": 79200
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 79300,
+                            "very_low": {
+                                   "il50_p1": 27800,
+                                   "il50_p2": 31750,
+                                   "il50_p3": 35700,
+                                   "il50_p4": 39650,
+                                   "il50_p5": 42850,
+                                   "il50_p6": 46000,
+                                   "il50_p7": 49200,
+                                   "il50_p8": 52350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19050,
+                                   "il30_p3": 21450,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44450,
+                                   "il80_p2": 50800,
+                                   "il80_p3": 57150,
+                                   "il80_p4": 63450,
+                                   "il80_p5": 68550,
+                                   "il80_p6": 73650,
+                                   "il80_p7": 78700,
+                                   "il80_p8": 83800
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 82500,
+                            "very_low": {
+                                   "il50_p1": 28900,
+                                   "il50_p2": 33000,
+                                   "il50_p3": 37150,
+                                   "il50_p4": 41250,
+                                   "il50_p5": 44550,
+                                   "il50_p6": 47850,
+                                   "il50_p7": 51150,
+                                   "il50_p8": 54450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17350,
+                                   "il30_p2": 19800,
+                                   "il30_p3": 22300,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46200,
+                                   "il80_p2": 52800,
+                                   "il80_p3": 59400,
+                                   "il80_p4": 66000,
+                                   "il80_p5": 71300,
+                                   "il80_p6": 76600,
+                                   "il80_p7": 81850,
+                                   "il80_p8": 87150
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 84500,
+                            "very_low": {
+                                   "il50_p1": 29600,
+                                   "il50_p2": 33800,
+                                   "il50_p3": 38050,
+                                   "il50_p4": 42250,
+                                   "il50_p5": 45650,
+                                   "il50_p6": 49050,
+                                   "il50_p7": 52400,
+                                   "il50_p8": 55800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17750,
+                                   "il30_p2": 20300,
+                                   "il30_p3": 22850,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47350,
+                                   "il80_p2": 54100,
+                                   "il80_p3": 60850,
+                                   "il80_p4": 67600,
+                                   "il80_p5": 73050,
+                                   "il80_p6": 78450,
+                                   "il80_p7": 83850,
+                                   "il80_p8": 89250
+                            }
+                     },
+                     {
+                            "county_name": "Portsmouth city, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+                            "area_name": "Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 93500,
+                            "very_low": {
+                                   "il50_p1": 32750,
+                                   "il50_p2": 37400,
+                                   "il50_p3": 42100,
+                                   "il50_p4": 46750,
+                                   "il50_p5": 50500,
+                                   "il50_p6": 54250,
+                                   "il50_p7": 58000,
+                                   "il50_p8": 61750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19650,
+                                   "il30_p2": 22450,
+                                   "il30_p3": 25250,
+                                   "il30_p4": 28050,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52400,
+                                   "il80_p2": 59850,
+                                   "il80_p3": 67350,
+                                   "il80_p4": 74800,
+                                   "il80_p5": 80800,
+                                   "il80_p6": 86800,
+                                   "il80_p7": 92800,
+                                   "il80_p8": 98750
+                            }
+                     }
+              ]
+       }
+}

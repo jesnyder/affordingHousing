@@ -25,14 +25,9 @@ new Chart(document.getElementById("1302199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1302199999: Macon, GA HUD Metro FMR Area"
         },
         "scales": {

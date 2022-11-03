@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 881,
+                                   "Three-Bedroom": 1195,
+                                   "Four-Bedroom": 1552,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 642,
+                                   "One-Bedroom": 758,
+                                   "Two-Bedroom": 936,
+                                   "Three-Bedroom": 1308,
+                                   "Four-Bedroom": 1612,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 688,
+                                   "One-Bedroom": 814,
+                                   "Two-Bedroom": 983,
+                                   "Three-Bedroom": 1326,
+                                   "Four-Bedroom": 1651,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 777,
+                                   "One-Bedroom": 904,
+                                   "Two-Bedroom": 1073,
+                                   "Three-Bedroom": 1357,
+                                   "Four-Bedroom": 1696,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 907,
+                                   "One-Bedroom": 927,
+                                   "Two-Bedroom": 1107,
+                                   "Three-Bedroom": 1377,
+                                   "Four-Bedroom": 1686,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hood County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 833,
+                                   "One-Bedroom": 881,
+                                   "Two-Bedroom": 1046,
+                                   "Three-Bedroom": 1293,
+                                   "Four-Bedroom": 1527,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 70200,
+                            "very_low": {
+                                   "il50_p1": 24600,
+                                   "il50_p2": 28100,
+                                   "il50_p3": 31600,
+                                   "il50_p4": 35100,
+                                   "il50_p5": 37950,
+                                   "il50_p6": 40750,
+                                   "il50_p7": 43550,
+                                   "il50_p8": 46350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 16850,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39350,
+                                   "il80_p2": 44950,
+                                   "il80_p3": 50550,
+                                   "il80_p4": 56150,
+                                   "il80_p5": 60650,
+                                   "il80_p6": 65150,
+                                   "il80_p7": 69650,
+                                   "il80_p8": 74150
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 72800,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 76700,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Dallas-Fort Worth-Arlington, TX MSA",
+                            "area_name": "Hood County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 76200,
+                            "very_low": {
+                                   "il50_p1": 26700,
+                                   "il50_p2": 30500,
+                                   "il50_p3": 34300,
+                                   "il50_p4": 38100,
+                                   "il50_p5": 41150,
+                                   "il50_p6": 44200,
+                                   "il50_p7": 47250,
+                                   "il50_p8": 50300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18300,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42700,
+                                   "il80_p2": 48800,
+                                   "il80_p3": 54900,
+                                   "il80_p4": 60950,
+                                   "il80_p5": 65850,
+                                   "il80_p6": 70750,
+                                   "il80_p7": 75600,
+                                   "il80_p8": 80500
+                            }
+                     },
+                     {
+                            "county_name": "Hood County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Hood County, TX",
+                            "year": "2022",
+                            "median_income": 88200,
+                            "very_low": {
+                                   "il50_p1": 29850,
+                                   "il50_p2": 34100,
+                                   "il50_p3": 38350,
+                                   "il50_p4": 42600,
+                                   "il50_p5": 46050,
+                                   "il50_p6": 49450,
+                                   "il50_p7": 52850,
+                                   "il50_p8": 56250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17900,
+                                   "il30_p2": 20450,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47750,
+                                   "il80_p2": 54550,
+                                   "il80_p3": 61350,
+                                   "il80_p4": 68150,
+                                   "il80_p5": 73650,
+                                   "il80_p6": 79100,
+                                   "il80_p7": 84550,
+                                   "il80_p8": 90000
+                            }
+                     }
+              ]
+       }
+}

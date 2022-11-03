@@ -25,14 +25,9 @@ new Chart(document.getElementById("2106799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2106799999: Lexington-Fayette, KY MSA"
         },
         "scales": {

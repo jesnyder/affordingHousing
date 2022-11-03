@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 695,
+                                   "One-Bedroom": 824,
+                                   "Two-Bedroom": 1095,
+                                   "Three-Bedroom": 1370,
+                                   "Four-Bedroom": 1631,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 644,
+                                   "One-Bedroom": 759,
+                                   "Two-Bedroom": 1009,
+                                   "Three-Bedroom": 1265,
+                                   "Four-Bedroom": 1468,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 748,
+                                   "One-Bedroom": 880,
+                                   "Two-Bedroom": 1164,
+                                   "Three-Bedroom": 1460,
+                                   "Four-Bedroom": 1672,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 716,
+                                   "One-Bedroom": 834,
+                                   "Two-Bedroom": 1099,
+                                   "Three-Bedroom": 1432,
+                                   "Four-Bedroom": 1637,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 691,
+                                   "One-Bedroom": 794,
+                                   "Two-Bedroom": 1047,
+                                   "Three-Bedroom": 1389,
+                                   "Four-Bedroom": 1610,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 786,
+                                   "One-Bedroom": 899,
+                                   "Two-Bedroom": 1183,
+                                   "Three-Bedroom": 1587,
+                                   "Four-Bedroom": 1864,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "year": "2017",
+                            "median_income": 62400,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "year": "2018",
+                            "median_income": 62100,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25750,
+                                   "il50_p3": 28950,
+                                   "il50_p4": 32150,
+                                   "il50_p5": 34750,
+                                   "il50_p6": 37300,
+                                   "il50_p7": 39900,
+                                   "il50_p8": 42450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51450,
+                                   "il80_p5": 55600,
+                                   "il80_p6": 59700,
+                                   "il80_p7": 63800,
+                                   "il80_p8": 67950
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "year": "2019",
+                            "median_income": 58600,
+                            "very_low": {
+                                   "il50_p1": 23750,
+                                   "il50_p2": 27150,
+                                   "il50_p3": 30550,
+                                   "il50_p4": 33900,
+                                   "il50_p5": 36650,
+                                   "il50_p6": 39350,
+                                   "il50_p7": 42050,
+                                   "il50_p8": 44750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38000,
+                                   "il80_p2": 43400,
+                                   "il80_p3": 48850,
+                                   "il80_p4": 54250,
+                                   "il80_p5": 58600,
+                                   "il80_p6": 62950,
+                                   "il80_p7": 67300,
+                                   "il80_p8": 71650
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "year": "2020",
+                            "median_income": 59500,
+                            "very_low": {
+                                   "il50_p1": 23550,
+                                   "il50_p2": 26900,
+                                   "il50_p3": 30250,
+                                   "il50_p4": 33600,
+                                   "il50_p5": 36300,
+                                   "il50_p6": 39000,
+                                   "il50_p7": 41700,
+                                   "il50_p8": 44400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 37650,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48400,
+                                   "il80_p4": 53750,
+                                   "il80_p5": 58050,
+                                   "il80_p6": 62350,
+                                   "il80_p7": 66650,
+                                   "il80_p8": 70950
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY MSA",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "year": "2021",
+                            "median_income": 64900,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31250,
+                                   "il50_p4": 34700,
+                                   "il50_p5": 37500,
+                                   "il50_p6": 40300,
+                                   "il50_p7": 43050,
+                                   "il50_p8": 45850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55500,
+                                   "il80_p5": 59950,
+                                   "il80_p6": 64400,
+                                   "il80_p7": 68850,
+                                   "il80_p8": 73300
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Watertown-Fort Drum, NY",
+                            "area_name": "Watertown-Fort Drum, NY MSA",
+                            "year": "2022",
+                            "median_income": 72700,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2501179110_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2501179110: Franklin County (part), MA HUD Nonmetro FMR Area"
         },
         "scales": {

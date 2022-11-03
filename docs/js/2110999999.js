@@ -25,14 +25,9 @@ new Chart(document.getElementById("2110999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2110999999: Jackson County, KY"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2502706015_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2502706015: Eastern Worcester County, MA HUD Metro FMR Area"
         },
         "scales": {

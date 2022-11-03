@@ -25,14 +25,9 @@ new Chart(document.getElementById("1705799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1705799999: Fulton County, IL"
         },
         "scales": {

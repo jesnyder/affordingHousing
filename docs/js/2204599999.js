@@ -25,14 +25,9 @@ new Chart(document.getElementById("2204599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2204599999: Iberia Parish, LA HUD Metro FMR Area"
         },
         "scales": {

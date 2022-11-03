@@ -25,14 +25,9 @@ new Chart(document.getElementById("1720399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1720399999: Peoria, IL MSA"
         },
         "scales": {

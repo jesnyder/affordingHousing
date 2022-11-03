@@ -25,14 +25,9 @@ new Chart(document.getElementById("0811999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0811999999: Teller County, CO HUD Metro FMR Area"
         },
         "scales": {

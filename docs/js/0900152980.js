@@ -25,14 +25,9 @@ new Chart(document.getElementById("0900152980_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0900152980: Danbury, CT HUD Metro FMR Area"
         },
         "scales": {

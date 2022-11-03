@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 562,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1084,
+                                   "Four-Bedroom": 1343,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 542,
+                                   "One-Bedroom": 656,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1053,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 585,
+                                   "One-Bedroom": 694,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1099,
+                                   "Four-Bedroom": 1344,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 599,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 832,
+                                   "Three-Bedroom": 1081,
+                                   "Four-Bedroom": 1305,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 694,
+                                   "Two-Bedroom": 838,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1306,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 721,
+                                   "One-Bedroom": 742,
+                                   "Two-Bedroom": 883,
+                                   "Three-Bedroom": 1148,
+                                   "Four-Bedroom": 1380,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "year": "2017",
+                            "median_income": 59500,
+                            "very_low": {
+                                   "il50_p1": 20850,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26800,
+                                   "il50_p4": 29750,
+                                   "il50_p5": 32150,
+                                   "il50_p6": 34550,
+                                   "il50_p7": 36900,
+                                   "il50_p8": 39300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36900,
+                                   "il30_p8": 39300
+                            },
+                            "low": {
+                                   "il80_p1": 33350,
+                                   "il80_p2": 38100,
+                                   "il80_p3": 42850,
+                                   "il80_p4": 47600,
+                                   "il80_p5": 51450,
+                                   "il80_p6": 55250,
+                                   "il80_p7": 59050,
+                                   "il80_p8": 62850
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "year": "2018",
+                            "median_income": 61700,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24700,
+                                   "il50_p3": 27800,
+                                   "il50_p4": 30850,
+                                   "il50_p5": 33350,
+                                   "il50_p6": 35800,
+                                   "il50_p7": 38300,
+                                   "il50_p8": 40750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 40750
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39500,
+                                   "il80_p3": 44450,
+                                   "il80_p4": 49350,
+                                   "il80_p5": 53300,
+                                   "il80_p6": 57250,
+                                   "il80_p7": 61200,
+                                   "il80_p8": 65150
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "year": "2019",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 23750,
+                                   "il50_p2": 27150,
+                                   "il50_p3": 30550,
+                                   "il50_p4": 33900,
+                                   "il50_p5": 36650,
+                                   "il50_p6": 39350,
+                                   "il50_p7": 42050,
+                                   "il50_p8": 44750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38000,
+                                   "il80_p2": 43400,
+                                   "il80_p3": 48850,
+                                   "il80_p4": 54250,
+                                   "il80_p5": 58600,
+                                   "il80_p6": 62950,
+                                   "il80_p7": 67300,
+                                   "il80_p8": 71650
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "year": "2020",
+                            "median_income": 72600,
+                            "very_low": {
+                                   "il50_p1": 25450,
+                                   "il50_p2": 29050,
+                                   "il50_p3": 32700,
+                                   "il50_p4": 36300,
+                                   "il50_p5": 39250,
+                                   "il50_p6": 42150,
+                                   "il50_p7": 45050,
+                                   "il50_p8": 47950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17450,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40700,
+                                   "il80_p2": 46500,
+                                   "il80_p3": 52300,
+                                   "il80_p4": 58100,
+                                   "il80_p5": 62750,
+                                   "il80_p6": 67400,
+                                   "il80_p7": 72050,
+                                   "il80_p8": 76700
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA MSA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "year": "2021",
+                            "median_income": 71300,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28550,
+                                   "il50_p3": 32100,
+                                   "il50_p4": 35650,
+                                   "il50_p5": 38550,
+                                   "il50_p6": 41400,
+                                   "il50_p7": 44250,
+                                   "il50_p8": 47100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39950,
+                                   "il80_p2": 45650,
+                                   "il80_p3": 51350,
+                                   "il80_p4": 57050,
+                                   "il80_p5": 61650,
+                                   "il80_p6": 66200,
+                                   "il80_p7": 70750,
+                                   "il80_p8": 75350
+                            }
+                     },
+                     {
+                            "county_name": "Sequatchie County, TN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Chattanooga, TN-GA",
+                            "area_name": "Chattanooga, TN-GA MSA",
+                            "year": "2022",
+                            "median_income": 75200,
+                            "very_low": {
+                                   "il50_p1": 26350,
+                                   "il50_p2": 30100,
+                                   "il50_p3": 33850,
+                                   "il50_p4": 37600,
+                                   "il50_p5": 40650,
+                                   "il50_p6": 43650,
+                                   "il50_p7": 46650,
+                                   "il50_p8": 49650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42150,
+                                   "il80_p2": 48150,
+                                   "il80_p3": 54150,
+                                   "il80_p4": 60150,
+                                   "il80_p5": 65000,
+                                   "il80_p6": 69800,
+                                   "il80_p7": 74600,
+                                   "il80_p8": 79400
+                            }
+                     }
+              ]
+       }
+}

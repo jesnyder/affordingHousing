@@ -25,14 +25,9 @@ new Chart(document.getElementById("0901559980_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0901559980: Windham County, CT HUD Metro FMR Area"
         },
         "scales": {

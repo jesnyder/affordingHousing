@@ -25,14 +25,9 @@ new Chart(document.getElementById("0202099999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0202099999: Anchorage, AK HUD Metro FMR Area"
         },
         "scales": {

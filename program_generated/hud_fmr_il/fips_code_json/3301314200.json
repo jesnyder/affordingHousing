@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 825,
+                                   "Two-Bedroom": 1035,
+                                   "Three-Bedroom": 1402,
+                                   "Four-Bedroom": 1596,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 786,
+                                   "One-Bedroom": 882,
+                                   "Two-Bedroom": 1122,
+                                   "Three-Bedroom": 1516,
+                                   "Four-Bedroom": 1694,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 808,
+                                   "One-Bedroom": 875,
+                                   "Two-Bedroom": 1122,
+                                   "Three-Bedroom": 1498,
+                                   "Four-Bedroom": 1659,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 813,
+                                   "One-Bedroom": 875,
+                                   "Two-Bedroom": 1131,
+                                   "Three-Bedroom": 1479,
+                                   "Four-Bedroom": 1634,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 840,
+                                   "One-Bedroom": 916,
+                                   "Two-Bedroom": 1186,
+                                   "Three-Bedroom": 1536,
+                                   "Four-Bedroom": 1639,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 857,
+                                   "One-Bedroom": 941,
+                                   "Two-Bedroom": 1237,
+                                   "Three-Bedroom": 1596,
+                                   "Four-Bedroom": 1677,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "year": "2017",
+                            "median_income": 81700,
+                            "very_low": {
+                                   "il50_p1": 28600,
+                                   "il50_p2": 32700,
+                                   "il50_p3": 36800,
+                                   "il50_p4": 40850,
+                                   "il50_p5": 44150,
+                                   "il50_p6": 47400,
+                                   "il50_p7": 50700,
+                                   "il50_p8": 53950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 22050,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 45750,
+                                   "il80_p2": 52300,
+                                   "il80_p3": 58850,
+                                   "il80_p4": 65350,
+                                   "il80_p5": 70600,
+                                   "il80_p6": 75850,
+                                   "il80_p7": 81050,
+                                   "il80_p8": 86300
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "year": "2018",
+                            "median_income": 87900,
+                            "very_low": {
+                                   "il50_p1": 30800,
+                                   "il50_p2": 35200,
+                                   "il50_p3": 39600,
+                                   "il50_p4": 43950,
+                                   "il50_p5": 47500,
+                                   "il50_p6": 51000,
+                                   "il50_p7": 54500,
+                                   "il50_p8": 58050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18450,
+                                   "il30_p2": 21100,
+                                   "il30_p3": 23750,
+                                   "il30_p4": 26350,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 49250,
+                                   "il80_p2": 56250,
+                                   "il80_p3": 63300,
+                                   "il80_p4": 70300,
+                                   "il80_p5": 75950,
+                                   "il80_p6": 81550,
+                                   "il80_p7": 87200,
+                                   "il80_p8": 92800
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "year": "2019",
+                            "median_income": 92700,
+                            "very_low": {
+                                   "il50_p1": 32450,
+                                   "il50_p2": 37100,
+                                   "il50_p3": 41750,
+                                   "il50_p4": 46350,
+                                   "il50_p5": 50100,
+                                   "il50_p6": 53800,
+                                   "il50_p7": 57500,
+                                   "il50_p8": 61200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19500,
+                                   "il30_p2": 22250,
+                                   "il30_p3": 25050,
+                                   "il30_p4": 27800,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 51950,
+                                   "il80_p2": 59350,
+                                   "il80_p3": 66750,
+                                   "il80_p4": 74150,
+                                   "il80_p5": 80100,
+                                   "il80_p6": 86050,
+                                   "il80_p7": 91950,
+                                   "il80_p8": 97900
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "year": "2020",
+                            "median_income": 89200,
+                            "very_low": {
+                                   "il50_p1": 31250,
+                                   "il50_p2": 35700,
+                                   "il50_p3": 40150,
+                                   "il50_p4": 44600,
+                                   "il50_p5": 48200,
+                                   "il50_p6": 51750,
+                                   "il50_p7": 55350,
+                                   "il50_p8": 58900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18750,
+                                   "il30_p2": 21400,
+                                   "il30_p3": 24100,
+                                   "il30_p4": 26750,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 49950,
+                                   "il80_p2": 57100,
+                                   "il80_p3": 64250,
+                                   "il80_p4": 71350,
+                                   "il80_p5": 77100,
+                                   "il80_p6": 82800,
+                                   "il80_p7": 88500,
+                                   "il80_p8": 94200
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "year": "2021",
+                            "median_income": 96700,
+                            "very_low": {
+                                   "il50_p1": 32800,
+                                   "il50_p2": 37450,
+                                   "il50_p3": 42150,
+                                   "il50_p4": 46800,
+                                   "il50_p5": 50550,
+                                   "il50_p6": 54300,
+                                   "il50_p7": 58050,
+                                   "il50_p8": 61800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19700,
+                                   "il30_p2": 22500,
+                                   "il30_p3": 25300,
+                                   "il30_p4": 28100,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 52450,
+                                   "il80_p2": 59950,
+                                   "il80_p3": 67450,
+                                   "il80_p4": 74900,
+                                   "il80_p5": 80900,
+                                   "il80_p6": 86900,
+                                   "il80_p7": 92900,
+                                   "il80_p8": 98900
+                            }
+                     },
+                     {
+                            "county_name": "Merrimack County, NH",
+                            "counties_msa": "",
+                            "town_name": "Concord city",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Merrimack County, NH",
+                            "year": "2022",
+                            "median_income": 105800,
+                            "very_low": {
+                                   "il50_p1": 36650,
+                                   "il50_p2": 41900,
+                                   "il50_p3": 47150,
+                                   "il50_p4": 52350,
+                                   "il50_p5": 56550,
+                                   "il50_p6": 60750,
+                                   "il50_p7": 64950,
+                                   "il50_p8": 69150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22000,
+                                   "il30_p2": 25150,
+                                   "il30_p3": 28300,
+                                   "il30_p4": 31400,
+                                   "il30_p5": 33950,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 58650,
+                                   "il80_p2": 67000,
+                                   "il80_p3": 75400,
+                                   "il80_p4": 83750,
+                                   "il80_p5": 90450,
+                                   "il80_p6": 97150,
+                                   "il80_p7": 103850,
+                                   "il80_p8": 110550
+                            }
+                     }
+              ]
+       }
+}

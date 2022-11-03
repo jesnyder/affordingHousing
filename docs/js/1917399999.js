@@ -25,14 +25,9 @@ new Chart(document.getElementById("1917399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1917399999: Taylor County, IA"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("0102799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0102799999: Clay County, AL"
         },
         "scales": {

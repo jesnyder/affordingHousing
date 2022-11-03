@@ -25,14 +25,9 @@ new Chart(document.getElementById("1204199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1204199999: Gainesville, FL MSA"
         },
         "scales": {

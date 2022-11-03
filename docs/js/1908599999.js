@@ -25,14 +25,9 @@ new Chart(document.getElementById("1908599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1908599999: Omaha-Council Bluffs, NE-IA HUD Metro FMR Area"
         },
         "scales": {

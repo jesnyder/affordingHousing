@@ -25,14 +25,9 @@ new Chart(document.getElementById("0900962290_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0900962290: Waterbury, CT HUD Metro FMR Area"
         },
         "scales": {

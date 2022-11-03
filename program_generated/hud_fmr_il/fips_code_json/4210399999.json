@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 726,
+                                   "One-Bedroom": 861,
+                                   "Two-Bedroom": 1144,
+                                   "Three-Bedroom": 1618,
+                                   "Four-Bedroom": 1783,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 919,
+                                   "One-Bedroom": 926,
+                                   "Two-Bedroom": 1231,
+                                   "Three-Bedroom": 1791,
+                                   "Four-Bedroom": 1825,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 906,
+                                   "One-Bedroom": 912,
+                                   "Two-Bedroom": 1206,
+                                   "Three-Bedroom": 1744,
+                                   "Four-Bedroom": 1822,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 982,
+                                   "One-Bedroom": 989,
+                                   "Two-Bedroom": 1294,
+                                   "Three-Bedroom": 1867,
+                                   "Four-Bedroom": 2090,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1034,
+                                   "One-Bedroom": 1041,
+                                   "Two-Bedroom": 1354,
+                                   "Three-Bedroom": 1938,
+                                   "Four-Bedroom": 2328,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1048,
+                                   "One-Bedroom": 1055,
+                                   "Two-Bedroom": 1368,
+                                   "Three-Bedroom": 1863,
+                                   "Four-Bedroom": 2341,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 70300,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28150,
+                                   "il50_p3": 31650,
+                                   "il50_p4": 35150,
+                                   "il50_p5": 38000,
+                                   "il50_p6": 40800,
+                                   "il50_p7": 43600,
+                                   "il50_p8": 46400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 16900,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39400,
+                                   "il80_p2": 45000,
+                                   "il80_p3": 50650,
+                                   "il80_p4": 56250,
+                                   "il80_p5": 60750,
+                                   "il80_p6": 65250,
+                                   "il80_p7": 69750,
+                                   "il80_p8": 74250
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 73600,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29450,
+                                   "il50_p3": 33150,
+                                   "il50_p4": 36800,
+                                   "il50_p5": 39750,
+                                   "il50_p6": 42700,
+                                   "il50_p7": 45650,
+                                   "il50_p8": 48600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 17700,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41250,
+                                   "il80_p2": 47150,
+                                   "il80_p3": 53050,
+                                   "il80_p4": 58900,
+                                   "il80_p5": 63650,
+                                   "il80_p6": 68350,
+                                   "il80_p7": 73050,
+                                   "il80_p8": 77750
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 75400,
+                            "very_low": {
+                                   "il50_p1": 26400,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 33950,
+                                   "il50_p4": 37700,
+                                   "il50_p5": 40750,
+                                   "il50_p6": 43750,
+                                   "il50_p7": 46750,
+                                   "il50_p8": 49800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15850,
+                                   "il30_p2": 18100,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42250,
+                                   "il80_p2": 48250,
+                                   "il80_p3": 54300,
+                                   "il80_p4": 60300,
+                                   "il80_p5": 65150,
+                                   "il80_p6": 69950,
+                                   "il80_p7": 74800,
+                                   "il80_p8": 79600
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 79100,
+                            "very_low": {
+                                   "il50_p1": 27700,
+                                   "il50_p2": 31650,
+                                   "il50_p3": 35600,
+                                   "il50_p4": 39550,
+                                   "il50_p5": 42750,
+                                   "il50_p6": 45900,
+                                   "il50_p7": 49050,
+                                   "il50_p8": 52250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16650,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44350,
+                                   "il80_p2": 50650,
+                                   "il80_p3": 57000,
+                                   "il80_p4": 63300,
+                                   "il80_p5": 68400,
+                                   "il80_p6": 73450,
+                                   "il80_p7": 78500,
+                                   "il80_p8": 83600
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA MSA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 78700,
+                            "very_low": {
+                                   "il50_p1": 27650,
+                                   "il50_p2": 31600,
+                                   "il50_p3": 35550,
+                                   "il50_p4": 39450,
+                                   "il50_p5": 42650,
+                                   "il50_p6": 45800,
+                                   "il50_p7": 48950,
+                                   "il50_p8": 52100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44200,
+                                   "il80_p2": 50500,
+                                   "il80_p3": 56800,
+                                   "il80_p4": 63100,
+                                   "il80_p5": 68150,
+                                   "il80_p6": 73200,
+                                   "il80_p7": 78250,
+                                   "il80_p8": 83300
+                            }
+                     },
+                     {
+                            "county_name": "Pike County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "New York-Newark-Jersey City, NY-NJ-PA",
+                            "area_name": "Pike County, PA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 89100,
+                            "very_low": {
+                                   "il50_p1": 30900,
+                                   "il50_p2": 35300,
+                                   "il50_p3": 39700,
+                                   "il50_p4": 44100,
+                                   "il50_p5": 47650,
+                                   "il50_p6": 51200,
+                                   "il50_p7": 54700,
+                                   "il50_p8": 58250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49400,
+                                   "il80_p2": 56450,
+                                   "il80_p3": 63500,
+                                   "il80_p4": 70550,
+                                   "il80_p5": 76200,
+                                   "il80_p6": 81850,
+                                   "il80_p7": 87500,
+                                   "il80_p8": 93150
+                            }
+                     }
+              ]
+       }
+}

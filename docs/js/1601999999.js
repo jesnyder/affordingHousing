@@ -25,14 +25,9 @@ new Chart(document.getElementById("1601999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1601999999: Idaho Falls, ID HUD Metro FMR Area"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("0507199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0507199999: Johnson County, AR"
         },
         "scales": {

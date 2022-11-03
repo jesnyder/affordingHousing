@@ -25,14 +25,9 @@ new Chart(document.getElementById("0400999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0400999999: Graham County, AZ"
         },
         "scales": {

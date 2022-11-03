@@ -25,14 +25,9 @@ new Chart(document.getElementById("2101999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2101999999: Huntington-Ashland, WV-KY-OH HUD Metro FMR Area"
         },
         "scales": {

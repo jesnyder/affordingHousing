@@ -25,14 +25,9 @@ new Chart(document.getElementById("2003399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2003399999: Comanche County, KS"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 734,
+                                   "One-Bedroom": 742,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1245,
+                                   "Four-Bedroom": 1310,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 712,
+                                   "One-Bedroom": 744,
+                                   "Two-Bedroom": 911,
+                                   "Three-Bedroom": 1215,
+                                   "Four-Bedroom": 1252,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 693,
+                                   "One-Bedroom": 784,
+                                   "Two-Bedroom": 960,
+                                   "Three-Bedroom": 1251,
+                                   "Four-Bedroom": 1328,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 815,
+                                   "Two-Bedroom": 1002,
+                                   "Three-Bedroom": 1296,
+                                   "Four-Bedroom": 1429,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 723,
+                                   "One-Bedroom": 837,
+                                   "Two-Bedroom": 1033,
+                                   "Three-Bedroom": 1333,
+                                   "Four-Bedroom": 1473,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX",
+                            "area_name": "Victoria, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 788,
+                                   "One-Bedroom": 861,
+                                   "Two-Bedroom": 1068,
+                                   "Three-Bedroom": 1367,
+                                   "Four-Bedroom": 1563,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "year": "2017",
+                            "median_income": 63800,
+                            "very_low": {
+                                   "il50_p1": 21800,
+                                   "il50_p2": 24900,
+                                   "il50_p3": 28000,
+                                   "il50_p4": 31100,
+                                   "il50_p5": 33600,
+                                   "il50_p6": 36100,
+                                   "il50_p7": 38600,
+                                   "il50_p8": 41100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41100
+                            },
+                            "low": {
+                                   "il80_p1": 34850,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44800,
+                                   "il80_p4": 49750,
+                                   "il80_p5": 53750,
+                                   "il80_p6": 57750,
+                                   "il80_p7": 61700,
+                                   "il80_p8": 65700
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "year": "2018",
+                            "median_income": 69600,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27750,
+                                   "il50_p3": 31200,
+                                   "il50_p4": 34650,
+                                   "il50_p5": 37450,
+                                   "il50_p6": 40200,
+                                   "il50_p7": 43000,
+                                   "il50_p8": 45750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 16650,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55450,
+                                   "il80_p5": 59900,
+                                   "il80_p6": 64350,
+                                   "il80_p7": 68800,
+                                   "il80_p8": 73200
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "year": "2019",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54500,
+                                   "il80_p5": 58900,
+                                   "il80_p6": 63250,
+                                   "il80_p7": 67600,
+                                   "il80_p8": 71950
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "year": "2020",
+                            "median_income": 68800,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX MSA",
+                            "area_name": "Victoria, TX MSA",
+                            "year": "2021",
+                            "median_income": 74400,
+                            "very_low": {
+                                   "il50_p1": 25300,
+                                   "il50_p2": 28900,
+                                   "il50_p3": 32500,
+                                   "il50_p4": 36100,
+                                   "il50_p5": 39000,
+                                   "il50_p6": 41900,
+                                   "il50_p7": 44800,
+                                   "il50_p8": 47700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40450,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 52000,
+                                   "il80_p4": 57750,
+                                   "il80_p5": 62400,
+                                   "il80_p6": 67000,
+                                   "il80_p7": 71650,
+                                   "il80_p8": 76250
+                            }
+                     },
+                     {
+                            "county_name": "Victoria County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Victoria, TX",
+                            "area_name": "Victoria, TX MSA",
+                            "year": "2022",
+                            "median_income": 74700,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41850,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53800,
+                                   "il80_p4": 59750,
+                                   "il80_p5": 64550,
+                                   "il80_p6": 69350,
+                                   "il80_p7": 74100,
+                                   "il80_p8": 78900
+                            }
+                     }
+              ]
+       }
+}

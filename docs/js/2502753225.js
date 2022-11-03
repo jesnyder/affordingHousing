@@ -25,14 +25,9 @@ new Chart(document.getElementById("2502753225_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2502753225: Western Worcester County, MA HUD Metro FMR Area"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 784,
+                                   "One-Bedroom": 866,
+                                   "Two-Bedroom": 1071,
+                                   "Three-Bedroom": 1559,
+                                   "Four-Bedroom": 1887,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 852,
+                                   "One-Bedroom": 904,
+                                   "Two-Bedroom": 1120,
+                                   "Three-Bedroom": 1629,
+                                   "Four-Bedroom": 1973,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 906,
+                                   "One-Bedroom": 938,
+                                   "Two-Bedroom": 1152,
+                                   "Three-Bedroom": 1666,
+                                   "Four-Bedroom": 2023,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 954,
+                                   "One-Bedroom": 960,
+                                   "Two-Bedroom": 1171,
+                                   "Three-Bedroom": 1689,
+                                   "Four-Bedroom": 2056,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1021,
+                                   "One-Bedroom": 1026,
+                                   "Two-Bedroom": 1241,
+                                   "Three-Bedroom": 1776,
+                                   "Four-Bedroom": 2149,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Lacey-Tumwater, WA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1035,
+                                   "One-Bedroom": 1076,
+                                   "Two-Bedroom": 1273,
+                                   "Three-Bedroom": 1808,
+                                   "Four-Bedroom": 2179,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "year": "2017",
+                            "median_income": 76300,
+                            "very_low": {
+                                   "il50_p1": 26750,
+                                   "il50_p2": 30550,
+                                   "il50_p3": 34350,
+                                   "il50_p4": 38150,
+                                   "il50_p5": 41250,
+                                   "il50_p6": 44300,
+                                   "il50_p7": 47350,
+                                   "il50_p8": 50400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16050,
+                                   "il30_p2": 18350,
+                                   "il30_p3": 20650,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42750,
+                                   "il80_p2": 48850,
+                                   "il80_p3": 54950,
+                                   "il80_p4": 61050,
+                                   "il80_p5": 65950,
+                                   "il80_p6": 70850,
+                                   "il80_p7": 75750,
+                                   "il80_p8": 80600
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "year": "2018",
+                            "median_income": 77700,
+                            "very_low": {
+                                   "il50_p1": 27200,
+                                   "il50_p2": 31100,
+                                   "il50_p3": 35000,
+                                   "il50_p4": 38850,
+                                   "il50_p5": 42000,
+                                   "il50_p6": 45100,
+                                   "il50_p7": 48200,
+                                   "il50_p8": 51300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18650,
+                                   "il30_p3": 21000,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43550,
+                                   "il80_p2": 49750,
+                                   "il80_p3": 55950,
+                                   "il80_p4": 62150,
+                                   "il80_p5": 67150,
+                                   "il80_p6": 72100,
+                                   "il80_p7": 77100,
+                                   "il80_p8": 82050
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "year": "2019",
+                            "median_income": 83700,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33500,
+                                   "il50_p3": 37700,
+                                   "il50_p4": 41850,
+                                   "il50_p5": 45200,
+                                   "il50_p6": 48550,
+                                   "il50_p7": 51900,
+                                   "il50_p8": 55250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46900,
+                                   "il80_p2": 53600,
+                                   "il80_p3": 60300,
+                                   "il80_p4": 66950,
+                                   "il80_p5": 72350,
+                                   "il80_p6": 77700,
+                                   "il80_p7": 83050,
+                                   "il80_p8": 88400
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "year": "2020",
+                            "median_income": 86700,
+                            "very_low": {
+                                   "il50_p1": 30350,
+                                   "il50_p2": 34700,
+                                   "il50_p3": 39050,
+                                   "il50_p4": 43350,
+                                   "il50_p5": 46850,
+                                   "il50_p6": 50300,
+                                   "il50_p7": 53800,
+                                   "il50_p8": 57250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18200,
+                                   "il30_p2": 20800,
+                                   "il30_p3": 23400,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48550,
+                                   "il80_p2": 55500,
+                                   "il80_p3": 62450,
+                                   "il80_p4": 69350,
+                                   "il80_p5": 74900,
+                                   "il80_p6": 80450,
+                                   "il80_p7": 86000,
+                                   "il80_p8": 91550
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Tumwater, WA MSA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "year": "2021",
+                            "median_income": 90200,
+                            "very_low": {
+                                   "il50_p1": 31600,
+                                   "il50_p2": 36100,
+                                   "il50_p3": 40600,
+                                   "il50_p4": 45100,
+                                   "il50_p5": 48750,
+                                   "il50_p6": 52350,
+                                   "il50_p7": 55950,
+                                   "il50_p8": 59550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18950,
+                                   "il30_p2": 21650,
+                                   "il30_p3": 24350,
+                                   "il30_p4": 27050,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 50550,
+                                   "il80_p2": 57750,
+                                   "il80_p3": 64950,
+                                   "il80_p4": 72150,
+                                   "il80_p5": 77950,
+                                   "il80_p6": 83700,
+                                   "il80_p7": 89500,
+                                   "il80_p8": 95250
+                            }
+                     },
+                     {
+                            "county_name": "Thurston County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Olympia-Lacey-Tumwater, WA",
+                            "area_name": "Olympia-Tumwater, WA MSA",
+                            "year": "2022",
+                            "median_income": 103500,
+                            "very_low": {
+                                   "il50_p1": 35350,
+                                   "il50_p2": 40400,
+                                   "il50_p3": 45450,
+                                   "il50_p4": 50450,
+                                   "il50_p5": 54500,
+                                   "il50_p6": 58550,
+                                   "il50_p7": 62600,
+                                   "il50_p8": 66600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21200,
+                                   "il30_p2": 24200,
+                                   "il30_p3": 27250,
+                                   "il30_p4": 30250,
+                                   "il30_p5": 32700,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 56500,
+                                   "il80_p2": 64600,
+                                   "il80_p3": 72650,
+                                   "il80_p4": 80700,
+                                   "il80_p5": 87200,
+                                   "il80_p6": 93650,
+                                   "il80_p7": 100100,
+                                   "il80_p8": 106550
+                            }
+                     }
+              ]
+       }
+}

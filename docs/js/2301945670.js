@@ -25,14 +25,9 @@ new Chart(document.getElementById("2301945670_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2301945670: Bangor, ME HUD Metro FMR Area"
         },
         "scales": {

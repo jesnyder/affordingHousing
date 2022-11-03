@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 803,
+                                   "Two-Bedroom": 1039,
+                                   "Three-Bedroom": 1484,
+                                   "Four-Bedroom": 1738,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 725,
+                                   "One-Bedroom": 882,
+                                   "Two-Bedroom": 1137,
+                                   "Three-Bedroom": 1615,
+                                   "Four-Bedroom": 1900,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 774,
+                                   "One-Bedroom": 929,
+                                   "Two-Bedroom": 1204,
+                                   "Three-Bedroom": 1708,
+                                   "Four-Bedroom": 1975,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 844,
+                                   "One-Bedroom": 1003,
+                                   "Two-Bedroom": 1296,
+                                   "Three-Bedroom": 1833,
+                                   "Four-Bedroom": 2088,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 976,
+                                   "One-Bedroom": 1141,
+                                   "Two-Bedroom": 1479,
+                                   "Three-Bedroom": 2074,
+                                   "Four-Bedroom": 2397,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale-Port Orchard, WA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1174,
+                                   "One-Bedroom": 1368,
+                                   "Two-Bedroom": 1765,
+                                   "Three-Bedroom": 2435,
+                                   "Four-Bedroom": 2909,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "year": "2017",
+                            "median_income": 77100,
+                            "very_low": {
+                                   "il50_p1": 27000,
+                                   "il50_p2": 30850,
+                                   "il50_p3": 34700,
+                                   "il50_p4": 38550,
+                                   "il50_p5": 41650,
+                                   "il50_p6": 44750,
+                                   "il50_p7": 47850,
+                                   "il50_p8": 50900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18550,
+                                   "il30_p3": 20850,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 43200,
+                                   "il80_p2": 49400,
+                                   "il80_p3": 55550,
+                                   "il80_p4": 61700,
+                                   "il80_p5": 66650,
+                                   "il80_p6": 71600,
+                                   "il80_p7": 76550,
+                                   "il80_p8": 81450
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "year": "2018",
+                            "median_income": 82600,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33050,
+                                   "il50_p3": 37200,
+                                   "il50_p4": 41300,
+                                   "il50_p5": 44650,
+                                   "il50_p6": 47950,
+                                   "il50_p7": 51250,
+                                   "il50_p8": 54550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 22350,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 46300,
+                                   "il80_p2": 52900,
+                                   "il80_p3": 59500,
+                                   "il80_p4": 66100,
+                                   "il80_p5": 71400,
+                                   "il80_p6": 76700,
+                                   "il80_p7": 82000,
+                                   "il80_p8": 87300
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "year": "2019",
+                            "median_income": 85500,
+                            "very_low": {
+                                   "il50_p1": 29950,
+                                   "il50_p2": 34200,
+                                   "il50_p3": 38500,
+                                   "il50_p4": 42750,
+                                   "il50_p5": 46200,
+                                   "il50_p6": 49600,
+                                   "il50_p7": 53050,
+                                   "il50_p8": 56450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18000,
+                                   "il30_p2": 20550,
+                                   "il30_p3": 23100,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47900,
+                                   "il80_p2": 54750,
+                                   "il80_p3": 61600,
+                                   "il80_p4": 68400,
+                                   "il80_p5": 73900,
+                                   "il80_p6": 79350,
+                                   "il80_p7": 84850,
+                                   "il80_p8": 90300
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "year": "2020",
+                            "median_income": 91700,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36700,
+                                   "il50_p3": 41300,
+                                   "il50_p4": 45850,
+                                   "il50_p5": 49550,
+                                   "il50_p6": 53200,
+                                   "il50_p7": 56900,
+                                   "il50_p8": 60550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27500,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 51350,
+                                   "il80_p2": 58700,
+                                   "il80_p3": 66050,
+                                   "il80_p4": 73350,
+                                   "il80_p5": 79250,
+                                   "il80_p6": 85100,
+                                   "il80_p7": 91000,
+                                   "il80_p8": 96850
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale, WA MSA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "year": "2021",
+                            "median_income": 94100,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 52750,
+                                   "il80_p2": 60250,
+                                   "il80_p3": 67800,
+                                   "il80_p4": 75300,
+                                   "il80_p5": 81350,
+                                   "il80_p6": 87350,
+                                   "il80_p7": 93400,
+                                   "il80_p8": 99400
+                            }
+                     },
+                     {
+                            "county_name": "Kitsap County, WA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bremerton-Silverdale-Port Orchard, WA",
+                            "area_name": "Bremerton-Silverdale, WA MSA",
+                            "year": "2022",
+                            "median_income": 102500,
+                            "very_low": {
+                                   "il50_p1": 36050,
+                                   "il50_p2": 41200,
+                                   "il50_p3": 46350,
+                                   "il50_p4": 51450,
+                                   "il50_p5": 55600,
+                                   "il50_p6": 59700,
+                                   "il50_p7": 63800,
+                                   "il50_p8": 67950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21600,
+                                   "il30_p2": 24700,
+                                   "il30_p3": 27800,
+                                   "il30_p4": 30850,
+                                   "il30_p5": 33350,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 57650,
+                                   "il80_p2": 65850,
+                                   "il80_p3": 74100,
+                                   "il80_p4": 82300,
+                                   "il80_p5": 88900,
+                                   "il80_p6": 95500,
+                                   "il80_p7": 102100,
+                                   "il80_p8": 108650
+                            }
+                     }
+              ]
+       }
+}

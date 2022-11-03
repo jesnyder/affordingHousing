@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 657,
+                                   "Two-Bedroom": 860,
+                                   "Three-Bedroom": 1154,
+                                   "Four-Bedroom": 1185,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 587,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 889,
+                                   "Three-Bedroom": 1194,
+                                   "Four-Bedroom": 1211,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 703,
+                                   "Two-Bedroom": 930,
+                                   "Three-Bedroom": 1223,
+                                   "Four-Bedroom": 1261,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 675,
+                                   "One-Bedroom": 751,
+                                   "Two-Bedroom": 989,
+                                   "Three-Bedroom": 1252,
+                                   "Four-Bedroom": 1401,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 752,
+                                   "One-Bedroom": 820,
+                                   "Two-Bedroom": 1081,
+                                   "Three-Bedroom": 1345,
+                                   "Four-Bedroom": 1553,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 757,
+                                   "One-Bedroom": 812,
+                                   "Two-Bedroom": 1069,
+                                   "Three-Bedroom": 1321,
+                                   "Four-Bedroom": 1450,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 80100,
+                            "very_low": {
+                                   "il50_p1": 28050,
+                                   "il50_p2": 32050,
+                                   "il50_p3": 36050,
+                                   "il50_p4": 40050,
+                                   "il50_p5": 43300,
+                                   "il50_p6": 46500,
+                                   "il50_p7": 49700,
+                                   "il50_p8": 52900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16850,
+                                   "il30_p2": 19250,
+                                   "il30_p3": 21650,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44900,
+                                   "il80_p2": 51300,
+                                   "il80_p3": 57700,
+                                   "il80_p4": 64100,
+                                   "il80_p5": 69250,
+                                   "il80_p6": 74400,
+                                   "il80_p7": 79500,
+                                   "il80_p8": 84650
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 83500,
+                            "very_low": {
+                                   "il50_p1": 29250,
+                                   "il50_p2": 33400,
+                                   "il50_p3": 37600,
+                                   "il50_p4": 41750,
+                                   "il50_p5": 45100,
+                                   "il50_p6": 48450,
+                                   "il50_p7": 51800,
+                                   "il50_p8": 55150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17550,
+                                   "il30_p2": 20050,
+                                   "il30_p3": 22550,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 46800,
+                                   "il80_p2": 53450,
+                                   "il80_p3": 60150,
+                                   "il80_p4": 66800,
+                                   "il80_p5": 72150,
+                                   "il80_p6": 77500,
+                                   "il80_p7": 82850,
+                                   "il80_p8": 88200
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 87200,
+                            "very_low": {
+                                   "il50_p1": 30550,
+                                   "il50_p2": 34900,
+                                   "il50_p3": 39250,
+                                   "il50_p4": 43600,
+                                   "il50_p5": 47100,
+                                   "il50_p6": 50600,
+                                   "il50_p7": 54100,
+                                   "il50_p8": 57600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 20950,
+                                   "il30_p3": 23550,
+                                   "il30_p4": 26150,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 48850,
+                                   "il80_p2": 55800,
+                                   "il80_p3": 62800,
+                                   "il80_p4": 69750,
+                                   "il80_p5": 75350,
+                                   "il80_p6": 80950,
+                                   "il80_p7": 86500,
+                                   "il80_p8": 92100
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 95600,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 52700,
+                                   "il80_p2": 60200,
+                                   "il80_p3": 67750,
+                                   "il80_p4": 75250,
+                                   "il80_p5": 81300,
+                                   "il80_p6": 87300,
+                                   "il80_p7": 93350,
+                                   "il80_p8": 99350
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH MSA",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 98400,
+                            "very_low": {
+                                   "il50_p1": 34450,
+                                   "il50_p2": 39400,
+                                   "il50_p3": 44300,
+                                   "il50_p4": 49200,
+                                   "il50_p5": 53150,
+                                   "il50_p6": 57100,
+                                   "il50_p7": 61050,
+                                   "il50_p8": 64950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20650,
+                                   "il30_p2": 23600,
+                                   "il30_p3": 26550,
+                                   "il30_p4": 29500,
+                                   "il30_p5": 31900,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55100,
+                                   "il80_p2": 63000,
+                                   "il80_p3": 70850,
+                                   "il80_p4": 78700,
+                                   "il80_p5": 85000,
+                                   "il80_p6": 91300,
+                                   "il80_p7": 97600,
+                                   "il80_p8": 103900
+                            }
+                     },
+                     {
+                            "county_name": "Union County, OH",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbus, OH",
+                            "area_name": "Union County, OH HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 110600,
+                            "very_low": {
+                                   "il50_p1": 38550,
+                                   "il50_p2": 44050,
+                                   "il50_p3": 49550,
+                                   "il50_p4": 55050,
+                                   "il50_p5": 59500,
+                                   "il50_p6": 63900,
+                                   "il50_p7": 68300,
+                                   "il50_p8": 72700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23150,
+                                   "il30_p2": 26450,
+                                   "il30_p3": 29750,
+                                   "il30_p4": 33050,
+                                   "il30_p5": 35700,
+                                   "il30_p6": 38350,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 61650,
+                                   "il80_p2": 70450,
+                                   "il80_p3": 79250,
+                                   "il80_p4": 88050,
+                                   "il80_p5": 95100,
+                                   "il80_p6": 102150,
+                                   "il80_p7": 109200,
+                                   "il80_p8": 116250
+                            }
+                     }
+              ]
+       }
+}

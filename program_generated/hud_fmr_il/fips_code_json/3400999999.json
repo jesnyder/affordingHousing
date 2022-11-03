@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 719,
+                                   "One-Bedroom": 933,
+                                   "Two-Bedroom": 1133,
+                                   "Three-Bedroom": 1574,
+                                   "Four-Bedroom": 1942,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 719,
+                                   "One-Bedroom": 930,
+                                   "Two-Bedroom": 1127,
+                                   "Three-Bedroom": 1553,
+                                   "Four-Bedroom": 1867,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 772,
+                                   "One-Bedroom": 998,
+                                   "Two-Bedroom": 1202,
+                                   "Three-Bedroom": 1634,
+                                   "Four-Bedroom": 1845,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 814,
+                                   "One-Bedroom": 1012,
+                                   "Two-Bedroom": 1250,
+                                   "Three-Bedroom": 1669,
+                                   "Four-Bedroom": 1708,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 898,
+                                   "One-Bedroom": 1069,
+                                   "Two-Bedroom": 1361,
+                                   "Three-Bedroom": 1763,
+                                   "Four-Bedroom": 1846,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ",
+                            "area_name": "Ocean City, NJ MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 973,
+                                   "One-Bedroom": 1113,
+                                   "Two-Bedroom": 1465,
+                                   "Three-Bedroom": 1816,
+                                   "Four-Bedroom": 1987,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "year": "2017",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 26250,
+                                   "il50_p2": 30000,
+                                   "il50_p3": 33750,
+                                   "il50_p4": 37500,
+                                   "il50_p5": 40500,
+                                   "il50_p6": 43500,
+                                   "il50_p7": 46500,
+                                   "il50_p8": 49500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42000,
+                                   "il80_p2": 48000,
+                                   "il80_p3": 54000,
+                                   "il80_p4": 60000,
+                                   "il80_p5": 64800,
+                                   "il80_p6": 69600,
+                                   "il80_p7": 74400,
+                                   "il80_p8": 79200
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "year": "2018",
+                            "median_income": 78700,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31500,
+                                   "il50_p3": 35450,
+                                   "il50_p4": 39350,
+                                   "il50_p5": 42500,
+                                   "il50_p6": 45650,
+                                   "il50_p7": 48800,
+                                   "il50_p8": 51950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 21250,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44100,
+                                   "il80_p2": 50400,
+                                   "il80_p3": 56700,
+                                   "il80_p4": 62950,
+                                   "il80_p5": 68000,
+                                   "il80_p6": 73050,
+                                   "il80_p7": 78100,
+                                   "il80_p8": 83100
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "year": "2019",
+                            "median_income": 83600,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33450,
+                                   "il50_p3": 37650,
+                                   "il50_p4": 41800,
+                                   "il50_p5": 45150,
+                                   "il50_p6": 48500,
+                                   "il50_p7": 51850,
+                                   "il50_p8": 55200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46850,
+                                   "il80_p2": 53550,
+                                   "il80_p3": 60250,
+                                   "il80_p4": 66900,
+                                   "il80_p5": 72300,
+                                   "il80_p6": 77650,
+                                   "il80_p7": 83000,
+                                   "il80_p8": 88350
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "year": "2020",
+                            "median_income": 85800,
+                            "very_low": {
+                                   "il50_p1": 30050,
+                                   "il50_p2": 34350,
+                                   "il50_p3": 38650,
+                                   "il50_p4": 42900,
+                                   "il50_p5": 46350,
+                                   "il50_p6": 49800,
+                                   "il50_p7": 53200,
+                                   "il50_p8": 56650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18050,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23200,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48100,
+                                   "il80_p2": 54950,
+                                   "il80_p3": 61800,
+                                   "il80_p4": 68650,
+                                   "il80_p5": 74150,
+                                   "il80_p6": 79650,
+                                   "il80_p7": 85150,
+                                   "il80_p8": 90650
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ MSA",
+                            "area_name": "Ocean City, NJ MSA",
+                            "year": "2021",
+                            "median_income": 84900,
+                            "very_low": {
+                                   "il50_p1": 29750,
+                                   "il50_p2": 34000,
+                                   "il50_p3": 38250,
+                                   "il50_p4": 42450,
+                                   "il50_p5": 45850,
+                                   "il50_p6": 49250,
+                                   "il50_p7": 52650,
+                                   "il50_p8": 56050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17850,
+                                   "il30_p2": 20400,
+                                   "il30_p3": 22950,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47550,
+                                   "il80_p2": 54350,
+                                   "il80_p3": 61150,
+                                   "il80_p4": 67900,
+                                   "il80_p5": 73350,
+                                   "il80_p6": 78800,
+                                   "il80_p7": 84200,
+                                   "il80_p8": 89650
+                            }
+                     },
+                     {
+                            "county_name": "Cape May County, NJ",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ocean City, NJ",
+                            "area_name": "Ocean City, NJ MSA",
+                            "year": "2022",
+                            "median_income": 100800,
+                            "very_low": {
+                                   "il50_p1": 33250,
+                                   "il50_p2": 38000,
+                                   "il50_p3": 42750,
+                                   "il50_p4": 47450,
+                                   "il50_p5": 51250,
+                                   "il50_p6": 55050,
+                                   "il50_p7": 58850,
+                                   "il50_p8": 62650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19950,
+                                   "il30_p2": 22800,
+                                   "il30_p3": 25650,
+                                   "il30_p4": 28450,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 53150,
+                                   "il80_p2": 60750,
+                                   "il80_p3": 68350,
+                                   "il80_p4": 75900,
+                                   "il80_p5": 82000,
+                                   "il80_p6": 88050,
+                                   "il80_p7": 94150,
+                                   "il80_p8": 100200
+                            }
+                     }
+              ]
+       }
+}

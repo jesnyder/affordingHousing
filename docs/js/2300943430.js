@@ -25,14 +25,9 @@ new Chart(document.getElementById("2300943430_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2300943430: Hancock County, ME"
         },
         "scales": {

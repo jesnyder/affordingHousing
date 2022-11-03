@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500927620_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500927620: Lawrence, MA-NH HUD Metro FMR Area"
         },
         "scales": {

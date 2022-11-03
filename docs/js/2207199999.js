@@ -25,14 +25,9 @@ new Chart(document.getElementById("2207199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2207199999: New Orleans-Metairie, LA HUD Metro FMR Area"
         },
         "scales": {

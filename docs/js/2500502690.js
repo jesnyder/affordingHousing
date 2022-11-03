@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500502690_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500502690: Providence-Fall River, RI-MA HUD Metro FMR Area"
         },
         "scales": {

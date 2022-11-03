@@ -25,14 +25,9 @@ new Chart(document.getElementById("1903599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1903599999: Cherokee County, IA"
         },
         "scales": {

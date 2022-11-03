@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 831,
+                                   "Three-Bedroom": 1055,
+                                   "Four-Bedroom": 1364,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 638,
+                                   "Two-Bedroom": 792,
+                                   "Three-Bedroom": 996,
+                                   "Four-Bedroom": 1293,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 658,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 825,
+                                   "Three-Bedroom": 1034,
+                                   "Four-Bedroom": 1298,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 656,
+                                   "One-Bedroom": 660,
+                                   "Two-Bedroom": 791,
+                                   "Three-Bedroom": 986,
+                                   "Four-Bedroom": 1231,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 700,
+                                   "One-Bedroom": 704,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1040,
+                                   "Four-Bedroom": 1203,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 723,
+                                   "One-Bedroom": 735,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1062,
+                                   "Four-Bedroom": 1165,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 61100,
+                            "very_low": {
+                                   "il50_p1": 21400,
+                                   "il50_p2": 24450,
+                                   "il50_p3": 27500,
+                                   "il50_p4": 30550,
+                                   "il50_p5": 33000,
+                                   "il50_p6": 35450,
+                                   "il50_p7": 37900,
+                                   "il50_p8": 40350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40350
+                            },
+                            "low": {
+                                   "il80_p1": 34250,
+                                   "il80_p2": 39150,
+                                   "il80_p3": 44050,
+                                   "il80_p4": 48900,
+                                   "il80_p5": 52850,
+                                   "il80_p6": 56750,
+                                   "il80_p7": 60650,
+                                   "il80_p8": 64550
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 59800,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 65700,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26300,
+                                   "il50_p3": 29600,
+                                   "il50_p4": 32850,
+                                   "il50_p5": 35500,
+                                   "il50_p6": 38150,
+                                   "il50_p7": 40750,
+                                   "il50_p8": 43400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43400
+                            },
+                            "low": {
+                                   "il80_p1": 36800,
+                                   "il80_p2": 42050,
+                                   "il80_p3": 47300,
+                                   "il80_p4": 52550,
+                                   "il80_p5": 56800,
+                                   "il80_p6": 61000,
+                                   "il80_p7": 65200,
+                                   "il80_p8": 69400
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 65800,
+                            "very_low": {
+                                   "il50_p1": 23050,
+                                   "il50_p2": 26350,
+                                   "il50_p3": 29650,
+                                   "il50_p4": 32900,
+                                   "il50_p5": 35550,
+                                   "il50_p6": 38200,
+                                   "il50_p7": 40800,
+                                   "il50_p8": 43450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43450
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42150,
+                                   "il80_p3": 47400,
+                                   "il80_p4": 52650,
+                                   "il80_p5": 56900,
+                                   "il80_p6": 61100,
+                                   "il80_p7": 65300,
+                                   "il80_p8": 69500
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA MSA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 75600,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34500,
+                                   "il50_p5": 37300,
+                                   "il50_p6": 40050,
+                                   "il50_p7": 42800,
+                                   "il50_p8": 45550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38650,
+                                   "il80_p2": 44200,
+                                   "il80_p3": 49700,
+                                   "il80_p4": 55200,
+                                   "il80_p5": 59650,
+                                   "il80_p6": 64050,
+                                   "il80_p7": 68450,
+                                   "il80_p8": 72900
+                            }
+                     },
+                     {
+                            "county_name": "Columbia County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bloomsburg-Berwick, PA",
+                            "area_name": "Columbia County, PA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 37000,
+                                   "il50_p5": 40000,
+                                   "il50_p6": 42950,
+                                   "il50_p7": 45900,
+                                   "il50_p8": 48850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41450,
+                                   "il80_p2": 47400,
+                                   "il80_p3": 53300,
+                                   "il80_p4": 59200,
+                                   "il80_p5": 63950,
+                                   "il80_p6": 68700,
+                                   "il80_p7": 73450,
+                                   "il80_p8": 78150
+                            }
+                     }
+              ]
+       }
+}

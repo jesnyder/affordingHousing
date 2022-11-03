@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 732,
+                                   "One-Bedroom": 827,
+                                   "Two-Bedroom": 994,
+                                   "Three-Bedroom": 1244,
+                                   "Four-Bedroom": 1485,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 748,
+                                   "One-Bedroom": 849,
+                                   "Two-Bedroom": 1014,
+                                   "Three-Bedroom": 1271,
+                                   "Four-Bedroom": 1508,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 786,
+                                   "One-Bedroom": 889,
+                                   "Two-Bedroom": 1060,
+                                   "Three-Bedroom": 1328,
+                                   "Four-Bedroom": 1565,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 794,
+                                   "One-Bedroom": 898,
+                                   "Two-Bedroom": 1075,
+                                   "Three-Bedroom": 1340,
+                                   "Four-Bedroom": 1591,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 848,
+                                   "One-Bedroom": 955,
+                                   "Two-Bedroom": 1148,
+                                   "Three-Bedroom": 1428,
+                                   "Four-Bedroom": 1714,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 913,
+                                   "One-Bedroom": 1026,
+                                   "Two-Bedroom": 1234,
+                                   "Three-Bedroom": 1525,
+                                   "Four-Bedroom": 1868,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 72100,
+                            "very_low": {
+                                   "il50_p1": 25250,
+                                   "il50_p2": 28850,
+                                   "il50_p3": 32450,
+                                   "il50_p4": 36050,
+                                   "il50_p5": 38950,
+                                   "il50_p6": 41850,
+                                   "il50_p7": 44750,
+                                   "il50_p8": 47600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17350,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40400,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 51950,
+                                   "il80_p4": 57700,
+                                   "il80_p5": 62350,
+                                   "il80_p6": 66950,
+                                   "il80_p7": 71550,
+                                   "il80_p8": 76200
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 80600,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32150,
+                                   "il50_p3": 36150,
+                                   "il50_p4": 40150,
+                                   "il50_p5": 43400,
+                                   "il50_p6": 46600,
+                                   "il50_p7": 49800,
+                                   "il50_p8": 53000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 21700,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45000,
+                                   "il80_p2": 51400,
+                                   "il80_p3": 57850,
+                                   "il80_p4": 64250,
+                                   "il80_p5": 69400,
+                                   "il80_p6": 74550,
+                                   "il80_p7": 79700,
+                                   "il80_p8": 84850
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 81900,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 40950,
+                                   "il50_p5": 44250,
+                                   "il50_p6": 47550,
+                                   "il50_p7": 50800,
+                                   "il50_p8": 54100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65500,
+                                   "il80_p5": 70750,
+                                   "il80_p6": 76000,
+                                   "il80_p7": 81250,
+                                   "il80_p8": 86500
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 87000,
+                            "very_low": {
+                                   "il50_p1": 30450,
+                                   "il50_p2": 34800,
+                                   "il50_p3": 39150,
+                                   "il50_p4": 43500,
+                                   "il50_p5": 47000,
+                                   "il50_p6": 50500,
+                                   "il50_p7": 53950,
+                                   "il50_p8": 57450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18300,
+                                   "il30_p2": 20900,
+                                   "il30_p3": 23500,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48750,
+                                   "il80_p2": 55700,
+                                   "il80_p3": 62650,
+                                   "il80_p4": 69600,
+                                   "il80_p5": 75200,
+                                   "il80_p6": 80750,
+                                   "il80_p7": 86350,
+                                   "il80_p8": 91900
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA MSA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 86500,
+                            "very_low": {
+                                   "il50_p1": 30300,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38950,
+                                   "il50_p4": 43250,
+                                   "il50_p5": 46750,
+                                   "il50_p6": 50200,
+                                   "il50_p7": 53650,
+                                   "il50_p8": 57100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18200,
+                                   "il30_p2": 20800,
+                                   "il30_p3": 23400,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48450,
+                                   "il80_p2": 55400,
+                                   "il80_p3": 62300,
+                                   "il80_p4": 69200,
+                                   "il80_p5": 74750,
+                                   "il80_p6": 80300,
+                                   "il80_p7": 85850,
+                                   "il80_p8": 91350
+                            }
+                     },
+                     {
+                            "county_name": "Kent County, RI",
+                            "counties_msa": "",
+                            "town_name": "Warwick city",
+                            "metro_status": "1",
+                            "metro_name": "Providence-Warwick, RI-MA",
+                            "area_name": "Providence-Fall River, RI-MA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 97600,
+                            "very_low": {
+                                   "il50_p1": 33850,
+                                   "il50_p2": 38700,
+                                   "il50_p3": 43550,
+                                   "il50_p4": 48350,
+                                   "il50_p5": 52250,
+                                   "il50_p6": 56100,
+                                   "il50_p7": 60000,
+                                   "il50_p8": 63850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20300,
+                                   "il30_p2": 23200,
+                                   "il30_p3": 26100,
+                                   "il30_p4": 29000,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54150,
+                                   "il80_p2": 61900,
+                                   "il80_p3": 69650,
+                                   "il80_p4": 77350,
+                                   "il80_p5": 83550,
+                                   "il80_p6": 89750,
+                                   "il80_p7": 95950,
+                                   "il80_p8": 102150
+                            }
+                     }
+              ]
+       }
+}

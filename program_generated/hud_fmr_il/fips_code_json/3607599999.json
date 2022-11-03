@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 647,
+                                   "Two-Bedroom": 817,
+                                   "Three-Bedroom": 1071,
+                                   "Four-Bedroom": 1169,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 626,
+                                   "One-Bedroom": 719,
+                                   "Two-Bedroom": 906,
+                                   "Three-Bedroom": 1166,
+                                   "Four-Bedroom": 1279,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 599,
+                                   "One-Bedroom": 688,
+                                   "Two-Bedroom": 858,
+                                   "Three-Bedroom": 1088,
+                                   "Four-Bedroom": 1224,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 633,
+                                   "One-Bedroom": 723,
+                                   "Two-Bedroom": 900,
+                                   "Three-Bedroom": 1127,
+                                   "Four-Bedroom": 1291,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 648,
+                                   "One-Bedroom": 729,
+                                   "Two-Bedroom": 901,
+                                   "Three-Bedroom": 1124,
+                                   "Four-Bedroom": 1303,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY",
+                            "area_name": "Syracuse, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 694,
+                                   "One-Bedroom": 781,
+                                   "Two-Bedroom": 966,
+                                   "Three-Bedroom": 1198,
+                                   "Four-Bedroom": 1390,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "year": "2017",
+                            "median_income": 68000,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 34000,
+                                   "il50_p5": 36750,
+                                   "il50_p6": 39450,
+                                   "il50_p7": 42200,
+                                   "il50_p8": 44900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14300,
+                                   "il30_p2": 16350,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38100,
+                                   "il80_p2": 43550,
+                                   "il80_p3": 49000,
+                                   "il80_p4": 54400,
+                                   "il80_p5": 58800,
+                                   "il80_p6": 63150,
+                                   "il80_p7": 67500,
+                                   "il80_p8": 71850
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "year": "2018",
+                            "median_income": 74100,
+                            "very_low": {
+                                   "il50_p1": 25950,
+                                   "il50_p2": 29650,
+                                   "il50_p3": 33350,
+                                   "il50_p4": 37050,
+                                   "il50_p5": 40050,
+                                   "il50_p6": 43000,
+                                   "il50_p7": 45950,
+                                   "il50_p8": 48950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47450,
+                                   "il80_p3": 53400,
+                                   "il80_p4": 59300,
+                                   "il80_p5": 64050,
+                                   "il80_p6": 68800,
+                                   "il80_p7": 73550,
+                                   "il80_p8": 78300
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "year": "2019",
+                            "median_income": 79500,
+                            "very_low": {
+                                   "il50_p1": 27850,
+                                   "il50_p2": 31800,
+                                   "il50_p3": 35800,
+                                   "il50_p4": 39750,
+                                   "il50_p5": 42950,
+                                   "il50_p6": 46150,
+                                   "il50_p7": 49300,
+                                   "il50_p8": 52500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19100,
+                                   "il30_p3": 21500,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44550,
+                                   "il80_p2": 50900,
+                                   "il80_p3": 57250,
+                                   "il80_p4": 63600,
+                                   "il80_p5": 68700,
+                                   "il80_p6": 73800,
+                                   "il80_p7": 78900,
+                                   "il80_p8": 84000
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "year": "2020",
+                            "median_income": 75800,
+                            "very_low": {
+                                   "il50_p1": 26550,
+                                   "il50_p2": 30350,
+                                   "il50_p3": 34150,
+                                   "il50_p4": 37900,
+                                   "il50_p5": 40950,
+                                   "il50_p6": 44000,
+                                   "il50_p7": 47000,
+                                   "il50_p8": 50050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48550,
+                                   "il80_p3": 54600,
+                                   "il80_p4": 60650,
+                                   "il80_p5": 65550,
+                                   "il80_p6": 70400,
+                                   "il80_p7": 75250,
+                                   "il80_p8": 80100
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY MSA",
+                            "area_name": "Syracuse, NY MSA",
+                            "year": "2021",
+                            "median_income": 80500,
+                            "very_low": {
+                                   "il50_p1": 27850,
+                                   "il50_p2": 31800,
+                                   "il50_p3": 35800,
+                                   "il50_p4": 39750,
+                                   "il50_p5": 42950,
+                                   "il50_p6": 46150,
+                                   "il50_p7": 49300,
+                                   "il50_p8": 52500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19100,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44550,
+                                   "il80_p2": 50900,
+                                   "il80_p3": 57250,
+                                   "il80_p4": 63600,
+                                   "il80_p5": 68700,
+                                   "il80_p6": 73800,
+                                   "il80_p7": 78900,
+                                   "il80_p8": 84000
+                            }
+                     },
+                     {
+                            "county_name": "Oswego County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Syracuse, NY",
+                            "area_name": "Syracuse, NY MSA",
+                            "year": "2022",
+                            "median_income": 91100,
+                            "very_low": {
+                                   "il50_p1": 31150,
+                                   "il50_p2": 35600,
+                                   "il50_p3": 40050,
+                                   "il50_p4": 44450,
+                                   "il50_p5": 48050,
+                                   "il50_p6": 51600,
+                                   "il50_p7": 55150,
+                                   "il50_p8": 58700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18700,
+                                   "il30_p2": 21350,
+                                   "il30_p3": 24000,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49800,
+                                   "il80_p2": 56900,
+                                   "il80_p3": 64000,
+                                   "il80_p4": 71100,
+                                   "il80_p5": 76800,
+                                   "il80_p6": 82500,
+                                   "il80_p7": 88200,
+                                   "il80_p8": 93900
+                            }
+                     }
+              ]
+       }
+}

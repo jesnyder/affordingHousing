@@ -25,14 +25,9 @@ new Chart(document.getElementById("0509399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0509399999: Mississippi County, AR"
         },
         "scales": {

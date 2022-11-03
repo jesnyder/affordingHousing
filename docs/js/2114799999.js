@@ -25,14 +25,9 @@ new Chart(document.getElementById("2114799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2114799999: McCreary County, KY"
         },
         "scales": {

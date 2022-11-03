@@ -25,14 +25,9 @@ new Chart(document.getElementById("0400399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0400399999: Sierra Vista-Douglas, AZ MSA"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 538,
+                                   "One-Bedroom": 559,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 870,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 571,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 894,
+                                   "Four-Bedroom": 951,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 485,
+                                   "One-Bedroom": 573,
+                                   "Two-Bedroom": 710,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 977,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 478,
+                                   "One-Bedroom": 573,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 917,
+                                   "Four-Bedroom": 1015,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 572,
+                                   "Two-Bedroom": 724,
+                                   "Three-Bedroom": 923,
+                                   "Four-Bedroom": 1041,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA",
+                            "area_name": "Johnstown, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 587,
+                                   "One-Bedroom": 591,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 970,
+                                   "Four-Bedroom": 1106,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "year": "2017",
+                            "median_income": 60300,
+                            "very_low": {
+                                   "il50_p1": 21050,
+                                   "il50_p2": 24050,
+                                   "il50_p3": 27050,
+                                   "il50_p4": 30050,
+                                   "il50_p5": 32500,
+                                   "il50_p6": 34900,
+                                   "il50_p7": 37300,
+                                   "il50_p8": 39700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12650,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39700
+                            },
+                            "low": {
+                                   "il80_p1": 33650,
+                                   "il80_p2": 38450,
+                                   "il80_p3": 43250,
+                                   "il80_p4": 48050,
+                                   "il80_p5": 51900,
+                                   "il80_p6": 55750,
+                                   "il80_p7": 59600,
+                                   "il80_p8": 63450
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "year": "2018",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "year": "2019",
+                            "median_income": 63800,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42150
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "year": "2020",
+                            "median_income": 62700,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42850
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA MSA",
+                            "area_name": "Johnstown, PA MSA",
+                            "year": "2021",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43250
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "Cambria County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Johnstown, PA",
+                            "area_name": "Johnstown, PA MSA",
+                            "year": "2022",
+                            "median_income": 73900,
+                            "very_low": {
+                                   "il50_p1": 25650,
+                                   "il50_p2": 29300,
+                                   "il50_p3": 32950,
+                                   "il50_p4": 36600,
+                                   "il50_p5": 39550,
+                                   "il50_p6": 42500,
+                                   "il50_p7": 45400,
+                                   "il50_p8": 48350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41000,
+                                   "il80_p2": 46850,
+                                   "il80_p3": 52700,
+                                   "il80_p4": 58550,
+                                   "il80_p5": 63250,
+                                   "il80_p6": 67950,
+                                   "il80_p7": 72650,
+                                   "il80_p8": 77300
+                            }
+                     }
+              ]
+       }
+}

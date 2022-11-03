@@ -25,14 +25,9 @@ new Chart(document.getElementById("1200399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1200399999: Baker County, FL HUD Metro FMR Area"
         },
         "scales": {

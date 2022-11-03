@@ -25,14 +25,9 @@ new Chart(document.getElementById("0608199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0608199999: San Francisco, CA HUD Metro FMR Area"
         },
         "scales": {

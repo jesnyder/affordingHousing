@@ -25,14 +25,9 @@ new Chart(document.getElementById("0900781680_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0900781680: Southern Middlesex County, CT HUD Metro FMR Area"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 462,
+                                   "One-Bedroom": 575,
+                                   "Two-Bedroom": 728,
+                                   "Three-Bedroom": 1060,
+                                   "Four-Bedroom": 1077,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 559,
+                                   "One-Bedroom": 641,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1196,
+                                   "Four-Bedroom": 1208,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 598,
+                                   "Two-Bedroom": 774,
+                                   "Three-Bedroom": 1104,
+                                   "Four-Bedroom": 1107,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 598,
+                                   "One-Bedroom": 624,
+                                   "Two-Bedroom": 810,
+                                   "Three-Bedroom": 1124,
+                                   "Four-Bedroom": 1128,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 592,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 803,
+                                   "Three-Bedroom": 1103,
+                                   "Four-Bedroom": 1107,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI",
+                            "area_name": "Appleton, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 643,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 881,
+                                   "Three-Bedroom": 1190,
+                                   "Four-Bedroom": 1195,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "year": "2017",
+                            "median_income": 74700,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41850,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53800,
+                                   "il80_p4": 59750,
+                                   "il80_p5": 64550,
+                                   "il80_p6": 69350,
+                                   "il80_p7": 74100,
+                                   "il80_p8": 78900
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "year": "2018",
+                            "median_income": 77900,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 21050,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "year": "2019",
+                            "median_income": 83800,
+                            "very_low": {
+                                   "il50_p1": 29350,
+                                   "il50_p2": 33550,
+                                   "il50_p3": 37750,
+                                   "il50_p4": 41900,
+                                   "il50_p5": 45300,
+                                   "il50_p6": 48650,
+                                   "il50_p7": 52000,
+                                   "il50_p8": 55350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17650,
+                                   "il30_p2": 20150,
+                                   "il30_p3": 22650,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46950,
+                                   "il80_p2": 53650,
+                                   "il80_p3": 60350,
+                                   "il80_p4": 67050,
+                                   "il80_p5": 72450,
+                                   "il80_p6": 77800,
+                                   "il80_p7": 83150,
+                                   "il80_p8": 88550
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "year": "2020",
+                            "median_income": 86400,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38900,
+                                   "il50_p4": 43200,
+                                   "il50_p5": 46700,
+                                   "il50_p6": 50150,
+                                   "il50_p7": 53600,
+                                   "il50_p8": 57050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48400,
+                                   "il80_p2": 55300,
+                                   "il80_p3": 62200,
+                                   "il80_p4": 69100,
+                                   "il80_p5": 74650,
+                                   "il80_p6": 80200,
+                                   "il80_p7": 85700,
+                                   "il80_p8": 91250
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI MSA",
+                            "area_name": "Appleton, WI MSA",
+                            "year": "2021",
+                            "median_income": 85600,
+                            "very_low": {
+                                   "il50_p1": 30000,
+                                   "il50_p2": 34250,
+                                   "il50_p3": 38550,
+                                   "il50_p4": 42800,
+                                   "il50_p5": 46250,
+                                   "il50_p6": 49650,
+                                   "il50_p7": 53100,
+                                   "il50_p8": 56500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18000,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23150,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47950,
+                                   "il80_p2": 54800,
+                                   "il80_p3": 61650,
+                                   "il80_p4": 68500,
+                                   "il80_p5": 74000,
+                                   "il80_p6": 79500,
+                                   "il80_p7": 84950,
+                                   "il80_p8": 90450
+                            }
+                     },
+                     {
+                            "county_name": "Calumet County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Appleton, WI",
+                            "area_name": "Appleton, WI MSA",
+                            "year": "2022",
+                            "median_income": 95900,
+                            "very_low": {
+                                   "il50_p1": 33500,
+                                   "il50_p2": 38300,
+                                   "il50_p3": 43100,
+                                   "il50_p4": 47850,
+                                   "il50_p5": 51700,
+                                   "il50_p6": 55550,
+                                   "il50_p7": 59350,
+                                   "il50_p8": 63200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20100,
+                                   "il30_p2": 23000,
+                                   "il30_p3": 25850,
+                                   "il30_p4": 28700,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 53600,
+                                   "il80_p2": 61250,
+                                   "il80_p3": 68900,
+                                   "il80_p4": 76550,
+                                   "il80_p5": 82700,
+                                   "il80_p6": 88800,
+                                   "il80_p7": 94950,
+                                   "il80_p8": 101050
+                            }
+                     }
+              ]
+       }
+}

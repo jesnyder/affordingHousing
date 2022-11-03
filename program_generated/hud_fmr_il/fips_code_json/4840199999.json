@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 546,
+                                   "Two-Bedroom": 726,
+                                   "Three-Bedroom": 971,
+                                   "Four-Bedroom": 1001,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 755,
+                                   "Three-Bedroom": 1017,
+                                   "Four-Bedroom": 1028,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 599,
+                                   "Two-Bedroom": 792,
+                                   "Three-Bedroom": 1043,
+                                   "Four-Bedroom": 1121,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 562,
+                                   "One-Bedroom": 621,
+                                   "Two-Bedroom": 818,
+                                   "Three-Bedroom": 1058,
+                                   "Four-Bedroom": 1337,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 547,
+                                   "One-Bedroom": 575,
+                                   "Two-Bedroom": 754,
+                                   "Three-Bedroom": 959,
+                                   "Four-Bedroom": 1208,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 638,
+                                   "One-Bedroom": 642,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1070,
+                                   "Four-Bedroom": 1289,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 58100,
+                            "very_low": {
+                                   "il50_p1": 20350,
+                                   "il50_p2": 23250,
+                                   "il50_p3": 26150,
+                                   "il50_p4": 29050,
+                                   "il50_p5": 31400,
+                                   "il50_p6": 33700,
+                                   "il50_p7": 36050,
+                                   "il50_p8": 38350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36050,
+                                   "il30_p8": 38350
+                            },
+                            "low": {
+                                   "il80_p1": 32550,
+                                   "il80_p2": 37200,
+                                   "il80_p3": 41850,
+                                   "il80_p4": 46500,
+                                   "il80_p5": 50250,
+                                   "il80_p6": 53950,
+                                   "il80_p7": 57700,
+                                   "il80_p8": 61400
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 57100,
+                            "very_low": {
+                                   "il50_p1": 20000,
+                                   "il50_p2": 22850,
+                                   "il50_p3": 25700,
+                                   "il50_p4": 28550,
+                                   "il50_p5": 30850,
+                                   "il50_p6": 33150,
+                                   "il50_p7": 35450,
+                                   "il50_p8": 37700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33150,
+                                   "il30_p7": 35450,
+                                   "il30_p8": 37700
+                            },
+                            "low": {
+                                   "il80_p1": 32000,
+                                   "il80_p2": 36600,
+                                   "il80_p3": 41150,
+                                   "il80_p4": 45700,
+                                   "il80_p5": 49400,
+                                   "il80_p6": 53050,
+                                   "il80_p7": 56700,
+                                   "il80_p8": 60350
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 59200,
+                            "very_low": {
+                                   "il50_p1": 20750,
+                                   "il50_p2": 23700,
+                                   "il50_p3": 26650,
+                                   "il50_p4": 29600,
+                                   "il50_p5": 32000,
+                                   "il50_p6": 34350,
+                                   "il50_p7": 36750,
+                                   "il50_p8": 39100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34350,
+                                   "il30_p7": 36750,
+                                   "il30_p8": 39100
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37900,
+                                   "il80_p3": 42650,
+                                   "il80_p4": 47350,
+                                   "il80_p5": 51150,
+                                   "il80_p6": 54950,
+                                   "il80_p7": 58750,
+                                   "il80_p8": 62550
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 59800,
+                            "very_low": {
+                                   "il50_p1": 20950,
+                                   "il50_p2": 23950,
+                                   "il50_p3": 26950,
+                                   "il50_p4": 29900,
+                                   "il50_p5": 32300,
+                                   "il50_p6": 34700,
+                                   "il50_p7": 37100,
+                                   "il50_p8": 39500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34700,
+                                   "il30_p7": 37100,
+                                   "il30_p8": 39500
+                            },
+                            "low": {
+                                   "il80_p1": 33500,
+                                   "il80_p2": 38300,
+                                   "il80_p3": 43100,
+                                   "il80_p4": 47850,
+                                   "il80_p5": 51700,
+                                   "il80_p6": 55550,
+                                   "il80_p7": 59350,
+                                   "il80_p8": 63200
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX MSA",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25100,
+                                   "il50_p3": 28250,
+                                   "il50_p4": 31350,
+                                   "il50_p5": 33900,
+                                   "il50_p6": 36400,
+                                   "il50_p7": 38900,
+                                   "il50_p8": 41400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 38900,
+                                   "il30_p8": 41400
+                            },
+                            "low": {
+                                   "il80_p1": 35150,
+                                   "il80_p2": 40150,
+                                   "il80_p3": 45150,
+                                   "il80_p4": 50150,
+                                   "il80_p5": 54200,
+                                   "il80_p6": 58200,
+                                   "il80_p7": 62200,
+                                   "il80_p8": 66200
+                            }
+                     },
+                     {
+                            "county_name": "Rusk County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Longview, TX",
+                            "area_name": "Rusk County, TX HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 71200,
+                            "very_low": {
+                                   "il50_p1": 24550,
+                                   "il50_p2": 28050,
+                                   "il50_p3": 31550,
+                                   "il50_p4": 35050,
+                                   "il50_p5": 37900,
+                                   "il50_p6": 40700,
+                                   "il50_p7": 43500,
+                                   "il50_p8": 46300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46300
+                            },
+                            "low": {
+                                   "il80_p1": 39300,
+                                   "il80_p2": 44900,
+                                   "il80_p3": 50500,
+                                   "il80_p4": 56100,
+                                   "il80_p5": 60600,
+                                   "il80_p6": 65100,
+                                   "il80_p7": 69600,
+                                   "il80_p8": 74100
+                            }
+                     }
+              ]
+       }
+}

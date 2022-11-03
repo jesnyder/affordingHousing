@@ -25,14 +25,9 @@ new Chart(document.getElementById("1309399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1309399999: Dooly County, GA"
         },
         "scales": {

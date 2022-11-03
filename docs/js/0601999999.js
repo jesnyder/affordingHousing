@@ -25,14 +25,9 @@ new Chart(document.getElementById("0601999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0601999999: Fresno, CA MSA"
         },
         "scales": {

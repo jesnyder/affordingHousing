@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500778235_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500778235: Dukes County, MA"
         },
         "scales": {

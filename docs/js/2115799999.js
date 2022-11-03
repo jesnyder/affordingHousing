@@ -25,14 +25,9 @@ new Chart(document.getElementById("2115799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2115799999: Marshall County, KY"
         },
         "scales": {

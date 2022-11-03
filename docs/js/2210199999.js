@@ -25,14 +25,9 @@ new Chart(document.getElementById("2210199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2210199999: St. Mary Parish, LA"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("1805599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1805599999: Greene County, IN"
         },
         "scales": {

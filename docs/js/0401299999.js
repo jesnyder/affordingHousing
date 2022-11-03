@@ -25,14 +25,9 @@ new Chart(document.getElementById("0401299999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0401299999: La Paz County, AZ"
         },
         "scales": {

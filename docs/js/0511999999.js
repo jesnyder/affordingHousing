@@ -25,14 +25,9 @@ new Chart(document.getElementById("0511999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0511999999: Little Rock-North Little Rock-Conway, AR HUD Metro FMR Area"
         },
         "scales": {

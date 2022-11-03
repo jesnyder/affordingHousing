@@ -25,14 +25,9 @@ new Chart(document.getElementById("0217099999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0217099999: Matanuska-Susitna Borough, AK HUD Metro FMR Area"
         },
         "scales": {

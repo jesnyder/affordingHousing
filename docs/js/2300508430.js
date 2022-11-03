@@ -25,14 +25,9 @@ new Chart(document.getElementById("2300508430_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2300508430: Cumberland County, ME (part) HUD Metro FMR Area"
         },
         "scales": {

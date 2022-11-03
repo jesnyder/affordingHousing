@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 513,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 743,
+                                   "Three-Bedroom": 1077,
+                                   "Four-Bedroom": 1176,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 616,
+                                   "One-Bedroom": 653,
+                                   "Two-Bedroom": 869,
+                                   "Three-Bedroom": 1213,
+                                   "Four-Bedroom": 1423,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 709,
+                                   "Two-Bedroom": 938,
+                                   "Three-Bedroom": 1175,
+                                   "Four-Bedroom": 1635,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 725,
+                                   "One-Bedroom": 736,
+                                   "Two-Bedroom": 970,
+                                   "Three-Bedroom": 1209,
+                                   "Four-Bedroom": 1703,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 653,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 873,
+                                   "Three-Bedroom": 1182,
+                                   "Four-Bedroom": 1533,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 629,
+                                   "One-Bedroom": 633,
+                                   "Two-Bedroom": 833,
+                                   "Three-Bedroom": 1183,
+                                   "Four-Bedroom": 1426,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "year": "2017",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41850,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53800,
+                                   "il80_p4": 59750,
+                                   "il80_p5": 64550,
+                                   "il80_p6": 69350,
+                                   "il80_p7": 74100,
+                                   "il80_p8": 78900
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "year": "2018",
+                            "median_income": 67800,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36200,
+                                   "il50_p4": 40200,
+                                   "il50_p5": 43450,
+                                   "il50_p6": 46650,
+                                   "il50_p7": 49850,
+                                   "il50_p8": 53100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 21700,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45050,
+                                   "il80_p2": 51450,
+                                   "il80_p3": 57900,
+                                   "il80_p4": 64300,
+                                   "il80_p5": 69450,
+                                   "il80_p6": 74600,
+                                   "il80_p7": 79750,
+                                   "il80_p8": 84900
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "year": "2019",
+                            "median_income": 70900,
+                            "very_low": {
+                                   "il50_p1": 27900,
+                                   "il50_p2": 31900,
+                                   "il50_p3": 35900,
+                                   "il50_p4": 39850,
+                                   "il50_p5": 43050,
+                                   "il50_p6": 46250,
+                                   "il50_p7": 49450,
+                                   "il50_p8": 52650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16750,
+                                   "il30_p2": 19150,
+                                   "il30_p3": 21550,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44650,
+                                   "il80_p2": 51000,
+                                   "il80_p3": 57400,
+                                   "il80_p4": 63750,
+                                   "il80_p5": 68850,
+                                   "il80_p6": 73950,
+                                   "il80_p7": 79050,
+                                   "il80_p8": 84150
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "year": "2020",
+                            "median_income": 62700,
+                            "very_low": {
+                                   "il50_p1": 27900,
+                                   "il50_p2": 31900,
+                                   "il50_p3": 35900,
+                                   "il50_p4": 39850,
+                                   "il50_p5": 43050,
+                                   "il50_p6": 46250,
+                                   "il50_p7": 49450,
+                                   "il50_p8": 52650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16750,
+                                   "il30_p2": 19150,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44650,
+                                   "il80_p2": 51000,
+                                   "il80_p3": 57400,
+                                   "il80_p4": 63750,
+                                   "il80_p5": 68850,
+                                   "il80_p6": 73950,
+                                   "il80_p7": 79050,
+                                   "il80_p8": 84150
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "year": "2021",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33450,
+                                   "il50_p3": 37650,
+                                   "il50_p4": 41800,
+                                   "il50_p5": 45150,
+                                   "il50_p6": 48500,
+                                   "il50_p7": 51850,
+                                   "il50_p8": 55200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46850,
+                                   "il80_p2": 53550,
+                                   "il80_p3": 60250,
+                                   "il80_p4": 66900,
+                                   "il80_p5": 72300,
+                                   "il80_p6": 77650,
+                                   "il80_p7": 83000,
+                                   "il80_p8": 88350
+                            }
+                     },
+                     {
+                            "county_name": "Johnson County, WY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Johnson County, WY",
+                            "year": "2022",
+                            "median_income": 84500,
+                            "very_low": {
+                                   "il50_p1": 30700,
+                                   "il50_p2": 35050,
+                                   "il50_p3": 39450,
+                                   "il50_p4": 43800,
+                                   "il50_p5": 47350,
+                                   "il50_p6": 50850,
+                                   "il50_p7": 54350,
+                                   "il50_p8": 57850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18450,
+                                   "il30_p2": 21050,
+                                   "il30_p3": 23700,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 49100,
+                                   "il80_p2": 56100,
+                                   "il80_p3": 63100,
+                                   "il80_p4": 70100,
+                                   "il80_p5": 75750,
+                                   "il80_p6": 81350,
+                                   "il80_p7": 86950,
+                                   "il80_p8": 92550
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("0808599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0808599999: Montrose County, CO"
         },
         "scales": {

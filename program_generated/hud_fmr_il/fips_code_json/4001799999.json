@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 569,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1108,
+                                   "Four-Bedroom": 1358,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 612,
+                                   "One-Bedroom": 669,
+                                   "Two-Bedroom": 851,
+                                   "Three-Bedroom": 1163,
+                                   "Four-Bedroom": 1437,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 867,
+                                   "Three-Bedroom": 1184,
+                                   "Four-Bedroom": 1463,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 684,
+                                   "One-Bedroom": 724,
+                                   "Two-Bedroom": 906,
+                                   "Three-Bedroom": 1231,
+                                   "Four-Bedroom": 1506,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 705,
+                                   "One-Bedroom": 738,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1238,
+                                   "Four-Bedroom": 1488,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 716,
+                                   "One-Bedroom": 746,
+                                   "Two-Bedroom": 927,
+                                   "Three-Bedroom": 1239,
+                                   "Four-Bedroom": 1455,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 67300,
+                            "very_low": {
+                                   "il50_p1": 23600,
+                                   "il50_p2": 26950,
+                                   "il50_p3": 30300,
+                                   "il50_p4": 33650,
+                                   "il50_p5": 36350,
+                                   "il50_p6": 39050,
+                                   "il50_p7": 41750,
+                                   "il50_p8": 44450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37700,
+                                   "il80_p2": 43100,
+                                   "il80_p3": 48500,
+                                   "il80_p4": 53850,
+                                   "il80_p5": 58200,
+                                   "il80_p6": 62500,
+                                   "il80_p7": 66800,
+                                   "il80_p8": 71100
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 69400,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31250,
+                                   "il50_p4": 34700,
+                                   "il50_p5": 37500,
+                                   "il50_p6": 40300,
+                                   "il50_p7": 43050,
+                                   "il50_p8": 45850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 16650,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55500,
+                                   "il80_p5": 59950,
+                                   "il80_p6": 64400,
+                                   "il80_p7": 68850,
+                                   "il80_p8": 73300
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73800,
+                            "very_low": {
+                                   "il50_p1": 25850,
+                                   "il50_p2": 29550,
+                                   "il50_p3": 33250,
+                                   "il50_p4": 36900,
+                                   "il50_p5": 39900,
+                                   "il50_p6": 42850,
+                                   "il50_p7": 45800,
+                                   "il50_p8": 48750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41350,
+                                   "il80_p2": 47250,
+                                   "il80_p3": 53150,
+                                   "il80_p4": 59050,
+                                   "il80_p5": 63800,
+                                   "il80_p6": 68500,
+                                   "il80_p7": 73250,
+                                   "il80_p8": 77950
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 74400,
+                            "very_low": {
+                                   "il50_p1": 26050,
+                                   "il50_p2": 29800,
+                                   "il50_p3": 33500,
+                                   "il50_p4": 37200,
+                                   "il50_p5": 40200,
+                                   "il50_p6": 43200,
+                                   "il50_p7": 46150,
+                                   "il50_p8": 49150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17850,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41650,
+                                   "il80_p2": 47600,
+                                   "il80_p3": 53550,
+                                   "il80_p4": 59500,
+                                   "il80_p5": 64300,
+                                   "il80_p6": 69050,
+                                   "il80_p7": 73800,
+                                   "il80_p8": 78550
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK MSA",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 73200,
+                            "very_low": {
+                                   "il50_p1": 25650,
+                                   "il50_p2": 29300,
+                                   "il50_p3": 32950,
+                                   "il50_p4": 36600,
+                                   "il50_p5": 39550,
+                                   "il50_p6": 42500,
+                                   "il50_p7": 45400,
+                                   "il50_p8": 48350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41000,
+                                   "il80_p2": 46850,
+                                   "il80_p3": 52700,
+                                   "il80_p4": 58550,
+                                   "il80_p5": 63250,
+                                   "il80_p6": 67950,
+                                   "il80_p7": 72650,
+                                   "il80_p8": 77300
+                            }
+                     },
+                     {
+                            "county_name": "Canadian County, OK",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Oklahoma City, OK",
+                            "area_name": "Oklahoma City, OK HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 85300,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 40950,
+                                   "il50_p5": 44250,
+                                   "il50_p6": 47550,
+                                   "il50_p7": 50800,
+                                   "il50_p8": 54100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65500,
+                                   "il80_p5": 70750,
+                                   "il80_p6": 76000,
+                                   "il80_p7": 81250,
+                                   "il80_p8": 86500
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("1206999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1206999999: Orlando-Kissimmee-Sanford, FL MSA"
         },
         "scales": {

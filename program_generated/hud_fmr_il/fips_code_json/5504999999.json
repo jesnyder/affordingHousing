@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 555,
+                                   "Two-Bedroom": 738,
+                                   "Three-Bedroom": 923,
+                                   "Four-Bedroom": 1017,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 791,
+                                   "Three-Bedroom": 992,
+                                   "Four-Bedroom": 1171,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 570,
+                                   "One-Bedroom": 598,
+                                   "Two-Bedroom": 791,
+                                   "Three-Bedroom": 991,
+                                   "Four-Bedroom": 1278,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 655,
+                                   "Two-Bedroom": 863,
+                                   "Three-Bedroom": 1083,
+                                   "Four-Bedroom": 1424,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 655,
+                                   "One-Bedroom": 665,
+                                   "Two-Bedroom": 876,
+                                   "Three-Bedroom": 1123,
+                                   "Four-Bedroom": 1400,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 663,
+                                   "One-Bedroom": 664,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1144,
+                                   "Four-Bedroom": 1376,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 70500,
+                            "very_low": {
+                                   "il50_p1": 24700,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31750,
+                                   "il50_p4": 35250,
+                                   "il50_p5": 38100,
+                                   "il50_p6": 40900,
+                                   "il50_p7": 43750,
+                                   "il50_p8": 46550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 16950,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39500,
+                                   "il80_p2": 45150,
+                                   "il80_p3": 50800,
+                                   "il80_p4": 56400,
+                                   "il80_p5": 60950,
+                                   "il80_p6": 65450,
+                                   "il80_p7": 69950,
+                                   "il80_p8": 74450
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 73600,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29450,
+                                   "il50_p3": 33150,
+                                   "il50_p4": 36800,
+                                   "il50_p5": 39750,
+                                   "il50_p6": 42700,
+                                   "il50_p7": 45650,
+                                   "il50_p8": 48600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 17700,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41250,
+                                   "il80_p2": 47150,
+                                   "il80_p3": 53050,
+                                   "il80_p4": 58900,
+                                   "il80_p5": 63650,
+                                   "il80_p6": 68350,
+                                   "il80_p7": 73050,
+                                   "il80_p8": 77750
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 74600,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29850,
+                                   "il50_p3": 33600,
+                                   "il50_p4": 37300,
+                                   "il50_p5": 40300,
+                                   "il50_p6": 43300,
+                                   "il50_p7": 46300,
+                                   "il50_p8": 49250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41800,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53750,
+                                   "il80_p4": 59700,
+                                   "il80_p5": 64500,
+                                   "il80_p6": 69300,
+                                   "il80_p7": 74050,
+                                   "il80_p8": 78850
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 78500,
+                            "very_low": {
+                                   "il50_p1": 27500,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35350,
+                                   "il50_p4": 39250,
+                                   "il50_p5": 42400,
+                                   "il50_p6": 45550,
+                                   "il50_p7": 48700,
+                                   "il50_p8": 51850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16500,
+                                   "il30_p2": 18850,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44000,
+                                   "il80_p2": 50250,
+                                   "il80_p3": 56550,
+                                   "il80_p4": 62800,
+                                   "il80_p5": 67850,
+                                   "il80_p6": 72850,
+                                   "il80_p7": 77900,
+                                   "il80_p8": 82900
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI MSA",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 81500,
+                            "very_low": {
+                                   "il50_p1": 28550,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36700,
+                                   "il50_p4": 40750,
+                                   "il50_p5": 44050,
+                                   "il50_p6": 47300,
+                                   "il50_p7": 50550,
+                                   "il50_p8": 53800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 22050,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45650,
+                                   "il80_p2": 52200,
+                                   "il80_p3": 58700,
+                                   "il80_p4": 65200,
+                                   "il80_p5": 70450,
+                                   "il80_p6": 75650,
+                                   "il80_p7": 80850,
+                                   "il80_p8": 86100
+                            }
+                     },
+                     {
+                            "county_name": "Iowa County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Madison, WI",
+                            "area_name": "Iowa County, WI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 90500,
+                            "very_low": {
+                                   "il50_p1": 31700,
+                                   "il50_p2": 36200,
+                                   "il50_p3": 40750,
+                                   "il50_p4": 45250,
+                                   "il50_p5": 48900,
+                                   "il50_p6": 52500,
+                                   "il50_p7": 56150,
+                                   "il50_p8": 59750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21750,
+                                   "il30_p3": 24450,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50700,
+                                   "il80_p2": 57950,
+                                   "il80_p3": 65200,
+                                   "il80_p4": 72400,
+                                   "il80_p5": 78200,
+                                   "il80_p6": 84000,
+                                   "il80_p7": 89800,
+                                   "il80_p8": 95600
+                            }
+                     }
+              ]
+       }
+}

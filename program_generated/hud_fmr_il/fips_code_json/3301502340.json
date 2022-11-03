@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 890,
+                                   "One-Bedroom": 1024,
+                                   "Two-Bedroom": 1305,
+                                   "Three-Bedroom": 1633,
+                                   "Four-Bedroom": 1799,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 815,
+                                   "One-Bedroom": 929,
+                                   "Two-Bedroom": 1187,
+                                   "Three-Bedroom": 1488,
+                                   "Four-Bedroom": 1619,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 920,
+                                   "One-Bedroom": 1057,
+                                   "Two-Bedroom": 1357,
+                                   "Three-Bedroom": 1700,
+                                   "Four-Bedroom": 1834,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 970,
+                                   "One-Bedroom": 1117,
+                                   "Two-Bedroom": 1438,
+                                   "Three-Bedroom": 1792,
+                                   "Four-Bedroom": 1948,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 984,
+                                   "One-Bedroom": 1148,
+                                   "Two-Bedroom": 1474,
+                                   "Three-Bedroom": 1833,
+                                   "Four-Bedroom": 1999,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1040,
+                                   "One-Bedroom": 1219,
+                                   "Two-Bedroom": 1565,
+                                   "Three-Bedroom": 1935,
+                                   "Four-Bedroom": 2122,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 87600,
+                            "very_low": {
+                                   "il50_p1": 30700,
+                                   "il50_p2": 35050,
+                                   "il50_p3": 39450,
+                                   "il50_p4": 43800,
+                                   "il50_p5": 47350,
+                                   "il50_p6": 50850,
+                                   "il50_p7": 54350,
+                                   "il50_p8": 57850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18450,
+                                   "il30_p2": 21050,
+                                   "il30_p3": 23700,
+                                   "il30_p4": 26300,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 95000,
+                            "very_low": {
+                                   "il50_p1": 33250,
+                                   "il50_p2": 38000,
+                                   "il50_p3": 42750,
+                                   "il50_p4": 47500,
+                                   "il50_p5": 51300,
+                                   "il50_p6": 55100,
+                                   "il50_p7": 58900,
+                                   "il50_p8": 62700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19950,
+                                   "il30_p2": 22800,
+                                   "il30_p3": 25650,
+                                   "il30_p4": 28500,
+                                   "il30_p5": 30800,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 102100,
+                            "very_low": {
+                                   "il50_p1": 35750,
+                                   "il50_p2": 40850,
+                                   "il50_p3": 45950,
+                                   "il50_p4": 51050,
+                                   "il50_p5": 55150,
+                                   "il50_p6": 59250,
+                                   "il50_p7": 63350,
+                                   "il50_p8": 67400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21500,
+                                   "il30_p2": 24550,
+                                   "il30_p3": 27600,
+                                   "il30_p4": 30650,
+                                   "il30_p5": 33150,
+                                   "il30_p6": 35600,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 98000,
+                            "very_low": {
+                                   "il50_p1": 34300,
+                                   "il50_p2": 39200,
+                                   "il50_p3": 44100,
+                                   "il50_p4": 49000,
+                                   "il50_p5": 52950,
+                                   "il50_p6": 56850,
+                                   "il50_p7": 60800,
+                                   "il50_p8": 64700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20600,
+                                   "il30_p2": 23550,
+                                   "il30_p3": 26500,
+                                   "il30_p4": 29400,
+                                   "il30_p5": 31800,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54900,
+                                   "il80_p2": 62750,
+                                   "il80_p3": 70600,
+                                   "il80_p4": 78400,
+                                   "il80_p5": 84700,
+                                   "il80_p6": 90950,
+                                   "il80_p7": 97250,
+                                   "il80_p8": 103500
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 105400,
+                            "very_low": {
+                                   "il50_p1": 36050,
+                                   "il50_p2": 41200,
+                                   "il50_p3": 46350,
+                                   "il50_p4": 51450,
+                                   "il50_p5": 55600,
+                                   "il50_p6": 59700,
+                                   "il50_p7": 63800,
+                                   "il50_p8": 67950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21600,
+                                   "il30_p2": 24700,
+                                   "il30_p3": 27800,
+                                   "il30_p4": 30850,
+                                   "il30_p5": 33350,
+                                   "il30_p6": 35800,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Atkinson town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Lawrence, MA-NH HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 114000,
+                            "very_low": {
+                                   "il50_p1": 40300,
+                                   "il50_p2": 46050,
+                                   "il50_p3": 51800,
+                                   "il50_p4": 57550,
+                                   "il50_p5": 62200,
+                                   "il50_p6": 66800,
+                                   "il50_p7": 71400,
+                                   "il50_p8": 76000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24200,
+                                   "il30_p2": 27650,
+                                   "il30_p3": 31100,
+                                   "il30_p4": 34550,
+                                   "il30_p5": 37350,
+                                   "il30_p6": 40100,
+                                   "il30_p7": 42850,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

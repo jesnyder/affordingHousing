@@ -25,14 +25,9 @@ new Chart(document.getElementById("2402399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2402399999: Garrett County, MD"
         },
         "scales": {

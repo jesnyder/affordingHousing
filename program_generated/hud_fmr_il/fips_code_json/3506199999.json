@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 557,
+                                   "One-Bedroom": 716,
+                                   "Two-Bedroom": 878,
+                                   "Three-Bedroom": 1278,
+                                   "Four-Bedroom": 1547,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 557,
+                                   "One-Bedroom": 707,
+                                   "Two-Bedroom": 873,
+                                   "Three-Bedroom": 1270,
+                                   "Four-Bedroom": 1513,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 711,
+                                   "Two-Bedroom": 877,
+                                   "Three-Bedroom": 1268,
+                                   "Four-Bedroom": 1508,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 571,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 877,
+                                   "Three-Bedroom": 1265,
+                                   "Four-Bedroom": 1506,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 770,
+                                   "Two-Bedroom": 940,
+                                   "Three-Bedroom": 1345,
+                                   "Four-Bedroom": 1617,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM",
+                            "area_name": "Albuquerque, NM MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 666,
+                                   "One-Bedroom": 821,
+                                   "Two-Bedroom": 996,
+                                   "Three-Bedroom": 1415,
+                                   "Four-Bedroom": 1705,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "year": "2017",
+                            "median_income": 61900,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 30950,
+                                   "il50_p5": 33450,
+                                   "il50_p6": 35950,
+                                   "il50_p7": 38400,
+                                   "il50_p8": 40900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13000,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40900
+                            },
+                            "low": {
+                                   "il80_p1": 34650,
+                                   "il80_p2": 39600,
+                                   "il80_p3": 44550,
+                                   "il80_p4": 49500,
+                                   "il80_p5": 53500,
+                                   "il80_p6": 57450,
+                                   "il80_p7": 61400,
+                                   "il80_p8": 65350
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "year": "2018",
+                            "median_income": 65000,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "year": "2019",
+                            "median_income": 65700,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26300,
+                                   "il50_p3": 29600,
+                                   "il50_p4": 32850,
+                                   "il50_p5": 35500,
+                                   "il50_p6": 38150,
+                                   "il50_p7": 40750,
+                                   "il50_p8": 43400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43400
+                            },
+                            "low": {
+                                   "il80_p1": 36800,
+                                   "il80_p2": 42050,
+                                   "il80_p3": 47300,
+                                   "il80_p4": 52550,
+                                   "il80_p5": 56800,
+                                   "il80_p6": 61000,
+                                   "il80_p7": 65200,
+                                   "il80_p8": 69400
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "year": "2020",
+                            "median_income": 69100,
+                            "very_low": {
+                                   "il50_p1": 24200,
+                                   "il50_p2": 27650,
+                                   "il50_p3": 31100,
+                                   "il50_p4": 34550,
+                                   "il50_p5": 37350,
+                                   "il50_p6": 40100,
+                                   "il50_p7": 42850,
+                                   "il50_p8": 45650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14550,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38750,
+                                   "il80_p2": 44250,
+                                   "il80_p3": 49800,
+                                   "il80_p4": 55300,
+                                   "il80_p5": 59750,
+                                   "il80_p6": 64150,
+                                   "il80_p7": 68600,
+                                   "il80_p8": 73000
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM MSA",
+                            "area_name": "Albuquerque, NM MSA",
+                            "year": "2021",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 23650,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30400,
+                                   "il50_p4": 33750,
+                                   "il50_p5": 36450,
+                                   "il50_p6": 39150,
+                                   "il50_p7": 41850,
+                                   "il50_p8": 44550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14200,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44550
+                            },
+                            "low": {
+                                   "il80_p1": 37800,
+                                   "il80_p2": 43200,
+                                   "il80_p3": 48600,
+                                   "il80_p4": 54000,
+                                   "il80_p5": 58350,
+                                   "il80_p6": 62650,
+                                   "il80_p7": 67000,
+                                   "il80_p8": 71300
+                            }
+                     },
+                     {
+                            "county_name": "Valencia County, NM",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Albuquerque, NM",
+                            "area_name": "Albuquerque, NM MSA",
+                            "year": "2022",
+                            "median_income": 77100,
+                            "very_low": {
+                                   "il50_p1": 26450,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 34000,
+                                   "il50_p4": 37750,
+                                   "il50_p5": 40800,
+                                   "il50_p6": 43800,
+                                   "il50_p7": 46850,
+                                   "il50_p8": 49850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42300,
+                                   "il80_p2": 48350,
+                                   "il80_p3": 54400,
+                                   "il80_p4": 60400,
+                                   "il80_p5": 65250,
+                                   "il80_p6": 70100,
+                                   "il80_p7": 74900,
+                                   "il80_p8": 79750
+                            }
+                     }
+              ]
+       }
+}

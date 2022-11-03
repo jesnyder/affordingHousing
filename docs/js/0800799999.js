@@ -25,14 +25,9 @@ new Chart(document.getElementById("0800799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0800799999: Archuleta County, CO"
         },
         "scales": {

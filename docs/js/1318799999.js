@@ -25,14 +25,9 @@ new Chart(document.getElementById("1318799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1318799999: Lumpkin County, GA"
         },
         "scales": {

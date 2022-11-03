@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 643,
+                                   "One-Bedroom": 794,
+                                   "Two-Bedroom": 931,
+                                   "Three-Bedroom": 1216,
+                                   "Four-Bedroom": 1543,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 586,
+                                   "One-Bedroom": 777,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1183,
+                                   "Four-Bedroom": 1523,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 778,
+                                   "Two-Bedroom": 957,
+                                   "Three-Bedroom": 1248,
+                                   "Four-Bedroom": 1518,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 775,
+                                   "Two-Bedroom": 968,
+                                   "Three-Bedroom": 1295,
+                                   "Four-Bedroom": 1397,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 708,
+                                   "One-Bedroom": 834,
+                                   "Two-Bedroom": 1047,
+                                   "Three-Bedroom": 1370,
+                                   "Four-Bedroom": 1420,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 725,
+                                   "One-Bedroom": 832,
+                                   "Two-Bedroom": 1030,
+                                   "Three-Bedroom": 1284,
+                                   "Four-Bedroom": 1397,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "year": "2017",
+                            "median_income": 63800,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "year": "2018",
+                            "median_income": 67500,
+                            "very_low": {
+                                   "il50_p1": 23650,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30400,
+                                   "il50_p4": 33750,
+                                   "il50_p5": 36450,
+                                   "il50_p6": 39150,
+                                   "il50_p7": 41850,
+                                   "il50_p8": 44550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14200,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37800,
+                                   "il80_p2": 43200,
+                                   "il80_p3": 48600,
+                                   "il80_p4": 54000,
+                                   "il80_p5": 58350,
+                                   "il80_p6": 62650,
+                                   "il80_p7": 67000,
+                                   "il80_p8": 71300
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "year": "2019",
+                            "median_income": 68900,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34450,
+                                   "il50_p5": 37250,
+                                   "il50_p6": 40000,
+                                   "il50_p7": 42750,
+                                   "il50_p8": 45500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38600,
+                                   "il80_p2": 44100,
+                                   "il80_p3": 49600,
+                                   "il80_p4": 55100,
+                                   "il80_p5": 59550,
+                                   "il80_p6": 63950,
+                                   "il80_p7": 68350,
+                                   "il80_p8": 72750
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "year": "2020",
+                            "median_income": 73800,
+                            "very_low": {
+                                   "il50_p1": 25850,
+                                   "il50_p2": 29550,
+                                   "il50_p3": 33250,
+                                   "il50_p4": 36900,
+                                   "il50_p5": 39900,
+                                   "il50_p6": 42850,
+                                   "il50_p7": 45800,
+                                   "il50_p8": 48750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41350,
+                                   "il80_p2": 47250,
+                                   "il80_p3": 53150,
+                                   "il80_p4": 59050,
+                                   "il80_p5": 63800,
+                                   "il80_p6": 68500,
+                                   "il80_p7": 73250,
+                                   "il80_p8": 77950
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "year": "2021",
+                            "median_income": 73200,
+                            "very_low": {
+                                   "il50_p1": 25650,
+                                   "il50_p2": 29300,
+                                   "il50_p3": 32950,
+                                   "il50_p4": 36600,
+                                   "il50_p5": 39550,
+                                   "il50_p6": 42500,
+                                   "il50_p7": 45400,
+                                   "il50_p8": 48350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41000,
+                                   "il80_p2": 46850,
+                                   "il80_p3": 52700,
+                                   "il80_p4": 58550,
+                                   "il80_p5": 63250,
+                                   "il80_p6": 67950,
+                                   "il80_p7": 72650,
+                                   "il80_p8": 77300
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, NY",
+                            "year": "2022",
+                            "median_income": 79000,
+                            "very_low": {
+                                   "il50_p1": 27650,
+                                   "il50_p2": 31600,
+                                   "il50_p3": 35550,
+                                   "il50_p4": 39500,
+                                   "il50_p5": 42700,
+                                   "il50_p6": 45850,
+                                   "il50_p7": 49000,
+                                   "il50_p8": 52150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44250,
+                                   "il80_p2": 50600,
+                                   "il80_p3": 56900,
+                                   "il80_p4": 63200,
+                                   "il80_p5": 68300,
+                                   "il80_p6": 73350,
+                                   "il80_p7": 78400,
+                                   "il80_p8": 83450
+                            }
+                     }
+              ]
+       }
+}

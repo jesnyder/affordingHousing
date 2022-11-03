@@ -25,14 +25,9 @@ new Chart(document.getElementById("1602199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1602199999: Boundary County, ID"
         },
         "scales": {

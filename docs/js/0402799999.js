@@ -25,14 +25,9 @@ new Chart(document.getElementById("0402799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0402799999: Yuma, AZ MSA"
         },
         "scales": {

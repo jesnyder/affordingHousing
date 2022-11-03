@@ -25,14 +25,9 @@ new Chart(document.getElementById("1714199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1714199999: Ogle County, IL"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 544,
+                                   "One-Bedroom": 643,
+                                   "Two-Bedroom": 765,
+                                   "Three-Bedroom": 1096,
+                                   "Four-Bedroom": 1348,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 628,
+                                   "One-Bedroom": 658,
+                                   "Two-Bedroom": 778,
+                                   "Three-Bedroom": 1080,
+                                   "Four-Bedroom": 1370,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 669,
+                                   "One-Bedroom": 673,
+                                   "Two-Bedroom": 795,
+                                   "Three-Bedroom": 1089,
+                                   "Four-Bedroom": 1321,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 681,
+                                   "One-Bedroom": 685,
+                                   "Two-Bedroom": 828,
+                                   "Three-Bedroom": 1094,
+                                   "Four-Bedroom": 1255,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 697,
+                                   "One-Bedroom": 701,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1118,
+                                   "Four-Bedroom": 1264,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 682,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 851,
+                                   "Three-Bedroom": 1095,
+                                   "Four-Bedroom": 1284,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "year": "2017",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "year": "2018",
+                            "median_income": 67400,
+                            "very_low": {
+                                   "il50_p1": 23600,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30350,
+                                   "il50_p4": 33700,
+                                   "il50_p5": 36400,
+                                   "il50_p6": 39100,
+                                   "il50_p7": 41800,
+                                   "il50_p8": 44500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37750,
+                                   "il80_p2": 43150,
+                                   "il80_p3": 48550,
+                                   "il80_p4": 53900,
+                                   "il80_p5": 58250,
+                                   "il80_p6": 62550,
+                                   "il80_p7": 66850,
+                                   "il80_p8": 71150
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "year": "2019",
+                            "median_income": 69000,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34500,
+                                   "il50_p5": 37300,
+                                   "il50_p6": 40050,
+                                   "il50_p7": 42800,
+                                   "il50_p8": 45550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38650,
+                                   "il80_p2": 44200,
+                                   "il80_p3": 49700,
+                                   "il80_p4": 55200,
+                                   "il80_p5": 59650,
+                                   "il80_p6": 64050,
+                                   "il80_p7": 68450,
+                                   "il80_p8": 72900
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "year": "2020",
+                            "median_income": 69700,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27900,
+                                   "il50_p3": 31400,
+                                   "il50_p4": 34850,
+                                   "il50_p5": 37650,
+                                   "il50_p6": 40450,
+                                   "il50_p7": 43250,
+                                   "il50_p8": 46050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39050,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50200,
+                                   "il80_p4": 55750,
+                                   "il80_p5": 60250,
+                                   "il80_p6": 64700,
+                                   "il80_p7": 69150,
+                                   "il80_p8": 73600
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "year": "2021",
+                            "median_income": 70300,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28150,
+                                   "il50_p3": 31650,
+                                   "il50_p4": 35150,
+                                   "il50_p5": 38000,
+                                   "il50_p6": 40800,
+                                   "il50_p7": 43600,
+                                   "il50_p8": 46400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39400,
+                                   "il80_p2": 45000,
+                                   "il80_p3": 50650,
+                                   "il80_p4": 56250,
+                                   "il80_p5": 60750,
+                                   "il80_p6": 65250,
+                                   "il80_p7": 69750,
+                                   "il80_p8": 74250
+                            }
+                     },
+                     {
+                            "county_name": "Seneca County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Seneca County, NY",
+                            "year": "2022",
+                            "median_income": 78400,
+                            "very_low": {
+                                   "il50_p1": 27450,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35300,
+                                   "il50_p4": 39200,
+                                   "il50_p5": 42350,
+                                   "il50_p6": 45500,
+                                   "il50_p7": 48650,
+                                   "il50_p8": 51750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43900,
+                                   "il80_p2": 50200,
+                                   "il80_p3": 56450,
+                                   "il80_p4": 62700,
+                                   "il80_p5": 67750,
+                                   "il80_p6": 72750,
+                                   "il80_p7": 77750,
+                                   "il80_p8": 82800
+                            }
+                     }
+              ]
+       }
+}

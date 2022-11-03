@@ -25,14 +25,9 @@ new Chart(document.getElementById("1801399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1801399999: Indianapolis, IN HUD Metro FMR Area"
         },
         "scales": {

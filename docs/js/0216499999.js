@@ -25,14 +25,9 @@ new Chart(document.getElementById("0216499999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0216499999: Lake and Peninsula Borough, AK"
         },
         "scales": {

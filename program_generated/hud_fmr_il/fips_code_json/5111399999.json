@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 685,
+                                   "One-Bedroom": 776,
+                                   "Two-Bedroom": 895,
+                                   "Three-Bedroom": 1229,
+                                   "Four-Bedroom": 1234,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 689,
+                                   "One-Bedroom": 821,
+                                   "Two-Bedroom": 943,
+                                   "Three-Bedroom": 1214,
+                                   "Four-Bedroom": 1381,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 774,
+                                   "Two-Bedroom": 961,
+                                   "Three-Bedroom": 1204,
+                                   "Four-Bedroom": 1486,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 647,
+                                   "One-Bedroom": 728,
+                                   "Two-Bedroom": 959,
+                                   "Three-Bedroom": 1195,
+                                   "Four-Bedroom": 1441,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 700,
+                                   "Two-Bedroom": 922,
+                                   "Three-Bedroom": 1147,
+                                   "Four-Bedroom": 1361,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                            "area_name": "Madison County, VA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 723,
+                                   "One-Bedroom": 727,
+                                   "Two-Bedroom": 957,
+                                   "Three-Bedroom": 1183,
+                                   "Four-Bedroom": 1450,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "year": "2017",
+                            "median_income": 62100,
+                            "very_low": {
+                                   "il50_p1": 21750,
+                                   "il50_p2": 24850,
+                                   "il50_p3": 27950,
+                                   "il50_p4": 31050,
+                                   "il50_p5": 33550,
+                                   "il50_p6": 36050,
+                                   "il50_p7": 38550,
+                                   "il50_p8": 41000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41000
+                            },
+                            "low": {
+                                   "il80_p1": 34800,
+                                   "il80_p2": 39800,
+                                   "il80_p3": 44750,
+                                   "il80_p4": 49700,
+                                   "il80_p5": 53700,
+                                   "il80_p6": 57700,
+                                   "il80_p7": 61650,
+                                   "il80_p8": 65650
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "year": "2018",
+                            "median_income": 57300,
+                            "very_low": {
+                                   "il50_p1": 20650,
+                                   "il50_p2": 23600,
+                                   "il50_p3": 26550,
+                                   "il50_p4": 29500,
+                                   "il50_p5": 31900,
+                                   "il50_p6": 34250,
+                                   "il50_p7": 36600,
+                                   "il50_p8": 38950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12400,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36600,
+                                   "il30_p8": 38950
+                            },
+                            "low": {
+                                   "il80_p1": 33100,
+                                   "il80_p2": 37800,
+                                   "il80_p3": 42550,
+                                   "il80_p4": 47250,
+                                   "il80_p5": 51050,
+                                   "il80_p6": 54850,
+                                   "il80_p7": 58600,
+                                   "il80_p8": 62400
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "year": "2019",
+                            "median_income": 55100,
+                            "very_low": {
+                                   "il50_p1": 20100,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25850,
+                                   "il50_p4": 28700,
+                                   "il50_p5": 31000,
+                                   "il50_p6": 33300,
+                                   "il50_p7": 35600,
+                                   "il50_p8": 37900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33300,
+                                   "il30_p7": 35600,
+                                   "il30_p8": 37900
+                            },
+                            "low": {
+                                   "il80_p1": 32150,
+                                   "il80_p2": 36750,
+                                   "il80_p3": 41350,
+                                   "il80_p4": 45900,
+                                   "il80_p5": 49600,
+                                   "il80_p6": 53250,
+                                   "il80_p7": 56950,
+                                   "il80_p8": 60600
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "year": "2020",
+                            "median_income": 61700,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24700,
+                                   "il50_p3": 27800,
+                                   "il50_p4": 30850,
+                                   "il50_p5": 33350,
+                                   "il50_p6": 35800,
+                                   "il50_p7": 38300,
+                                   "il50_p8": 40750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38300,
+                                   "il30_p8": 40750
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39500,
+                                   "il80_p3": 44450,
+                                   "il80_p4": 49350,
+                                   "il80_p5": 53300,
+                                   "il80_p6": 57250,
+                                   "il80_p7": 61200,
+                                   "il80_p8": 65150
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Madison County, VA",
+                            "year": "2021",
+                            "median_income": 63400,
+                            "very_low": {
+                                   "il50_p1": 22200,
+                                   "il50_p2": 25400,
+                                   "il50_p3": 28550,
+                                   "il50_p4": 31700,
+                                   "il50_p5": 34250,
+                                   "il50_p6": 36800,
+                                   "il50_p7": 39350,
+                                   "il50_p8": 41850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39350,
+                                   "il30_p8": 41850
+                            },
+                            "low": {
+                                   "il80_p1": 35500,
+                                   "il80_p2": 40600,
+                                   "il80_p3": 45650,
+                                   "il80_p4": 50700,
+                                   "il80_p5": 54800,
+                                   "il80_p6": 58850,
+                                   "il80_p7": 62900,
+                                   "il80_p8": 66950
+                            }
+                     },
+                     {
+                            "county_name": "Madison County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+                            "area_name": "Madison County, VA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 24850,
+                                   "il50_p2": 28400,
+                                   "il50_p3": 31950,
+                                   "il50_p4": 35450,
+                                   "il50_p5": 38300,
+                                   "il50_p6": 41150,
+                                   "il50_p7": 44000,
+                                   "il50_p8": 46800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45400,
+                                   "il80_p3": 51050,
+                                   "il80_p4": 56700,
+                                   "il80_p5": 61250,
+                                   "il80_p6": 65800,
+                                   "il80_p7": 70350,
+                                   "il80_p8": 74850
+                            }
+                     }
+              ]
+       }
+}

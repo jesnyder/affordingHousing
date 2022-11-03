@@ -25,14 +25,9 @@ new Chart(document.getElementById("0219899999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0219899999: Prince of Wales-Hyder Census Area, AK"
         },
         "scales": {

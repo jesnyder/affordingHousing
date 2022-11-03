@@ -25,14 +25,9 @@ new Chart(document.getElementById("1316199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1316199999: Jeff Davis County, GA"
         },
         "scales": {

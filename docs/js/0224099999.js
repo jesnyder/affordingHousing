@@ -25,14 +25,9 @@ new Chart(document.getElementById("0224099999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0224099999: Southeast Fairbanks Census Area, AK"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 587,
+                                   "One-Bedroom": 642,
+                                   "Two-Bedroom": 767,
+                                   "Three-Bedroom": 1117,
+                                   "Four-Bedroom": 1351,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 734,
+                                   "Two-Bedroom": 844,
+                                   "Three-Bedroom": 1228,
+                                   "Four-Bedroom": 1456,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 578,
+                                   "One-Bedroom": 747,
+                                   "Two-Bedroom": 861,
+                                   "Three-Bedroom": 1245,
+                                   "Four-Bedroom": 1425,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 755,
+                                   "Two-Bedroom": 894,
+                                   "Three-Bedroom": 1290,
+                                   "Four-Bedroom": 1390,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 720,
+                                   "One-Bedroom": 725,
+                                   "Two-Bedroom": 903,
+                                   "Three-Bedroom": 1261,
+                                   "Four-Bedroom": 1377,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 708,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 936,
+                                   "Three-Bedroom": 1251,
+                                   "Four-Bedroom": 1416,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "year": "2017",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33050,
+                                   "il50_p4": 36700,
+                                   "il50_p5": 39650,
+                                   "il50_p6": 42600,
+                                   "il50_p7": 45550,
+                                   "il50_p8": 48450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 47000,
+                                   "il80_p3": 52850,
+                                   "il80_p4": 58700,
+                                   "il80_p5": 63400,
+                                   "il80_p6": 68100,
+                                   "il80_p7": 72800,
+                                   "il80_p8": 77500
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "year": "2018",
+                            "median_income": 76000,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 38000,
+                                   "il50_p5": 41050,
+                                   "il50_p6": 44100,
+                                   "il50_p7": 47150,
+                                   "il50_p8": 50200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18250,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42600,
+                                   "il80_p2": 48650,
+                                   "il80_p3": 54750,
+                                   "il80_p4": 60800,
+                                   "il80_p5": 65700,
+                                   "il80_p6": 70550,
+                                   "il80_p7": 75400,
+                                   "il80_p8": 80300
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "year": "2019",
+                            "median_income": 80200,
+                            "very_low": {
+                                   "il50_p1": 28100,
+                                   "il50_p2": 32100,
+                                   "il50_p3": 36100,
+                                   "il50_p4": 40100,
+                                   "il50_p5": 43350,
+                                   "il50_p6": 46550,
+                                   "il50_p7": 49750,
+                                   "il50_p8": 52950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16850,
+                                   "il30_p2": 19250,
+                                   "il30_p3": 21650,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44950,
+                                   "il80_p2": 51350,
+                                   "il80_p3": 57750,
+                                   "il80_p4": 64150,
+                                   "il80_p5": 69300,
+                                   "il80_p6": 74450,
+                                   "il80_p7": 79550,
+                                   "il80_p8": 84700
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "year": "2020",
+                            "median_income": 81600,
+                            "very_low": {
+                                   "il50_p1": 28600,
+                                   "il50_p2": 32650,
+                                   "il50_p3": 36750,
+                                   "il50_p4": 40800,
+                                   "il50_p5": 44100,
+                                   "il50_p6": 47350,
+                                   "il50_p7": 50600,
+                                   "il50_p8": 53900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 22050,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45750,
+                                   "il80_p2": 52250,
+                                   "il80_p3": 58800,
+                                   "il80_p4": 65300,
+                                   "il80_p5": 70550,
+                                   "il80_p6": 75750,
+                                   "il80_p7": 81000,
+                                   "il80_p8": 86200
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "year": "2021",
+                            "median_income": 81900,
+                            "very_low": {
+                                   "il50_p1": 28700,
+                                   "il50_p2": 32800,
+                                   "il50_p3": 36900,
+                                   "il50_p4": 40950,
+                                   "il50_p5": 44250,
+                                   "il50_p6": 47550,
+                                   "il50_p7": 50800,
+                                   "il50_p8": 54100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65500,
+                                   "il80_p5": 70750,
+                                   "il80_p6": 76000,
+                                   "il80_p7": 81250,
+                                   "il80_p8": 86500
+                            }
+                     },
+                     {
+                            "county_name": "Orange County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Orange County, VA",
+                            "year": "2022",
+                            "median_income": 92800,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36650,
+                                   "il50_p3": 41250,
+                                   "il50_p4": 45800,
+                                   "il50_p5": 49500,
+                                   "il50_p6": 53150,
+                                   "il50_p7": 56800,
+                                   "il50_p8": 60500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 51300,
+                                   "il80_p2": 58600,
+                                   "il80_p3": 65950,
+                                   "il80_p4": 73250,
+                                   "il80_p5": 79150,
+                                   "il80_p6": 85000,
+                                   "il80_p7": 90850,
+                                   "il80_p8": 96700
+                            }
+                     }
+              ]
+       }
+}

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500334655_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500334655: Pittsfield, MA HUD Metro FMR Area"
         },
         "scales": {

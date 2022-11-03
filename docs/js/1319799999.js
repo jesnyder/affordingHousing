@@ -25,14 +25,9 @@ new Chart(document.getElementById("1319799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1319799999: Columbus, GA-AL MSA"
         },
         "scales": {

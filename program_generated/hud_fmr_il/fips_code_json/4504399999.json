@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 588,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 1081,
+                                   "Four-Bedroom": 1180,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 581,
+                                   "Two-Bedroom": 773,
+                                   "Three-Bedroom": 1124,
+                                   "Four-Bedroom": 1154,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 604,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 802,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1186,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 748,
+                                   "Three-Bedroom": 1079,
+                                   "Four-Bedroom": 1081,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 611,
+                                   "One-Bedroom": 615,
+                                   "Two-Bedroom": 811,
+                                   "Three-Bedroom": 1145,
+                                   "Four-Bedroom": 1149,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 650,
+                                   "One-Bedroom": 654,
+                                   "Two-Bedroom": 843,
+                                   "Three-Bedroom": 1171,
+                                   "Four-Bedroom": 1176,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "year": "2017",
+                            "median_income": 53700,
+                            "very_low": {
+                                   "il50_p1": 18800,
+                                   "il50_p2": 21500,
+                                   "il50_p3": 24200,
+                                   "il50_p4": 26850,
+                                   "il50_p5": 29000,
+                                   "il50_p6": 31150,
+                                   "il50_p7": 33300,
+                                   "il50_p8": 35450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31150,
+                                   "il30_p7": 33300,
+                                   "il30_p8": 35450
+                            },
+                            "low": {
+                                   "il80_p1": 30100,
+                                   "il80_p2": 34400,
+                                   "il80_p3": 38700,
+                                   "il80_p4": 42950,
+                                   "il80_p5": 46400,
+                                   "il80_p6": 49850,
+                                   "il80_p7": 53300,
+                                   "il80_p8": 56700
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "year": "2018",
+                            "median_income": 56600,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22650,
+                                   "il50_p3": 25500,
+                                   "il50_p4": 28300,
+                                   "il50_p5": 30600,
+                                   "il50_p6": 32850,
+                                   "il50_p7": 35100,
+                                   "il50_p8": 37400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32850,
+                                   "il30_p7": 35100,
+                                   "il30_p8": 37400
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36250,
+                                   "il80_p3": 40800,
+                                   "il80_p4": 45300,
+                                   "il80_p5": 48950,
+                                   "il80_p6": 52550,
+                                   "il80_p7": 56200,
+                                   "il80_p8": 59800
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "year": "2019",
+                            "median_income": 59400,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26750,
+                                   "il50_p4": 29700,
+                                   "il50_p5": 32100,
+                                   "il50_p6": 34500,
+                                   "il50_p7": 36850,
+                                   "il50_p8": 39250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34500,
+                                   "il30_p7": 36850,
+                                   "il30_p8": 39250
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47500,
+                                   "il80_p5": 51300,
+                                   "il80_p6": 55100,
+                                   "il80_p7": 58900,
+                                   "il80_p8": 62700
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "year": "2020",
+                            "median_income": 62500,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38750,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 50000,
+                                   "il80_p5": 54000,
+                                   "il80_p6": 58000,
+                                   "il80_p7": 62000,
+                                   "il80_p8": 66000
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "year": "2021",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40000,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Georgetown County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Georgetown County, SC",
+                            "year": "2022",
+                            "median_income": 69800,
+                            "very_low": {
+                                   "il50_p1": 24450,
+                                   "il50_p2": 27950,
+                                   "il50_p3": 31450,
+                                   "il50_p4": 34900,
+                                   "il50_p5": 37700,
+                                   "il50_p6": 40500,
+                                   "il50_p7": 43300,
+                                   "il50_p8": 46100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46100
+                            },
+                            "low": {
+                                   "il80_p1": 39100,
+                                   "il80_p2": 44700,
+                                   "il80_p3": 50300,
+                                   "il80_p4": 55850,
+                                   "il80_p5": 60350,
+                                   "il80_p6": 64800,
+                                   "il80_p7": 69300,
+                                   "il80_p8": 73750
+                            }
+                     }
+              ]
+       }
+}

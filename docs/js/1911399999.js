@@ -25,14 +25,9 @@ new Chart(document.getElementById("1911399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1911399999: Cedar Rapids, IA HUD Metro FMR Area"
         },
         "scales": {

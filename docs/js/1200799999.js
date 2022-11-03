@@ -25,14 +25,9 @@ new Chart(document.getElementById("1200799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1200799999: Bradford County, FL"
         },
         "scales": {

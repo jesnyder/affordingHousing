@@ -25,14 +25,9 @@ new Chart(document.getElementById("1201999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1201999999: Jacksonville, FL HUD Metro FMR Area"
         },
         "scales": {

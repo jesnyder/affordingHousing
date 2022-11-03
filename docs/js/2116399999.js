@@ -25,14 +25,9 @@ new Chart(document.getElementById("2116399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2116399999: Meade County, KY HUD Metro FMR Area"
         },
         "scales": {

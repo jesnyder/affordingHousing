@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 964,
+                                   "One-Bedroom": 1011,
+                                   "Two-Bedroom": 1331,
+                                   "Three-Bedroom": 1665,
+                                   "Four-Bedroom": 1835,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1055,
+                                   "One-Bedroom": 1094,
+                                   "Two-Bedroom": 1442,
+                                   "Three-Bedroom": 1834,
+                                   "Four-Bedroom": 1964,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1104,
+                                   "One-Bedroom": 1151,
+                                   "Two-Bedroom": 1498,
+                                   "Three-Bedroom": 2038,
+                                   "Four-Bedroom": 2045,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1118,
+                                   "One-Bedroom": 1162,
+                                   "Two-Bedroom": 1504,
+                                   "Three-Bedroom": 2119,
+                                   "Four-Bedroom": 2127,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1123,
+                                   "One-Bedroom": 1160,
+                                   "Two-Bedroom": 1504,
+                                   "Three-Bedroom": 2152,
+                                   "Four-Bedroom": 2243,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1238,
+                                   "One-Bedroom": 1244,
+                                   "Two-Bedroom": 1637,
+                                   "Three-Bedroom": 2325,
+                                   "Four-Bedroom": 2620,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 105600,
+                            "very_low": {
+                                   "il50_p1": 37000,
+                                   "il50_p2": 42250,
+                                   "il50_p3": 47550,
+                                   "il50_p4": 52800,
+                                   "il50_p5": 57050,
+                                   "il50_p6": 61250,
+                                   "il50_p7": 65500,
+                                   "il50_p8": 69700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22200,
+                                   "il30_p2": 25400,
+                                   "il30_p3": 28550,
+                                   "il30_p4": 31700,
+                                   "il30_p5": 34250,
+                                   "il30_p6": 36800,
+                                   "il30_p7": 39350,
+                                   "il30_p8": 41850
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 106500,
+                            "very_low": {
+                                   "il50_p1": 37300,
+                                   "il50_p2": 42600,
+                                   "il50_p3": 47950,
+                                   "il50_p4": 53250,
+                                   "il50_p5": 57550,
+                                   "il50_p6": 61800,
+                                   "il50_p7": 66050,
+                                   "il50_p8": 70300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22400,
+                                   "il30_p2": 25600,
+                                   "il30_p3": 28800,
+                                   "il30_p4": 31950,
+                                   "il30_p5": 34550,
+                                   "il30_p6": 37100,
+                                   "il30_p7": 39650,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 109500,
+                            "very_low": {
+                                   "il50_p1": 38350,
+                                   "il50_p2": 43800,
+                                   "il50_p3": 49300,
+                                   "il50_p4": 54750,
+                                   "il50_p5": 59150,
+                                   "il50_p6": 63550,
+                                   "il50_p7": 67900,
+                                   "il50_p8": 72300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23000,
+                                   "il30_p2": 26300,
+                                   "il30_p3": 29600,
+                                   "il30_p4": 32850,
+                                   "il30_p5": 35500,
+                                   "il30_p6": 38150,
+                                   "il30_p7": 40750,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 112200,
+                            "very_low": {
+                                   "il50_p1": 39300,
+                                   "il50_p2": 44900,
+                                   "il50_p3": 50500,
+                                   "il50_p4": 56100,
+                                   "il50_p5": 60600,
+                                   "il50_p6": 65100,
+                                   "il50_p7": 69600,
+                                   "il50_p8": 74100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23600,
+                                   "il30_p2": 26950,
+                                   "il30_p3": 30300,
+                                   "il30_p4": 33650,
+                                   "il30_p5": 36350,
+                                   "il30_p6": 39050,
+                                   "il30_p7": 41750,
+                                   "il30_p8": 44450
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 115000,
+                            "very_low": {
+                                   "il50_p1": 40250,
+                                   "il50_p2": 46000,
+                                   "il50_p3": 51750,
+                                   "il50_p4": 57500,
+                                   "il50_p5": 62100,
+                                   "il50_p6": 66700,
+                                   "il50_p7": 71300,
+                                   "il50_p8": 75900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24150,
+                                   "il30_p2": 27600,
+                                   "il30_p3": 31050,
+                                   "il30_p4": 34500,
+                                   "il30_p5": 37300,
+                                   "il30_p6": 40050,
+                                   "il30_p7": 42800,
+                                   "il30_p8": 45550
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NH",
+                            "counties_msa": "",
+                            "town_name": "Nottingham town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Western Rockingham County, NH HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 126400,
+                            "very_low": {
+                                   "il50_p1": 44250,
+                                   "il50_p2": 50600,
+                                   "il50_p3": 56900,
+                                   "il50_p4": 63200,
+                                   "il50_p5": 68300,
+                                   "il50_p6": 73350,
+                                   "il50_p7": 78400,
+                                   "il50_p8": 83450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 26550,
+                                   "il30_p2": 30350,
+                                   "il30_p3": 34150,
+                                   "il30_p4": 37900,
+                                   "il30_p5": 40950,
+                                   "il30_p6": 44000,
+                                   "il30_p7": 47000,
+                                   "il30_p8": 50050
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

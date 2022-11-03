@@ -25,14 +25,9 @@ new Chart(document.getElementById("0611199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0611199999: Oxnard-Thousand Oaks-Ventura, CA MSA"
         },
         "scales": {

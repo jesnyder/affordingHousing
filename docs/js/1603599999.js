@@ -25,14 +25,9 @@ new Chart(document.getElementById("1603599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1603599999: Clearwater County, ID"
         },
         "scales": {

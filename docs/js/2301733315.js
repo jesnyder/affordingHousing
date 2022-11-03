@@ -25,14 +25,9 @@ new Chart(document.getElementById("2301733315_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2301733315: Oxford County, ME"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("2114199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2114199999: Logan County, KY"
         },
         "scales": {

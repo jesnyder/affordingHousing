@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 668,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 857,
+                                   "Three-Bedroom": 1231,
+                                   "Four-Bedroom": 1510,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 710,
+                                   "One-Bedroom": 806,
+                                   "Two-Bedroom": 965,
+                                   "Three-Bedroom": 1385,
+                                   "Four-Bedroom": 1700,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 742,
+                                   "One-Bedroom": 884,
+                                   "Two-Bedroom": 1071,
+                                   "Three-Bedroom": 1540,
+                                   "Four-Bedroom": 1881,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 838,
+                                   "One-Bedroom": 986,
+                                   "Two-Bedroom": 1197,
+                                   "Three-Bedroom": 1727,
+                                   "Four-Bedroom": 2102,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 850,
+                                   "One-Bedroom": 1042,
+                                   "Two-Bedroom": 1268,
+                                   "Three-Bedroom": 1815,
+                                   "Four-Bedroom": 2195,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend, OR",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 866,
+                                   "One-Bedroom": 1048,
+                                   "Two-Bedroom": 1303,
+                                   "Three-Bedroom": 1851,
+                                   "Four-Bedroom": 2230,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "year": "2017",
+                            "median_income": 64000,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "year": "2018",
+                            "median_income": 69600,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27850,
+                                   "il50_p3": 31350,
+                                   "il50_p4": 34800,
+                                   "il50_p5": 37600,
+                                   "il50_p6": 40400,
+                                   "il50_p7": 43200,
+                                   "il50_p8": 45950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 16750,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39000,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50150,
+                                   "il80_p4": 55700,
+                                   "il80_p5": 60200,
+                                   "il80_p6": 64650,
+                                   "il80_p7": 69100,
+                                   "il80_p8": 73550
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "year": "2019",
+                            "median_income": 78600,
+                            "very_low": {
+                                   "il50_p1": 26800,
+                                   "il50_p2": 30600,
+                                   "il50_p3": 34450,
+                                   "il50_p4": 38250,
+                                   "il50_p5": 41350,
+                                   "il50_p6": 44400,
+                                   "il50_p7": 47450,
+                                   "il50_p8": 50500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42850,
+                                   "il80_p2": 49000,
+                                   "il80_p3": 55100,
+                                   "il80_p4": 61200,
+                                   "il80_p5": 66100,
+                                   "il80_p6": 71000,
+                                   "il80_p7": 75900,
+                                   "il80_p8": 80800
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "year": "2020",
+                            "median_income": 76600,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend-Redmond, OR MSA",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "year": "2021",
+                            "median_income": 83000,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36200,
+                                   "il50_p4": 40200,
+                                   "il50_p5": 43450,
+                                   "il50_p6": 46650,
+                                   "il50_p7": 49850,
+                                   "il50_p8": 53100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45050,
+                                   "il80_p2": 51450,
+                                   "il80_p3": 57900,
+                                   "il80_p4": 64300,
+                                   "il80_p5": 69450,
+                                   "il80_p6": 74600,
+                                   "il80_p7": 79750,
+                                   "il80_p8": 84900
+                            }
+                     },
+                     {
+                            "county_name": "Deschutes County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bend, OR",
+                            "area_name": "Bend-Redmond, OR MSA",
+                            "year": "2022",
+                            "median_income": 97700,
+                            "very_low": {
+                                   "il50_p1": 31500,
+                                   "il50_p2": 36000,
+                                   "il50_p3": 40500,
+                                   "il50_p4": 44950,
+                                   "il50_p5": 48550,
+                                   "il50_p6": 52150,
+                                   "il50_p7": 55750,
+                                   "il50_p8": 59350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18900,
+                                   "il30_p2": 21600,
+                                   "il30_p3": 24300,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     }
+              ]
+       }
+}

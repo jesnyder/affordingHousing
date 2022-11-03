@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 625,
+                                   "One-Bedroom": 627,
+                                   "Two-Bedroom": 756,
+                                   "Three-Bedroom": 963,
+                                   "Four-Bedroom": 1050,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 569,
+                                   "Two-Bedroom": 695,
+                                   "Three-Bedroom": 887,
+                                   "Four-Bedroom": 1019,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 548,
+                                   "One-Bedroom": 552,
+                                   "Two-Bedroom": 702,
+                                   "Three-Bedroom": 900,
+                                   "Four-Bedroom": 1092,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 570,
+                                   "Two-Bedroom": 737,
+                                   "Three-Bedroom": 941,
+                                   "Four-Bedroom": 1154,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 550,
+                                   "One-Bedroom": 570,
+                                   "Two-Bedroom": 740,
+                                   "Three-Bedroom": 952,
+                                   "Four-Bedroom": 1134,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 539,
+                                   "One-Bedroom": 588,
+                                   "Two-Bedroom": 762,
+                                   "Three-Bedroom": 990,
+                                   "Four-Bedroom": 1140,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "year": "2017",
+                            "median_income": 56100,
+                            "very_low": {
+                                   "il50_p1": 19650,
+                                   "il50_p2": 22450,
+                                   "il50_p3": 25250,
+                                   "il50_p4": 28050,
+                                   "il50_p5": 30300,
+                                   "il50_p6": 32550,
+                                   "il50_p7": 34800,
+                                   "il50_p8": 37050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32550,
+                                   "il30_p7": 34800,
+                                   "il30_p8": 37050
+                            },
+                            "low": {
+                                   "il80_p1": 31450,
+                                   "il80_p2": 35950,
+                                   "il80_p3": 40450,
+                                   "il80_p4": 44900,
+                                   "il80_p5": 48500,
+                                   "il80_p6": 52100,
+                                   "il80_p7": 55700,
+                                   "il80_p8": 59300
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "year": "2018",
+                            "median_income": 65700,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 50000,
+                                   "il80_p5": 54000,
+                                   "il80_p6": 58000,
+                                   "il80_p7": 62000,
+                                   "il80_p8": 66000
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "year": "2019",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "year": "2020",
+                            "median_income": 68900,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34450,
+                                   "il50_p5": 37250,
+                                   "il50_p6": 40000,
+                                   "il50_p7": 42750,
+                                   "il50_p8": 45500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38600,
+                                   "il80_p2": 44100,
+                                   "il80_p3": 49600,
+                                   "il80_p4": 55100,
+                                   "il80_p5": 59550,
+                                   "il80_p6": 63950,
+                                   "il80_p7": 68350,
+                                   "il80_p8": 72750
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH MSA",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "year": "2021",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43250
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "Ohio County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wheeling, WV-OH",
+                            "area_name": "Wheeling, WV-OH MSA",
+                            "year": "2022",
+                            "median_income": 75400,
+                            "very_low": {
+                                   "il50_p1": 25650,
+                                   "il50_p2": 29300,
+                                   "il50_p3": 32950,
+                                   "il50_p4": 36600,
+                                   "il50_p5": 39550,
+                                   "il50_p6": 42500,
+                                   "il50_p7": 45400,
+                                   "il50_p8": 48350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41000,
+                                   "il80_p2": 46850,
+                                   "il80_p3": 52700,
+                                   "il80_p4": 58550,
+                                   "il80_p5": 63250,
+                                   "il80_p6": 67950,
+                                   "il80_p7": 72650,
+                                   "il80_p8": 77300
+                            }
+                     }
+              ]
+       }
+}

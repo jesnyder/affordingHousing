@@ -25,14 +25,9 @@ new Chart(document.getElementById("0211099999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0211099999: Juneau City and Borough, AK"
         },
         "scales": {

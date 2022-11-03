@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 700,
+                                   "Two-Bedroom": 871,
+                                   "Three-Bedroom": 1104,
+                                   "Four-Bedroom": 1272,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 737,
+                                   "Two-Bedroom": 924,
+                                   "Three-Bedroom": 1176,
+                                   "Four-Bedroom": 1340,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 661,
+                                   "One-Bedroom": 761,
+                                   "Two-Bedroom": 959,
+                                   "Three-Bedroom": 1231,
+                                   "Four-Bedroom": 1368,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 671,
+                                   "One-Bedroom": 754,
+                                   "Two-Bedroom": 956,
+                                   "Three-Bedroom": 1231,
+                                   "Four-Bedroom": 1344,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 677,
+                                   "One-Bedroom": 794,
+                                   "Two-Bedroom": 1005,
+                                   "Three-Bedroom": 1311,
+                                   "Four-Bedroom": 1380,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY",
+                            "area_name": "Glens Falls, NY MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 715,
+                                   "One-Bedroom": 850,
+                                   "Two-Bedroom": 1065,
+                                   "Three-Bedroom": 1383,
+                                   "Four-Bedroom": 1444,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "year": "2017",
+                            "median_income": 64100,
+                            "very_low": {
+                                   "il50_p1": 22450,
+                                   "il50_p2": 25650,
+                                   "il50_p3": 28850,
+                                   "il50_p4": 32050,
+                                   "il50_p5": 34650,
+                                   "il50_p6": 37200,
+                                   "il50_p7": 39750,
+                                   "il50_p8": 42350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41050,
+                                   "il80_p3": 46200,
+                                   "il80_p4": 51300,
+                                   "il80_p5": 55450,
+                                   "il80_p6": 59550,
+                                   "il80_p7": 63650,
+                                   "il80_p8": 67750
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "year": "2018",
+                            "median_income": 72500,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32150,
+                                   "il50_p4": 35700,
+                                   "il50_p5": 38600,
+                                   "il50_p6": 41450,
+                                   "il50_p7": 44300,
+                                   "il50_p8": 47150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17150,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40000,
+                                   "il80_p2": 45700,
+                                   "il80_p3": 51400,
+                                   "il80_p4": 57100,
+                                   "il80_p5": 61700,
+                                   "il80_p6": 66250,
+                                   "il80_p7": 70850,
+                                   "il80_p8": 75400
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "year": "2019",
+                            "median_income": 69700,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27900,
+                                   "il50_p3": 31400,
+                                   "il50_p4": 34850,
+                                   "il50_p5": 37650,
+                                   "il50_p6": 40450,
+                                   "il50_p7": 43250,
+                                   "il50_p8": 46050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 39050,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50200,
+                                   "il80_p4": 55750,
+                                   "il80_p5": 60250,
+                                   "il80_p6": 64700,
+                                   "il80_p7": 69150,
+                                   "il80_p8": 73600
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "year": "2020",
+                            "median_income": 76600,
+                            "very_low": {
+                                   "il50_p1": 26350,
+                                   "il50_p2": 30100,
+                                   "il50_p3": 33850,
+                                   "il50_p4": 37600,
+                                   "il50_p5": 40650,
+                                   "il50_p6": 43650,
+                                   "il50_p7": 46650,
+                                   "il50_p8": 49650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18050,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42150,
+                                   "il80_p2": 48150,
+                                   "il80_p3": 54150,
+                                   "il80_p4": 60150,
+                                   "il80_p5": 65000,
+                                   "il80_p6": 69800,
+                                   "il80_p7": 74600,
+                                   "il80_p8": 79400
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY MSA",
+                            "area_name": "Glens Falls, NY MSA",
+                            "year": "2021",
+                            "median_income": 79100,
+                            "very_low": {
+                                   "il50_p1": 27650,
+                                   "il50_p2": 31600,
+                                   "il50_p3": 35550,
+                                   "il50_p4": 39450,
+                                   "il50_p5": 42650,
+                                   "il50_p6": 45800,
+                                   "il50_p7": 48950,
+                                   "il50_p8": 52100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 18950,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44200,
+                                   "il80_p2": 50500,
+                                   "il80_p3": 56800,
+                                   "il80_p4": 63100,
+                                   "il80_p5": 68150,
+                                   "il80_p6": 73200,
+                                   "il80_p7": 78250,
+                                   "il80_p8": 83300
+                            }
+                     },
+                     {
+                            "county_name": "Washington County, NY",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Glens Falls, NY",
+                            "area_name": "Glens Falls, NY MSA",
+                            "year": "2022",
+                            "median_income": 86300,
+                            "very_low": {
+                                   "il50_p1": 30250,
+                                   "il50_p2": 34550,
+                                   "il50_p3": 38850,
+                                   "il50_p4": 43150,
+                                   "il50_p5": 46650,
+                                   "il50_p6": 50100,
+                                   "il50_p7": 53550,
+                                   "il50_p8": 57000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18150,
+                                   "il30_p2": 20750,
+                                   "il30_p3": 23350,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48350,
+                                   "il80_p2": 55250,
+                                   "il80_p3": 62150,
+                                   "il80_p4": 69050,
+                                   "il80_p5": 74600,
+                                   "il80_p6": 80100,
+                                   "il80_p7": 85650,
+                                   "il80_p8": 91150
+                            }
+                     }
+              ]
+       }
+}

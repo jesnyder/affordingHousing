@@ -25,14 +25,9 @@ new Chart(document.getElementById("1901399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1901399999: Waterloo-Cedar Falls, IA HUD Metro FMR Area"
         },
         "scales": {

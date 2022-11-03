@@ -25,14 +25,9 @@ new Chart(document.getElementById("1716199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1716199999: Davenport-Moline-Rock Island, IA-IL MSA"
         },
         "scales": {

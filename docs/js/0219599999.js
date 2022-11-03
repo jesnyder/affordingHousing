@@ -25,14 +25,9 @@ new Chart(document.getElementById("0219599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0219599999: Petersburg Census Area, AK"
         },
         "scales": {

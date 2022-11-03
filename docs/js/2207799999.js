@@ -25,14 +25,9 @@ new Chart(document.getElementById("2207799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2207799999: Baton Rouge, LA HUD Metro FMR Area"
         },
         "scales": {

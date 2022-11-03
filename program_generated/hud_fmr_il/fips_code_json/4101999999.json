@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 465,
+                                   "One-Bedroom": 551,
+                                   "Two-Bedroom": 733,
+                                   "Three-Bedroom": 1067,
+                                   "Four-Bedroom": 1292,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 485,
+                                   "One-Bedroom": 571,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 1105,
+                                   "Four-Bedroom": 1339,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 480,
+                                   "One-Bedroom": 565,
+                                   "Two-Bedroom": 747,
+                                   "Three-Bedroom": 1080,
+                                   "Four-Bedroom": 1312,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 699,
+                                   "One-Bedroom": 815,
+                                   "Two-Bedroom": 1073,
+                                   "Three-Bedroom": 1548,
+                                   "Four-Bedroom": 1824,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 727,
+                                   "One-Bedroom": 836,
+                                   "Two-Bedroom": 1102,
+                                   "Three-Bedroom": 1577,
+                                   "Four-Bedroom": 1836,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 765,
+                                   "One-Bedroom": 876,
+                                   "Two-Bedroom": 1152,
+                                   "Three-Bedroom": 1636,
+                                   "Four-Bedroom": 1816,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "year": "2017",
+                            "median_income": 54900,
+                            "very_low": {
+                                   "il50_p1": 19250,
+                                   "il50_p2": 22000,
+                                   "il50_p3": 24750,
+                                   "il50_p4": 27450,
+                                   "il50_p5": 29650,
+                                   "il50_p6": 31850,
+                                   "il50_p7": 34050,
+                                   "il50_p8": 36250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 31850,
+                                   "il30_p7": 34050,
+                                   "il30_p8": 36250
+                            },
+                            "low": {
+                                   "il80_p1": 30750,
+                                   "il80_p2": 35150,
+                                   "il80_p3": 39550,
+                                   "il80_p4": 43900,
+                                   "il80_p5": 47450,
+                                   "il80_p6": 50950,
+                                   "il80_p7": 54450,
+                                   "il80_p8": 57950
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "year": "2018",
+                            "median_income": 52100,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21900,
+                                   "il50_p3": 24650,
+                                   "il50_p4": 27350,
+                                   "il50_p5": 29550,
+                                   "il50_p6": 31750,
+                                   "il50_p7": 33950,
+                                   "il50_p8": 36150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 31750,
+                                   "il30_p7": 33950,
+                                   "il30_p8": 36150
+                            },
+                            "low": {
+                                   "il80_p1": 30650,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39400,
+                                   "il80_p4": 43750,
+                                   "il80_p5": 47250,
+                                   "il80_p6": 50750,
+                                   "il80_p7": 54250,
+                                   "il80_p8": 57750
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "year": "2019",
+                            "median_income": 56200,
+                            "very_low": {
+                                   "il50_p1": 20900,
+                                   "il50_p2": 23850,
+                                   "il50_p3": 26850,
+                                   "il50_p4": 29800,
+                                   "il50_p5": 32200,
+                                   "il50_p6": 34600,
+                                   "il50_p7": 37000,
+                                   "il50_p8": 39350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37000,
+                                   "il30_p8": 39350
+                            },
+                            "low": {
+                                   "il80_p1": 33400,
+                                   "il80_p2": 38200,
+                                   "il80_p3": 42950,
+                                   "il80_p4": 47700,
+                                   "il80_p5": 51550,
+                                   "il80_p6": 55350,
+                                   "il80_p7": 59150,
+                                   "il80_p8": 63000
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "year": "2020",
+                            "median_income": 59600,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38750,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 50000,
+                                   "il80_p5": 54000,
+                                   "il80_p6": 58000,
+                                   "il80_p7": 62000,
+                                   "il80_p8": 66000
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "year": "2021",
+                            "median_income": 58500,
+                            "very_low": {
+                                   "il50_p1": 23000,
+                                   "il50_p2": 26250,
+                                   "il50_p3": 29550,
+                                   "il50_p4": 32800,
+                                   "il50_p5": 35450,
+                                   "il50_p6": 38050,
+                                   "il50_p7": 40700,
+                                   "il50_p8": 43300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43300
+                            },
+                            "low": {
+                                   "il80_p1": 36750,
+                                   "il80_p2": 42000,
+                                   "il80_p3": 47250,
+                                   "il80_p4": 52500,
+                                   "il80_p5": 56700,
+                                   "il80_p6": 60900,
+                                   "il80_p7": 65100,
+                                   "il80_p8": 69300
+                            }
+                     },
+                     {
+                            "county_name": "Douglas County, OR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Douglas County, OR",
+                            "year": "2022",
+                            "median_income": 61000,
+                            "very_low": {
+                                   "il50_p1": 25150,
+                                   "il50_p2": 28750,
+                                   "il50_p3": 32350,
+                                   "il50_p4": 35900,
+                                   "il50_p5": 38800,
+                                   "il50_p6": 41650,
+                                   "il50_p7": 44550,
+                                   "il50_p8": 47400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57450,
+                                   "il80_p5": 62050,
+                                   "il80_p6": 66650,
+                                   "il80_p7": 71250,
+                                   "il80_p8": 75850
+                            }
+                     }
+              ]
+       }
+}

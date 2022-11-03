@@ -25,14 +25,9 @@ new Chart(document.getElementById("2211399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2211399999: Vermilion Parish, LA HUD Metro FMR Area"
         },
         "scales": {

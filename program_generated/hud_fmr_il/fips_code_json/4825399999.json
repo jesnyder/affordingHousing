@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 617,
+                                   "Two-Bedroom": 820,
+                                   "Three-Bedroom": 1026,
+                                   "Four-Bedroom": 1366,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 605,
+                                   "Two-Bedroom": 805,
+                                   "Three-Bedroom": 1018,
+                                   "Four-Bedroom": 1324,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 598,
+                                   "One-Bedroom": 621,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1064,
+                                   "Four-Bedroom": 1367,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 655,
+                                   "Two-Bedroom": 863,
+                                   "Three-Bedroom": 1134,
+                                   "Four-Bedroom": 1464,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 707,
+                                   "One-Bedroom": 733,
+                                   "Two-Bedroom": 955,
+                                   "Three-Bedroom": 1285,
+                                   "Four-Bedroom": 1639,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX",
+                            "area_name": "Abilene, TX MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 688,
+                                   "One-Bedroom": 732,
+                                   "Two-Bedroom": 945,
+                                   "Three-Bedroom": 1288,
+                                   "Four-Bedroom": 1598,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "year": "2017",
+                            "median_income": 56100,
+                            "very_low": {
+                                   "il50_p1": 19650,
+                                   "il50_p2": 22450,
+                                   "il50_p3": 25250,
+                                   "il50_p4": 28050,
+                                   "il50_p5": 30300,
+                                   "il50_p6": 32550,
+                                   "il50_p7": 34800,
+                                   "il50_p8": 37050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32550,
+                                   "il30_p7": 34800,
+                                   "il30_p8": 37050
+                            },
+                            "low": {
+                                   "il80_p1": 31450,
+                                   "il80_p2": 35950,
+                                   "il80_p3": 40450,
+                                   "il80_p4": 44900,
+                                   "il80_p5": 48500,
+                                   "il80_p6": 52100,
+                                   "il80_p7": 55700,
+                                   "il80_p8": 59300
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "year": "2018",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 50000,
+                                   "il80_p5": 54000,
+                                   "il80_p6": 58000,
+                                   "il80_p7": 62000,
+                                   "il80_p8": 66000
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "year": "2019",
+                            "median_income": 62900,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31450,
+                                   "il50_p5": 34000,
+                                   "il50_p6": 36500,
+                                   "il50_p7": 39000,
+                                   "il50_p8": 41550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39000,
+                                   "il30_p8": 41550
+                            },
+                            "low": {
+                                   "il80_p1": 35250,
+                                   "il80_p2": 40250,
+                                   "il80_p3": 45300,
+                                   "il80_p4": 50300,
+                                   "il80_p5": 54350,
+                                   "il80_p6": 58350,
+                                   "il80_p7": 62400,
+                                   "il80_p8": 66400
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "year": "2020",
+                            "median_income": 64800,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42800
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41500,
+                                   "il80_p3": 46700,
+                                   "il80_p4": 51850,
+                                   "il80_p5": 56000,
+                                   "il80_p6": 60150,
+                                   "il80_p7": 64300,
+                                   "il80_p8": 68450
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX MSA",
+                            "area_name": "Abilene, TX MSA",
+                            "year": "2021",
+                            "median_income": 63400,
+                            "very_low": {
+                                   "il50_p1": 22200,
+                                   "il50_p2": 25400,
+                                   "il50_p3": 28550,
+                                   "il50_p4": 31700,
+                                   "il50_p5": 34250,
+                                   "il50_p6": 36800,
+                                   "il50_p7": 39350,
+                                   "il50_p8": 41850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39350,
+                                   "il30_p8": 41850
+                            },
+                            "low": {
+                                   "il80_p1": 35500,
+                                   "il80_p2": 40600,
+                                   "il80_p3": 45650,
+                                   "il80_p4": 50700,
+                                   "il80_p5": 54800,
+                                   "il80_p6": 58850,
+                                   "il80_p7": 62900,
+                                   "il80_p8": 66950
+                            }
+                     },
+                     {
+                            "county_name": "Jones County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Abilene, TX",
+                            "area_name": "Abilene, TX MSA",
+                            "year": "2022",
+                            "median_income": 76900,
+                            "very_low": {
+                                   "il50_p1": 24850,
+                                   "il50_p2": 28400,
+                                   "il50_p3": 31950,
+                                   "il50_p4": 35450,
+                                   "il50_p5": 38300,
+                                   "il50_p6": 41150,
+                                   "il50_p7": 44000,
+                                   "il50_p8": 46800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45400,
+                                   "il80_p3": 51050,
+                                   "il80_p4": 56700,
+                                   "il80_p5": 61250,
+                                   "il80_p6": 65800,
+                                   "il80_p7": 70350,
+                                   "il80_p8": 74850
+                            }
+                     }
+              ]
+       }
+}

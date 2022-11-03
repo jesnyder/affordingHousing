@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 488,
+                                   "One-Bedroom": 527,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 870,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 479,
+                                   "One-Bedroom": 562,
+                                   "Two-Bedroom": 711,
+                                   "Three-Bedroom": 901,
+                                   "Four-Bedroom": 968,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 472,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 931,
+                                   "Four-Bedroom": 992,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 484,
+                                   "One-Bedroom": 608,
+                                   "Two-Bedroom": 743,
+                                   "Three-Bedroom": 926,
+                                   "Four-Bedroom": 1007,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 780,
+                                   "Three-Bedroom": 970,
+                                   "Four-Bedroom": 1090,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 536,
+                                   "One-Bedroom": 626,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 998,
+                                   "Four-Bedroom": 1181,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 60300,
+                            "very_low": {
+                                   "il50_p1": 21050,
+                                   "il50_p2": 24050,
+                                   "il50_p3": 27050,
+                                   "il50_p4": 30050,
+                                   "il50_p5": 32500,
+                                   "il50_p6": 34900,
+                                   "il50_p7": 37300,
+                                   "il50_p8": 39700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12650,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39700
+                            },
+                            "low": {
+                                   "il80_p1": 33650,
+                                   "il80_p2": 38450,
+                                   "il80_p3": 43250,
+                                   "il80_p4": 48050,
+                                   "il80_p5": 51900,
+                                   "il80_p6": 55750,
+                                   "il80_p7": 59600,
+                                   "il80_p8": 63450
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 58500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 65000,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32500,
+                                   "il50_p5": 35100,
+                                   "il50_p6": 37700,
+                                   "il50_p7": 40300,
+                                   "il50_p8": 42900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42900
+                            },
+                            "low": {
+                                   "il80_p1": 36400,
+                                   "il80_p2": 41600,
+                                   "il80_p3": 46800,
+                                   "il80_p4": 52000,
+                                   "il80_p5": 56200,
+                                   "il80_p6": 60350,
+                                   "il80_p7": 64500,
+                                   "il80_p8": 68650
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 64700,
+                            "very_low": {
+                                   "il50_p1": 22750,
+                                   "il50_p2": 26000,
+                                   "il50_p3": 29250,
+                                   "il50_p4": 32450,
+                                   "il50_p5": 35050,
+                                   "il50_p6": 37650,
+                                   "il50_p7": 40250,
+                                   "il50_p8": 42850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42850
+                            },
+                            "low": {
+                                   "il80_p1": 36350,
+                                   "il80_p2": 41550,
+                                   "il80_p3": 46750,
+                                   "il80_p4": 51900,
+                                   "il80_p5": 56100,
+                                   "il80_p6": 60250,
+                                   "il80_p7": 64400,
+                                   "il80_p8": 68550
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA MSA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54450,
+                                   "il80_p5": 58850,
+                                   "il80_p6": 63200,
+                                   "il80_p7": 67550,
+                                   "il80_p8": 71900
+                            }
+                     },
+                     {
+                            "county_name": "Armstrong County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Pittsburgh, PA",
+                            "area_name": "Armstrong County, PA HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 76400,
+                            "very_low": {
+                                   "il50_p1": 26650,
+                                   "il50_p2": 30450,
+                                   "il50_p3": 34250,
+                                   "il50_p4": 38050,
+                                   "il50_p5": 41100,
+                                   "il50_p6": 44150,
+                                   "il50_p7": 47200,
+                                   "il50_p8": 50250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42650,
+                                   "il80_p2": 48750,
+                                   "il80_p3": 54850,
+                                   "il80_p4": 60900,
+                                   "il80_p5": 65800,
+                                   "il80_p6": 70650,
+                                   "il80_p7": 75550,
+                                   "il80_p8": 80400
+                            }
+                     }
+              ]
+       }
+}

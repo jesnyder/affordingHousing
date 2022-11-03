@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 463,
+                                   "One-Bedroom": 522,
+                                   "Two-Bedroom": 685,
+                                   "Three-Bedroom": 982,
+                                   "Four-Bedroom": 1206,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 455,
+                                   "One-Bedroom": 524,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 983,
+                                   "Four-Bedroom": 1211,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 473,
+                                   "One-Bedroom": 544,
+                                   "Two-Bedroom": 720,
+                                   "Three-Bedroom": 1004,
+                                   "Four-Bedroom": 1172,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 527,
+                                   "One-Bedroom": 604,
+                                   "Two-Bedroom": 796,
+                                   "Three-Bedroom": 1089,
+                                   "Four-Bedroom": 1273,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 599,
+                                   "Two-Bedroom": 789,
+                                   "Three-Bedroom": 1072,
+                                   "Four-Bedroom": 1254,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 629,
+                                   "One-Bedroom": 692,
+                                   "Two-Bedroom": 911,
+                                   "Three-Bedroom": 1216,
+                                   "Four-Bedroom": 1455,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 65800,
+                            "very_low": {
+                                   "il50_p1": 23700,
+                                   "il50_p2": 27100,
+                                   "il50_p3": 30500,
+                                   "il50_p4": 33850,
+                                   "il50_p5": 36600,
+                                   "il50_p6": 39300,
+                                   "il50_p7": 42000,
+                                   "il50_p8": 44700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16250,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37950,
+                                   "il80_p2": 43350,
+                                   "il80_p3": 48750,
+                                   "il80_p4": 54150,
+                                   "il80_p5": 58500,
+                                   "il80_p6": 62850,
+                                   "il80_p7": 67150,
+                                   "il80_p8": 71500
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 65400,
+                            "very_low": {
+                                   "il50_p1": 24900,
+                                   "il50_p2": 28450,
+                                   "il50_p3": 32000,
+                                   "il50_p4": 35550,
+                                   "il50_p5": 38400,
+                                   "il50_p6": 41250,
+                                   "il50_p7": 44100,
+                                   "il50_p8": 46950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17100,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39850,
+                                   "il80_p2": 45550,
+                                   "il80_p3": 51250,
+                                   "il80_p4": 56900,
+                                   "il80_p5": 61500,
+                                   "il80_p6": 66050,
+                                   "il80_p7": 70600,
+                                   "il80_p8": 75150
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 66300,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 69200,
+                            "very_low": {
+                                   "il50_p1": 25950,
+                                   "il50_p2": 29650,
+                                   "il50_p3": 33350,
+                                   "il50_p4": 37050,
+                                   "il50_p5": 40050,
+                                   "il50_p6": 43000,
+                                   "il50_p7": 45950,
+                                   "il50_p8": 48950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47450,
+                                   "il80_p3": 53400,
+                                   "il80_p4": 59300,
+                                   "il80_p5": 64050,
+                                   "il80_p6": 68800,
+                                   "il80_p7": 73550,
+                                   "il80_p8": 78300
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT MSA",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 69500,
+                            "very_low": {
+                                   "il50_p1": 25950,
+                                   "il50_p2": 29650,
+                                   "il50_p3": 33350,
+                                   "il50_p4": 37050,
+                                   "il50_p5": 40050,
+                                   "il50_p6": 43000,
+                                   "il50_p7": 45950,
+                                   "il50_p8": 48950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47450,
+                                   "il80_p3": 53400,
+                                   "il80_p4": 59300,
+                                   "il80_p5": 64050,
+                                   "il80_p6": 68800,
+                                   "il80_p7": 73550,
+                                   "il80_p8": 78300
+                            }
+                     },
+                     {
+                            "county_name": "Box Elder County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ogden-Clearfield, UT",
+                            "area_name": "Box Elder County, UT HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 77100,
+                            "very_low": {
+                                   "il50_p1": 29050,
+                                   "il50_p2": 33200,
+                                   "il50_p3": 37350,
+                                   "il50_p4": 41450,
+                                   "il50_p5": 44800,
+                                   "il50_p6": 48100,
+                                   "il50_p7": 51400,
+                                   "il50_p8": 54750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46450,
+                                   "il80_p2": 53050,
+                                   "il80_p3": 59700,
+                                   "il80_p4": 66300,
+                                   "il80_p5": 71650,
+                                   "il80_p6": 76950,
+                                   "il80_p7": 82250,
+                                   "il80_p8": 87550
+                            }
+                     }
+              ]
+       }
+}

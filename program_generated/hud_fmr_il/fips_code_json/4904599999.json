@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 581,
+                                   "One-Bedroom": 694,
+                                   "Two-Bedroom": 801,
+                                   "Three-Bedroom": 1166,
+                                   "Four-Bedroom": 1411,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 600,
+                                   "One-Bedroom": 732,
+                                   "Two-Bedroom": 849,
+                                   "Three-Bedroom": 1235,
+                                   "Four-Bedroom": 1495,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 613,
+                                   "One-Bedroom": 751,
+                                   "Two-Bedroom": 887,
+                                   "Three-Bedroom": 1282,
+                                   "Four-Bedroom": 1558,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 684,
+                                   "One-Bedroom": 792,
+                                   "Two-Bedroom": 952,
+                                   "Three-Bedroom": 1373,
+                                   "Four-Bedroom": 1671,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 690,
+                                   "One-Bedroom": 769,
+                                   "Two-Bedroom": 962,
+                                   "Three-Bedroom": 1350,
+                                   "Four-Bedroom": 1666,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 744,
+                                   "One-Bedroom": 796,
+                                   "Two-Bedroom": 1034,
+                                   "Three-Bedroom": 1423,
+                                   "Four-Bedroom": 1770,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 70000,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 35000,
+                                   "il50_p5": 37800,
+                                   "il50_p6": 40600,
+                                   "il50_p7": 43400,
+                                   "il50_p8": 46200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39200,
+                                   "il80_p2": 44800,
+                                   "il80_p3": 50400,
+                                   "il80_p4": 56000,
+                                   "il80_p5": 60500,
+                                   "il80_p6": 65000,
+                                   "il80_p7": 69450,
+                                   "il80_p8": 73950
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 73000,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 17550,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 74200,
+                            "very_low": {
+                                   "il50_p1": 26000,
+                                   "il50_p2": 29700,
+                                   "il50_p3": 33400,
+                                   "il50_p4": 37100,
+                                   "il50_p5": 40100,
+                                   "il50_p6": 43050,
+                                   "il50_p7": 46050,
+                                   "il50_p8": 49000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47500,
+                                   "il80_p3": 53450,
+                                   "il80_p4": 59350,
+                                   "il80_p5": 64100,
+                                   "il80_p6": 68850,
+                                   "il80_p7": 73600,
+                                   "il80_p8": 78350
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 80800,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT MSA",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 83000,
+                            "very_low": {
+                                   "il50_p1": 29050,
+                                   "il50_p2": 33200,
+                                   "il50_p3": 37350,
+                                   "il50_p4": 41500,
+                                   "il50_p5": 44850,
+                                   "il50_p6": 48150,
+                                   "il50_p7": 51500,
+                                   "il50_p8": 54800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17450,
+                                   "il30_p2": 19950,
+                                   "il30_p3": 22450,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46500,
+                                   "il80_p2": 53150,
+                                   "il80_p3": 59800,
+                                   "il80_p4": 66400,
+                                   "il80_p5": 71750,
+                                   "il80_p6": 77050,
+                                   "il80_p7": 82350,
+                                   "il80_p8": 87650
+                            }
+                     },
+                     {
+                            "county_name": "Tooele County, UT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Salt Lake City, UT",
+                            "area_name": "Tooele County, UT HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 96900,
+                            "very_low": {
+                                   "il50_p1": 32500,
+                                   "il50_p2": 37150,
+                                   "il50_p3": 41800,
+                                   "il50_p4": 46400,
+                                   "il50_p5": 50150,
+                                   "il50_p6": 53850,
+                                   "il50_p7": 57550,
+                                   "il50_p8": 61250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19500,
+                                   "il30_p2": 22300,
+                                   "il30_p3": 25100,
+                                   "il30_p4": 27850,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52000,
+                                   "il80_p2": 59400,
+                                   "il80_p3": 66850,
+                                   "il80_p4": 74250,
+                                   "il80_p5": 80200,
+                                   "il80_p6": 86150,
+                                   "il80_p7": 92100,
+                                   "il80_p8": 98050
+                            }
+                     }
+              ]
+       }
+}

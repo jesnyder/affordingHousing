@@ -25,14 +25,9 @@ new Chart(document.getElementById("1816399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1816399999: Evansville, IN-KY MSA"
         },
         "scales": {

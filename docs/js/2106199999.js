@@ -25,14 +25,9 @@ new Chart(document.getElementById("2106199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2106199999: Bowling Green, KY HUD Metro FMR Area"
         },
         "scales": {

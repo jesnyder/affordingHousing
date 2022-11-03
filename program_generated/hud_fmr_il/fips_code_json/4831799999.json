@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 601,
+                                   "Two-Bedroom": 751,
+                                   "Three-Bedroom": 1031,
+                                   "Four-Bedroom": 1035,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 558,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 960,
+                                   "Four-Bedroom": 963,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 560,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 973,
+                                   "Four-Bedroom": 976,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 569,
+                                   "One-Bedroom": 572,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 1030,
+                                   "Four-Bedroom": 1107,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 592,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1231,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 611,
+                                   "One-Bedroom": 615,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 1075,
+                                   "Four-Bedroom": 1296,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 70800,
+                            "very_low": {
+                                   "il50_p1": 19700,
+                                   "il50_p2": 22500,
+                                   "il50_p3": 25300,
+                                   "il50_p4": 28100,
+                                   "il50_p5": 30350,
+                                   "il50_p6": 32600,
+                                   "il50_p7": 34850,
+                                   "il50_p8": 37100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32600,
+                                   "il30_p7": 34850,
+                                   "il30_p8": 37100
+                            },
+                            "low": {
+                                   "il80_p1": 31500,
+                                   "il80_p2": 36000,
+                                   "il80_p3": 40500,
+                                   "il80_p4": 44950,
+                                   "il80_p5": 48550,
+                                   "il80_p6": 52150,
+                                   "il80_p7": 55750,
+                                   "il80_p8": 59350
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 81600,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25050,
+                                   "il50_p3": 28200,
+                                   "il50_p4": 31300,
+                                   "il50_p5": 33850,
+                                   "il50_p6": 36350,
+                                   "il50_p7": 38850,
+                                   "il50_p8": 41350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41350
+                            },
+                            "low": {
+                                   "il80_p1": 35100,
+                                   "il80_p2": 40100,
+                                   "il80_p3": 45100,
+                                   "il80_p4": 50100,
+                                   "il80_p5": 54150,
+                                   "il80_p6": 58150,
+                                   "il80_p7": 62150,
+                                   "il80_p8": 66150
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 83300,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 88000,
+                            "very_low": {
+                                   "il50_p1": 26000,
+                                   "il50_p2": 29700,
+                                   "il50_p3": 33400,
+                                   "il50_p4": 37100,
+                                   "il50_p5": 40100,
+                                   "il50_p6": 43050,
+                                   "il50_p7": 46050,
+                                   "il50_p8": 49000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15600,
+                                   "il30_p2": 17800,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41550,
+                                   "il80_p2": 47500,
+                                   "il80_p3": 53450,
+                                   "il80_p4": 59350,
+                                   "il80_p5": 64100,
+                                   "il80_p6": 68850,
+                                   "il80_p7": 73600,
+                                   "il80_p8": 78350
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX MSA",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 87600,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 38950,
+                                   "il50_p5": 42100,
+                                   "il50_p6": 45200,
+                                   "il50_p7": 48300,
+                                   "il50_p8": 51450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16350,
+                                   "il30_p2": 18700,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43650,
+                                   "il80_p2": 49850,
+                                   "il80_p3": 56100,
+                                   "il80_p4": 62300,
+                                   "il80_p5": 67300,
+                                   "il80_p6": 72300,
+                                   "il80_p7": 77300,
+                                   "il80_p8": 82250
+                            }
+                     },
+                     {
+                            "county_name": "Martin County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, TX",
+                            "area_name": "Martin County, TX HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 90800,
+                            "very_low": {
+                                   "il50_p1": 30500,
+                                   "il50_p2": 34850,
+                                   "il50_p3": 39200,
+                                   "il50_p4": 43550,
+                                   "il50_p5": 47050,
+                                   "il50_p6": 50550,
+                                   "il50_p7": 54050,
+                                   "il50_p8": 57500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 20950,
+                                   "il30_p3": 23550,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48800,
+                                   "il80_p2": 55800,
+                                   "il80_p3": 62750,
+                                   "il80_p4": 69700,
+                                   "il80_p5": 75300,
+                                   "il80_p6": 80900,
+                                   "il80_p7": 86450,
+                                   "il80_p8": 92050
+                            }
+                     }
+              ]
+       }
+}

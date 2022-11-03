@@ -25,14 +25,9 @@ new Chart(document.getElementById("1202799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1202799999: DeSoto County, FL"
         },
         "scales": {

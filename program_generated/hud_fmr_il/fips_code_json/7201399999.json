@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 323,
+                                   "One-Bedroom": 325,
+                                   "Two-Bedroom": 432,
+                                   "Three-Bedroom": 575,
+                                   "Four-Bedroom": 621,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 319,
+                                   "One-Bedroom": 321,
+                                   "Two-Bedroom": 417,
+                                   "Three-Bedroom": 551,
+                                   "Four-Bedroom": 626,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 359,
+                                   "One-Bedroom": 361,
+                                   "Two-Bedroom": 441,
+                                   "Three-Bedroom": 586,
+                                   "Four-Bedroom": 699,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 376,
+                                   "One-Bedroom": 382,
+                                   "Two-Bedroom": 440,
+                                   "Three-Bedroom": 581,
+                                   "Four-Bedroom": 725,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 384,
+                                   "One-Bedroom": 393,
+                                   "Two-Bedroom": 448,
+                                   "Three-Bedroom": 596,
+                                   "Four-Bedroom": 749,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR",
+                            "area_name": "Arecibo, PR MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 399,
+                                   "One-Bedroom": 406,
+                                   "Two-Bedroom": 463,
+                                   "Three-Bedroom": 617,
+                                   "Four-Bedroom": 731,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 21400,
+                            "very_low": {
+                                   "il50_p1": 9400,
+                                   "il50_p2": 10750,
+                                   "il50_p3": 12100,
+                                   "il50_p4": 13400,
+                                   "il50_p5": 14500,
+                                   "il50_p6": 15550,
+                                   "il50_p7": 16650,
+                                   "il50_p8": 17700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5650,
+                                   "il30_p2": 6450,
+                                   "il30_p3": 7250,
+                                   "il30_p4": 8050,
+                                   "il30_p5": 8700,
+                                   "il30_p6": 9350,
+                                   "il30_p7": 10000,
+                                   "il30_p8": 10650
+                            },
+                            "low": {
+                                   "il80_p1": 15050,
+                                   "il80_p2": 17200,
+                                   "il80_p3": 19350,
+                                   "il80_p4": 21450,
+                                   "il80_p5": 23200,
+                                   "il80_p6": 24900,
+                                   "il80_p7": 26600,
+                                   "il80_p8": 28350
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 20600,
+                            "very_low": {
+                                   "il50_p1": 8950,
+                                   "il50_p2": 10200,
+                                   "il50_p3": 11500,
+                                   "il50_p4": 12750,
+                                   "il50_p5": 13800,
+                                   "il50_p6": 14800,
+                                   "il50_p7": 15850,
+                                   "il50_p8": 16850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5400,
+                                   "il30_p2": 6150,
+                                   "il30_p3": 6900,
+                                   "il30_p4": 7650,
+                                   "il30_p5": 8300,
+                                   "il30_p6": 8900,
+                                   "il30_p7": 9500,
+                                   "il30_p8": 10100
+                            },
+                            "low": {
+                                   "il80_p1": 14300,
+                                   "il80_p2": 16350,
+                                   "il80_p3": 18400,
+                                   "il80_p4": 20400,
+                                   "il80_p5": 22050,
+                                   "il80_p6": 23700,
+                                   "il80_p7": 25300,
+                                   "il80_p8": 26950
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 24200,
+                            "very_low": {
+                                   "il50_p1": 9000,
+                                   "il50_p2": 10300,
+                                   "il50_p3": 11600,
+                                   "il50_p4": 12850,
+                                   "il50_p5": 13900,
+                                   "il50_p6": 14950,
+                                   "il50_p7": 15950,
+                                   "il50_p8": 17000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5400,
+                                   "il30_p2": 6200,
+                                   "il30_p3": 6950,
+                                   "il30_p4": 7700,
+                                   "il30_p5": 8350,
+                                   "il30_p6": 8950,
+                                   "il30_p7": 9550,
+                                   "il30_p8": 10200
+                            },
+                            "low": {
+                                   "il80_p1": 14400,
+                                   "il80_p2": 16450,
+                                   "il80_p3": 18500,
+                                   "il80_p4": 20550,
+                                   "il80_p5": 22200,
+                                   "il80_p6": 23850,
+                                   "il80_p7": 25500,
+                                   "il80_p8": 27150
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 21900,
+                            "very_low": {
+                                   "il50_p1": 9000,
+                                   "il50_p2": 10250,
+                                   "il50_p3": 11550,
+                                   "il50_p4": 12800,
+                                   "il50_p5": 13850,
+                                   "il50_p6": 14850,
+                                   "il50_p7": 15900,
+                                   "il50_p8": 16900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5400,
+                                   "il30_p2": 6200,
+                                   "il30_p3": 6950,
+                                   "il30_p4": 7700,
+                                   "il30_p5": 8350,
+                                   "il30_p6": 8950,
+                                   "il30_p7": 9550,
+                                   "il30_p8": 10200
+                            },
+                            "low": {
+                                   "il80_p1": 14350,
+                                   "il80_p2": 16400,
+                                   "il80_p3": 18450,
+                                   "il80_p4": 20500,
+                                   "il80_p5": 22150,
+                                   "il80_p6": 23800,
+                                   "il80_p7": 25450,
+                                   "il80_p8": 27100
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR MSA",
+                            "area_name": "Arecibo, PR HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 21800,
+                            "very_low": {
+                                   "il50_p1": 9150,
+                                   "il50_p2": 10450,
+                                   "il50_p3": 11750,
+                                   "il50_p4": 13050,
+                                   "il50_p5": 14100,
+                                   "il50_p6": 15150,
+                                   "il50_p7": 16200,
+                                   "il50_p8": 17250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5500,
+                                   "il30_p2": 6300,
+                                   "il30_p3": 7100,
+                                   "il30_p4": 7850,
+                                   "il30_p5": 8500,
+                                   "il30_p6": 9150,
+                                   "il30_p7": 9750,
+                                   "il30_p8": 10400
+                            },
+                            "low": {
+                                   "il80_p1": 14650,
+                                   "il80_p2": 16750,
+                                   "il80_p3": 18850,
+                                   "il80_p4": 20900,
+                                   "il80_p5": 22600,
+                                   "il80_p6": 24250,
+                                   "il80_p7": 25950,
+                                   "il80_p8": 27600
+                            }
+                     },
+                     {
+                            "county_name": "Arecibo Municipio, PR",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Arecibo, PR",
+                            "area_name": "Arecibo, PR MSA",
+                            "year": "2022",
+                            "median_income": 26900,
+                            "very_low": {
+                                   "il50_p1": 9450,
+                                   "il50_p2": 10800,
+                                   "il50_p3": 12150,
+                                   "il50_p4": 13500,
+                                   "il50_p5": 14600,
+                                   "il50_p6": 15700,
+                                   "il50_p7": 16750,
+                                   "il50_p8": 17850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 5700,
+                                   "il30_p2": 6500,
+                                   "il30_p3": 7300,
+                                   "il30_p4": 8100,
+                                   "il30_p5": 8750,
+                                   "il30_p6": 9400,
+                                   "il30_p7": 10050,
+                                   "il30_p8": 10700
+                            },
+                            "low": {
+                                   "il80_p1": 15150,
+                                   "il80_p2": 17300,
+                                   "il80_p3": 19450,
+                                   "il80_p4": 21600,
+                                   "il80_p5": 23350,
+                                   "il80_p6": 25100,
+                                   "il80_p7": 26800,
+                                   "il80_p8": 28550
+                            }
+                     }
+              ]
+       }
+}

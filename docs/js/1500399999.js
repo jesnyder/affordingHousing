@@ -25,14 +25,9 @@ new Chart(document.getElementById("1500399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1500399999: Urban Honolulu, HI MSA"
         },
         "scales": {

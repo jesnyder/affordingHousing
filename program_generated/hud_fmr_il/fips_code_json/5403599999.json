@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 520,
+                                   "One-Bedroom": 590,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 917,
+                                   "Four-Bedroom": 986,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 563,
+                                   "Two-Bedroom": 646,
+                                   "Three-Bedroom": 852,
+                                   "Four-Bedroom": 1138,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 545,
+                                   "Two-Bedroom": 624,
+                                   "Three-Bedroom": 848,
+                                   "Four-Bedroom": 1096,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 556,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 662,
+                                   "Three-Bedroom": 924,
+                                   "Four-Bedroom": 1162,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 593,
+                                   "Two-Bedroom": 676,
+                                   "Three-Bedroom": 947,
+                                   "Four-Bedroom": 1046,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston, WV",
+                            "area_name": "Jackson County, WV HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 520,
+                                   "One-Bedroom": 623,
+                                   "Two-Bedroom": 710,
+                                   "Three-Bedroom": 1003,
+                                   "Four-Bedroom": 1009,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "year": "2017",
+                            "median_income": 56200,
+                            "very_low": {
+                                   "il50_p1": 19700,
+                                   "il50_p2": 22500,
+                                   "il50_p3": 25300,
+                                   "il50_p4": 28100,
+                                   "il50_p5": 30350,
+                                   "il50_p6": 32600,
+                                   "il50_p7": 34850,
+                                   "il50_p8": 37100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32600,
+                                   "il30_p7": 34850,
+                                   "il30_p8": 37100
+                            },
+                            "low": {
+                                   "il80_p1": 31500,
+                                   "il80_p2": 36000,
+                                   "il80_p3": 40500,
+                                   "il80_p4": 44950,
+                                   "il80_p5": 48550,
+                                   "il80_p6": 52150,
+                                   "il80_p7": 55750,
+                                   "il80_p8": 59350
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "year": "2018",
+                            "median_income": 59400,
+                            "very_low": {
+                                   "il50_p1": 20800,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26750,
+                                   "il50_p4": 29700,
+                                   "il50_p5": 32100,
+                                   "il50_p6": 34500,
+                                   "il50_p7": 36850,
+                                   "il50_p8": 39250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12500,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36850,
+                                   "il30_p8": 39250
+                            },
+                            "low": {
+                                   "il80_p1": 33250,
+                                   "il80_p2": 38000,
+                                   "il80_p3": 42750,
+                                   "il80_p4": 47500,
+                                   "il80_p5": 51300,
+                                   "il80_p6": 55100,
+                                   "il80_p7": 58900,
+                                   "il80_p8": 62700
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "year": "2019",
+                            "median_income": 58800,
+                            "very_low": {
+                                   "il50_p1": 20600,
+                                   "il50_p2": 23550,
+                                   "il50_p3": 26500,
+                                   "il50_p4": 29400,
+                                   "il50_p5": 31800,
+                                   "il50_p6": 34150,
+                                   "il50_p7": 36500,
+                                   "il50_p8": 38850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34150,
+                                   "il30_p7": 36500,
+                                   "il30_p8": 38850
+                            },
+                            "low": {
+                                   "il80_p1": 32950,
+                                   "il80_p2": 37650,
+                                   "il80_p3": 42350,
+                                   "il80_p4": 47050,
+                                   "il80_p5": 50850,
+                                   "il80_p6": 54600,
+                                   "il80_p7": 58350,
+                                   "il80_p8": 62150
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "year": "2020",
+                            "median_income": 58800,
+                            "very_low": {
+                                   "il50_p1": 20600,
+                                   "il50_p2": 23550,
+                                   "il50_p3": 26500,
+                                   "il50_p4": 29400,
+                                   "il50_p5": 31800,
+                                   "il50_p6": 34150,
+                                   "il50_p7": 36500,
+                                   "il50_p8": 38850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34150,
+                                   "il30_p7": 36500,
+                                   "il30_p8": 38850
+                            },
+                            "low": {
+                                   "il80_p1": 32950,
+                                   "il80_p2": 37650,
+                                   "il80_p3": 42350,
+                                   "il80_p4": 47050,
+                                   "il80_p5": 50850,
+                                   "il80_p6": 54600,
+                                   "il80_p7": 58350,
+                                   "il80_p8": 62150
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jackson County, WV",
+                            "year": "2021",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24700,
+                                   "il50_p3": 27800,
+                                   "il50_p4": 30850,
+                                   "il50_p5": 33350,
+                                   "il50_p6": 35800,
+                                   "il50_p7": 38300,
+                                   "il50_p8": 40750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 38300,
+                                   "il30_p8": 40750
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39500,
+                                   "il80_p3": 44450,
+                                   "il80_p4": 49350,
+                                   "il80_p5": 53300,
+                                   "il80_p6": 57250,
+                                   "il80_p7": 61200,
+                                   "il80_p8": 65150
+                            }
+                     },
+                     {
+                            "county_name": "Jackson County, WV",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charleston, WV",
+                            "area_name": "Jackson County, WV HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 70200,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34500,
+                                   "il50_p5": 37300,
+                                   "il50_p6": 40050,
+                                   "il50_p7": 42800,
+                                   "il50_p8": 45550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 45550
+                            },
+                            "low": {
+                                   "il80_p1": 38650,
+                                   "il80_p2": 44200,
+                                   "il80_p3": 49700,
+                                   "il80_p4": 55200,
+                                   "il80_p5": 59650,
+                                   "il80_p6": 64050,
+                                   "il80_p7": 68450,
+                                   "il80_p8": 72900
+                            }
+                     }
+              ]
+       }
+}

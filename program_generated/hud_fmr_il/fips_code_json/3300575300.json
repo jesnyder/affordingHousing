@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 677,
+                                   "One-Bedroom": 807,
+                                   "Two-Bedroom": 1033,
+                                   "Three-Bedroom": 1338,
+                                   "Four-Bedroom": 1469,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 753,
+                                   "One-Bedroom": 868,
+                                   "Two-Bedroom": 1118,
+                                   "Three-Bedroom": 1455,
+                                   "Four-Bedroom": 1623,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 747,
+                                   "One-Bedroom": 841,
+                                   "Two-Bedroom": 1096,
+                                   "Three-Bedroom": 1477,
+                                   "Four-Bedroom": 1602,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 725,
+                                   "One-Bedroom": 806,
+                                   "Two-Bedroom": 1062,
+                                   "Three-Bedroom": 1457,
+                                   "Four-Bedroom": 1550,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 769,
+                                   "One-Bedroom": 823,
+                                   "Two-Bedroom": 1080,
+                                   "Three-Bedroom": 1546,
+                                   "Four-Bedroom": 1672,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 816,
+                                   "One-Bedroom": 862,
+                                   "Two-Bedroom": 1122,
+                                   "Three-Bedroom": 1594,
+                                   "Four-Bedroom": 1805,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "year": "2017",
+                            "median_income": 69700,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 17550,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "year": "2018",
+                            "median_income": 84300,
+                            "very_low": {
+                                   "il50_p1": 28500,
+                                   "il50_p2": 32550,
+                                   "il50_p3": 36600,
+                                   "il50_p4": 40650,
+                                   "il50_p5": 43950,
+                                   "il50_p6": 47200,
+                                   "il50_p7": 50450,
+                                   "il50_p8": 53700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17100,
+                                   "il30_p2": 19550,
+                                   "il30_p3": 22000,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 45550,
+                                   "il80_p2": 52050,
+                                   "il80_p3": 58550,
+                                   "il80_p4": 65050,
+                                   "il80_p5": 70300,
+                                   "il80_p6": 75500,
+                                   "il80_p7": 80700,
+                                   "il80_p8": 85900
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "year": "2019",
+                            "median_income": 77300,
+                            "very_low": {
+                                   "il50_p1": 28600,
+                                   "il50_p2": 32650,
+                                   "il50_p3": 36750,
+                                   "il50_p4": 40800,
+                                   "il50_p5": 44100,
+                                   "il50_p6": 47350,
+                                   "il50_p7": 50600,
+                                   "il50_p8": 53900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 22050,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 45750,
+                                   "il80_p2": 52250,
+                                   "il80_p3": 58800,
+                                   "il80_p4": 65300,
+                                   "il80_p5": 70550,
+                                   "il80_p6": 75750,
+                                   "il80_p7": 81000,
+                                   "il80_p8": 86200
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "year": "2020",
+                            "median_income": 86500,
+                            "very_low": {
+                                   "il50_p1": 30300,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38950,
+                                   "il50_p4": 43250,
+                                   "il50_p5": 46750,
+                                   "il50_p6": 50200,
+                                   "il50_p7": 53650,
+                                   "il50_p8": 57100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18200,
+                                   "il30_p2": 20800,
+                                   "il30_p3": 23400,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48450,
+                                   "il80_p2": 55400,
+                                   "il80_p3": 62300,
+                                   "il80_p4": 69200,
+                                   "il80_p5": 74750,
+                                   "il80_p6": 80300,
+                                   "il80_p7": 85850,
+                                   "il80_p8": 91350
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "year": "2021",
+                            "median_income": 84000,
+                            "very_low": {
+                                   "il50_p1": 29900,
+                                   "il50_p2": 34150,
+                                   "il50_p3": 38400,
+                                   "il50_p4": 42650,
+                                   "il50_p5": 46100,
+                                   "il50_p6": 49500,
+                                   "il50_p7": 52900,
+                                   "il50_p8": 56300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17950,
+                                   "il30_p2": 20500,
+                                   "il30_p3": 23050,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47800,
+                                   "il80_p2": 54600,
+                                   "il80_p3": 61450,
+                                   "il80_p4": 68250,
+                                   "il80_p5": 73750,
+                                   "il80_p6": 79200,
+                                   "il80_p7": 84650,
+                                   "il80_p8": 90100
+                            }
+                     },
+                     {
+                            "county_name": "Cheshire County, NH",
+                            "counties_msa": "",
+                            "town_name": "Surry town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Cheshire County, NH",
+                            "year": "2022",
+                            "median_income": 89100,
+                            "very_low": {
+                                   "il50_p1": 33100,
+                                   "il50_p2": 37800,
+                                   "il50_p3": 42550,
+                                   "il50_p4": 47250,
+                                   "il50_p5": 51050,
+                                   "il50_p6": 54850,
+                                   "il50_p7": 58600,
+                                   "il50_p8": 62400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19850,
+                                   "il30_p2": 22700,
+                                   "il30_p3": 25550,
+                                   "il30_p4": 28350,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52950,
+                                   "il80_p2": 60500,
+                                   "il80_p3": 68050,
+                                   "il80_p4": 75600,
+                                   "il80_p5": 81650,
+                                   "il80_p6": 87700,
+                                   "il80_p7": 93750,
+                                   "il80_p8": 99800
+                            }
+                     }
+              ]
+       }
+}

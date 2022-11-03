@@ -25,14 +25,9 @@ new Chart(document.getElementById("2501713135_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2501713135: Lowell, MA HUD Metro FMR Area"
         },
         "scales": {

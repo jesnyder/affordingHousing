@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 691,
+                                   "One-Bedroom": 717,
+                                   "Two-Bedroom": 908,
+                                   "Three-Bedroom": 1136,
+                                   "Four-Bedroom": 1252,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 674,
+                                   "One-Bedroom": 707,
+                                   "Two-Bedroom": 891,
+                                   "Three-Bedroom": 1117,
+                                   "Four-Bedroom": 1214,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1061,
+                                   "Four-Bedroom": 1239,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 574,
+                                   "One-Bedroom": 576,
+                                   "Two-Bedroom": 763,
+                                   "Three-Bedroom": 1035,
+                                   "Four-Bedroom": 1313,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 538,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1271,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 560,
+                                   "One-Bedroom": 600,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 1075,
+                                   "Four-Bedroom": 1296,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "year": "2017",
+                            "median_income": 62900,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31450,
+                                   "il50_p5": 34000,
+                                   "il50_p6": 36500,
+                                   "il50_p7": 39000,
+                                   "il50_p8": 41550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35250,
+                                   "il80_p2": 40250,
+                                   "il80_p3": 45300,
+                                   "il80_p4": 50300,
+                                   "il80_p5": 54350,
+                                   "il80_p6": 58350,
+                                   "il80_p7": 62400,
+                                   "il80_p8": 66400
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "year": "2018",
+                            "median_income": 62000,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "year": "2019",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "year": "2020",
+                            "median_income": 72300,
+                            "very_low": {
+                                   "il50_p1": 24400,
+                                   "il50_p2": 27850,
+                                   "il50_p3": 31350,
+                                   "il50_p4": 34800,
+                                   "il50_p5": 37600,
+                                   "il50_p6": 40400,
+                                   "il50_p7": 43200,
+                                   "il50_p8": 45950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39000,
+                                   "il80_p2": 44600,
+                                   "il80_p3": 50150,
+                                   "il80_p4": 55700,
+                                   "il80_p5": 60200,
+                                   "il80_p6": 64650,
+                                   "il80_p7": 69100,
+                                   "il80_p8": 73550
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "year": "2021",
+                            "median_income": 68400,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "Jack County, TX",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jack County, TX",
+                            "year": "2022",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 24550,
+                                   "il50_p2": 28050,
+                                   "il50_p3": 31550,
+                                   "il50_p4": 35050,
+                                   "il50_p5": 37900,
+                                   "il50_p6": 40700,
+                                   "il50_p7": 43500,
+                                   "il50_p8": 46300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46300
+                            },
+                            "low": {
+                                   "il80_p1": 39300,
+                                   "il80_p2": 44900,
+                                   "il80_p3": 50500,
+                                   "il80_p4": 56100,
+                                   "il80_p5": 60600,
+                                   "il80_p6": 65100,
+                                   "il80_p7": 69600,
+                                   "il80_p8": 74100
+                            }
+                     }
+              ]
+       }
+}

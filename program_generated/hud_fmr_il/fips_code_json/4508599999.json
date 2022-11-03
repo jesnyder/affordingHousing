@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 586,
+                                   "One-Bedroom": 590,
+                                   "Two-Bedroom": 729,
+                                   "Three-Bedroom": 960,
+                                   "Four-Bedroom": 1077,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 604,
+                                   "One-Bedroom": 608,
+                                   "Two-Bedroom": 759,
+                                   "Three-Bedroom": 1014,
+                                   "Four-Bedroom": 1134,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 618,
+                                   "One-Bedroom": 622,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 1038,
+                                   "Four-Bedroom": 1178,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 641,
+                                   "Two-Bedroom": 793,
+                                   "Three-Bedroom": 1068,
+                                   "Four-Bedroom": 1194,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 651,
+                                   "One-Bedroom": 667,
+                                   "Two-Bedroom": 825,
+                                   "Three-Bedroom": 1076,
+                                   "Four-Bedroom": 1205,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC",
+                            "area_name": "Sumter, SC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 586,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 851,
+                                   "Three-Bedroom": 1067,
+                                   "Four-Bedroom": 1193,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "year": "2017",
+                            "median_income": 46700,
+                            "very_low": {
+                                   "il50_p1": 16950,
+                                   "il50_p2": 19350,
+                                   "il50_p3": 21750,
+                                   "il50_p4": 24150,
+                                   "il50_p5": 26100,
+                                   "il50_p6": 28050,
+                                   "il50_p7": 29950,
+                                   "il50_p8": 31900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24150,
+                                   "il30_p5": 26100,
+                                   "il30_p6": 28050,
+                                   "il30_p7": 29950,
+                                   "il30_p8": 31900
+                            },
+                            "low": {
+                                   "il80_p1": 27100,
+                                   "il80_p2": 30950,
+                                   "il80_p3": 34800,
+                                   "il80_p4": 38650,
+                                   "il80_p5": 41750,
+                                   "il80_p6": 44850,
+                                   "il80_p7": 47950,
+                                   "il80_p8": 51050
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "year": "2018",
+                            "median_income": 49800,
+                            "very_low": {
+                                   "il50_p1": 17450,
+                                   "il50_p2": 19950,
+                                   "il50_p3": 22450,
+                                   "il50_p4": 24900,
+                                   "il50_p5": 26900,
+                                   "il50_p6": 28900,
+                                   "il50_p7": 30900,
+                                   "il50_p8": 32900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24900,
+                                   "il30_p5": 26900,
+                                   "il30_p6": 28900,
+                                   "il30_p7": 30900,
+                                   "il30_p8": 32900
+                            },
+                            "low": {
+                                   "il80_p1": 27900,
+                                   "il80_p2": 31900,
+                                   "il80_p3": 35900,
+                                   "il80_p4": 39850,
+                                   "il80_p5": 43050,
+                                   "il80_p6": 46250,
+                                   "il80_p7": 49450,
+                                   "il80_p8": 52650
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "year": "2019",
+                            "median_income": 50300,
+                            "very_low": {
+                                   "il50_p1": 18350,
+                                   "il50_p2": 20950,
+                                   "il50_p3": 23550,
+                                   "il50_p4": 26150,
+                                   "il50_p5": 28250,
+                                   "il50_p6": 30350,
+                                   "il50_p7": 32450,
+                                   "il50_p8": 34550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 28250,
+                                   "il30_p6": 30350,
+                                   "il30_p7": 32450,
+                                   "il30_p8": 34550
+                            },
+                            "low": {
+                                   "il80_p1": 29300,
+                                   "il80_p2": 33500,
+                                   "il80_p3": 37700,
+                                   "il80_p4": 41850,
+                                   "il80_p5": 45200,
+                                   "il80_p6": 48550,
+                                   "il80_p7": 51900,
+                                   "il80_p8": 55250
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "year": "2020",
+                            "median_income": 54700,
+                            "very_low": {
+                                   "il50_p1": 19150,
+                                   "il50_p2": 21900,
+                                   "il50_p3": 24650,
+                                   "il50_p4": 27350,
+                                   "il50_p5": 29550,
+                                   "il50_p6": 31750,
+                                   "il50_p7": 33950,
+                                   "il50_p8": 36150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29550,
+                                   "il30_p6": 31750,
+                                   "il30_p7": 33950,
+                                   "il30_p8": 36150
+                            },
+                            "low": {
+                                   "il80_p1": 30650,
+                                   "il80_p2": 35000,
+                                   "il80_p3": 39400,
+                                   "il80_p4": 43750,
+                                   "il80_p5": 47250,
+                                   "il80_p6": 50750,
+                                   "il80_p7": 54250,
+                                   "il80_p8": 57750
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC MSA",
+                            "area_name": "Sumter, SC MSA",
+                            "year": "2021",
+                            "median_income": 54300,
+                            "very_low": {
+                                   "il50_p1": 19050,
+                                   "il50_p2": 21750,
+                                   "il50_p3": 24450,
+                                   "il50_p4": 27150,
+                                   "il50_p5": 29350,
+                                   "il50_p6": 31500,
+                                   "il50_p7": 33700,
+                                   "il50_p8": 35850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 29350,
+                                   "il30_p6": 31500,
+                                   "il30_p7": 33700,
+                                   "il30_p8": 35850
+                            },
+                            "low": {
+                                   "il80_p1": 30450,
+                                   "il80_p2": 34800,
+                                   "il80_p3": 39150,
+                                   "il80_p4": 43450,
+                                   "il80_p5": 46950,
+                                   "il80_p6": 50450,
+                                   "il80_p7": 53900,
+                                   "il80_p8": 57400
+                            }
+                     },
+                     {
+                            "county_name": "Sumter County, SC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Sumter, SC",
+                            "area_name": "Sumter, SC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 63000,
+                            "very_low": {
+                                   "il50_p1": 21250,
+                                   "il50_p2": 24300,
+                                   "il50_p3": 27350,
+                                   "il50_p4": 30350,
+                                   "il50_p5": 32800,
+                                   "il50_p6": 35250,
+                                   "il50_p7": 37650,
+                                   "il50_p8": 40100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 35250,
+                                   "il30_p7": 37650,
+                                   "il30_p8": 40100
+                            },
+                            "low": {
+                                   "il80_p1": 34000,
+                                   "il80_p2": 38850,
+                                   "il80_p3": 43700,
+                                   "il80_p4": 48550,
+                                   "il80_p5": 52450,
+                                   "il80_p6": 56350,
+                                   "il80_p7": 60250,
+                                   "il80_p8": 64100
+                            }
+                     }
+              ]
+       }
+}

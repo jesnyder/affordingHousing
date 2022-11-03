@@ -25,14 +25,9 @@ new Chart(document.getElementById("1815399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1815399999: Sullivan County, IN HUD Metro FMR Area"
         },
         "scales": {

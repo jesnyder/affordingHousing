@@ -25,14 +25,9 @@ new Chart(document.getElementById("2010799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2010799999: Kansas City, MO-KS HUD Metro FMR Area"
         },
         "scales": {

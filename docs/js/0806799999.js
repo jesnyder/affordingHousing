@@ -25,14 +25,9 @@ new Chart(document.getElementById("0806799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0806799999: La Plata County, CO"
         },
         "scales": {

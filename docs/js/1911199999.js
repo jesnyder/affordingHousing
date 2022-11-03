@@ -25,14 +25,9 @@ new Chart(document.getElementById("1911199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1911199999: Lee County, IA"
         },
         "scales": {

@@ -25,14 +25,9 @@ new Chart(document.getElementById("0400199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0400199999: Apache County, AZ"
         },
         "scales": {

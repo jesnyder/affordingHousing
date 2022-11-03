@@ -25,14 +25,9 @@ new Chart(document.getElementById("2121799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2121799999: Taylor County, KY"
         },
         "scales": {

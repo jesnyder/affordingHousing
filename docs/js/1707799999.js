@@ -25,14 +25,9 @@ new Chart(document.getElementById("1707799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1707799999: Jackson County, IL HUD Metro FMR Area"
         },
         "scales": {

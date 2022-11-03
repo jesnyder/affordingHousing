@@ -25,14 +25,9 @@ new Chart(document.getElementById("2300102060_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2300102060: Lewiston-Auburn, ME MSA"
         },
         "scales": {

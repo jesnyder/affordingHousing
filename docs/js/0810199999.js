@@ -25,14 +25,9 @@ new Chart(document.getElementById("0810199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0810199999: Pueblo, CO MSA"
         },
         "scales": {

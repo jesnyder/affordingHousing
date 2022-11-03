@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 592,
+                                   "Two-Bedroom": 767,
+                                   "Three-Bedroom": 1000,
+                                   "Four-Bedroom": 1057,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 596,
+                                   "One-Bedroom": 615,
+                                   "Two-Bedroom": 794,
+                                   "Three-Bedroom": 1041,
+                                   "Four-Bedroom": 1081,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 608,
+                                   "One-Bedroom": 612,
+                                   "Two-Bedroom": 793,
+                                   "Three-Bedroom": 1048,
+                                   "Four-Bedroom": 1072,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 630,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 831,
+                                   "Three-Bedroom": 1097,
+                                   "Four-Bedroom": 1126,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 651,
+                                   "One-Bedroom": 656,
+                                   "Two-Bedroom": 864,
+                                   "Three-Bedroom": 1151,
+                                   "Four-Bedroom": 1172,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 691,
+                                   "One-Bedroom": 695,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1220,
+                                   "Four-Bedroom": 1248,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "year": "2017",
+                            "median_income": 63200,
+                            "very_low": {
+                                   "il50_p1": 22150,
+                                   "il50_p2": 25300,
+                                   "il50_p3": 28450,
+                                   "il50_p4": 31600,
+                                   "il50_p5": 34150,
+                                   "il50_p6": 36700,
+                                   "il50_p7": 39200,
+                                   "il50_p8": 41750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35400,
+                                   "il80_p2": 40450,
+                                   "il80_p3": 45500,
+                                   "il80_p4": 50550,
+                                   "il80_p5": 54600,
+                                   "il80_p6": 58650,
+                                   "il80_p7": 62700,
+                                   "il80_p8": 66750
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "year": "2018",
+                            "median_income": 66900,
+                            "very_low": {
+                                   "il50_p1": 23750,
+                                   "il50_p2": 27150,
+                                   "il50_p3": 30550,
+                                   "il50_p4": 33900,
+                                   "il50_p5": 36650,
+                                   "il50_p6": 39350,
+                                   "il50_p7": 42050,
+                                   "il50_p8": 44750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38000,
+                                   "il80_p2": 43400,
+                                   "il80_p3": 48850,
+                                   "il80_p4": 54250,
+                                   "il80_p5": 58600,
+                                   "il80_p6": 62950,
+                                   "il80_p7": 67300,
+                                   "il80_p8": 71650
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "year": "2019",
+                            "median_income": 65600,
+                            "very_low": {
+                                   "il50_p1": 23950,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30800,
+                                   "il50_p4": 34200,
+                                   "il50_p5": 36950,
+                                   "il50_p6": 39700,
+                                   "il50_p7": 42450,
+                                   "il50_p8": 45150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38300,
+                                   "il80_p2": 43800,
+                                   "il80_p3": 49250,
+                                   "il80_p4": 54700,
+                                   "il80_p5": 59100,
+                                   "il80_p6": 63500,
+                                   "il80_p7": 67850,
+                                   "il80_p8": 72250
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "year": "2020",
+                            "median_income": 70300,
+                            "very_low": {
+                                   "il50_p1": 24800,
+                                   "il50_p2": 28350,
+                                   "il50_p3": 31900,
+                                   "il50_p4": 35400,
+                                   "il50_p5": 38250,
+                                   "il50_p6": 41100,
+                                   "il50_p7": 43900,
+                                   "il50_p8": 46750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45350,
+                                   "il80_p3": 51000,
+                                   "il80_p4": 56650,
+                                   "il80_p5": 61200,
+                                   "il80_p6": 65750,
+                                   "il80_p7": 70250,
+                                   "il80_p8": 74800
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI MSA",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "year": "2021",
+                            "median_income": 73000,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 17550,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     },
+                     {
+                            "county_name": "Rock County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Janesville-Beloit, WI",
+                            "area_name": "Janesville-Beloit, WI MSA",
+                            "year": "2022",
+                            "median_income": 81200,
+                            "very_low": {
+                                   "il50_p1": 28550,
+                                   "il50_p2": 32600,
+                                   "il50_p3": 36700,
+                                   "il50_p4": 40750,
+                                   "il50_p5": 44050,
+                                   "il50_p6": 47300,
+                                   "il50_p7": 50550,
+                                   "il50_p8": 53800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17150,
+                                   "il30_p2": 19600,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45650,
+                                   "il80_p2": 52200,
+                                   "il80_p3": 58700,
+                                   "il80_p4": 65200,
+                                   "il80_p5": 70450,
+                                   "il80_p6": 75650,
+                                   "il80_p7": 80850,
+                                   "il80_p8": 86100
+                            }
+                     }
+              ]
+       }
+}

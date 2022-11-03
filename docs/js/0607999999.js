@@ -25,14 +25,9 @@ new Chart(document.getElementById("0607999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0607999999: San Luis Obispo-Paso Robles-Arroyo Grande, CA MSA"
         },
         "scales": {

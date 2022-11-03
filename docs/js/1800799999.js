@@ -25,14 +25,9 @@ new Chart(document.getElementById("1800799999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1800799999: Lafayette-West Lafayette, IN HUD Metro FMR Area"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 776,
+                                   "One-Bedroom": 777,
+                                   "Two-Bedroom": 940,
+                                   "Three-Bedroom": 1305,
+                                   "Four-Bedroom": 1312,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 838,
+                                   "One-Bedroom": 839,
+                                   "Two-Bedroom": 990,
+                                   "Three-Bedroom": 1405,
+                                   "Four-Bedroom": 1432,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 868,
+                                   "One-Bedroom": 887,
+                                   "Two-Bedroom": 1019,
+                                   "Three-Bedroom": 1440,
+                                   "Four-Bedroom": 1527,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 813,
+                                   "One-Bedroom": 837,
+                                   "Two-Bedroom": 953,
+                                   "Three-Bedroom": 1312,
+                                   "Four-Bedroom": 1375,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 865,
+                                   "One-Bedroom": 885,
+                                   "Two-Bedroom": 1009,
+                                   "Three-Bedroom": 1347,
+                                   "Four-Bedroom": 1368,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA",
+                            "area_name": "State College, PA MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1039,
+                                   "One-Bedroom": 1055,
+                                   "Two-Bedroom": 1212,
+                                   "Three-Bedroom": 1548,
+                                   "Four-Bedroom": 1644,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "year": "2017",
+                            "median_income": 75000,
+                            "very_low": {
+                                   "il50_p1": 26250,
+                                   "il50_p2": 30000,
+                                   "il50_p3": 33750,
+                                   "il50_p4": 37500,
+                                   "il50_p5": 40500,
+                                   "il50_p6": 43500,
+                                   "il50_p7": 46500,
+                                   "il50_p8": 49500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42000,
+                                   "il80_p2": 48000,
+                                   "il80_p3": 54000,
+                                   "il80_p4": 60000,
+                                   "il80_p5": 64800,
+                                   "il80_p6": 69600,
+                                   "il80_p7": 74400,
+                                   "il80_p8": 79200
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "year": "2018",
+                            "median_income": 82400,
+                            "very_low": {
+                                   "il50_p1": 28850,
+                                   "il50_p2": 33000,
+                                   "il50_p3": 37100,
+                                   "il50_p4": 41200,
+                                   "il50_p5": 44500,
+                                   "il50_p6": 47800,
+                                   "il50_p7": 51100,
+                                   "il50_p8": 54400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19800,
+                                   "il30_p3": 22250,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 46150,
+                                   "il80_p2": 52750,
+                                   "il80_p3": 59350,
+                                   "il80_p4": 65900,
+                                   "il80_p5": 71200,
+                                   "il80_p6": 76450,
+                                   "il80_p7": 81750,
+                                   "il80_p8": 87000
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "year": "2019",
+                            "median_income": 93000,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36250,
+                                   "il50_p3": 40800,
+                                   "il50_p4": 45300,
+                                   "il50_p5": 48950,
+                                   "il50_p6": 52550,
+                                   "il50_p7": 56200,
+                                   "il50_p8": 59800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27200,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 50750,
+                                   "il80_p2": 58000,
+                                   "il80_p3": 65250,
+                                   "il80_p4": 72500,
+                                   "il80_p5": 78300,
+                                   "il80_p6": 84100,
+                                   "il80_p7": 89900,
+                                   "il80_p8": 95700
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "year": "2020",
+                            "median_income": 88700,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35500,
+                                   "il50_p3": 39950,
+                                   "il50_p4": 44350,
+                                   "il50_p5": 47900,
+                                   "il50_p6": 51450,
+                                   "il50_p7": 55000,
+                                   "il50_p8": 58550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 49700,
+                                   "il80_p2": 56800,
+                                   "il80_p3": 63900,
+                                   "il80_p4": 70950,
+                                   "il80_p5": 76650,
+                                   "il80_p6": 82350,
+                                   "il80_p7": 88000,
+                                   "il80_p8": 93700
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA MSA",
+                            "area_name": "State College, PA MSA",
+                            "year": "2021",
+                            "median_income": 87900,
+                            "very_low": {
+                                   "il50_p1": 30800,
+                                   "il50_p2": 35200,
+                                   "il50_p3": 39600,
+                                   "il50_p4": 43950,
+                                   "il50_p5": 47500,
+                                   "il50_p6": 51000,
+                                   "il50_p7": 54500,
+                                   "il50_p8": 58050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18450,
+                                   "il30_p2": 21100,
+                                   "il30_p3": 23750,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 49250,
+                                   "il80_p2": 56250,
+                                   "il80_p3": 63300,
+                                   "il80_p4": 70300,
+                                   "il80_p5": 75950,
+                                   "il80_p6": 81550,
+                                   "il80_p7": 87200,
+                                   "il80_p8": 92800
+                            }
+                     },
+                     {
+                            "county_name": "Centre County, PA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "State College, PA",
+                            "area_name": "State College, PA MSA",
+                            "year": "2022",
+                            "median_income": 97300,
+                            "very_low": {
+                                   "il50_p1": 34100,
+                                   "il50_p2": 38950,
+                                   "il50_p3": 43800,
+                                   "il50_p4": 48650,
+                                   "il50_p5": 52550,
+                                   "il50_p6": 56450,
+                                   "il50_p7": 60350,
+                                   "il50_p8": 64250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20450,
+                                   "il30_p2": 23400,
+                                   "il30_p3": 26300,
+                                   "il30_p4": 29200,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54500,
+                                   "il80_p2": 62300,
+                                   "il80_p3": 70100,
+                                   "il80_p4": 77850,
+                                   "il80_p5": 84100,
+                                   "il80_p6": 90350,
+                                   "il80_p7": 96550,
+                                   "il80_p8": 102800
+                            }
+                     }
+              ]
+       }
+}

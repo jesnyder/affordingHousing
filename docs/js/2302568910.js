@@ -25,14 +25,9 @@ new Chart(document.getElementById("2302568910_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2302568910: Somerset County, ME"
         },
         "scales": {

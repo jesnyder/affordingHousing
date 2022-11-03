@@ -25,14 +25,9 @@ new Chart(document.getElementById("0400599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0400599999: Flagstaff, AZ MSA"
         },
         "scales": {

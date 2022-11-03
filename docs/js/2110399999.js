@@ -25,14 +25,9 @@ new Chart(document.getElementById("2110399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2110399999: Louisville, KY-IN HUD Metro FMR Area"
         },
         "scales": {

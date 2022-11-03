@@ -25,14 +25,9 @@ new Chart(document.getElementById("6601099999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "6601099999: Guam"
         },
         "scales": {

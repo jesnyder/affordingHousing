@@ -25,14 +25,9 @@ new Chart(document.getElementById("2500159735_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2500159735: Barnstable Town, MA MSA"
         },
         "scales": {

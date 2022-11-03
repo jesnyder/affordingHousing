@@ -25,14 +25,9 @@ new Chart(document.getElementById("0605999999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0605999999: Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area"
         },
         "scales": {

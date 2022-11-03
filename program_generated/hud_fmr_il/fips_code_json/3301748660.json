@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 931,
+                                   "One-Bedroom": 937,
+                                   "Two-Bedroom": 1174,
+                                   "Three-Bedroom": 1601,
+                                   "Four-Bedroom": 1829,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 934,
+                                   "One-Bedroom": 940,
+                                   "Two-Bedroom": 1187,
+                                   "Three-Bedroom": 1631,
+                                   "Four-Bedroom": 1948,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 909,
+                                   "One-Bedroom": 916,
+                                   "Two-Bedroom": 1161,
+                                   "Three-Bedroom": 1595,
+                                   "Four-Bedroom": 1959,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1000,
+                                   "One-Bedroom": 1029,
+                                   "Two-Bedroom": 1315,
+                                   "Three-Bedroom": 1795,
+                                   "Four-Bedroom": 2212,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 969,
+                                   "One-Bedroom": 1033,
+                                   "Two-Bedroom": 1330,
+                                   "Three-Bedroom": 1803,
+                                   "Four-Bedroom": 2226,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 977,
+                                   "One-Bedroom": 1092,
+                                   "Two-Bedroom": 1399,
+                                   "Three-Bedroom": 1871,
+                                   "Four-Bedroom": 2295,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 90700,
+                            "very_low": {
+                                   "il50_p1": 31250,
+                                   "il50_p2": 35700,
+                                   "il50_p3": 40150,
+                                   "il50_p4": 44600,
+                                   "il50_p5": 48200,
+                                   "il50_p6": 51750,
+                                   "il50_p7": 55350,
+                                   "il50_p8": 58900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18750,
+                                   "il30_p2": 21400,
+                                   "il30_p3": 24100,
+                                   "il30_p4": 26750,
+                                   "il30_p5": 28900,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 99200,
+                            "very_low": {
+                                   "il50_p1": 34750,
+                                   "il50_p2": 39700,
+                                   "il50_p3": 44650,
+                                   "il50_p4": 49600,
+                                   "il50_p5": 53600,
+                                   "il50_p6": 57550,
+                                   "il50_p7": 61550,
+                                   "il50_p8": 65500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20850,
+                                   "il30_p2": 23800,
+                                   "il30_p3": 26800,
+                                   "il30_p4": 29750,
+                                   "il30_p5": 32150,
+                                   "il30_p6": 34550,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 94300,
+                            "very_low": {
+                                   "il50_p1": 33050,
+                                   "il50_p2": 37750,
+                                   "il50_p3": 42450,
+                                   "il50_p4": 47150,
+                                   "il50_p5": 50950,
+                                   "il50_p6": 54700,
+                                   "il50_p7": 58500,
+                                   "il50_p8": 62250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19850,
+                                   "il30_p2": 22650,
+                                   "il30_p3": 25500,
+                                   "il30_p4": 28300,
+                                   "il30_p5": 30600,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75450,
+                                   "il80_p5": 81500,
+                                   "il80_p6": 87550,
+                                   "il80_p7": 93600,
+                                   "il80_p8": 99600
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 102800,
+                            "very_low": {
+                                   "il50_p1": 35600,
+                                   "il50_p2": 40700,
+                                   "il50_p3": 45800,
+                                   "il50_p4": 50850,
+                                   "il50_p5": 54950,
+                                   "il50_p6": 59000,
+                                   "il50_p7": 63100,
+                                   "il50_p8": 67150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21350,
+                                   "il30_p2": 24400,
+                                   "il30_p3": 27450,
+                                   "il30_p4": 30500,
+                                   "il30_p5": 32950,
+                                   "il30_p6": 35400,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH MSA",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 106600,
+                            "very_low": {
+                                   "il50_p1": 37350,
+                                   "il50_p2": 42650,
+                                   "il50_p3": 48000,
+                                   "il50_p4": 53300,
+                                   "il50_p5": 57600,
+                                   "il50_p6": 61850,
+                                   "il50_p7": 66100,
+                                   "il50_p8": 70400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22400,
+                                   "il30_p2": 25600,
+                                   "il30_p3": 28800,
+                                   "il30_p4": 32000,
+                                   "il30_p5": 34600,
+                                   "il30_p6": 37150,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Strafford County, NH",
+                            "counties_msa": "",
+                            "town_name": "Milton town",
+                            "metro_status": "1",
+                            "metro_name": "Boston-Cambridge-Newton, MA-NH",
+                            "area_name": "Portsmouth-Rochester, NH HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 116400,
+                            "very_low": {
+                                   "il50_p1": 40750,
+                                   "il50_p2": 46600,
+                                   "il50_p3": 52400,
+                                   "il50_p4": 58200,
+                                   "il50_p5": 62900,
+                                   "il50_p6": 67550,
+                                   "il50_p7": 72200,
+                                   "il50_p8": 76850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24450,
+                                   "il30_p2": 27950,
+                                   "il30_p3": 31450,
+                                   "il30_p4": 34900,
+                                   "il30_p5": 37700,
+                                   "il30_p6": 40500,
+                                   "il30_p7": 43300,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

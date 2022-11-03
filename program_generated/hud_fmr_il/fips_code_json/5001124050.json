@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 885,
+                                   "One-Bedroom": 1080,
+                                   "Two-Bedroom": 1395,
+                                   "Three-Bedroom": 1885,
+                                   "Four-Bedroom": 1934,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 920,
+                                   "One-Bedroom": 1121,
+                                   "Two-Bedroom": 1442,
+                                   "Three-Bedroom": 1921,
+                                   "Four-Bedroom": 2025,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 862,
+                                   "One-Bedroom": 1044,
+                                   "Two-Bedroom": 1341,
+                                   "Three-Bedroom": 1744,
+                                   "Four-Bedroom": 1823,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1030,
+                                   "One-Bedroom": 1223,
+                                   "Two-Bedroom": 1573,
+                                   "Three-Bedroom": 1974,
+                                   "Four-Bedroom": 2131,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1091,
+                                   "One-Bedroom": 1265,
+                                   "Two-Bedroom": 1628,
+                                   "Three-Bedroom": 2025,
+                                   "Four-Bedroom": 2208,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1033,
+                                   "One-Bedroom": 1163,
+                                   "Two-Bedroom": 1500,
+                                   "Three-Bedroom": 1854,
+                                   "Four-Bedroom": 2034,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "year": "2017",
+                            "median_income": 82400,
+                            "very_low": {
+                                   "il50_p1": 28850,
+                                   "il50_p2": 33000,
+                                   "il50_p3": 37100,
+                                   "il50_p4": 41200,
+                                   "il50_p5": 44500,
+                                   "il50_p6": 47800,
+                                   "il50_p7": 51100,
+                                   "il50_p8": 54400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19800,
+                                   "il30_p3": 22250,
+                                   "il30_p4": 24700,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 46150,
+                                   "il80_p2": 52750,
+                                   "il80_p3": 59350,
+                                   "il80_p4": 65900,
+                                   "il80_p5": 71200,
+                                   "il80_p6": 76450,
+                                   "il80_p7": 81750,
+                                   "il80_p8": 87000
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "year": "2018",
+                            "median_income": 93000,
+                            "very_low": {
+                                   "il50_p1": 32150,
+                                   "il50_p2": 36750,
+                                   "il50_p3": 41350,
+                                   "il50_p4": 45900,
+                                   "il50_p5": 49600,
+                                   "il50_p6": 53250,
+                                   "il50_p7": 56950,
+                                   "il50_p8": 60600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19300,
+                                   "il30_p2": 22050,
+                                   "il30_p3": 24800,
+                                   "il30_p4": 27550,
+                                   "il30_p5": 29800,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "year": "2019",
+                            "median_income": 91600,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36650,
+                                   "il50_p3": 41250,
+                                   "il50_p4": 45800,
+                                   "il50_p5": 49500,
+                                   "il50_p6": 53150,
+                                   "il50_p7": 56800,
+                                   "il50_p8": 60500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27500,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 51350,
+                                   "il80_p2": 58650,
+                                   "il80_p3": 66000,
+                                   "il80_p4": 73300,
+                                   "il80_p5": 79200,
+                                   "il80_p6": 85050,
+                                   "il80_p7": 90900,
+                                   "il80_p8": 96800
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "year": "2020",
+                            "median_income": 89700,
+                            "very_low": {
+                                   "il50_p1": 32100,
+                                   "il50_p2": 36700,
+                                   "il50_p3": 41300,
+                                   "il50_p4": 45850,
+                                   "il50_p5": 49550,
+                                   "il50_p6": 53200,
+                                   "il50_p7": 56900,
+                                   "il50_p8": 60550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19250,
+                                   "il30_p2": 22000,
+                                   "il30_p3": 24750,
+                                   "il30_p4": 27500,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 51350,
+                                   "il80_p2": 58700,
+                                   "il80_p3": 66050,
+                                   "il80_p4": 73350,
+                                   "il80_p5": 79250,
+                                   "il80_p6": 85100,
+                                   "il80_p7": 91000,
+                                   "il80_p8": 96850
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT MSA",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "year": "2021",
+                            "median_income": 95900,
+                            "very_low": {
+                                   "il50_p1": 33600,
+                                   "il50_p2": 38400,
+                                   "il50_p3": 43200,
+                                   "il50_p4": 47950,
+                                   "il50_p5": 51800,
+                                   "il50_p6": 55650,
+                                   "il50_p7": 59500,
+                                   "il50_p8": 63300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20150,
+                                   "il30_p2": 23000,
+                                   "il30_p3": 25900,
+                                   "il30_p4": 28750,
+                                   "il30_p5": 31050,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 53700,
+                                   "il80_p2": 61400,
+                                   "il80_p3": 69050,
+                                   "il80_p4": 76700,
+                                   "il80_p5": 82850,
+                                   "il80_p6": 89000,
+                                   "il80_p7": 95150,
+                                   "il80_p8": 101250
+                            }
+                     },
+                     {
+                            "county_name": "Franklin County, VT",
+                            "counties_msa": "",
+                            "town_name": "Enosburgh town",
+                            "metro_status": "1",
+                            "metro_name": "Burlington-South Burlington, VT",
+                            "area_name": "Burlington-South Burlington, VT MSA",
+                            "year": "2022",
+                            "median_income": 109000,
+                            "very_low": {
+                                   "il50_p1": 37600,
+                                   "il50_p2": 42950,
+                                   "il50_p3": 48300,
+                                   "il50_p4": 53650,
+                                   "il50_p5": 57950,
+                                   "il50_p6": 62250,
+                                   "il50_p7": 66550,
+                                   "il50_p8": 70850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22550,
+                                   "il30_p2": 25800,
+                                   "il30_p3": 29000,
+                                   "il30_p4": 32200,
+                                   "il30_p5": 34800,
+                                   "il30_p6": 37400,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 60100,
+                                   "il80_p2": 68650,
+                                   "il80_p3": 77250,
+                                   "il80_p4": 85800,
+                                   "il80_p5": 92700,
+                                   "il80_p6": 99550,
+                                   "il80_p7": 106400,
+                                   "il80_p8": 113300
+                            }
+                     }
+              ]
+       }
+}

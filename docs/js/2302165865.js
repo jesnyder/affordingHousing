@@ -25,14 +25,9 @@ new Chart(document.getElementById("2302165865_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2302165865: Piscataquis County, ME"
         },
         "scales": {

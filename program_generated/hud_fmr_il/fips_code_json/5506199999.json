@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 474,
+                                   "One-Bedroom": 557,
+                                   "Two-Bedroom": 738,
+                                   "Three-Bedroom": 1035,
+                                   "Four-Bedroom": 1039,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 531,
+                                   "One-Bedroom": 591,
+                                   "Two-Bedroom": 786,
+                                   "Three-Bedroom": 1113,
+                                   "Four-Bedroom": 1121,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 590,
+                                   "One-Bedroom": 650,
+                                   "Two-Bedroom": 860,
+                                   "Three-Bedroom": 1215,
+                                   "Four-Bedroom": 1231,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 572,
+                                   "One-Bedroom": 624,
+                                   "Two-Bedroom": 822,
+                                   "Three-Bedroom": 1160,
+                                   "Four-Bedroom": 1177,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 630,
+                                   "One-Bedroom": 680,
+                                   "Two-Bedroom": 892,
+                                   "Three-Bedroom": 1261,
+                                   "Four-Bedroom": 1275,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 679,
+                                   "Two-Bedroom": 875,
+                                   "Three-Bedroom": 1200,
+                                   "Four-Bedroom": 1204,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 69900,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 34950,
+                                   "il50_p5": 37750,
+                                   "il50_p6": 40550,
+                                   "il50_p7": 43350,
+                                   "il50_p8": 46150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 16800,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39150,
+                                   "il80_p2": 44750,
+                                   "il80_p3": 50350,
+                                   "il80_p4": 55900,
+                                   "il80_p5": 60400,
+                                   "il80_p6": 64850,
+                                   "il80_p7": 69350,
+                                   "il80_p8": 73800
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 77500,
+                            "very_low": {
+                                   "il50_p1": 27150,
+                                   "il50_p2": 31000,
+                                   "il50_p3": 34900,
+                                   "il50_p4": 38750,
+                                   "il50_p5": 41850,
+                                   "il50_p6": 44950,
+                                   "il50_p7": 48050,
+                                   "il50_p8": 51150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16300,
+                                   "il30_p2": 18600,
+                                   "il30_p3": 20950,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43400,
+                                   "il80_p2": 49600,
+                                   "il80_p3": 55800,
+                                   "il80_p4": 62000,
+                                   "il80_p5": 67000,
+                                   "il80_p6": 71950,
+                                   "il80_p7": 76900,
+                                   "il80_p8": 81850
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 81800,
+                            "very_low": {
+                                   "il50_p1": 28650,
+                                   "il50_p2": 32750,
+                                   "il50_p3": 36850,
+                                   "il50_p4": 40900,
+                                   "il50_p5": 44200,
+                                   "il50_p6": 47450,
+                                   "il50_p7": 50750,
+                                   "il50_p8": 54000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17200,
+                                   "il30_p2": 19650,
+                                   "il30_p3": 22100,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 45850,
+                                   "il80_p2": 52400,
+                                   "il80_p3": 58950,
+                                   "il80_p4": 65450,
+                                   "il80_p5": 70700,
+                                   "il80_p6": 75950,
+                                   "il80_p7": 81200,
+                                   "il80_p8": 86400
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 82300,
+                            "very_low": {
+                                   "il50_p1": 28850,
+                                   "il50_p2": 32950,
+                                   "il50_p3": 37050,
+                                   "il50_p4": 41150,
+                                   "il50_p5": 44450,
+                                   "il50_p6": 47750,
+                                   "il50_p7": 51050,
+                                   "il50_p8": 54350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19800,
+                                   "il30_p3": 22250,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46100,
+                                   "il80_p2": 52700,
+                                   "il80_p3": 59300,
+                                   "il80_p4": 65850,
+                                   "il80_p5": 71150,
+                                   "il80_p6": 76400,
+                                   "il80_p7": 81700,
+                                   "il80_p8": 86950
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI MSA",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 80700,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32300,
+                                   "il50_p3": 36350,
+                                   "il50_p4": 40350,
+                                   "il50_p5": 43600,
+                                   "il50_p6": 46850,
+                                   "il50_p7": 50050,
+                                   "il50_p8": 53300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 45200,
+                                   "il80_p2": 51650,
+                                   "il80_p3": 58100,
+                                   "il80_p4": 64550,
+                                   "il80_p5": 69750,
+                                   "il80_p6": 74900,
+                                   "il80_p7": 80050,
+                                   "il80_p8": 85250
+                            }
+                     },
+                     {
+                            "county_name": "Kewaunee County, WI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Green Bay, WI",
+                            "area_name": "Green Bay, WI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 92400,
+                            "very_low": {
+                                   "il50_p1": 31600,
+                                   "il50_p2": 36100,
+                                   "il50_p3": 40600,
+                                   "il50_p4": 45100,
+                                   "il50_p5": 48750,
+                                   "il50_p6": 52350,
+                                   "il50_p7": 55950,
+                                   "il50_p8": 59550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18950,
+                                   "il30_p2": 21650,
+                                   "il30_p3": 24350,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50550,
+                                   "il80_p2": 57750,
+                                   "il80_p3": 64950,
+                                   "il80_p4": 72150,
+                                   "il80_p5": 77950,
+                                   "il80_p6": 83700,
+                                   "il80_p7": 89500,
+                                   "il80_p8": 95250
+                            }
+                     }
+              ]
+       }
+}

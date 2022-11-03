@@ -25,14 +25,9 @@ new Chart(document.getElementById("1608599999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "1608599999: Valley County, ID"
         },
         "scales": {

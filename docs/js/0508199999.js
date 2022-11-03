@@ -25,14 +25,9 @@ new Chart(document.getElementById("0508199999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "0508199999: Little River County, AR HUD Metro FMR Area"
         },
         "scales": {

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 704,
+                                   "One-Bedroom": 731,
+                                   "Two-Bedroom": 920,
+                                   "Three-Bedroom": 1339,
+                                   "Four-Bedroom": 1390,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 693,
+                                   "One-Bedroom": 771,
+                                   "Two-Bedroom": 948,
+                                   "Three-Bedroom": 1354,
+                                   "Four-Bedroom": 1670,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 657,
+                                   "One-Bedroom": 854,
+                                   "Two-Bedroom": 978,
+                                   "Three-Bedroom": 1338,
+                                   "Four-Bedroom": 1718,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 652,
+                                   "One-Bedroom": 850,
+                                   "Two-Bedroom": 967,
+                                   "Three-Bedroom": 1315,
+                                   "Four-Bedroom": 1698,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 613,
+                                   "One-Bedroom": 799,
+                                   "Two-Bedroom": 911,
+                                   "Three-Bedroom": 1238,
+                                   "Four-Bedroom": 1577,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 755,
+                                   "One-Bedroom": 769,
+                                   "Two-Bedroom": 876,
+                                   "Three-Bedroom": 1223,
+                                   "Four-Bedroom": 1499,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "year": "2017",
+                            "median_income": 70600,
+                            "very_low": {
+                                   "il50_p1": 24750,
+                                   "il50_p2": 28250,
+                                   "il50_p3": 31800,
+                                   "il50_p4": 35300,
+                                   "il50_p5": 38150,
+                                   "il50_p6": 40950,
+                                   "il50_p7": 43800,
+                                   "il50_p8": 46600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 17000,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39550,
+                                   "il80_p2": 45200,
+                                   "il80_p3": 50850,
+                                   "il80_p4": 56500,
+                                   "il80_p5": 61050,
+                                   "il80_p6": 65550,
+                                   "il80_p7": 70100,
+                                   "il80_p8": 74600
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "year": "2018",
+                            "median_income": 71300,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28550,
+                                   "il50_p3": 32100,
+                                   "il50_p4": 35650,
+                                   "il50_p5": 38550,
+                                   "il50_p6": 41400,
+                                   "il50_p7": 44250,
+                                   "il50_p8": 47100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17150,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39950,
+                                   "il80_p2": 45650,
+                                   "il80_p3": 51350,
+                                   "il80_p4": 57050,
+                                   "il80_p5": 61650,
+                                   "il80_p6": 66200,
+                                   "il80_p7": 70750,
+                                   "il80_p8": 75350
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "year": "2019",
+                            "median_income": 71800,
+                            "very_low": {
+                                   "il50_p1": 25150,
+                                   "il50_p2": 28750,
+                                   "il50_p3": 32350,
+                                   "il50_p4": 35900,
+                                   "il50_p5": 38800,
+                                   "il50_p6": 41650,
+                                   "il50_p7": 44550,
+                                   "il50_p8": 47400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 17250,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57450,
+                                   "il80_p5": 62050,
+                                   "il80_p6": 66650,
+                                   "il80_p7": 71250,
+                                   "il80_p8": 75850
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "year": "2020",
+                            "median_income": 74300,
+                            "very_low": {
+                                   "il50_p1": 26050,
+                                   "il50_p2": 29750,
+                                   "il50_p3": 33450,
+                                   "il50_p4": 37150,
+                                   "il50_p5": 40150,
+                                   "il50_p6": 43100,
+                                   "il50_p7": 46100,
+                                   "il50_p8": 49050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17850,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 41650,
+                                   "il80_p2": 47600,
+                                   "il80_p3": 53550,
+                                   "il80_p4": 59450,
+                                   "il80_p5": 64250,
+                                   "il80_p6": 69000,
+                                   "il80_p7": 73750,
+                                   "il80_p8": 78500
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "year": "2021",
+                            "median_income": 74500,
+                            "very_low": {
+                                   "il50_p1": 26100,
+                                   "il50_p2": 29800,
+                                   "il50_p3": 33550,
+                                   "il50_p4": 37250,
+                                   "il50_p5": 40250,
+                                   "il50_p6": 43250,
+                                   "il50_p7": 46200,
+                                   "il50_p8": 49200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15650,
+                                   "il30_p2": 17900,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41750,
+                                   "il80_p2": 47700,
+                                   "il80_p3": 53650,
+                                   "il80_p4": 59600,
+                                   "il80_p5": 64400,
+                                   "il80_p6": 69150,
+                                   "il80_p7": 73950,
+                                   "il80_p8": 78700
+                            }
+                     },
+                     {
+                            "county_name": "Louisa County, VA",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Louisa County, VA",
+                            "year": "2022",
+                            "median_income": 81100,
+                            "very_low": {
+                                   "il50_p1": 28400,
+                                   "il50_p2": 32450,
+                                   "il50_p3": 36500,
+                                   "il50_p4": 40550,
+                                   "il50_p5": 43800,
+                                   "il50_p6": 47050,
+                                   "il50_p7": 50300,
+                                   "il50_p8": 53550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17050,
+                                   "il30_p2": 19500,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45450,
+                                   "il80_p2": 51950,
+                                   "il80_p3": 58450,
+                                   "il80_p4": 64900,
+                                   "il80_p5": 70100,
+                                   "il80_p6": 75300,
+                                   "il80_p7": 80500,
+                                   "il80_p8": 85700
+                            }
+                     }
+              ]
+       }
+}

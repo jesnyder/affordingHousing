@@ -25,14 +25,9 @@ new Chart(document.getElementById("2301541280_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2301541280: Lincoln County, ME"
         },
         "scales": {

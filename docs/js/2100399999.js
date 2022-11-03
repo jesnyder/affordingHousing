@@ -25,14 +25,9 @@ new Chart(document.getElementById("2100399999_plot"),{
         ]
     },
     "options": {
-        "responsive": true,
-        "interaction": {
-            "mode": "index",
-            "intersect": false
-        },
         "stacked": false,
         "title": {
-            "display": true,
+            "display": "true",
             "text": "2100399999: Allen County, KY HUD Metro FMR Area"
         },
         "scales": {
