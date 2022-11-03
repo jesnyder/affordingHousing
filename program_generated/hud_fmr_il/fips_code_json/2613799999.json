@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 516,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 729,
+                                   "Three-Bedroom": 1008,
+                                   "Four-Bedroom": 1121,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 761,
+                                   "Three-Bedroom": 1057,
+                                   "Four-Bedroom": 1152,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 592,
+                                   "Two-Bedroom": 766,
+                                   "Three-Bedroom": 1057,
+                                   "Four-Bedroom": 1104,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 543,
+                                   "One-Bedroom": 597,
+                                   "Two-Bedroom": 781,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1111,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 593,
+                                   "One-Bedroom": 656,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1122,
+                                   "Four-Bedroom": 1218,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 669,
+                                   "Two-Bedroom": 880,
+                                   "Three-Bedroom": 1128,
+                                   "Four-Bedroom": 1291,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "year": "2017",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 20700,
+                                   "il50_p2": 23650,
+                                   "il50_p3": 26600,
+                                   "il50_p4": 29550,
+                                   "il50_p5": 31950,
+                                   "il50_p6": 34300,
+                                   "il50_p7": 36650,
+                                   "il50_p8": 39050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36650,
+                                   "il30_p8": 39050
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37850,
+                                   "il80_p3": 42600,
+                                   "il80_p4": 47300,
+                                   "il80_p5": 51100,
+                                   "il80_p6": 54900,
+                                   "il80_p7": 58700,
+                                   "il80_p8": 62450
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "year": "2018",
+                            "median_income": 60600,
+                            "very_low": {
+                                   "il50_p1": 21250,
+                                   "il50_p2": 24250,
+                                   "il50_p3": 27300,
+                                   "il50_p4": 30300,
+                                   "il50_p5": 32750,
+                                   "il50_p6": 35150,
+                                   "il50_p7": 37600,
+                                   "il50_p8": 40000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37600,
+                                   "il30_p8": 40000
+                            },
+                            "low": {
+                                   "il80_p1": 33950,
+                                   "il80_p2": 38800,
+                                   "il80_p3": 43650,
+                                   "il80_p4": 48500,
+                                   "il80_p5": 52400,
+                                   "il80_p6": 56300,
+                                   "il80_p7": 60150,
+                                   "il80_p8": 64050
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "year": "2019",
+                            "median_income": 61600,
+                            "very_low": {
+                                   "il50_p1": 21600,
+                                   "il50_p2": 24650,
+                                   "il50_p3": 27750,
+                                   "il50_p4": 30800,
+                                   "il50_p5": 33300,
+                                   "il50_p6": 35750,
+                                   "il50_p7": 38200,
+                                   "il50_p8": 40700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38200,
+                                   "il30_p8": 40700
+                            },
+                            "low": {
+                                   "il80_p1": 34550,
+                                   "il80_p2": 39450,
+                                   "il80_p3": 44400,
+                                   "il80_p4": 49300,
+                                   "il80_p5": 53250,
+                                   "il80_p6": 57200,
+                                   "il80_p7": 61150,
+                                   "il80_p8": 65100
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "year": "2020",
+                            "median_income": 63100,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "year": "2021",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40000,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Otsego County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Otsego County, MI",
+                            "year": "2022",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 25050,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32200,
+                                   "il50_p4": 35750,
+                                   "il50_p5": 38650,
+                                   "il50_p6": 41500,
+                                   "il50_p7": 44350,
+                                   "il50_p8": 47200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40050,
+                                   "il80_p2": 45800,
+                                   "il80_p3": 51500,
+                                   "il80_p4": 57200,
+                                   "il80_p5": 61800,
+                                   "il80_p6": 66400,
+                                   "il80_p7": 70950,
+                                   "il80_p8": 75550
+                            }
+                     }
+              ]
+       }
+}

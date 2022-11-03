@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 590,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 875,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 559,
+                                   "One-Bedroom": 576,
+                                   "Two-Bedroom": 661,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 914,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 554,
+                                   "One-Bedroom": 569,
+                                   "Two-Bedroom": 651,
+                                   "Three-Bedroom": 894,
+                                   "Four-Bedroom": 898,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 499,
+                                   "One-Bedroom": 513,
+                                   "Two-Bedroom": 657,
+                                   "Three-Bedroom": 856,
+                                   "Four-Bedroom": 915,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 518,
+                                   "One-Bedroom": 521,
+                                   "Two-Bedroom": 687,
+                                   "Three-Bedroom": 855,
+                                   "Four-Bedroom": 949,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 539,
+                                   "Two-Bedroom": 709,
+                                   "Three-Bedroom": 876,
+                                   "Four-Bedroom": 975,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "year": "2017",
+                            "median_income": 50700,
+                            "very_low": {
+                                   "il50_p1": 17750,
+                                   "il50_p2": 20300,
+                                   "il50_p3": 22850,
+                                   "il50_p4": 25350,
+                                   "il50_p5": 27400,
+                                   "il50_p6": 29450,
+                                   "il50_p7": 31450,
+                                   "il50_p8": 33500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27400,
+                                   "il30_p6": 29450,
+                                   "il30_p7": 31450,
+                                   "il30_p8": 33500
+                            },
+                            "low": {
+                                   "il80_p1": 28400,
+                                   "il80_p2": 32450,
+                                   "il80_p3": 36500,
+                                   "il80_p4": 40550,
+                                   "il80_p5": 43800,
+                                   "il80_p6": 47050,
+                                   "il80_p7": 50300,
+                                   "il80_p8": 53550
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "year": "2018",
+                            "median_income": 57000,
+                            "very_low": {
+                                   "il50_p1": 19800,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25450,
+                                   "il50_p4": 28250,
+                                   "il50_p5": 30550,
+                                   "il50_p6": 32800,
+                                   "il50_p7": 35050,
+                                   "il50_p8": 37300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32800,
+                                   "il30_p7": 35050,
+                                   "il30_p8": 37300
+                            },
+                            "low": {
+                                   "il80_p1": 31650,
+                                   "il80_p2": 36200,
+                                   "il80_p3": 40700,
+                                   "il80_p4": 45200,
+                                   "il80_p5": 48850,
+                                   "il80_p6": 52450,
+                                   "il80_p7": 56050,
+                                   "il80_p8": 59700
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "year": "2019",
+                            "median_income": 56400,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25400,
+                                   "il50_p4": 28200,
+                                   "il50_p5": 30500,
+                                   "il50_p6": 32750,
+                                   "il50_p7": 35000,
+                                   "il50_p8": 37250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 32750,
+                                   "il30_p7": 35000,
+                                   "il30_p8": 37250
+                            },
+                            "low": {
+                                   "il80_p1": 31600,
+                                   "il80_p2": 36100,
+                                   "il80_p3": 40600,
+                                   "il80_p4": 45100,
+                                   "il80_p5": 48750,
+                                   "il80_p6": 52350,
+                                   "il80_p7": 55950,
+                                   "il80_p8": 59550
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "year": "2020",
+                            "median_income": 64100,
+                            "very_low": {
+                                   "il50_p1": 21300,
+                                   "il50_p2": 24350,
+                                   "il50_p3": 27400,
+                                   "il50_p4": 30400,
+                                   "il50_p5": 32850,
+                                   "il50_p6": 35300,
+                                   "il50_p7": 37700,
+                                   "il50_p8": 40150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12800,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 37700,
+                                   "il30_p8": 40150
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 38950,
+                                   "il80_p3": 43800,
+                                   "il80_p4": 48650,
+                                   "il80_p5": 52550,
+                                   "il80_p6": 56450,
+                                   "il80_p7": 60350,
+                                   "il80_p8": 64250
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "year": "2021",
+                            "median_income": 64900,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39600,
+                                   "il30_p8": 42150
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "Greene County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Greene County, MS",
+                            "year": "2022",
+                            "median_income": 66600,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26650,
+                                   "il50_p3": 30000,
+                                   "il50_p4": 33300,
+                                   "il50_p5": 36000,
+                                   "il50_p6": 38650,
+                                   "il50_p7": 41300,
+                                   "il50_p8": 44000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41300,
+                                   "il30_p8": 44000
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42650,
+                                   "il80_p3": 48000,
+                                   "il80_p4": 53300,
+                                   "il80_p5": 57600,
+                                   "il80_p6": 61850,
+                                   "il80_p7": 66100,
+                                   "il80_p8": 70400
+                            }
+                     }
+              ]
+       }
+}

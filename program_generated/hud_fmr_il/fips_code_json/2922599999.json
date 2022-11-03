@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 502,
+                                   "One-Bedroom": 545,
+                                   "Two-Bedroom": 707,
+                                   "Three-Bedroom": 1029,
+                                   "Four-Bedroom": 1100,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 559,
+                                   "One-Bedroom": 589,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 1105,
+                                   "Four-Bedroom": 1202,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 548,
+                                   "One-Bedroom": 561,
+                                   "Two-Bedroom": 723,
+                                   "Three-Bedroom": 1045,
+                                   "Four-Bedroom": 1168,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 746,
+                                   "Three-Bedroom": 1076,
+                                   "Four-Bedroom": 1219,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 760,
+                                   "Three-Bedroom": 1088,
+                                   "Four-Bedroom": 1241,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 605,
+                                   "Two-Bedroom": 775,
+                                   "Three-Bedroom": 1101,
+                                   "Four-Bedroom": 1246,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 56900,
+                            "very_low": {
+                                   "il50_p1": 19950,
+                                   "il50_p2": 22800,
+                                   "il50_p3": 25650,
+                                   "il50_p4": 28450,
+                                   "il50_p5": 30750,
+                                   "il50_p6": 33050,
+                                   "il50_p7": 35300,
+                                   "il50_p8": 37600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35300,
+                                   "il30_p8": 37600
+                            },
+                            "low": {
+                                   "il80_p1": 31850,
+                                   "il80_p2": 36400,
+                                   "il80_p3": 40950,
+                                   "il80_p4": 45500,
+                                   "il80_p5": 49150,
+                                   "il80_p6": 52800,
+                                   "il80_p7": 56450,
+                                   "il80_p8": 60100
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60000,
+                            "very_low": {
+                                   "il50_p1": 21000,
+                                   "il50_p2": 24000,
+                                   "il50_p3": 27000,
+                                   "il50_p4": 30000,
+                                   "il50_p5": 32400,
+                                   "il50_p6": 34800,
+                                   "il50_p7": 37200,
+                                   "il50_p8": 39600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37200,
+                                   "il30_p8": 39600
+                            },
+                            "low": {
+                                   "il80_p1": 33600,
+                                   "il80_p2": 38400,
+                                   "il80_p3": 43200,
+                                   "il80_p4": 48000,
+                                   "il80_p5": 51850,
+                                   "il80_p6": 55700,
+                                   "il80_p7": 59550,
+                                   "il80_p8": 63400
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 62900,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31450,
+                                   "il50_p5": 34000,
+                                   "il50_p6": 36500,
+                                   "il50_p7": 39000,
+                                   "il50_p8": 41550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39000,
+                                   "il30_p8": 41550
+                            },
+                            "low": {
+                                   "il80_p1": 35250,
+                                   "il80_p2": 40250,
+                                   "il80_p3": 45300,
+                                   "il80_p4": 50300,
+                                   "il80_p5": 54350,
+                                   "il80_p6": 58350,
+                                   "il80_p7": 62400,
+                                   "il80_p8": 66400
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 65300,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO MSA",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 64400,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29000,
+                                   "il50_p4": 32200,
+                                   "il50_p5": 34800,
+                                   "il50_p6": 37400,
+                                   "il50_p7": 39950,
+                                   "il50_p8": 42550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39950,
+                                   "il30_p8": 42550
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51500,
+                                   "il80_p5": 55650,
+                                   "il80_p6": 59750,
+                                   "il80_p7": 63900,
+                                   "il80_p8": 68000
+                            }
+                     },
+                     {
+                            "county_name": "Webster County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Springfield, MO",
+                            "area_name": "Springfield, MO HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 71100,
+                            "very_low": {
+                                   "il50_p1": 24900,
+                                   "il50_p2": 28450,
+                                   "il50_p3": 32000,
+                                   "il50_p4": 35550,
+                                   "il50_p5": 38400,
+                                   "il50_p6": 41250,
+                                   "il50_p7": 44100,
+                                   "il50_p8": 46950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 39850,
+                                   "il80_p2": 45550,
+                                   "il80_p3": 51250,
+                                   "il80_p4": 56900,
+                                   "il80_p5": 61500,
+                                   "il80_p6": 66050,
+                                   "il80_p7": 70600,
+                                   "il80_p8": 75150
+                            }
+                     }
+              ]
+       }
+}

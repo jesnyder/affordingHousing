@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 530,
+                                   "One-Bedroom": 533,
+                                   "Two-Bedroom": 642,
+                                   "Three-Bedroom": 935,
+                                   "Four-Bedroom": 1108,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 569,
+                                   "Two-Bedroom": 683,
+                                   "Three-Bedroom": 993,
+                                   "Four-Bedroom": 1097,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 569,
+                                   "Two-Bedroom": 679,
+                                   "Three-Bedroom": 982,
+                                   "Four-Bedroom": 1193,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 585,
+                                   "One-Bedroom": 588,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 1005,
+                                   "Four-Bedroom": 1221,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 622,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 743,
+                                   "Three-Bedroom": 971,
+                                   "Four-Bedroom": 1286,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 663,
+                                   "One-Bedroom": 677,
+                                   "Two-Bedroom": 795,
+                                   "Three-Bedroom": 1023,
+                                   "Four-Bedroom": 1317,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 56700,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22700,
+                                   "il50_p3": 25550,
+                                   "il50_p4": 28350,
+                                   "il50_p5": 30650,
+                                   "il50_p6": 32900,
+                                   "il50_p7": 35200,
+                                   "il50_p8": 37450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32900,
+                                   "il30_p7": 35200,
+                                   "il30_p8": 37450
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36300,
+                                   "il80_p3": 40850,
+                                   "il80_p4": 45350,
+                                   "il80_p5": 49000,
+                                   "il80_p6": 52650,
+                                   "il80_p7": 56250,
+                                   "il80_p8": 59900
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 58200,
+                            "very_low": {
+                                   "il50_p1": 20400,
+                                   "il50_p2": 23300,
+                                   "il50_p3": 26200,
+                                   "il50_p4": 29100,
+                                   "il50_p5": 31450,
+                                   "il50_p6": 33800,
+                                   "il50_p7": 36100,
+                                   "il50_p8": 38450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 32600,
+                                   "il80_p2": 37250,
+                                   "il80_p3": 41900,
+                                   "il80_p4": 46550,
+                                   "il80_p5": 50300,
+                                   "il80_p6": 54000,
+                                   "il80_p7": 57750,
+                                   "il80_p8": 61450
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 64600,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 32000,
+                                   "il50_p5": 34600,
+                                   "il50_p6": 37150,
+                                   "il50_p7": 39700,
+                                   "il50_p8": 42250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42250
+                            },
+                            "low": {
+                                   "il80_p1": 35850,
+                                   "il80_p2": 41000,
+                                   "il80_p3": 46100,
+                                   "il80_p4": 51200,
+                                   "il80_p5": 55300,
+                                   "il80_p6": 59400,
+                                   "il80_p7": 63500,
+                                   "il80_p8": 67600
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 68000,
+                            "very_low": {
+                                   "il50_p1": 23800,
+                                   "il50_p2": 27200,
+                                   "il50_p3": 30600,
+                                   "il50_p4": 34000,
+                                   "il50_p5": 36750,
+                                   "il50_p6": 39450,
+                                   "il50_p7": 42200,
+                                   "il50_p8": 44900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14300,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38100,
+                                   "il80_p2": 43550,
+                                   "il80_p3": 49000,
+                                   "il80_p4": 54400,
+                                   "il80_p5": 58800,
+                                   "il80_p6": 63150,
+                                   "il80_p7": 67500,
+                                   "il80_p8": 71850
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC MSA",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 64300,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25850,
+                                   "il50_p3": 29100,
+                                   "il50_p4": 32300,
+                                   "il50_p5": 34900,
+                                   "il50_p6": 37500,
+                                   "il50_p7": 40100,
+                                   "il50_p8": 42650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40100,
+                                   "il30_p8": 42650
+                            },
+                            "low": {
+                                   "il80_p1": 36200,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46550,
+                                   "il80_p4": 51700,
+                                   "il80_p5": 55850,
+                                   "il80_p6": 60000,
+                                   "il80_p7": 64150,
+                                   "il80_p8": 68250
+                            }
+                     },
+                     {
+                            "county_name": "Gates County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Virginia Beach-Norfolk-Newport News, VA-NC",
+                            "area_name": "Gates County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 44950
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54500,
+                                   "il80_p5": 58900,
+                                   "il80_p6": 63250,
+                                   "il80_p7": 67600,
+                                   "il80_p8": 71950
+                            }
+                     }
+              ]
+       }
+}

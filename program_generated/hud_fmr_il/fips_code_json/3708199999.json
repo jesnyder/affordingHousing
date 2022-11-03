@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 578,
+                                   "One-Bedroom": 655,
+                                   "Two-Bedroom": 763,
+                                   "Three-Bedroom": 1025,
+                                   "Four-Bedroom": 1228,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 625,
+                                   "One-Bedroom": 692,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1078,
+                                   "Four-Bedroom": 1294,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 612,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 769,
+                                   "Three-Bedroom": 1028,
+                                   "Four-Bedroom": 1201,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 686,
+                                   "One-Bedroom": 728,
+                                   "Two-Bedroom": 838,
+                                   "Three-Bedroom": 1114,
+                                   "Four-Bedroom": 1288,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 722,
+                                   "One-Bedroom": 750,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1135,
+                                   "Four-Bedroom": 1289,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 810,
+                                   "One-Bedroom": 836,
+                                   "Two-Bedroom": 952,
+                                   "Three-Bedroom": 1243,
+                                   "Four-Bedroom": 1424,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 57200,
+                            "very_low": {
+                                   "il50_p1": 20050,
+                                   "il50_p2": 22900,
+                                   "il50_p3": 25750,
+                                   "il50_p4": 28600,
+                                   "il50_p5": 30900,
+                                   "il50_p6": 33200,
+                                   "il50_p7": 35500,
+                                   "il50_p8": 37800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35500,
+                                   "il30_p8": 37800
+                            },
+                            "low": {
+                                   "il80_p1": 32050,
+                                   "il80_p2": 36600,
+                                   "il80_p3": 41200,
+                                   "il80_p4": 45750,
+                                   "il80_p5": 49450,
+                                   "il80_p6": 53100,
+                                   "il80_p7": 56750,
+                                   "il80_p8": 60400
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 60500,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37550,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 61300,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24550,
+                                   "il50_p3": 27600,
+                                   "il50_p4": 30650,
+                                   "il50_p5": 33150,
+                                   "il50_p6": 35600,
+                                   "il50_p7": 38050,
+                                   "il50_p8": 40500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38050,
+                                   "il30_p8": 40500
+                            },
+                            "low": {
+                                   "il80_p1": 34350,
+                                   "il80_p2": 39250,
+                                   "il80_p3": 44150,
+                                   "il80_p4": 49050,
+                                   "il80_p5": 53000,
+                                   "il80_p6": 56900,
+                                   "il80_p7": 60850,
+                                   "il80_p8": 64750
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 66600,
+                            "very_low": {
+                                   "il50_p1": 23150,
+                                   "il50_p2": 26450,
+                                   "il50_p3": 29750,
+                                   "il50_p4": 33050,
+                                   "il50_p5": 35700,
+                                   "il50_p6": 38350,
+                                   "il50_p7": 41000,
+                                   "il50_p8": 43650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13900,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43650
+                            },
+                            "low": {
+                                   "il80_p1": 37050,
+                                   "il80_p2": 42350,
+                                   "il80_p3": 47650,
+                                   "il80_p4": 52900,
+                                   "il80_p5": 57150,
+                                   "il80_p6": 61400,
+                                   "il80_p7": 65600,
+                                   "il80_p8": 69850
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 66700,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26700,
+                                   "il50_p3": 30050,
+                                   "il50_p4": 33350,
+                                   "il50_p5": 36050,
+                                   "il50_p6": 38700,
+                                   "il50_p7": 41400,
+                                   "il50_p8": 44050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44050
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42700,
+                                   "il80_p3": 48050,
+                                   "il80_p4": 53350,
+                                   "il80_p5": 57650,
+                                   "il80_p6": 61900,
+                                   "il80_p7": 66200,
+                                   "il80_p8": 70450
+                            }
+                     },
+                     {
+                            "county_name": "Guilford County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC",
+                            "area_name": "Greensboro-High Point, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 73000,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     }
+              ]
+       }
+}

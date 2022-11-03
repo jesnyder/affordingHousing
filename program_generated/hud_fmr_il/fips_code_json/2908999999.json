@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 464,
+                                   "One-Bedroom": 524,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 1015,
+                                   "Four-Bedroom": 1053,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 454,
+                                   "One-Bedroom": 516,
+                                   "Two-Bedroom": 686,
+                                   "Three-Bedroom": 914,
+                                   "Four-Bedroom": 948,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 475,
+                                   "One-Bedroom": 545,
+                                   "Two-Bedroom": 721,
+                                   "Three-Bedroom": 920,
+                                   "Four-Bedroom": 975,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 523,
+                                   "One-Bedroom": 526,
+                                   "Two-Bedroom": 693,
+                                   "Three-Bedroom": 870,
+                                   "Four-Bedroom": 939,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 524,
+                                   "Two-Bedroom": 691,
+                                   "Three-Bedroom": 904,
+                                   "Four-Bedroom": 937,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, MO",
+                            "area_name": "Howard County, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 516,
+                                   "One-Bedroom": 524,
+                                   "Two-Bedroom": 689,
+                                   "Three-Bedroom": 931,
+                                   "Four-Bedroom": 934,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "year": "2017",
+                            "median_income": 57200,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "year": "2018",
+                            "median_income": 61000,
+                            "very_low": {
+                                   "il50_p1": 21850,
+                                   "il50_p2": 24950,
+                                   "il50_p3": 28050,
+                                   "il50_p4": 31150,
+                                   "il50_p5": 33650,
+                                   "il50_p6": 36150,
+                                   "il50_p7": 38650,
+                                   "il50_p8": 41150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13100,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41150
+                            },
+                            "low": {
+                                   "il80_p1": 34900,
+                                   "il80_p2": 39900,
+                                   "il80_p3": 44900,
+                                   "il80_p4": 49850,
+                                   "il80_p5": 53850,
+                                   "il80_p6": 57850,
+                                   "il80_p7": 61850,
+                                   "il80_p8": 65850
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "year": "2019",
+                            "median_income": 61000,
+                            "very_low": {
+                                   "il50_p1": 21350,
+                                   "il50_p2": 24400,
+                                   "il50_p3": 27450,
+                                   "il50_p4": 30500,
+                                   "il50_p5": 32950,
+                                   "il50_p6": 35400,
+                                   "il50_p7": 37850,
+                                   "il50_p8": 40300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37850,
+                                   "il30_p8": 40300
+                            },
+                            "low": {
+                                   "il80_p1": 34200,
+                                   "il80_p2": 39050,
+                                   "il80_p3": 43950,
+                                   "il80_p4": 48800,
+                                   "il80_p5": 52750,
+                                   "il80_p6": 56650,
+                                   "il80_p7": 60550,
+                                   "il80_p8": 64450
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "year": "2020",
+                            "median_income": 65200,
+                            "very_low": {
+                                   "il50_p1": 22850,
+                                   "il50_p2": 26100,
+                                   "il50_p3": 29350,
+                                   "il50_p4": 32600,
+                                   "il50_p5": 35250,
+                                   "il50_p6": 37850,
+                                   "il50_p7": 40450,
+                                   "il50_p8": 43050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43050
+                            },
+                            "low": {
+                                   "il80_p1": 36550,
+                                   "il80_p2": 41750,
+                                   "il80_p3": 46950,
+                                   "il80_p4": 52150,
+                                   "il80_p5": 56350,
+                                   "il80_p6": 60500,
+                                   "il80_p7": 64700,
+                                   "il80_p8": 68850
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Howard County, MO",
+                            "year": "2021",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39850,
+                                   "il30_p8": 42400
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Howard County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Columbia, MO",
+                            "area_name": "Howard County, MO HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 72400,
+                            "very_low": {
+                                   "il50_p1": 25150,
+                                   "il50_p2": 28750,
+                                   "il50_p3": 32350,
+                                   "il50_p4": 35900,
+                                   "il50_p5": 38800,
+                                   "il50_p6": 41650,
+                                   "il50_p7": 44550,
+                                   "il50_p8": 47400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15100,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40250,
+                                   "il80_p2": 46000,
+                                   "il80_p3": 51750,
+                                   "il80_p4": 57450,
+                                   "il80_p5": 62050,
+                                   "il80_p6": 66650,
+                                   "il80_p7": 71250,
+                                   "il80_p8": 75850
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 606,
+                                   "Two-Bedroom": 801,
+                                   "Three-Bedroom": 1141,
+                                   "Four-Bedroom": 1377,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 566,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 830,
+                                   "Three-Bedroom": 1186,
+                                   "Four-Bedroom": 1423,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 620,
+                                   "Two-Bedroom": 805,
+                                   "Three-Bedroom": 1142,
+                                   "Four-Bedroom": 1381,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 667,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1216,
+                                   "Four-Bedroom": 1483,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 619,
+                                   "One-Bedroom": 675,
+                                   "Two-Bedroom": 876,
+                                   "Three-Bedroom": 1218,
+                                   "Four-Bedroom": 1468,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 689,
+                                   "Two-Bedroom": 888,
+                                   "Three-Bedroom": 1237,
+                                   "Four-Bedroom": 1440,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 72000,
+                            "very_low": {
+                                   "il50_p1": 25200,
+                                   "il50_p2": 28800,
+                                   "il50_p3": 32400,
+                                   "il50_p4": 36000,
+                                   "il50_p5": 38900,
+                                   "il50_p6": 41800,
+                                   "il50_p7": 44650,
+                                   "il50_p8": 47550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15150,
+                                   "il30_p2": 17300,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40350,
+                                   "il80_p2": 46100,
+                                   "il80_p3": 51850,
+                                   "il80_p4": 57600,
+                                   "il80_p5": 62250,
+                                   "il80_p6": 66850,
+                                   "il80_p7": 71450,
+                                   "il80_p8": 76050
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 78400,
+                            "very_low": {
+                                   "il50_p1": 27450,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35300,
+                                   "il50_p4": 39200,
+                                   "il50_p5": 42350,
+                                   "il50_p6": 45500,
+                                   "il50_p7": 48650,
+                                   "il50_p8": 51750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21150,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43900,
+                                   "il80_p2": 50200,
+                                   "il80_p3": 56450,
+                                   "il80_p4": 62700,
+                                   "il80_p5": 67750,
+                                   "il80_p6": 72750,
+                                   "il80_p7": 77750,
+                                   "il80_p8": 82800
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 80400,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36200,
+                                   "il50_p4": 40200,
+                                   "il50_p5": 43450,
+                                   "il50_p6": 46650,
+                                   "il50_p7": 49850,
+                                   "il50_p8": 53100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 21700,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 45050,
+                                   "il80_p2": 51450,
+                                   "il80_p3": 57900,
+                                   "il80_p4": 64300,
+                                   "il80_p5": 69450,
+                                   "il80_p6": 74600,
+                                   "il80_p7": 79750,
+                                   "il80_p8": 84900
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 82100,
+                            "very_low": {
+                                   "il50_p1": 28750,
+                                   "il50_p2": 32850,
+                                   "il50_p3": 36950,
+                                   "il50_p4": 41050,
+                                   "il50_p5": 44350,
+                                   "il50_p6": 47650,
+                                   "il50_p7": 50950,
+                                   "il50_p8": 54200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 22200,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46000,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59150,
+                                   "il80_p4": 65700,
+                                   "il80_p5": 71000,
+                                   "il80_p6": 76250,
+                                   "il80_p7": 81500,
+                                   "il80_p8": 86750
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE MSA",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 82500,
+                            "very_low": {
+                                   "il50_p1": 28900,
+                                   "il50_p2": 33000,
+                                   "il50_p3": 37150,
+                                   "il50_p4": 41250,
+                                   "il50_p5": 44550,
+                                   "il50_p6": 47850,
+                                   "il50_p7": 51150,
+                                   "il50_p8": 54450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17350,
+                                   "il30_p2": 19800,
+                                   "il30_p3": 22300,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 46200,
+                                   "il80_p2": 52800,
+                                   "il80_p3": 59400,
+                                   "il80_p4": 66000,
+                                   "il80_p5": 71300,
+                                   "il80_p6": 76600,
+                                   "il80_p7": 81850,
+                                   "il80_p8": 87150
+                            }
+                     },
+                     {
+                            "county_name": "Lancaster County, NE",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Lincoln, NE",
+                            "area_name": "Lincoln, NE HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 90600,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36250,
+                                   "il50_p3": 40800,
+                                   "il50_p4": 45300,
+                                   "il50_p5": 48950,
+                                   "il50_p6": 52550,
+                                   "il50_p7": 56200,
+                                   "il50_p8": 59800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50750,
+                                   "il80_p2": 58000,
+                                   "il80_p3": 65250,
+                                   "il80_p4": 72500,
+                                   "il80_p5": 78300,
+                                   "il80_p6": 84100,
+                                   "il80_p7": 89900,
+                                   "il80_p8": 95700
+                            }
+                     }
+              ]
+       }
+}

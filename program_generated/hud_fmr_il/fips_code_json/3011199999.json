@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 646,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1202,
+                                   "Four-Bedroom": 1413,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 597,
+                                   "One-Bedroom": 708,
+                                   "Two-Bedroom": 936,
+                                   "Three-Bedroom": 1308,
+                                   "Four-Bedroom": 1594,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 578,
+                                   "One-Bedroom": 680,
+                                   "Two-Bedroom": 900,
+                                   "Three-Bedroom": 1262,
+                                   "Four-Bedroom": 1547,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 675,
+                                   "Two-Bedroom": 889,
+                                   "Three-Bedroom": 1250,
+                                   "Four-Bedroom": 1514,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 725,
+                                   "Two-Bedroom": 956,
+                                   "Three-Bedroom": 1321,
+                                   "Four-Bedroom": 1570,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 730,
+                                   "Two-Bedroom": 960,
+                                   "Three-Bedroom": 1315,
+                                   "Four-Bedroom": 1543,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 67700,
+                            "very_low": {
+                                   "il50_p1": 23700,
+                                   "il50_p2": 27100,
+                                   "il50_p3": 30500,
+                                   "il50_p4": 33850,
+                                   "il50_p5": 36600,
+                                   "il50_p6": 39300,
+                                   "il50_p7": 42000,
+                                   "il50_p8": 44700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14250,
+                                   "il30_p2": 16250,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 37950,
+                                   "il80_p2": 43350,
+                                   "il80_p3": 48750,
+                                   "il80_p4": 54150,
+                                   "il80_p5": 58500,
+                                   "il80_p6": 62850,
+                                   "il80_p7": 67150,
+                                   "il80_p8": 71500
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 71200,
+                            "very_low": {
+                                   "il50_p1": 24950,
+                                   "il50_p2": 28500,
+                                   "il50_p3": 32050,
+                                   "il50_p4": 35600,
+                                   "il50_p5": 38450,
+                                   "il50_p6": 41300,
+                                   "il50_p7": 44150,
+                                   "il50_p8": 47000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17100,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39900,
+                                   "il80_p2": 45600,
+                                   "il80_p3": 51300,
+                                   "il80_p4": 56950,
+                                   "il80_p5": 61550,
+                                   "il80_p6": 66100,
+                                   "il80_p7": 70650,
+                                   "il80_p8": 75200
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 79200,
+                            "very_low": {
+                                   "il50_p1": 27450,
+                                   "il50_p2": 31350,
+                                   "il50_p3": 35250,
+                                   "il50_p4": 39150,
+                                   "il50_p5": 42300,
+                                   "il50_p6": 45450,
+                                   "il50_p7": 48550,
+                                   "il50_p8": 51700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 43900,
+                                   "il80_p2": 50150,
+                                   "il80_p3": 56400,
+                                   "il80_p4": 62650,
+                                   "il80_p5": 67700,
+                                   "il80_p6": 72700,
+                                   "il80_p7": 77700,
+                                   "il80_p8": 82700
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 76600,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30650,
+                                   "il50_p3": 34500,
+                                   "il50_p4": 38300,
+                                   "il50_p5": 41400,
+                                   "il50_p6": 44450,
+                                   "il50_p7": 47500,
+                                   "il50_p8": 50600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49050,
+                                   "il80_p3": 55200,
+                                   "il80_p4": 61300,
+                                   "il80_p5": 66250,
+                                   "il80_p6": 71150,
+                                   "il80_p7": 76050,
+                                   "il80_p8": 80950
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT MSA",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Yellowstone County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Billings, MT",
+                            "area_name": "Billings, MT HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 84600,
+                            "very_low": {
+                                   "il50_p1": 29650,
+                                   "il50_p2": 33850,
+                                   "il50_p3": 38100,
+                                   "il50_p4": 42300,
+                                   "il50_p5": 45700,
+                                   "il50_p6": 49100,
+                                   "il50_p7": 52500,
+                                   "il50_p8": 55850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17800,
+                                   "il30_p2": 20350,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47400,
+                                   "il80_p2": 54200,
+                                   "il80_p3": 60950,
+                                   "il80_p4": 67700,
+                                   "il80_p5": 73150,
+                                   "il80_p6": 78550,
+                                   "il80_p7": 83950,
+                                   "il80_p8": 89400
+                            }
+                     }
+              ]
+       }
+}

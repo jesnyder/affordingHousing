@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 432,
+                                   "One-Bedroom": 517,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 935,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 445,
+                                   "One-Bedroom": 525,
+                                   "Two-Bedroom": 697,
+                                   "Three-Bedroom": 946,
+                                   "Four-Bedroom": 949,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 450,
+                                   "One-Bedroom": 529,
+                                   "Two-Bedroom": 700,
+                                   "Three-Bedroom": 954,
+                                   "Four-Bedroom": 957,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 469,
+                                   "One-Bedroom": 542,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 989,
+                                   "Four-Bedroom": 1004,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 553,
+                                   "One-Bedroom": 557,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 1016,
+                                   "Four-Bedroom": 1054,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 618,
+                                   "Two-Bedroom": 813,
+                                   "Three-Bedroom": 1112,
+                                   "Four-Bedroom": 1194,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 23850,
+                                   "il50_p2": 27250,
+                                   "il50_p3": 30650,
+                                   "il50_p4": 34050,
+                                   "il50_p5": 36800,
+                                   "il50_p6": 39500,
+                                   "il50_p7": 42250,
+                                   "il50_p8": 44950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16400,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38150,
+                                   "il80_p2": 43600,
+                                   "il80_p3": 49050,
+                                   "il80_p4": 54500,
+                                   "il80_p5": 58900,
+                                   "il80_p6": 63250,
+                                   "il80_p7": 67600,
+                                   "il80_p8": 71950
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 70100,
+                            "very_low": {
+                                   "il50_p1": 24550,
+                                   "il50_p2": 28050,
+                                   "il50_p3": 31550,
+                                   "il50_p4": 35050,
+                                   "il50_p5": 37900,
+                                   "il50_p6": 40700,
+                                   "il50_p7": 43500,
+                                   "il50_p8": 46300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14750,
+                                   "il30_p2": 16850,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39300,
+                                   "il80_p2": 44900,
+                                   "il80_p3": 50500,
+                                   "il80_p4": 56100,
+                                   "il80_p5": 60600,
+                                   "il80_p6": 65100,
+                                   "il80_p7": 69600,
+                                   "il80_p8": 74100
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73500,
+                            "very_low": {
+                                   "il50_p1": 25750,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33100,
+                                   "il50_p4": 36750,
+                                   "il50_p5": 39700,
+                                   "il50_p6": 42650,
+                                   "il50_p7": 45600,
+                                   "il50_p8": 48550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15450,
+                                   "il30_p2": 17650,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41200,
+                                   "il80_p2": 47050,
+                                   "il80_p3": 52950,
+                                   "il80_p4": 58800,
+                                   "il80_p5": 63550,
+                                   "il80_p6": 68250,
+                                   "il80_p7": 72950,
+                                   "il80_p8": 77650
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 75900,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 37950,
+                                   "il50_p5": 41000,
+                                   "il50_p6": 44050,
+                                   "il50_p7": 47100,
+                                   "il50_p8": 50100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15950,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42500,
+                                   "il80_p2": 48600,
+                                   "il80_p3": 54650,
+                                   "il80_p4": 60700,
+                                   "il80_p5": 65600,
+                                   "il80_p6": 70450,
+                                   "il80_p7": 75300,
+                                   "il80_p8": 80150
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 78000,
+                            "very_low": {
+                                   "il50_p1": 27300,
+                                   "il50_p2": 31200,
+                                   "il50_p3": 35100,
+                                   "il50_p4": 39000,
+                                   "il50_p5": 42150,
+                                   "il50_p6": 45250,
+                                   "il50_p7": 48400,
+                                   "il50_p8": 51500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16400,
+                                   "il30_p2": 18750,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43700,
+                                   "il80_p2": 49950,
+                                   "il80_p3": 56200,
+                                   "il80_p4": 62400,
+                                   "il80_p5": 67400,
+                                   "il80_p6": 72400,
+                                   "il80_p7": 77400,
+                                   "il80_p8": 82400
+                            }
+                     },
+                     {
+                            "county_name": "Fillmore County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN",
+                            "area_name": "Fillmore County, MN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 86800,
+                            "very_low": {
+                                   "il50_p1": 30400,
+                                   "il50_p2": 34750,
+                                   "il50_p3": 39100,
+                                   "il50_p4": 43400,
+                                   "il50_p5": 46900,
+                                   "il50_p6": 50350,
+                                   "il50_p7": 53850,
+                                   "il50_p8": 57300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18250,
+                                   "il30_p2": 20850,
+                                   "il30_p3": 23450,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48650,
+                                   "il80_p2": 55600,
+                                   "il80_p3": 62550,
+                                   "il80_p4": 69450,
+                                   "il80_p5": 75050,
+                                   "il80_p6": 80600,
+                                   "il80_p7": 86150,
+                                   "il80_p8": 91700
+                            }
+                     }
+              ]
+       }
+}

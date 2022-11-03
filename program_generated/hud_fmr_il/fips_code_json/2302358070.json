@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 588,
+                                   "One-Bedroom": 720,
+                                   "Two-Bedroom": 831,
+                                   "Three-Bedroom": 1129,
+                                   "Four-Bedroom": 1246,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 657,
+                                   "One-Bedroom": 789,
+                                   "Two-Bedroom": 906,
+                                   "Three-Bedroom": 1219,
+                                   "Four-Bedroom": 1243,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 719,
+                                   "One-Bedroom": 832,
+                                   "Two-Bedroom": 978,
+                                   "Three-Bedroom": 1295,
+                                   "Four-Bedroom": 1322,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 648,
+                                   "One-Bedroom": 798,
+                                   "Two-Bedroom": 961,
+                                   "Three-Bedroom": 1258,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 717,
+                                   "One-Bedroom": 892,
+                                   "Two-Bedroom": 1086,
+                                   "Three-Bedroom": 1432,
+                                   "Four-Bedroom": 1615,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 744,
+                                   "One-Bedroom": 911,
+                                   "Two-Bedroom": 1120,
+                                   "Three-Bedroom": 1472,
+                                   "Four-Bedroom": 1709,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 70500,
+                            "very_low": {
+                                   "il50_p1": 24700,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31750,
+                                   "il50_p4": 35250,
+                                   "il50_p5": 38100,
+                                   "il50_p6": 40900,
+                                   "il50_p7": 43750,
+                                   "il50_p8": 46550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14850,
+                                   "il30_p2": 16950,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 39500,
+                                   "il80_p2": 45150,
+                                   "il80_p3": 50800,
+                                   "il80_p4": 56400,
+                                   "il80_p5": 60950,
+                                   "il80_p6": 65450,
+                                   "il80_p7": 69950,
+                                   "il80_p8": 74450
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 70800,
+                            "very_low": {
+                                   "il50_p1": 24800,
+                                   "il50_p2": 28350,
+                                   "il50_p3": 31900,
+                                   "il50_p4": 35400,
+                                   "il50_p5": 38250,
+                                   "il50_p6": 41100,
+                                   "il50_p7": 43900,
+                                   "il50_p8": 46750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14900,
+                                   "il30_p2": 17000,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 39700,
+                                   "il80_p2": 45350,
+                                   "il80_p3": 51000,
+                                   "il80_p4": 56650,
+                                   "il80_p5": 61200,
+                                   "il80_p6": 65750,
+                                   "il80_p7": 70250,
+                                   "il80_p8": 74800
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 73900,
+                            "very_low": {
+                                   "il50_p1": 25900,
+                                   "il50_p2": 29600,
+                                   "il50_p3": 33300,
+                                   "il50_p4": 36950,
+                                   "il50_p5": 39950,
+                                   "il50_p6": 42900,
+                                   "il50_p7": 45850,
+                                   "il50_p8": 48800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15550,
+                                   "il30_p2": 17750,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41400,
+                                   "il80_p2": 47300,
+                                   "il80_p3": 53200,
+                                   "il80_p4": 59100,
+                                   "il80_p5": 63850,
+                                   "il80_p6": 68600,
+                                   "il80_p7": 73300,
+                                   "il80_p8": 78050
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 78500,
+                            "very_low": {
+                                   "il50_p1": 27500,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35350,
+                                   "il50_p4": 39250,
+                                   "il50_p5": 42400,
+                                   "il50_p6": 45550,
+                                   "il50_p7": 48700,
+                                   "il50_p8": 51850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16500,
+                                   "il30_p2": 18850,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44000,
+                                   "il80_p2": 50250,
+                                   "il80_p3": 56550,
+                                   "il80_p4": 62800,
+                                   "il80_p5": 67850,
+                                   "il80_p6": 72850,
+                                   "il80_p7": 77900,
+                                   "il80_p8": 82900
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 78300,
+                            "very_low": {
+                                   "il50_p1": 27450,
+                                   "il50_p2": 31350,
+                                   "il50_p3": 35250,
+                                   "il50_p4": 39150,
+                                   "il50_p5": 42300,
+                                   "il50_p6": 45450,
+                                   "il50_p7": 48550,
+                                   "il50_p8": 51700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 43900,
+                                   "il80_p2": 50150,
+                                   "il80_p3": 56400,
+                                   "il80_p4": 62650,
+                                   "il80_p5": 67700,
+                                   "il80_p6": 72700,
+                                   "il80_p7": 77700,
+                                   "il80_p8": 82700
+                            }
+                     },
+                     {
+                            "county_name": "Sagadahoc County, ME",
+                            "counties_msa": "",
+                            "town_name": "Perkins UT",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME",
+                            "area_name": "Sagadahoc County, ME HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 87400,
+                            "very_low": {
+                                   "il50_p1": 30600,
+                                   "il50_p2": 35000,
+                                   "il50_p3": 39350,
+                                   "il50_p4": 43700,
+                                   "il50_p5": 47200,
+                                   "il50_p6": 50700,
+                                   "il50_p7": 54200,
+                                   "il50_p8": 57700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 21000,
+                                   "il30_p3": 23600,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48950,
+                                   "il80_p2": 55950,
+                                   "il80_p3": 62950,
+                                   "il80_p4": 69900,
+                                   "il80_p5": 75500,
+                                   "il80_p6": 81100,
+                                   "il80_p7": 86700,
+                                   "il80_p8": 92300
+                            }
+                     }
+              ]
+       }
+}

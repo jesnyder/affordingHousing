@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 642,
+                                   "Two-Bedroom": 853,
+                                   "Three-Bedroom": 1067,
+                                   "Four-Bedroom": 1420,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 575,
+                                   "One-Bedroom": 677,
+                                   "Two-Bedroom": 901,
+                                   "Three-Bedroom": 1133,
+                                   "Four-Bedroom": 1494,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 652,
+                                   "Two-Bedroom": 863,
+                                   "Three-Bedroom": 1121,
+                                   "Four-Bedroom": 1425,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 694,
+                                   "One-Bedroom": 727,
+                                   "Two-Bedroom": 957,
+                                   "Three-Bedroom": 1308,
+                                   "Four-Bedroom": 1519,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 745,
+                                   "One-Bedroom": 750,
+                                   "Two-Bedroom": 989,
+                                   "Three-Bedroom": 1371,
+                                   "Four-Bedroom": 1493,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 723,
+                                   "One-Bedroom": 727,
+                                   "Two-Bedroom": 957,
+                                   "Three-Bedroom": 1317,
+                                   "Four-Bedroom": 1395,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "year": "2017",
+                            "median_income": 60000,
+                            "very_low": {
+                                   "il50_p1": 21200,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27250,
+                                   "il50_p4": 30250,
+                                   "il50_p5": 32700,
+                                   "il50_p6": 35100,
+                                   "il50_p7": 37550,
+                                   "il50_p8": 39950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39950
+                            },
+                            "low": {
+                                   "il80_p1": 33900,
+                                   "il80_p2": 38750,
+                                   "il80_p3": 43600,
+                                   "il80_p4": 48400,
+                                   "il80_p5": 52300,
+                                   "il80_p6": 56150,
+                                   "il80_p7": 60050,
+                                   "il80_p8": 63900
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "year": "2018",
+                            "median_income": 65400,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26700,
+                                   "il50_p3": 30050,
+                                   "il50_p4": 33350,
+                                   "il50_p5": 36050,
+                                   "il50_p6": 38700,
+                                   "il50_p7": 41400,
+                                   "il50_p8": 44050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42700,
+                                   "il80_p3": 48050,
+                                   "il80_p4": 53350,
+                                   "il80_p5": 57650,
+                                   "il80_p6": 61900,
+                                   "il80_p7": 66200,
+                                   "il80_p8": 70450
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "year": "2019",
+                            "median_income": 66800,
+                            "very_low": {
+                                   "il50_p1": 24050,
+                                   "il50_p2": 27500,
+                                   "il50_p3": 30950,
+                                   "il50_p4": 34350,
+                                   "il50_p5": 37100,
+                                   "il50_p6": 39850,
+                                   "il50_p7": 42600,
+                                   "il50_p8": 45350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14450,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 38500,
+                                   "il80_p2": 44000,
+                                   "il80_p3": 49500,
+                                   "il80_p4": 54950,
+                                   "il80_p5": 59350,
+                                   "il80_p6": 63750,
+                                   "il80_p7": 68150,
+                                   "il80_p8": 72550
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "year": "2020",
+                            "median_income": 71000,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32150,
+                                   "il50_p4": 35700,
+                                   "il50_p5": 38600,
+                                   "il50_p6": 41450,
+                                   "il50_p7": 44300,
+                                   "il50_p8": 47150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40000,
+                                   "il80_p2": 45700,
+                                   "il80_p3": 51400,
+                                   "il80_p4": 57100,
+                                   "il80_p5": 61700,
+                                   "il80_p6": 66250,
+                                   "il80_p7": 70850,
+                                   "il80_p8": 75400
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "year": "2021",
+                            "median_income": 74700,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29900,
+                                   "il50_p3": 33650,
+                                   "il50_p4": 37350,
+                                   "il50_p5": 40350,
+                                   "il50_p6": 43350,
+                                   "il50_p7": 46350,
+                                   "il50_p8": 49350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 41850,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53800,
+                                   "il80_p4": 59750,
+                                   "il80_p5": 64550,
+                                   "il80_p6": 69350,
+                                   "il80_p7": 74100,
+                                   "il80_p8": 78900
+                            }
+                     },
+                     {
+                            "county_name": "Park County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Park County, MT",
+                            "year": "2022",
+                            "median_income": 82700,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33100,
+                                   "il50_p3": 37250,
+                                   "il50_p4": 41350,
+                                   "il50_p5": 44700,
+                                   "il50_p6": 48000,
+                                   "il50_p7": 51300,
+                                   "il50_p8": 54600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46350,
+                                   "il80_p2": 52950,
+                                   "il80_p3": 59550,
+                                   "il80_p4": 66150,
+                                   "il80_p5": 71450,
+                                   "il80_p6": 76750,
+                                   "il80_p7": 82050,
+                                   "il80_p8": 87350
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 607,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 843,
+                                   "Three-Bedroom": 1055,
+                                   "Four-Bedroom": 1403,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 638,
+                                   "One-Bedroom": 679,
+                                   "Two-Bedroom": 903,
+                                   "Three-Bedroom": 1132,
+                                   "Four-Bedroom": 1497,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 583,
+                                   "One-Bedroom": 634,
+                                   "Two-Bedroom": 838,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1404,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 695,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1140,
+                                   "Four-Bedroom": 1492,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 637,
+                                   "One-Bedroom": 690,
+                                   "Two-Bedroom": 910,
+                                   "Three-Bedroom": 1132,
+                                   "Four-Bedroom": 1466,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 664,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1152,
+                                   "Four-Bedroom": 1381,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "year": "2017",
+                            "median_income": 77200,
+                            "very_low": {
+                                   "il50_p1": 27050,
+                                   "il50_p2": 30900,
+                                   "il50_p3": 34750,
+                                   "il50_p4": 38600,
+                                   "il50_p5": 41700,
+                                   "il50_p6": 44800,
+                                   "il50_p7": 47900,
+                                   "il50_p8": 51000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18550,
+                                   "il30_p3": 20850,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 43250,
+                                   "il80_p2": 49400,
+                                   "il80_p3": 55600,
+                                   "il80_p4": 61750,
+                                   "il80_p5": 66700,
+                                   "il80_p6": 71650,
+                                   "il80_p7": 76600,
+                                   "il80_p8": 81550
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "year": "2018",
+                            "median_income": 77100,
+                            "very_low": {
+                                   "il50_p1": 27000,
+                                   "il50_p2": 30850,
+                                   "il50_p3": 34700,
+                                   "il50_p4": 38550,
+                                   "il50_p5": 41650,
+                                   "il50_p6": 44750,
+                                   "il50_p7": 47850,
+                                   "il50_p8": 50900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16250,
+                                   "il30_p2": 18550,
+                                   "il30_p3": 20850,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43200,
+                                   "il80_p2": 49400,
+                                   "il80_p3": 55550,
+                                   "il80_p4": 61700,
+                                   "il80_p5": 66650,
+                                   "il80_p6": 71600,
+                                   "il80_p7": 76550,
+                                   "il80_p8": 81450
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "year": "2019",
+                            "median_income": 79500,
+                            "very_low": {
+                                   "il50_p1": 27850,
+                                   "il50_p2": 31800,
+                                   "il50_p3": 35800,
+                                   "il50_p4": 39750,
+                                   "il50_p5": 42950,
+                                   "il50_p6": 46150,
+                                   "il50_p7": 49300,
+                                   "il50_p8": 52500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16700,
+                                   "il30_p2": 19100,
+                                   "il30_p3": 21500,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44550,
+                                   "il80_p2": 50900,
+                                   "il80_p3": 57250,
+                                   "il80_p4": 63600,
+                                   "il80_p5": 68700,
+                                   "il80_p6": 73800,
+                                   "il80_p7": 78900,
+                                   "il80_p8": 84000
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "year": "2020",
+                            "median_income": 82800,
+                            "very_low": {
+                                   "il50_p1": 29000,
+                                   "il50_p2": 33150,
+                                   "il50_p3": 37300,
+                                   "il50_p4": 41400,
+                                   "il50_p5": 44750,
+                                   "il50_p6": 48050,
+                                   "il50_p7": 51350,
+                                   "il50_p8": 54650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 22400,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46400,
+                                   "il80_p2": 53000,
+                                   "il80_p3": 59650,
+                                   "il80_p4": 66250,
+                                   "il80_p5": 71550,
+                                   "il80_p6": 76850,
+                                   "il80_p7": 82150,
+                                   "il80_p8": 87450
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "year": "2021",
+                            "median_income": 84200,
+                            "very_low": {
+                                   "il50_p1": 29500,
+                                   "il50_p2": 33700,
+                                   "il50_p3": 37900,
+                                   "il50_p4": 42100,
+                                   "il50_p5": 45500,
+                                   "il50_p6": 48850,
+                                   "il50_p7": 52250,
+                                   "il50_p8": 55600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53900,
+                                   "il80_p3": 60650,
+                                   "il80_p4": 67350,
+                                   "il80_p5": 72750,
+                                   "il80_p6": 78150,
+                                   "il80_p7": 83550,
+                                   "il80_p8": 88950
+                            }
+                     },
+                     {
+                            "county_name": "Jefferson County, MT",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Jefferson County, MT",
+                            "year": "2022",
+                            "median_income": 90600,
+                            "very_low": {
+                                   "il50_p1": 31750,
+                                   "il50_p2": 36250,
+                                   "il50_p3": 40800,
+                                   "il50_p4": 45300,
+                                   "il50_p5": 48950,
+                                   "il50_p6": 52550,
+                                   "il50_p7": 56200,
+                                   "il50_p8": 59800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24500,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 50750,
+                                   "il80_p2": 58000,
+                                   "il80_p3": 65250,
+                                   "il80_p4": 72500,
+                                   "il80_p5": 78300,
+                                   "il80_p6": 84100,
+                                   "il80_p7": 89900,
+                                   "il80_p8": 95700
+                            }
+                     }
+              ]
+       }
+}

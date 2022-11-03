@@ -25,17 +25,186 @@ def analyze_dataset():
     analyze dataset
     """
 
-    tasks = []
+    tasks = [0, 1, 2, 3, 4, 5, 6]
 
     # json fids fmr and il
     if 0 not in tasks: json_fids()
     if 1 not in tasks: list_slopes()
     if 2 not in tasks: make_chartjs()
-    if 3 not in tasks: make_scatter()
+    #if 3 not in tasks: make_scatter()
     if 4 not in tasks: template_html()
+
+    if 5 not in tasks: compile_values()
+    if 6 not in tasks: summarize_values()
+    if 7 not in tasks: write_geojson()
     #analyze_hud_fmr()
     #template_html()
 
+
+def compile_values():
+    """
+    save all values in a df = summary.csv
+    """
+
+    df = pd.DataFrame()
+
+    for fid in retrieve_json(retrieve_path('fids_json'))['fids']:
+
+        df_temp = pd.DataFrame()
+        df_temp['fid_code'] = [str(fid['desc']['fid_code']).zfill(10)]
+
+        years = fid['data']['year']
+
+        for key in fid['data']:
+
+            if key == 'slope':
+
+                col_name = str(key)
+                value = fid['data'][key]
+                df_temp[col_name] = [value]
+
+            else:
+
+                for i in range(len(years)):
+
+                    year = years[i]
+                    col_name = str(key + '_' + str(year))
+                    value = fid['data'][key][i]
+                    df_temp[col_name] = [value]
+
+        df = df.append(df_temp)
+        df.to_csv(retrieve_path('all_data_df'))
+
+
+def summarize_values():
+    """
+    save a summary
+    """
+
+    df = retrieve_df('all_data_df')
+    df_sum = pd.DataFrame()
+
+    for col_name in df.columns:
+
+        if 'fid_code' in str(col_name): continue
+        if 'year' in str(col_name): continue
+
+        print('list(df[col_name]) = ')
+        print(list(df[col_name]))
+
+        df_temp = pd.DataFrame()
+        df_temp['name'] = [col_name]
+        df_temp['min'] =  [min(list(df[col_name]))]
+        df_temp['max'] =  [max(list(df[col_name]))]
+        df_temp['avg'] =  [sum(list(df[col_name]))/len(list(df[col_name]))]
+        df_temp['len'] =  [len(list(df[col_name]))]
+
+        df_sum = df_sum.append(df_temp)
+        df_sum.to_csv(retrieve_path('summary_df'))
+
+
+def write_geojson():
+    """
+    coregister geojson defining us counties with cdc data
+    use CountyFIDs to match cdc data to counties
+    assign a value and color to each county
+    save as a .js file defining a variable
+    """
+
+    # read in geojson for each county
+    f = open(retrieve_path('geojson_counties_src'), encoding='latin-1')
+    us_counties_ref = json.load(f)
+    f.close()
+
+    #print('us_counties = ')
+    #print(len(us_counties['features']))
+
+    # establish json variable
+    #geojson_hud = us_counties_ref
+    features = []
+    geojson_hud = {'item_count': 0, 'type': 'FeatureCollection',}
+    geojson_hud['features'] = []
+
+    for county in us_counties_ref['features']:
+
+        #print('county = ')
+        #print(county)
+
+        county_code = str(county['properties']['STATE']).zfill(2) + str(county['properties']['COUNTY']).zfill(3)
+
+        print('county_code = ' + str(county_code))
+
+        for fid in retrieve_json(retrieve_path('fids_json'))['fids']:
+
+            # find unique identifier
+            fid_code = fid['desc']['fid_code']
+            fid_code = str(fid_code[0:5]).zfill(5)
+            #print('fid_code = ' + str(fid_code))
+
+            if str(fid_code) != str(county_code): continue
+
+            print('fid_code = ' + str(fid_code))
+
+            feature = county
+            feature['properties']['Income Level'] = fid['data']['il'][-1]
+            feature['properties']['FMR'] = fid['data']['fmr'][-1]
+            feature['properties']['ratio'] = fid['data']['ratio'][-1]
+            feature['properties']['slope'] = fid['data']['slope']
+            feature['properties']['color'] = calculate_rgb_color(fid['data']['slope'], 'slope')
+
+            if feature in features: continue
+            features.append(feature)
+            geojson_hud['item_count'] = len(features)
+            geojson_hud['features'] = features
+
+            with open(retrieve_path('geojson_hud_county'), "w") as f:
+                f.write('var ' + 'geojson_hud_county' + ' = ' )
+                json.dump(geojson_hud, f, indent = 4)
+                f.write('\n')
+                f.write(';')
+            f.close()
+
+            #save_json(geojson_hud, 'geojson_hud_county')
+            continue
+
+
+def calculate_rgb_color(value, type):
+    """
+    return a json readable rgb value as a string
+    """
+
+
+    df = retrieve_df('summary_df')
+    name = type
+    df = df[df['name'] == name]
+
+    value_max = float(list(df['max'])[0])
+    value_min = float(list(df['min'])[0])
+    value_avg = float(list(df['avg'])[0])
+
+    inc = (value_max - value)/(value_max - value_min)
+
+    if inc > 1: inc = 1
+    if inc < 0: inc = 0
+
+    assert inc >= 0 and inc <= 1
+    inc = 255*inc
+
+    mods = [0, 1, 0.5]
+    if type == 'Arthritis-Crude Prevalence':
+        mods = [0, 1, 0.75]
+
+    if value > value_avg: mods = [1, 0, 1]
+    if value <= value_avg: mods = [0, 1, 0]
+
+    # determine the rgb values
+    r = int(255 - inc*mods[0])
+    g = int(255 - inc*mods[1])
+    b = int(255 - inc*mods[2])
+
+    color_str = str('rgb( ' + str(r) + ' , ' +  str(g) + ' , ' + str(b) + ' )')
+    #print('color_str = ' + str(color_str))
+    return(color_str)
 
 
 def make_scatter():

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 498,
+                                   "One-Bedroom": 547,
+                                   "Two-Bedroom": 712,
+                                   "Three-Bedroom": 902,
+                                   "Four-Bedroom": 1114,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 519,
+                                   "One-Bedroom": 576,
+                                   "Two-Bedroom": 739,
+                                   "Three-Bedroom": 953,
+                                   "Four-Bedroom": 1105,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 531,
+                                   "One-Bedroom": 591,
+                                   "Two-Bedroom": 761,
+                                   "Three-Bedroom": 1005,
+                                   "Four-Bedroom": 1099,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 555,
+                                   "One-Bedroom": 610,
+                                   "Two-Bedroom": 797,
+                                   "Three-Bedroom": 1064,
+                                   "Four-Bedroom": 1142,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 539,
+                                   "One-Bedroom": 620,
+                                   "Two-Bedroom": 817,
+                                   "Three-Bedroom": 1096,
+                                   "Four-Bedroom": 1169,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 547,
+                                   "One-Bedroom": 626,
+                                   "Two-Bedroom": 824,
+                                   "Three-Bedroom": 1088,
+                                   "Four-Bedroom": 1171,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "year": "2017",
+                            "median_income": 61500,
+                            "very_low": {
+                                   "il50_p1": 21550,
+                                   "il50_p2": 24600,
+                                   "il50_p3": 27700,
+                                   "il50_p4": 30750,
+                                   "il50_p5": 33250,
+                                   "il50_p6": 35700,
+                                   "il50_p7": 38150,
+                                   "il50_p8": 40600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12950,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40600
+                            },
+                            "low": {
+                                   "il80_p1": 34450,
+                                   "il80_p2": 39400,
+                                   "il80_p3": 44300,
+                                   "il80_p4": 49200,
+                                   "il80_p5": 53150,
+                                   "il80_p6": 57100,
+                                   "il80_p7": 61050,
+                                   "il80_p8": 64950
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "year": "2018",
+                            "median_income": 64300,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25750,
+                                   "il50_p3": 28950,
+                                   "il50_p4": 32150,
+                                   "il50_p5": 34750,
+                                   "il50_p6": 37300,
+                                   "il50_p7": 39900,
+                                   "il50_p8": 42450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51450,
+                                   "il80_p5": 55600,
+                                   "il80_p6": 59700,
+                                   "il80_p7": 63800,
+                                   "il80_p8": 67950
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "year": "2019",
+                            "median_income": 64300,
+                            "very_low": {
+                                   "il50_p1": 22550,
+                                   "il50_p2": 25750,
+                                   "il50_p3": 28950,
+                                   "il50_p4": 32150,
+                                   "il50_p5": 34750,
+                                   "il50_p6": 37300,
+                                   "il50_p7": 39900,
+                                   "il50_p8": 42450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42450
+                            },
+                            "low": {
+                                   "il80_p1": 36050,
+                                   "il80_p2": 41200,
+                                   "il80_p3": 46350,
+                                   "il80_p4": 51450,
+                                   "il80_p5": 55600,
+                                   "il80_p6": 59700,
+                                   "il80_p7": 63800,
+                                   "il80_p8": 67950
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "year": "2020",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39450,
+                                   "il30_p8": 42000
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS MSA",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "year": "2021",
+                            "median_income": 67800,
+                            "very_low": {
+                                   "il50_p1": 23350,
+                                   "il50_p2": 26700,
+                                   "il50_p3": 30050,
+                                   "il50_p4": 33350,
+                                   "il50_p5": 36050,
+                                   "il50_p6": 38700,
+                                   "il50_p7": 41400,
+                                   "il50_p8": 44050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44050
+                            },
+                            "low": {
+                                   "il80_p1": 37350,
+                                   "il80_p2": 42700,
+                                   "il80_p3": 48050,
+                                   "il80_p4": 53350,
+                                   "il80_p5": 57650,
+                                   "il80_p6": 61900,
+                                   "il80_p7": 66200,
+                                   "il80_p8": 70450
+                            }
+                     },
+                     {
+                            "county_name": "Buchanan County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "St. Joseph, MO-KS",
+                            "area_name": "St. Joseph, MO-KS MSA",
+                            "year": "2022",
+                            "median_income": 73000,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36500,
+                                   "il50_p5": 39450,
+                                   "il50_p6": 42350,
+                                   "il50_p7": 45300,
+                                   "il50_p8": 48200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15350,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40900,
+                                   "il80_p2": 46750,
+                                   "il80_p3": 52600,
+                                   "il80_p4": 58400,
+                                   "il80_p5": 63100,
+                                   "il80_p6": 67750,
+                                   "il80_p7": 72450,
+                                   "il80_p8": 77100
+                            }
+                     }
+              ]
+       }
+}

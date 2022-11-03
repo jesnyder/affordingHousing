@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 881,
+                                   "Three-Bedroom": 1136,
+                                   "Four-Bedroom": 1316,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 571,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 882,
+                                   "Three-Bedroom": 1139,
+                                   "Four-Bedroom": 1256,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 576,
+                                   "One-Bedroom": 674,
+                                   "Two-Bedroom": 891,
+                                   "Three-Bedroom": 1178,
+                                   "Four-Bedroom": 1216,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 603,
+                                   "One-Bedroom": 701,
+                                   "Two-Bedroom": 923,
+                                   "Three-Bedroom": 1270,
+                                   "Four-Bedroom": 1293,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 686,
+                                   "Two-Bedroom": 904,
+                                   "Three-Bedroom": 1242,
+                                   "Four-Bedroom": 1307,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 690,
+                                   "One-Bedroom": 749,
+                                   "Two-Bedroom": 986,
+                                   "Three-Bedroom": 1337,
+                                   "Four-Bedroom": 1493,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "year": "2017",
+                            "median_income": 76000,
+                            "very_low": {
+                                   "il50_p1": 26600,
+                                   "il50_p2": 30400,
+                                   "il50_p3": 34200,
+                                   "il50_p4": 38000,
+                                   "il50_p5": 41050,
+                                   "il50_p6": 44100,
+                                   "il50_p7": 47150,
+                                   "il50_p8": 50200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18250,
+                                   "il30_p3": 20550,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 42600,
+                                   "il80_p2": 48650,
+                                   "il80_p3": 54750,
+                                   "il80_p4": 60800,
+                                   "il80_p5": 65700,
+                                   "il80_p6": 70550,
+                                   "il80_p7": 75400,
+                                   "il80_p8": 80300
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "year": "2018",
+                            "median_income": 78100,
+                            "very_low": {
+                                   "il50_p1": 27350,
+                                   "il50_p2": 31250,
+                                   "il50_p3": 35150,
+                                   "il50_p4": 39050,
+                                   "il50_p5": 42200,
+                                   "il50_p6": 45300,
+                                   "il50_p7": 48450,
+                                   "il50_p8": 51550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16450,
+                                   "il30_p2": 18800,
+                                   "il30_p3": 21150,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43750,
+                                   "il80_p2": 50000,
+                                   "il80_p3": 56250,
+                                   "il80_p4": 62500,
+                                   "il80_p5": 67500,
+                                   "il80_p6": 72500,
+                                   "il80_p7": 77500,
+                                   "il80_p8": 82500
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "year": "2019",
+                            "median_income": 88000,
+                            "very_low": {
+                                   "il50_p1": 30100,
+                                   "il50_p2": 34400,
+                                   "il50_p3": 38700,
+                                   "il50_p4": 42950,
+                                   "il50_p5": 46400,
+                                   "il50_p6": 49850,
+                                   "il50_p7": 53300,
+                                   "il50_p8": 56700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18050,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23200,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 48100,
+                                   "il80_p2": 55000,
+                                   "il80_p3": 61850,
+                                   "il80_p4": 68700,
+                                   "il80_p5": 74200,
+                                   "il80_p6": 79700,
+                                   "il80_p7": 85200,
+                                   "il80_p8": 90700
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "year": "2020",
+                            "median_income": 82400,
+                            "very_low": {
+                                   "il50_p1": 28850,
+                                   "il50_p2": 33000,
+                                   "il50_p3": 37100,
+                                   "il50_p4": 41200,
+                                   "il50_p5": 44500,
+                                   "il50_p6": 47800,
+                                   "il50_p7": 51100,
+                                   "il50_p8": 54400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19800,
+                                   "il30_p3": 22250,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46150,
+                                   "il80_p2": 52750,
+                                   "il80_p3": 59350,
+                                   "il80_p4": 65900,
+                                   "il80_p5": 71200,
+                                   "il80_p6": 76450,
+                                   "il80_p7": 81750,
+                                   "il80_p8": 87000
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "year": "2021",
+                            "median_income": 90200,
+                            "very_low": {
+                                   "il50_p1": 30300,
+                                   "il50_p2": 34600,
+                                   "il50_p3": 38950,
+                                   "il50_p4": 43250,
+                                   "il50_p5": 46750,
+                                   "il50_p6": 50200,
+                                   "il50_p7": 53650,
+                                   "il50_p8": 57100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18200,
+                                   "il30_p2": 20800,
+                                   "il30_p3": 23400,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48450,
+                                   "il80_p2": 55350,
+                                   "il80_p3": 62250,
+                                   "il80_p4": 69150,
+                                   "il80_p5": 74700,
+                                   "il80_p6": 80250,
+                                   "il80_p7": 85750,
+                                   "il80_p8": 91300
+                            }
+                     },
+                     {
+                            "county_name": "Rice County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Rice County, MN",
+                            "year": "2022",
+                            "median_income": 100600,
+                            "very_low": {
+                                   "il50_p1": 33850,
+                                   "il50_p2": 38700,
+                                   "il50_p3": 43550,
+                                   "il50_p4": 48350,
+                                   "il50_p5": 52250,
+                                   "il50_p6": 56100,
+                                   "il50_p7": 60000,
+                                   "il50_p8": 63850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20300,
+                                   "il30_p2": 23200,
+                                   "il30_p3": 26100,
+                                   "il30_p4": 29000,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54150,
+                                   "il80_p2": 61900,
+                                   "il80_p3": 69650,
+                                   "il80_p4": 77350,
+                                   "il80_p5": 83550,
+                                   "il80_p6": 89750,
+                                   "il80_p7": 95950,
+                                   "il80_p8": 102150
+                            }
+                     }
+              ]
+       }
+}

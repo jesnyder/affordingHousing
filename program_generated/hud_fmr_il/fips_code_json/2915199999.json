@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 460,
+                                   "One-Bedroom": 495,
+                                   "Two-Bedroom": 647,
+                                   "Three-Bedroom": 942,
+                                   "Four-Bedroom": 958,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 414,
+                                   "One-Bedroom": 495,
+                                   "Two-Bedroom": 644,
+                                   "Three-Bedroom": 937,
+                                   "Four-Bedroom": 941,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 415,
+                                   "One-Bedroom": 502,
+                                   "Two-Bedroom": 646,
+                                   "Three-Bedroom": 934,
+                                   "Four-Bedroom": 936,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 437,
+                                   "One-Bedroom": 525,
+                                   "Two-Bedroom": 670,
+                                   "Three-Bedroom": 967,
+                                   "Four-Bedroom": 975,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 447,
+                                   "One-Bedroom": 546,
+                                   "Two-Bedroom": 678,
+                                   "Three-Bedroom": 964,
+                                   "Four-Bedroom": 967,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 516,
+                                   "One-Bedroom": 565,
+                                   "Two-Bedroom": 694,
+                                   "Three-Bedroom": 986,
+                                   "Four-Bedroom": 995,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 79500,
+                            "very_low": {
+                                   "il50_p1": 25050,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32200,
+                                   "il50_p4": 35750,
+                                   "il50_p5": 38650,
+                                   "il50_p6": 41500,
+                                   "il50_p7": 44350,
+                                   "il50_p8": 47200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17200,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40050,
+                                   "il80_p2": 45800,
+                                   "il80_p3": 51500,
+                                   "il80_p4": 57200,
+                                   "il80_p5": 61800,
+                                   "il80_p6": 66400,
+                                   "il80_p7": 70950,
+                                   "il80_p8": 75550
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 75600,
+                            "very_low": {
+                                   "il50_p1": 26500,
+                                   "il50_p2": 30250,
+                                   "il50_p3": 34050,
+                                   "il50_p4": 37800,
+                                   "il50_p5": 40850,
+                                   "il50_p6": 43850,
+                                   "il50_p7": 46900,
+                                   "il50_p8": 49900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18200,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 42350,
+                                   "il80_p2": 48400,
+                                   "il80_p3": 54450,
+                                   "il80_p4": 60500,
+                                   "il80_p5": 65350,
+                                   "il80_p6": 70200,
+                                   "il80_p7": 75050,
+                                   "il80_p8": 79900
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 75500,
+                            "very_low": {
+                                   "il50_p1": 26450,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 34000,
+                                   "il50_p4": 37750,
+                                   "il50_p5": 40800,
+                                   "il50_p6": 43800,
+                                   "il50_p7": 46850,
+                                   "il50_p8": 49850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15900,
+                                   "il30_p2": 18150,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 42300,
+                                   "il80_p2": 48350,
+                                   "il80_p3": 54400,
+                                   "il80_p4": 60400,
+                                   "il80_p5": 65250,
+                                   "il80_p6": 70100,
+                                   "il80_p7": 74900,
+                                   "il80_p8": 79750
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO MSA",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 76700,
+                            "very_low": {
+                                   "il50_p1": 26850,
+                                   "il50_p2": 30700,
+                                   "il50_p3": 34550,
+                                   "il50_p4": 38350,
+                                   "il50_p5": 41450,
+                                   "il50_p6": 44500,
+                                   "il50_p7": 47600,
+                                   "il50_p8": 50650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42950,
+                                   "il80_p2": 49100,
+                                   "il80_p3": 55250,
+                                   "il80_p4": 61350,
+                                   "il80_p5": 66300,
+                                   "il80_p6": 71200,
+                                   "il80_p7": 76100,
+                                   "il80_p8": 81000
+                            }
+                     },
+                     {
+                            "county_name": "Osage County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Jefferson City, MO",
+                            "area_name": "Jefferson City, MO HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 82700,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33100,
+                                   "il50_p3": 37250,
+                                   "il50_p4": 41350,
+                                   "il50_p5": 44700,
+                                   "il50_p6": 48000,
+                                   "il50_p7": 51300,
+                                   "il50_p8": 54600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 46350,
+                                   "il80_p2": 52950,
+                                   "il80_p3": 59550,
+                                   "il80_p4": 66150,
+                                   "il80_p5": 71450,
+                                   "il80_p6": 76750,
+                                   "il80_p7": 82050,
+                                   "il80_p8": 87350
+                            }
+                     }
+              ]
+       }
+}

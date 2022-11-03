@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 453,
+                                   "One-Bedroom": 537,
+                                   "Two-Bedroom": 714,
+                                   "Three-Bedroom": 906,
+                                   "Four-Bedroom": 1067,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 503,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 754,
+                                   "Three-Bedroom": 955,
+                                   "Four-Bedroom": 1118,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 530,
+                                   "One-Bedroom": 558,
+                                   "Two-Bedroom": 738,
+                                   "Three-Bedroom": 941,
+                                   "Four-Bedroom": 1092,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 574,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 767,
+                                   "Three-Bedroom": 978,
+                                   "Four-Bedroom": 1139,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 615,
+                                   "One-Bedroom": 619,
+                                   "Two-Bedroom": 801,
+                                   "Three-Bedroom": 1034,
+                                   "Four-Bedroom": 1196,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles, MI",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 655,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1094,
+                                   "Four-Bedroom": 1252,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "year": "2017",
+                            "median_income": 61000,
+                            "very_low": {
+                                   "il50_p1": 21350,
+                                   "il50_p2": 24400,
+                                   "il50_p3": 27450,
+                                   "il50_p4": 30500,
+                                   "il50_p5": 32950,
+                                   "il50_p6": 35400,
+                                   "il50_p7": 37850,
+                                   "il50_p8": 40300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40300
+                            },
+                            "low": {
+                                   "il80_p1": 34200,
+                                   "il80_p2": 39050,
+                                   "il80_p3": 43950,
+                                   "il80_p4": 48800,
+                                   "il80_p5": 52750,
+                                   "il80_p6": 56650,
+                                   "il80_p7": 60550,
+                                   "il80_p8": 64450
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "year": "2018",
+                            "median_income": 60800,
+                            "very_low": {
+                                   "il50_p1": 21300,
+                                   "il50_p2": 24350,
+                                   "il50_p3": 27400,
+                                   "il50_p4": 30400,
+                                   "il50_p5": 32850,
+                                   "il50_p6": 35300,
+                                   "il50_p7": 37700,
+                                   "il50_p8": 40150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12800,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37700,
+                                   "il30_p8": 40150
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 38950,
+                                   "il80_p3": 43800,
+                                   "il80_p4": 48650,
+                                   "il80_p5": 52550,
+                                   "il80_p6": 56450,
+                                   "il80_p7": 60350,
+                                   "il80_p8": 64250
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "year": "2019",
+                            "median_income": 66500,
+                            "very_low": {
+                                   "il50_p1": 23300,
+                                   "il50_p2": 26600,
+                                   "il50_p3": 29950,
+                                   "il50_p4": 33250,
+                                   "il50_p5": 35950,
+                                   "il50_p6": 38600,
+                                   "il50_p7": 41250,
+                                   "il50_p8": 43900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14000,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37250,
+                                   "il80_p2": 42600,
+                                   "il80_p3": 47900,
+                                   "il80_p4": 53200,
+                                   "il80_p5": 57500,
+                                   "il80_p6": 61750,
+                                   "il80_p7": 66000,
+                                   "il80_p8": 70250
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "year": "2020",
+                            "median_income": 61000,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles-Benton Harbor, MI MSA",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "year": "2021",
+                            "median_income": 68900,
+                            "very_low": {
+                                   "il50_p1": 23450,
+                                   "il50_p2": 26800,
+                                   "il50_p3": 30150,
+                                   "il50_p4": 33500,
+                                   "il50_p5": 36200,
+                                   "il50_p6": 38900,
+                                   "il50_p7": 41550,
+                                   "il50_p8": 44250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14100,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44250
+                            },
+                            "low": {
+                                   "il80_p1": 37550,
+                                   "il80_p2": 42900,
+                                   "il80_p3": 48250,
+                                   "il80_p4": 53600,
+                                   "il80_p5": 57900,
+                                   "il80_p6": 62200,
+                                   "il80_p7": 66500,
+                                   "il80_p8": 70800
+                            }
+                     },
+                     {
+                            "county_name": "Berrien County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Niles, MI",
+                            "area_name": "Niles-Benton Harbor, MI MSA",
+                            "year": "2022",
+                            "median_income": 73700,
+                            "very_low": {
+                                   "il50_p1": 25800,
+                                   "il50_p2": 29500,
+                                   "il50_p3": 33200,
+                                   "il50_p4": 36850,
+                                   "il50_p5": 39800,
+                                   "il50_p6": 42750,
+                                   "il50_p7": 45700,
+                                   "il50_p8": 48650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15500,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41300,
+                                   "il80_p2": 47200,
+                                   "il80_p3": 53100,
+                                   "il80_p4": 58950,
+                                   "il80_p5": 63700,
+                                   "il80_p6": 68400,
+                                   "il80_p7": 73100,
+                                   "il80_p8": 77850
+                            }
+                     }
+              ]
+       }
+}

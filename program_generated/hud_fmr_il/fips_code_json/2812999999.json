@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 437,
+                                   "One-Bedroom": 512,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 936,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 470,
+                                   "One-Bedroom": 534,
+                                   "Two-Bedroom": 661,
+                                   "Three-Bedroom": 911,
+                                   "Four-Bedroom": 914,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 446,
+                                   "One-Bedroom": 520,
+                                   "Two-Bedroom": 651,
+                                   "Three-Bedroom": 894,
+                                   "Four-Bedroom": 898,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 428,
+                                   "One-Bedroom": 499,
+                                   "Two-Bedroom": 657,
+                                   "Three-Bedroom": 899,
+                                   "Four-Bedroom": 915,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 451,
+                                   "One-Bedroom": 519,
+                                   "Two-Bedroom": 684,
+                                   "Three-Bedroom": 851,
+                                   "Four-Bedroom": 945,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 532,
+                                   "One-Bedroom": 536,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 871,
+                                   "Four-Bedroom": 970,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "year": "2017",
+                            "median_income": 49800,
+                            "very_low": {
+                                   "il50_p1": 17250,
+                                   "il50_p2": 19700,
+                                   "il50_p3": 22150,
+                                   "il50_p4": 24600,
+                                   "il50_p5": 26600,
+                                   "il50_p6": 28550,
+                                   "il50_p7": 30550,
+                                   "il50_p8": 32500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 26600,
+                                   "il30_p6": 28550,
+                                   "il30_p7": 30550,
+                                   "il30_p8": 32500
+                            },
+                            "low": {
+                                   "il80_p1": 27550,
+                                   "il80_p2": 31500,
+                                   "il80_p3": 35450,
+                                   "il80_p4": 39350,
+                                   "il80_p5": 42500,
+                                   "il80_p6": 45650,
+                                   "il80_p7": 48800,
+                                   "il80_p8": 51950
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "year": "2018",
+                            "median_income": 49900,
+                            "very_low": {
+                                   "il50_p1": 17500,
+                                   "il50_p2": 20000,
+                                   "il50_p3": 22500,
+                                   "il50_p4": 24950,
+                                   "il50_p5": 26950,
+                                   "il50_p6": 28950,
+                                   "il50_p7": 30950,
+                                   "il50_p8": 32950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 24950,
+                                   "il30_p5": 26950,
+                                   "il30_p6": 28950,
+                                   "il30_p7": 30950,
+                                   "il30_p8": 32950
+                            },
+                            "low": {
+                                   "il80_p1": 27950,
+                                   "il80_p2": 31950,
+                                   "il80_p3": 35950,
+                                   "il80_p4": 39900,
+                                   "il80_p5": 43100,
+                                   "il80_p6": 46300,
+                                   "il80_p7": 49500,
+                                   "il80_p8": 52700
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "year": "2019",
+                            "median_income": 50600,
+                            "very_low": {
+                                   "il50_p1": 17750,
+                                   "il50_p2": 20250,
+                                   "il50_p3": 22800,
+                                   "il50_p4": 25300,
+                                   "il50_p5": 27350,
+                                   "il50_p6": 29350,
+                                   "il50_p7": 31400,
+                                   "il50_p8": 33400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25300,
+                                   "il30_p5": 27350,
+                                   "il30_p6": 29350,
+                                   "il30_p7": 31400,
+                                   "il30_p8": 33400
+                            },
+                            "low": {
+                                   "il80_p1": 28350,
+                                   "il80_p2": 32400,
+                                   "il80_p3": 36450,
+                                   "il80_p4": 40500,
+                                   "il80_p5": 43750,
+                                   "il80_p6": 47000,
+                                   "il80_p7": 50250,
+                                   "il80_p8": 53500
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "year": "2020",
+                            "median_income": 54500,
+                            "very_low": {
+                                   "il50_p1": 19100,
+                                   "il50_p2": 21800,
+                                   "il50_p3": 24550,
+                                   "il50_p4": 27250,
+                                   "il50_p5": 29450,
+                                   "il50_p6": 31650,
+                                   "il50_p7": 33800,
+                                   "il50_p8": 36000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29450,
+                                   "il30_p6": 31650,
+                                   "il30_p7": 33800,
+                                   "il30_p8": 36000
+                            },
+                            "low": {
+                                   "il80_p1": 30550,
+                                   "il80_p2": 34900,
+                                   "il80_p3": 39250,
+                                   "il80_p4": 43600,
+                                   "il80_p5": 47100,
+                                   "il80_p6": 50600,
+                                   "il80_p7": 54100,
+                                   "il80_p8": 57600
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "year": "2021",
+                            "median_income": 60700,
+                            "very_low": {
+                                   "il50_p1": 20050,
+                                   "il50_p2": 22900,
+                                   "il50_p3": 25750,
+                                   "il50_p4": 28600,
+                                   "il50_p5": 30900,
+                                   "il50_p6": 33200,
+                                   "il50_p7": 35500,
+                                   "il50_p8": 37800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30900,
+                                   "il30_p6": 33200,
+                                   "il30_p7": 35500,
+                                   "il30_p8": 37800
+                            },
+                            "low": {
+                                   "il80_p1": 32050,
+                                   "il80_p2": 36600,
+                                   "il80_p3": 41200,
+                                   "il80_p4": 45750,
+                                   "il80_p5": 49450,
+                                   "il80_p6": 53100,
+                                   "il80_p7": 56750,
+                                   "il80_p8": 60400
+                            }
+                     },
+                     {
+                            "county_name": "Smith County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Smith County, MS",
+                            "year": "2022",
+                            "median_income": 64800,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 32000,
+                                   "il50_p5": 34600,
+                                   "il50_p6": 37150,
+                                   "il50_p7": 39700,
+                                   "il50_p8": 42250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37150,
+                                   "il30_p7": 39700,
+                                   "il30_p8": 42250
+                            },
+                            "low": {
+                                   "il80_p1": 35850,
+                                   "il80_p2": 40950,
+                                   "il80_p3": 46050,
+                                   "il80_p4": 51150,
+                                   "il80_p5": 55250,
+                                   "il80_p6": 59350,
+                                   "il80_p7": 63450,
+                                   "il80_p8": 67550
+                            }
+                     }
+              ]
+       }
+}

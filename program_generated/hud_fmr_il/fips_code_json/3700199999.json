@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 652,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 838,
+                                   "Three-Bedroom": 1143,
+                                   "Four-Bedroom": 1238,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 587,
+                                   "One-Bedroom": 601,
+                                   "Two-Bedroom": 754,
+                                   "Three-Bedroom": 1029,
+                                   "Four-Bedroom": 1142,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 637,
+                                   "Two-Bedroom": 812,
+                                   "Three-Bedroom": 1071,
+                                   "Four-Bedroom": 1238,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 601,
+                                   "One-Bedroom": 659,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1100,
+                                   "Four-Bedroom": 1248,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 682,
+                                   "Two-Bedroom": 885,
+                                   "Three-Bedroom": 1126,
+                                   "Four-Bedroom": 1201,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC",
+                            "area_name": "Burlington, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 619,
+                                   "One-Bedroom": 698,
+                                   "Two-Bedroom": 891,
+                                   "Three-Bedroom": 1126,
+                                   "Four-Bedroom": 1208,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "year": "2017",
+                            "median_income": 52900,
+                            "very_low": {
+                                   "il50_p1": 18550,
+                                   "il50_p2": 21200,
+                                   "il50_p3": 23850,
+                                   "il50_p4": 26450,
+                                   "il50_p5": 28600,
+                                   "il50_p6": 30700,
+                                   "il50_p7": 32800,
+                                   "il50_p8": 34950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28600,
+                                   "il30_p6": 30700,
+                                   "il30_p7": 32800,
+                                   "il30_p8": 34950
+                            },
+                            "low": {
+                                   "il80_p1": 29650,
+                                   "il80_p2": 33850,
+                                   "il80_p3": 38100,
+                                   "il80_p4": 42300,
+                                   "il80_p5": 45700,
+                                   "il80_p6": 49100,
+                                   "il80_p7": 52500,
+                                   "il80_p8": 55850
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "year": "2018",
+                            "median_income": 55100,
+                            "very_low": {
+                                   "il50_p1": 19300,
+                                   "il50_p2": 22050,
+                                   "il50_p3": 24800,
+                                   "il50_p4": 27550,
+                                   "il50_p5": 29800,
+                                   "il50_p6": 32000,
+                                   "il50_p7": 34200,
+                                   "il50_p8": 36400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32000,
+                                   "il30_p7": 34200,
+                                   "il30_p8": 36400
+                            },
+                            "low": {
+                                   "il80_p1": 30900,
+                                   "il80_p2": 35300,
+                                   "il80_p3": 39700,
+                                   "il80_p4": 44100,
+                                   "il80_p5": 47650,
+                                   "il80_p6": 51200,
+                                   "il80_p7": 54700,
+                                   "il80_p8": 58250
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "year": "2019",
+                            "median_income": 61600,
+                            "very_low": {
+                                   "il50_p1": 21250,
+                                   "il50_p2": 24250,
+                                   "il50_p3": 27300,
+                                   "il50_p4": 30300,
+                                   "il50_p5": 32750,
+                                   "il50_p6": 35150,
+                                   "il50_p7": 37600,
+                                   "il50_p8": 40000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37600,
+                                   "il30_p8": 40000
+                            },
+                            "low": {
+                                   "il80_p1": 33950,
+                                   "il80_p2": 38800,
+                                   "il80_p3": 43650,
+                                   "il80_p4": 48500,
+                                   "il80_p5": 52400,
+                                   "il80_p6": 56300,
+                                   "il80_p7": 60150,
+                                   "il80_p8": 64050
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "year": "2020",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42400
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC MSA",
+                            "area_name": "Burlington, NC MSA",
+                            "year": "2021",
+                            "median_income": 68100,
+                            "very_low": {
+                                   "il50_p1": 23600,
+                                   "il50_p2": 27000,
+                                   "il50_p3": 30350,
+                                   "il50_p4": 33700,
+                                   "il50_p5": 36400,
+                                   "il50_p6": 39100,
+                                   "il50_p7": 41800,
+                                   "il50_p8": 44500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44500
+                            },
+                            "low": {
+                                   "il80_p1": 37750,
+                                   "il80_p2": 43150,
+                                   "il80_p3": 48550,
+                                   "il80_p4": 53900,
+                                   "il80_p5": 58250,
+                                   "il80_p6": 62550,
+                                   "il80_p7": 66850,
+                                   "il80_p8": 71150
+                            }
+                     },
+                     {
+                            "county_name": "Alamance County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Burlington, NC",
+                            "area_name": "Burlington, NC MSA",
+                            "year": "2022",
+                            "median_income": 78200,
+                            "very_low": {
+                                   "il50_p1": 26400,
+                                   "il50_p2": 30200,
+                                   "il50_p3": 33950,
+                                   "il50_p4": 37700,
+                                   "il50_p5": 40750,
+                                   "il50_p6": 43750,
+                                   "il50_p7": 46750,
+                                   "il50_p8": 49800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15850,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 42250,
+                                   "il80_p2": 48250,
+                                   "il80_p3": 54300,
+                                   "il80_p4": 60300,
+                                   "il80_p5": 65150,
+                                   "il80_p6": 69950,
+                                   "il80_p7": 74800,
+                                   "il80_p8": 79600
+                            }
+                     }
+              ]
+       }
+}

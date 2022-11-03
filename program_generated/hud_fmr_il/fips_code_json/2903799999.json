@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 772,
+                                   "Two-Bedroom": 946,
+                                   "Three-Bedroom": 1293,
+                                   "Four-Bedroom": 1463,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 568,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 869,
+                                   "Three-Bedroom": 1181,
+                                   "Four-Bedroom": 1340,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 640,
+                                   "One-Bedroom": 786,
+                                   "Two-Bedroom": 953,
+                                   "Three-Bedroom": 1286,
+                                   "Four-Bedroom": 1457,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 813,
+                                   "Two-Bedroom": 978,
+                                   "Three-Bedroom": 1314,
+                                   "Four-Bedroom": 1490,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 731,
+                                   "One-Bedroom": 857,
+                                   "Two-Bedroom": 1021,
+                                   "Three-Bedroom": 1364,
+                                   "Four-Bedroom": 1552,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 762,
+                                   "One-Bedroom": 875,
+                                   "Two-Bedroom": 1030,
+                                   "Three-Bedroom": 1365,
+                                   "Four-Bedroom": 1569,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 74800,
+                            "very_low": {
+                                   "il50_p1": 26200,
+                                   "il50_p2": 29950,
+                                   "il50_p3": 33700,
+                                   "il50_p4": 37400,
+                                   "il50_p5": 40400,
+                                   "il50_p6": 43400,
+                                   "il50_p7": 46400,
+                                   "il50_p8": 49400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18000,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 41900,
+                                   "il80_p2": 47900,
+                                   "il80_p3": 53900,
+                                   "il80_p4": 59850,
+                                   "il80_p5": 64650,
+                                   "il80_p6": 69450,
+                                   "il80_p7": 74250,
+                                   "il80_p8": 79050
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 28000,
+                                   "il50_p2": 32000,
+                                   "il50_p3": 36000,
+                                   "il50_p4": 40000,
+                                   "il50_p5": 43200,
+                                   "il50_p6": 46400,
+                                   "il50_p7": 49600,
+                                   "il50_p8": 52800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 21600,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 44800,
+                                   "il80_p2": 51200,
+                                   "il80_p3": 57600,
+                                   "il80_p4": 64000,
+                                   "il80_p5": 69150,
+                                   "il80_p6": 74250,
+                                   "il80_p7": 79400,
+                                   "il80_p8": 84500
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 82700,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33100,
+                                   "il50_p3": 37250,
+                                   "il50_p4": 41350,
+                                   "il50_p5": 44700,
+                                   "il50_p6": 48000,
+                                   "il50_p7": 51300,
+                                   "il50_p8": 54600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 22350,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 46350,
+                                   "il80_p2": 52950,
+                                   "il80_p3": 59550,
+                                   "il80_p4": 66150,
+                                   "il80_p5": 71450,
+                                   "il80_p6": 76750,
+                                   "il80_p7": 82050,
+                                   "il80_p8": 87350
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 86000,
+                            "very_low": {
+                                   "il50_p1": 30100,
+                                   "il50_p2": 34400,
+                                   "il50_p3": 38700,
+                                   "il50_p4": 43000,
+                                   "il50_p5": 46450,
+                                   "il50_p6": 49900,
+                                   "il50_p7": 53350,
+                                   "il50_p8": 56800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18100,
+                                   "il30_p2": 20650,
+                                   "il30_p3": 23250,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 48200,
+                                   "il80_p2": 55050,
+                                   "il80_p3": 61950,
+                                   "il80_p4": 68800,
+                                   "il80_p5": 74350,
+                                   "il80_p6": 79850,
+                                   "il80_p7": 85350,
+                                   "il80_p8": 90850
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS MSA",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 86600,
+                            "very_low": {
+                                   "il50_p1": 30350,
+                                   "il50_p2": 34650,
+                                   "il50_p3": 39000,
+                                   "il50_p4": 43300,
+                                   "il50_p5": 46800,
+                                   "il50_p6": 50250,
+                                   "il50_p7": 53700,
+                                   "il50_p8": 57200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18200,
+                                   "il30_p2": 20800,
+                                   "il30_p3": 23400,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48550,
+                                   "il80_p2": 55450,
+                                   "il80_p3": 62400,
+                                   "il80_p4": 69300,
+                                   "il80_p5": 74850,
+                                   "il80_p6": 80400,
+                                   "il80_p7": 85950,
+                                   "il80_p8": 91500
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Kansas City, MO-KS",
+                            "area_name": "Kansas City, MO-KS HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 97700,
+                            "very_low": {
+                                   "il50_p1": 33900,
+                                   "il50_p2": 38750,
+                                   "il50_p3": 43600,
+                                   "il50_p4": 48400,
+                                   "il50_p5": 52300,
+                                   "il50_p6": 56150,
+                                   "il50_p7": 60050,
+                                   "il50_p8": 63900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20350,
+                                   "il30_p2": 23250,
+                                   "il30_p3": 26150,
+                                   "il30_p4": 29050,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 54250,
+                                   "il80_p2": 62000,
+                                   "il80_p3": 69750,
+                                   "il80_p4": 77450,
+                                   "il80_p5": 83650,
+                                   "il80_p6": 89850,
+                                   "il80_p7": 96050,
+                                   "il80_p8": 102250
+                            }
+                     }
+              ]
+       }
+}

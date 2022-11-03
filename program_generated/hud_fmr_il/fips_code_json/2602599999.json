@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 514,
+                                   "One-Bedroom": 642,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1051,
+                                   "Four-Bedroom": 1139,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 470,
+                                   "One-Bedroom": 585,
+                                   "Two-Bedroom": 737,
+                                   "Three-Bedroom": 962,
+                                   "Four-Bedroom": 1025,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 486,
+                                   "One-Bedroom": 601,
+                                   "Two-Bedroom": 757,
+                                   "Three-Bedroom": 986,
+                                   "Four-Bedroom": 1040,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 517,
+                                   "One-Bedroom": 632,
+                                   "Two-Bedroom": 794,
+                                   "Three-Bedroom": 1028,
+                                   "Four-Bedroom": 1076,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 552,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 837,
+                                   "Three-Bedroom": 1074,
+                                   "Four-Bedroom": 1148,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI",
+                            "area_name": "Battle Creek, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 602,
+                                   "One-Bedroom": 670,
+                                   "Two-Bedroom": 841,
+                                   "Three-Bedroom": 1091,
+                                   "Four-Bedroom": 1183,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "year": "2017",
+                            "median_income": 55700,
+                            "very_low": {
+                                   "il50_p1": 19550,
+                                   "il50_p2": 22350,
+                                   "il50_p3": 25150,
+                                   "il50_p4": 27900,
+                                   "il50_p5": 30150,
+                                   "il50_p6": 32400,
+                                   "il50_p7": 34600,
+                                   "il50_p8": 36850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32400,
+                                   "il30_p7": 34600,
+                                   "il30_p8": 36850
+                            },
+                            "low": {
+                                   "il80_p1": 31300,
+                                   "il80_p2": 35750,
+                                   "il80_p3": 40200,
+                                   "il80_p4": 44650,
+                                   "il80_p5": 48250,
+                                   "il80_p6": 51800,
+                                   "il80_p7": 55400,
+                                   "il80_p8": 58950
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "year": "2018",
+                            "median_income": 54900,
+                            "very_low": {
+                                   "il50_p1": 20550,
+                                   "il50_p2": 23500,
+                                   "il50_p3": 26450,
+                                   "il50_p4": 29350,
+                                   "il50_p5": 31700,
+                                   "il50_p6": 34050,
+                                   "il50_p7": 36400,
+                                   "il50_p8": 38750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12350,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36400,
+                                   "il30_p8": 38750
+                            },
+                            "low": {
+                                   "il80_p1": 32900,
+                                   "il80_p2": 37600,
+                                   "il80_p3": 42300,
+                                   "il80_p4": 46950,
+                                   "il80_p5": 50750,
+                                   "il80_p6": 54500,
+                                   "il80_p7": 58250,
+                                   "il80_p8": 62000
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "year": "2019",
+                            "median_income": 64200,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42400
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "year": "2020",
+                            "median_income": 61100,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI MSA",
+                            "area_name": "Battle Creek, MI MSA",
+                            "year": "2021",
+                            "median_income": 61000,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40000,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Calhoun County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Battle Creek, MI",
+                            "area_name": "Battle Creek, MI MSA",
+                            "year": "2022",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 25250,
+                                   "il50_p2": 28850,
+                                   "il50_p3": 32450,
+                                   "il50_p4": 36050,
+                                   "il50_p5": 38950,
+                                   "il50_p6": 41850,
+                                   "il50_p7": 44750,
+                                   "il50_p8": 47600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40400,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 51950,
+                                   "il80_p4": 57700,
+                                   "il80_p5": 62350,
+                                   "il80_p6": 66950,
+                                   "il80_p7": 71550,
+                                   "il80_p8": 76200
+                            }
+                     }
+              ]
+       }
+}

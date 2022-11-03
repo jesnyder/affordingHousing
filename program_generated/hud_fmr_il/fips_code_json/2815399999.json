@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 432,
+                                   "One-Bedroom": 512,
+                                   "Two-Bedroom": 681,
+                                   "Three-Bedroom": 886,
+                                   "Four-Bedroom": 939,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 422,
+                                   "One-Bedroom": 528,
+                                   "Two-Bedroom": 661,
+                                   "Three-Bedroom": 896,
+                                   "Four-Bedroom": 914,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 472,
+                                   "One-Bedroom": 518,
+                                   "Two-Bedroom": 651,
+                                   "Three-Bedroom": 878,
+                                   "Four-Bedroom": 898,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 492,
+                                   "One-Bedroom": 520,
+                                   "Two-Bedroom": 657,
+                                   "Three-Bedroom": 840,
+                                   "Four-Bedroom": 915,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 535,
+                                   "One-Bedroom": 536,
+                                   "Two-Bedroom": 684,
+                                   "Three-Bedroom": 851,
+                                   "Four-Bedroom": 945,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 552,
+                                   "One-Bedroom": 555,
+                                   "Two-Bedroom": 705,
+                                   "Three-Bedroom": 871,
+                                   "Four-Bedroom": 970,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "year": "2017",
+                            "median_income": 39500,
+                            "very_low": {
+                                   "il50_p1": 16000,
+                                   "il50_p2": 18250,
+                                   "il50_p3": 20550,
+                                   "il50_p4": 22800,
+                                   "il50_p5": 24650,
+                                   "il50_p6": 26450,
+                                   "il50_p7": 28300,
+                                   "il50_p8": 30100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 22800,
+                                   "il30_p5": 24650,
+                                   "il30_p6": 26450,
+                                   "il30_p7": 28300,
+                                   "il30_p8": 30100
+                            },
+                            "low": {
+                                   "il80_p1": 25550,
+                                   "il80_p2": 29200,
+                                   "il80_p3": 32850,
+                                   "il80_p4": 36500,
+                                   "il80_p5": 39450,
+                                   "il80_p6": 42350,
+                                   "il80_p7": 45300,
+                                   "il80_p8": 48200
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "year": "2018",
+                            "median_income": 47000,
+                            "very_low": {
+                                   "il50_p1": 16450,
+                                   "il50_p2": 18800,
+                                   "il50_p3": 21150,
+                                   "il50_p4": 23500,
+                                   "il50_p5": 25400,
+                                   "il50_p6": 27300,
+                                   "il50_p7": 29150,
+                                   "il50_p8": 31050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 23500,
+                                   "il30_p5": 25400,
+                                   "il30_p6": 27300,
+                                   "il30_p7": 29150,
+                                   "il30_p8": 31050
+                            },
+                            "low": {
+                                   "il80_p1": 26350,
+                                   "il80_p2": 30100,
+                                   "il80_p3": 33850,
+                                   "il80_p4": 37600,
+                                   "il80_p5": 40650,
+                                   "il80_p6": 43650,
+                                   "il80_p7": 46650,
+                                   "il80_p8": 49650
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "year": "2019",
+                            "median_income": 50300,
+                            "very_low": {
+                                   "il50_p1": 17650,
+                                   "il50_p2": 20150,
+                                   "il50_p3": 22650,
+                                   "il50_p4": 25150,
+                                   "il50_p5": 27200,
+                                   "il50_p6": 29200,
+                                   "il50_p7": 31200,
+                                   "il50_p8": 33200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25150,
+                                   "il30_p5": 27200,
+                                   "il30_p6": 29200,
+                                   "il30_p7": 31200,
+                                   "il30_p8": 33200
+                            },
+                            "low": {
+                                   "il80_p1": 28200,
+                                   "il80_p2": 32200,
+                                   "il80_p3": 36250,
+                                   "il80_p4": 40250,
+                                   "il80_p5": 43500,
+                                   "il80_p6": 46700,
+                                   "il80_p7": 49950,
+                                   "il80_p8": 53150
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "year": "2020",
+                            "median_income": 53800,
+                            "very_low": {
+                                   "il50_p1": 18850,
+                                   "il50_p2": 21550,
+                                   "il50_p3": 24250,
+                                   "il50_p4": 26900,
+                                   "il50_p5": 29100,
+                                   "il50_p6": 31250,
+                                   "il50_p7": 33400,
+                                   "il50_p8": 35550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 29100,
+                                   "il30_p6": 31250,
+                                   "il30_p7": 33400,
+                                   "il30_p8": 35550
+                            },
+                            "low": {
+                                   "il80_p1": 30150,
+                                   "il80_p2": 34450,
+                                   "il80_p3": 38750,
+                                   "il80_p4": 43050,
+                                   "il80_p5": 46500,
+                                   "il80_p6": 49950,
+                                   "il80_p7": 53400,
+                                   "il80_p8": 56850
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "year": "2021",
+                            "median_income": 57800,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25400,
+                                   "il50_p4": 28200,
+                                   "il50_p5": 30500,
+                                   "il50_p6": 32750,
+                                   "il50_p7": 35000,
+                                   "il50_p8": 37250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30500,
+                                   "il30_p6": 32750,
+                                   "il30_p7": 35000,
+                                   "il30_p8": 37250
+                            },
+                            "low": {
+                                   "il80_p1": 31600,
+                                   "il80_p2": 36100,
+                                   "il80_p3": 40600,
+                                   "il80_p4": 45100,
+                                   "il80_p5": 48750,
+                                   "il80_p6": 52350,
+                                   "il80_p7": 55950,
+                                   "il80_p8": 59550
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Wayne County, MS",
+                            "year": "2022",
+                            "median_income": 60200,
+                            "very_low": {
+                                   "il50_p1": 21100,
+                                   "il50_p2": 24100,
+                                   "il50_p3": 27100,
+                                   "il50_p4": 30100,
+                                   "il50_p5": 32550,
+                                   "il50_p6": 34950,
+                                   "il50_p7": 37350,
+                                   "il50_p8": 39750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 34950,
+                                   "il30_p7": 37350,
+                                   "il30_p8": 39750
+                            },
+                            "low": {
+                                   "il80_p1": 33750,
+                                   "il80_p2": 38550,
+                                   "il80_p3": 43350,
+                                   "il80_p4": 48150,
+                                   "il80_p5": 52050,
+                                   "il80_p6": 55900,
+                                   "il80_p7": 59750,
+                                   "il80_p8": 63600
+                            }
+                     }
+              ]
+       }
+}

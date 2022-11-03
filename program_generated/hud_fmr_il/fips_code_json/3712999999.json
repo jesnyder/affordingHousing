@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 705,
+                                   "One-Bedroom": 710,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1292,
+                                   "Four-Bedroom": 1611,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 737,
+                                   "One-Bedroom": 776,
+                                   "Two-Bedroom": 993,
+                                   "Three-Bedroom": 1392,
+                                   "Four-Bedroom": 1703,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 715,
+                                   "One-Bedroom": 790,
+                                   "Two-Bedroom": 1003,
+                                   "Three-Bedroom": 1404,
+                                   "Four-Bedroom": 1704,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 675,
+                                   "One-Bedroom": 776,
+                                   "Two-Bedroom": 966,
+                                   "Three-Bedroom": 1330,
+                                   "Four-Bedroom": 1630,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 754,
+                                   "One-Bedroom": 873,
+                                   "Two-Bedroom": 1069,
+                                   "Three-Bedroom": 1449,
+                                   "Four-Bedroom": 1841,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 814,
+                                   "One-Bedroom": 988,
+                                   "Two-Bedroom": 1164,
+                                   "Three-Bedroom": 1545,
+                                   "Four-Bedroom": 1992,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 68200,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 16400,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 72200,
+                            "very_low": {
+                                   "il50_p1": 25300,
+                                   "il50_p2": 28900,
+                                   "il50_p3": 32500,
+                                   "il50_p4": 36100,
+                                   "il50_p5": 39000,
+                                   "il50_p6": 41900,
+                                   "il50_p7": 44800,
+                                   "il50_p8": 47700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 17350,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 40450,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 52000,
+                                   "il80_p4": 57750,
+                                   "il80_p5": 62400,
+                                   "il80_p6": 67000,
+                                   "il80_p7": 71650,
+                                   "il80_p8": 76250
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 72800,
+                            "very_low": {
+                                   "il50_p1": 25500,
+                                   "il50_p2": 29150,
+                                   "il50_p3": 32800,
+                                   "il50_p4": 36400,
+                                   "il50_p5": 39350,
+                                   "il50_p6": 42250,
+                                   "il50_p7": 45150,
+                                   "il50_p8": 48050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 40800,
+                                   "il80_p2": 46600,
+                                   "il80_p3": 52450,
+                                   "il80_p4": 58250,
+                                   "il80_p5": 62950,
+                                   "il80_p6": 67600,
+                                   "il80_p7": 72250,
+                                   "il80_p8": 76900
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 81000,
+                            "very_low": {
+                                   "il50_p1": 27500,
+                                   "il50_p2": 31400,
+                                   "il50_p3": 35350,
+                                   "il50_p4": 39250,
+                                   "il50_p5": 42400,
+                                   "il50_p6": 45550,
+                                   "il50_p7": 48700,
+                                   "il50_p8": 51850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16500,
+                                   "il30_p2": 18850,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 44000,
+                                   "il80_p2": 50250,
+                                   "il80_p3": 56550,
+                                   "il80_p4": 62800,
+                                   "il80_p5": 67850,
+                                   "il80_p6": 72850,
+                                   "il80_p7": 77900,
+                                   "il80_p8": 82900
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC MSA",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 76200,
+                            "very_low": {
+                                   "il50_p1": 26700,
+                                   "il50_p2": 30500,
+                                   "il50_p3": 34300,
+                                   "il50_p4": 38100,
+                                   "il50_p5": 41150,
+                                   "il50_p6": 44200,
+                                   "il50_p7": 47250,
+                                   "il50_p8": 50300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16000,
+                                   "il30_p2": 18300,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42700,
+                                   "il80_p2": 48800,
+                                   "il80_p3": 54900,
+                                   "il80_p4": 60950,
+                                   "il80_p5": 65850,
+                                   "il80_p6": 70750,
+                                   "il80_p7": 75600,
+                                   "il80_p8": 80500
+                            }
+                     },
+                     {
+                            "county_name": "New Hanover County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Wilmington, NC",
+                            "area_name": "Wilmington, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 90600,
+                            "very_low": {
+                                   "il50_p1": 29850,
+                                   "il50_p2": 34100,
+                                   "il50_p3": 38350,
+                                   "il50_p4": 42600,
+                                   "il50_p5": 46050,
+                                   "il50_p6": 49450,
+                                   "il50_p7": 52850,
+                                   "il50_p8": 56250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17900,
+                                   "il30_p2": 20450,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47750,
+                                   "il80_p2": 54550,
+                                   "il80_p3": 61350,
+                                   "il80_p4": 68150,
+                                   "il80_p5": 73650,
+                                   "il80_p6": 79100,
+                                   "il80_p7": 84550,
+                                   "il80_p8": 90000
+                            }
+                     }
+              ]
+       }
+}

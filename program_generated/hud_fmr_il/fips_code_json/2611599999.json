@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 530,
+                                   "One-Bedroom": 629,
+                                   "Two-Bedroom": 836,
+                                   "Three-Bedroom": 1148,
+                                   "Four-Bedroom": 1152,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 644,
+                                   "One-Bedroom": 648,
+                                   "Two-Bedroom": 862,
+                                   "Three-Bedroom": 1170,
+                                   "Four-Bedroom": 1174,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 649,
+                                   "One-Bedroom": 664,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1177,
+                                   "Four-Bedroom": 1181,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 656,
+                                   "Two-Bedroom": 850,
+                                   "Three-Bedroom": 1150,
+                                   "Four-Bedroom": 1154,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 626,
+                                   "One-Bedroom": 691,
+                                   "Two-Bedroom": 899,
+                                   "Three-Bedroom": 1220,
+                                   "Four-Bedroom": 1327,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI",
+                            "area_name": "Monroe, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 631,
+                                   "One-Bedroom": 723,
+                                   "Two-Bedroom": 941,
+                                   "Three-Bedroom": 1237,
+                                   "Four-Bedroom": 1503,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "year": "2017",
+                            "median_income": 71600,
+                            "very_low": {
+                                   "il50_p1": 25100,
+                                   "il50_p2": 28650,
+                                   "il50_p3": 32250,
+                                   "il50_p4": 35800,
+                                   "il50_p5": 38700,
+                                   "il50_p6": 41550,
+                                   "il50_p7": 44400,
+                                   "il50_p8": 47300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17200,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40150,
+                                   "il80_p2": 45850,
+                                   "il80_p3": 51600,
+                                   "il80_p4": 57300,
+                                   "il80_p5": 61900,
+                                   "il80_p6": 66500,
+                                   "il80_p7": 71100,
+                                   "il80_p8": 75650
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "year": "2018",
+                            "median_income": 75100,
+                            "very_low": {
+                                   "il50_p1": 26300,
+                                   "il50_p2": 30050,
+                                   "il50_p3": 33800,
+                                   "il50_p4": 37550,
+                                   "il50_p5": 40600,
+                                   "il50_p6": 43600,
+                                   "il50_p7": 46600,
+                                   "il50_p8": 49600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18050,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 42100,
+                                   "il80_p2": 48100,
+                                   "il80_p3": 54100,
+                                   "il80_p4": 60100,
+                                   "il80_p5": 64950,
+                                   "il80_p6": 69750,
+                                   "il80_p7": 74550,
+                                   "il80_p8": 79350
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "year": "2019",
+                            "median_income": 79000,
+                            "very_low": {
+                                   "il50_p1": 27650,
+                                   "il50_p2": 31600,
+                                   "il50_p3": 35550,
+                                   "il50_p4": 39500,
+                                   "il50_p5": 42700,
+                                   "il50_p6": 45850,
+                                   "il50_p7": 49000,
+                                   "il50_p8": 52150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16600,
+                                   "il30_p2": 19000,
+                                   "il30_p3": 21350,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 44250,
+                                   "il80_p2": 50600,
+                                   "il80_p3": 56900,
+                                   "il80_p4": 63200,
+                                   "il80_p5": 68300,
+                                   "il80_p6": 73350,
+                                   "il80_p7": 78400,
+                                   "il80_p8": 83450
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "year": "2020",
+                            "median_income": 80600,
+                            "very_low": {
+                                   "il50_p1": 28250,
+                                   "il50_p2": 32250,
+                                   "il50_p3": 36300,
+                                   "il50_p4": 40300,
+                                   "il50_p5": 43550,
+                                   "il50_p6": 46750,
+                                   "il50_p7": 50000,
+                                   "il50_p8": 53200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19400,
+                                   "il30_p3": 21800,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45150,
+                                   "il80_p2": 51600,
+                                   "il80_p3": 58050,
+                                   "il80_p4": 64500,
+                                   "il80_p5": 69700,
+                                   "il80_p6": 74850,
+                                   "il80_p7": 80000,
+                                   "il80_p8": 85150
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI MSA",
+                            "area_name": "Monroe, MI MSA",
+                            "year": "2021",
+                            "median_income": 78600,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31450,
+                                   "il50_p3": 35400,
+                                   "il50_p4": 39300,
+                                   "il50_p5": 42450,
+                                   "il50_p6": 45600,
+                                   "il50_p7": 48750,
+                                   "il50_p8": 51900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 44050,
+                                   "il80_p2": 50350,
+                                   "il80_p3": 56650,
+                                   "il80_p4": 62900,
+                                   "il80_p5": 67950,
+                                   "il80_p6": 73000,
+                                   "il80_p7": 78000,
+                                   "il80_p8": 83050
+                            }
+                     },
+                     {
+                            "county_name": "Monroe County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Monroe, MI",
+                            "area_name": "Monroe, MI MSA",
+                            "year": "2022",
+                            "median_income": 85800,
+                            "very_low": {
+                                   "il50_p1": 30050,
+                                   "il50_p2": 34350,
+                                   "il50_p3": 38650,
+                                   "il50_p4": 42900,
+                                   "il50_p5": 46350,
+                                   "il50_p6": 49800,
+                                   "il50_p7": 53200,
+                                   "il50_p8": 56650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18050,
+                                   "il30_p2": 20600,
+                                   "il30_p3": 23200,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 48100,
+                                   "il80_p2": 54950,
+                                   "il80_p3": 61800,
+                                   "il80_p4": 68650,
+                                   "il80_p5": 74150,
+                                   "il80_p6": 79650,
+                                   "il80_p7": 85150,
+                                   "il80_p8": 90650
+                            }
+                     }
+              ]
+       }
+}

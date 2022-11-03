@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 605,
+                                   "Two-Bedroom": 698,
+                                   "Three-Bedroom": 942,
+                                   "Four-Bedroom": 1230,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 620,
+                                   "One-Bedroom": 637,
+                                   "Two-Bedroom": 732,
+                                   "Three-Bedroom": 1000,
+                                   "Four-Bedroom": 1289,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 660,
+                                   "One-Bedroom": 664,
+                                   "Two-Bedroom": 783,
+                                   "Three-Bedroom": 1072,
+                                   "Four-Bedroom": 1375,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 654,
+                                   "One-Bedroom": 658,
+                                   "Two-Bedroom": 800,
+                                   "Three-Bedroom": 1082,
+                                   "Four-Bedroom": 1347,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 678,
+                                   "One-Bedroom": 682,
+                                   "Two-Bedroom": 843,
+                                   "Three-Bedroom": 1111,
+                                   "Four-Bedroom": 1257,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 669,
+                                   "One-Bedroom": 673,
+                                   "Two-Bedroom": 816,
+                                   "Three-Bedroom": 1054,
+                                   "Four-Bedroom": 1132,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 53600,
+                            "very_low": {
+                                   "il50_p1": 19850,
+                                   "il50_p2": 22650,
+                                   "il50_p3": 25500,
+                                   "il50_p4": 28300,
+                                   "il50_p5": 30600,
+                                   "il50_p6": 32850,
+                                   "il50_p7": 35100,
+                                   "il50_p8": 37400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32850,
+                                   "il30_p7": 35100,
+                                   "il30_p8": 37400
+                            },
+                            "low": {
+                                   "il80_p1": 31750,
+                                   "il80_p2": 36250,
+                                   "il80_p3": 40800,
+                                   "il80_p4": 45300,
+                                   "il80_p5": 48950,
+                                   "il80_p6": 52550,
+                                   "il80_p7": 56200,
+                                   "il80_p8": 59800
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 64500,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31500,
+                                   "il50_p5": 34050,
+                                   "il50_p6": 36550,
+                                   "il50_p7": 39100,
+                                   "il50_p8": 41600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41600
+                            },
+                            "low": {
+                                   "il80_p1": 35300,
+                                   "il80_p2": 40350,
+                                   "il80_p3": 45400,
+                                   "il80_p4": 50400,
+                                   "il80_p5": 54450,
+                                   "il80_p6": 58500,
+                                   "il80_p7": 62500,
+                                   "il80_p8": 66550
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 64000,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 32000,
+                                   "il50_p5": 34600,
+                                   "il50_p6": 37150,
+                                   "il50_p7": 39700,
+                                   "il50_p8": 42250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42250
+                            },
+                            "low": {
+                                   "il80_p1": 35850,
+                                   "il80_p2": 41000,
+                                   "il80_p3": 46100,
+                                   "il80_p4": 51200,
+                                   "il80_p5": 55300,
+                                   "il80_p6": 59400,
+                                   "il80_p7": 63500,
+                                   "il80_p8": 67600
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43250
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC MSA",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 77700,
+                            "very_low": {
+                                   "il50_p1": 24050,
+                                   "il50_p2": 27500,
+                                   "il50_p3": 30950,
+                                   "il50_p4": 34350,
+                                   "il50_p5": 37100,
+                                   "il50_p6": 39850,
+                                   "il50_p7": 42600,
+                                   "il50_p8": 45350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14450,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38500,
+                                   "il80_p2": 44000,
+                                   "il80_p3": 49500,
+                                   "il80_p4": 54950,
+                                   "il80_p5": 59350,
+                                   "il80_p6": 63750,
+                                   "il80_p7": 68150,
+                                   "il80_p8": 72550
+                            }
+                     },
+                     {
+                            "county_name": "Lincoln County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Charlotte-Concord-Gastonia, NC-SC",
+                            "area_name": "Lincoln County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 89700,
+                            "very_low": {
+                                   "il50_p1": 26900,
+                                   "il50_p2": 30750,
+                                   "il50_p3": 34600,
+                                   "il50_p4": 38400,
+                                   "il50_p5": 41500,
+                                   "il50_p6": 44550,
+                                   "il50_p7": 47650,
+                                   "il50_p8": 50700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16150,
+                                   "il30_p2": 18450,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43050,
+                                   "il80_p2": 49200,
+                                   "il80_p3": 55350,
+                                   "il80_p4": 61450,
+                                   "il80_p5": 66400,
+                                   "il80_p6": 71300,
+                                   "il80_p7": 76200,
+                                   "il80_p8": 81150
+                            }
+                     }
+              ]
+       }
+}

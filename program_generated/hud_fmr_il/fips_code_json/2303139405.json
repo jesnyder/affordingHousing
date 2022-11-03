@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 911,
+                                   "One-Bedroom": 1028,
+                                   "Two-Bedroom": 1301,
+                                   "Three-Bedroom": 1755,
+                                   "Four-Bedroom": 1906,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 962,
+                                   "One-Bedroom": 1054,
+                                   "Two-Bedroom": 1348,
+                                   "Three-Bedroom": 1805,
+                                   "Four-Bedroom": 2094,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 989,
+                                   "One-Bedroom": 1071,
+                                   "Two-Bedroom": 1387,
+                                   "Three-Bedroom": 1829,
+                                   "Four-Bedroom": 2198,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1072,
+                                   "One-Bedroom": 1167,
+                                   "Two-Bedroom": 1516,
+                                   "Three-Bedroom": 1982,
+                                   "Four-Bedroom": 2413,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1088,
+                                   "One-Bedroom": 1229,
+                                   "Two-Bedroom": 1592,
+                                   "Three-Bedroom": 2061,
+                                   "Four-Bedroom": 2518,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1143,
+                                   "One-Bedroom": 1330,
+                                   "Two-Bedroom": 1721,
+                                   "Three-Bedroom": 2195,
+                                   "Four-Bedroom": 2689,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 83400,
+                            "very_low": {
+                                   "il50_p1": 28750,
+                                   "il50_p2": 32850,
+                                   "il50_p3": 36950,
+                                   "il50_p4": 41050,
+                                   "il50_p5": 44350,
+                                   "il50_p6": 47650,
+                                   "il50_p7": 50950,
+                                   "il50_p8": 54200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17300,
+                                   "il30_p2": 19750,
+                                   "il30_p3": 22200,
+                                   "il30_p4": 24650,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 46000,
+                                   "il80_p2": 52600,
+                                   "il80_p3": 59150,
+                                   "il80_p4": 65700,
+                                   "il80_p5": 71000,
+                                   "il80_p6": 76250,
+                                   "il80_p7": 81500,
+                                   "il80_p8": 86750
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 90100,
+                            "very_low": {
+                                   "il50_p1": 31550,
+                                   "il50_p2": 36050,
+                                   "il50_p3": 40550,
+                                   "il50_p4": 45050,
+                                   "il50_p5": 48700,
+                                   "il50_p6": 52300,
+                                   "il50_p7": 55900,
+                                   "il50_p8": 59500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18950,
+                                   "il30_p2": 21650,
+                                   "il30_p3": 24350,
+                                   "il30_p4": 27050,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 93000,
+                            "very_low": {
+                                   "il50_p1": 32550,
+                                   "il50_p2": 37200,
+                                   "il50_p3": 41850,
+                                   "il50_p4": 46500,
+                                   "il50_p5": 50250,
+                                   "il50_p6": 53950,
+                                   "il50_p7": 57700,
+                                   "il50_p8": 61400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19550,
+                                   "il30_p2": 22350,
+                                   "il30_p3": 25150,
+                                   "il30_p4": 27900,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52100,
+                                   "il80_p2": 59550,
+                                   "il80_p3": 67000,
+                                   "il80_p4": 74400,
+                                   "il80_p5": 80400,
+                                   "il80_p6": 86350,
+                                   "il80_p7": 92300,
+                                   "il80_p8": 98250
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 100900,
+                            "very_low": {
+                                   "il50_p1": 35150,
+                                   "il50_p2": 40150,
+                                   "il50_p3": 45150,
+                                   "il50_p4": 50150,
+                                   "il50_p5": 54200,
+                                   "il50_p6": 58200,
+                                   "il50_p7": 62200,
+                                   "il50_p8": 66200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21100,
+                                   "il30_p2": 24100,
+                                   "il30_p3": 27100,
+                                   "il30_p4": 30100,
+                                   "il30_p5": 32550,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME MSA",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 99900,
+                            "very_low": {
+                                   "il50_p1": 35000,
+                                   "il50_p2": 40000,
+                                   "il50_p3": 45000,
+                                   "il50_p4": 49950,
+                                   "il50_p5": 53950,
+                                   "il50_p6": 57950,
+                                   "il50_p7": 61950,
+                                   "il50_p8": 65950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21000,
+                                   "il30_p2": 24000,
+                                   "il30_p3": 27000,
+                                   "il30_p4": 29950,
+                                   "il30_p5": 32350,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "York County, ME",
+                            "counties_msa": "",
+                            "town_name": "Limington town",
+                            "metro_status": "1",
+                            "metro_name": "Portland-South Portland, ME",
+                            "area_name": "Portland, ME HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 112700,
+                            "very_low": {
+                                   "il50_p1": 39100,
+                                   "il50_p2": 44700,
+                                   "il50_p3": 50300,
+                                   "il50_p4": 55850,
+                                   "il50_p5": 60350,
+                                   "il50_p6": 64800,
+                                   "il50_p7": 69300,
+                                   "il50_p8": 73750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23450,
+                                   "il30_p2": 26800,
+                                   "il30_p3": 30150,
+                                   "il30_p4": 33500,
+                                   "il30_p5": 36200,
+                                   "il30_p6": 38900,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62550,
+                                   "il80_p2": 71500,
+                                   "il80_p3": 80450,
+                                   "il80_p4": 89350,
+                                   "il80_p5": 96500,
+                                   "il80_p6": 103650,
+                                   "il80_p7": 110800,
+                                   "il80_p8": 117950
+                            }
+                     }
+              ]
+       }
+}

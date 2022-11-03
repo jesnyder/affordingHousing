@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 610,
+                                   "One-Bedroom": 720,
+                                   "Two-Bedroom": 936,
+                                   "Three-Bedroom": 1235,
+                                   "Four-Bedroom": 1521,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 655,
+                                   "Two-Bedroom": 860,
+                                   "Three-Bedroom": 1146,
+                                   "Four-Bedroom": 1395,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 650,
+                                   "One-Bedroom": 734,
+                                   "Two-Bedroom": 959,
+                                   "Three-Bedroom": 1316,
+                                   "Four-Bedroom": 1618,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 667,
+                                   "One-Bedroom": 777,
+                                   "Two-Bedroom": 1016,
+                                   "Three-Bedroom": 1416,
+                                   "Four-Bedroom": 1748,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 673,
+                                   "One-Bedroom": 789,
+                                   "Two-Bedroom": 1014,
+                                   "Three-Bedroom": 1447,
+                                   "Four-Bedroom": 1756,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 732,
+                                   "One-Bedroom": 865,
+                                   "Two-Bedroom": 1094,
+                                   "Three-Bedroom": 1554,
+                                   "Four-Bedroom": 1872,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 88600,
+                            "very_low": {
+                                   "il50_p1": 31050,
+                                   "il50_p2": 35450,
+                                   "il50_p3": 39900,
+                                   "il50_p4": 44300,
+                                   "il50_p5": 47850,
+                                   "il50_p6": 51400,
+                                   "il50_p7": 54950,
+                                   "il50_p8": 58500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18650,
+                                   "il30_p2": 21300,
+                                   "il30_p3": 23950,
+                                   "il30_p4": 26600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 90500,
+                            "very_low": {
+                                   "il50_p1": 31700,
+                                   "il50_p2": 36200,
+                                   "il50_p3": 40750,
+                                   "il50_p4": 45250,
+                                   "il50_p5": 48900,
+                                   "il50_p6": 52500,
+                                   "il50_p7": 56150,
+                                   "il50_p8": 59750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19050,
+                                   "il30_p2": 21750,
+                                   "il30_p3": 24450,
+                                   "il30_p4": 27150,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 93800,
+                            "very_low": {
+                                   "il50_p1": 32850,
+                                   "il50_p2": 37550,
+                                   "il50_p3": 42250,
+                                   "il50_p4": 46900,
+                                   "il50_p5": 50700,
+                                   "il50_p6": 54450,
+                                   "il50_p7": 58200,
+                                   "il50_p8": 61950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19750,
+                                   "il30_p2": 22550,
+                                   "il30_p3": 25350,
+                                   "il30_p4": 28150,
+                                   "il30_p5": 30450,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52550,
+                                   "il80_p2": 60050,
+                                   "il80_p3": 67550,
+                                   "il80_p4": 75050,
+                                   "il80_p5": 81100,
+                                   "il80_p6": 87100,
+                                   "il80_p7": 93100,
+                                   "il80_p8": 99100
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 103000,
+                            "very_low": {
+                                   "il50_p1": 35450,
+                                   "il50_p2": 40500,
+                                   "il50_p3": 45550,
+                                   "il50_p4": 50600,
+                                   "il50_p5": 54650,
+                                   "il50_p6": 58700,
+                                   "il50_p7": 62750,
+                                   "il50_p8": 66800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21250,
+                                   "il30_p2": 24300,
+                                   "il30_p3": 27350,
+                                   "il30_p4": 30350,
+                                   "il30_p5": 32800,
+                                   "il30_p6": 35250,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN MSA",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 99700,
+                            "very_low": {
+                                   "il50_p1": 34900,
+                                   "il50_p2": 39900,
+                                   "il50_p3": 44900,
+                                   "il50_p4": 49850,
+                                   "il50_p5": 53850,
+                                   "il50_p6": 57850,
+                                   "il50_p7": 61850,
+                                   "il50_p8": 65850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20950,
+                                   "il30_p2": 23950,
+                                   "il30_p3": 26950,
+                                   "il30_p4": 29900,
+                                   "il30_p5": 32300,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55850,
+                                   "il80_p2": 63800,
+                                   "il80_p3": 71800,
+                                   "il80_p4": 79750,
+                                   "il80_p5": 86150,
+                                   "il80_p6": 92550,
+                                   "il80_p7": 98900,
+                                   "il80_p8": 105300
+                            }
+                     },
+                     {
+                            "county_name": "Olmsted County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Rochester, MN",
+                            "area_name": "Rochester, MN HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 112900,
+                            "very_low": {
+                                   "il50_p1": 39050,
+                                   "il50_p2": 44600,
+                                   "il50_p3": 50200,
+                                   "il50_p4": 55750,
+                                   "il50_p5": 60250,
+                                   "il50_p6": 64700,
+                                   "il50_p7": 69150,
+                                   "il50_p8": 73600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 23450,
+                                   "il30_p2": 26800,
+                                   "il30_p3": 30150,
+                                   "il30_p4": 33450,
+                                   "il30_p5": 36150,
+                                   "il30_p6": 38850,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 62450,
+                                   "il80_p2": 71400,
+                                   "il80_p3": 80300,
+                                   "il80_p4": 89200,
+                                   "il80_p5": 96350,
+                                   "il80_p6": 103500,
+                                   "il80_p7": 110650,
+                                   "il80_p8": 117750
+                            }
+                     }
+              ]
+       }
+}

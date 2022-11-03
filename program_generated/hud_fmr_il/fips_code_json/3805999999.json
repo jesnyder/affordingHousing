@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 649,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1196,
+                                   "Four-Bedroom": 1514,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 657,
+                                   "One-Bedroom": 662,
+                                   "Two-Bedroom": 869,
+                                   "Three-Bedroom": 1200,
+                                   "Four-Bedroom": 1531,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 863,
+                                   "Three-Bedroom": 1177,
+                                   "Four-Bedroom": 1474,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 694,
+                                   "One-Bedroom": 698,
+                                   "Two-Bedroom": 892,
+                                   "Three-Bedroom": 1242,
+                                   "Four-Bedroom": 1475,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 715,
+                                   "One-Bedroom": 719,
+                                   "Two-Bedroom": 884,
+                                   "Three-Bedroom": 1265,
+                                   "Four-Bedroom": 1444,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND",
+                            "area_name": "Bismarck, ND MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 733,
+                                   "One-Bedroom": 737,
+                                   "Two-Bedroom": 880,
+                                   "Three-Bedroom": 1250,
+                                   "Four-Bedroom": 1442,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 82600,
+                            "very_low": {
+                                   "il50_p1": 28950,
+                                   "il50_p2": 33050,
+                                   "il50_p3": 37200,
+                                   "il50_p4": 41300,
+                                   "il50_p5": 44650,
+                                   "il50_p6": 47950,
+                                   "il50_p7": 51250,
+                                   "il50_p8": 54550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19850,
+                                   "il30_p3": 22350,
+                                   "il30_p4": 24800,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 46300,
+                                   "il80_p2": 52900,
+                                   "il80_p3": 59500,
+                                   "il80_p4": 66100,
+                                   "il80_p5": 71400,
+                                   "il80_p6": 76700,
+                                   "il80_p7": 82000,
+                                   "il80_p8": 87300
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 96600,
+                            "very_low": {
+                                   "il50_p1": 32200,
+                                   "il50_p2": 36800,
+                                   "il50_p3": 41400,
+                                   "il50_p4": 46000,
+                                   "il50_p5": 49700,
+                                   "il50_p6": 53400,
+                                   "il50_p7": 57050,
+                                   "il50_p8": 60750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19350,
+                                   "il30_p2": 22100,
+                                   "il30_p3": 24850,
+                                   "il30_p4": 27600,
+                                   "il30_p5": 29850,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 90900,
+                            "very_low": {
+                                   "il50_p1": 31850,
+                                   "il50_p2": 36400,
+                                   "il50_p3": 40950,
+                                   "il50_p4": 45450,
+                                   "il50_p5": 49100,
+                                   "il50_p6": 52750,
+                                   "il50_p7": 56400,
+                                   "il50_p8": 60000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19100,
+                                   "il30_p2": 21800,
+                                   "il30_p3": 24550,
+                                   "il30_p4": 27250,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 50900,
+                                   "il80_p2": 58200,
+                                   "il80_p3": 65450,
+                                   "il80_p4": 72700,
+                                   "il80_p5": 78550,
+                                   "il80_p6": 84350,
+                                   "il80_p7": 90150,
+                                   "il80_p8": 96000
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 96000,
+                            "very_low": {
+                                   "il50_p1": 33600,
+                                   "il50_p2": 38400,
+                                   "il50_p3": 43200,
+                                   "il50_p4": 48000,
+                                   "il50_p5": 51850,
+                                   "il50_p6": 55700,
+                                   "il50_p7": 59550,
+                                   "il50_p8": 63400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 20200,
+                                   "il30_p2": 23050,
+                                   "il30_p3": 25950,
+                                   "il30_p4": 28800,
+                                   "il30_p5": 31150,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 53800,
+                                   "il80_p2": 61450,
+                                   "il80_p3": 69150,
+                                   "il80_p4": 76800,
+                                   "il80_p5": 82950,
+                                   "il80_p6": 89100,
+                                   "il80_p7": 95250,
+                                   "il80_p8": 101400
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND MSA",
+                            "area_name": "Bismarck, ND HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 101400,
+                            "very_low": {
+                                   "il50_p1": 35300,
+                                   "il50_p2": 40350,
+                                   "il50_p3": 45400,
+                                   "il50_p4": 50400,
+                                   "il50_p5": 54450,
+                                   "il50_p6": 58500,
+                                   "il50_p7": 62500,
+                                   "il50_p8": 66550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21200,
+                                   "il30_p2": 24200,
+                                   "il30_p3": 27250,
+                                   "il30_p4": 30250,
+                                   "il30_p5": 32700,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Morton County, ND",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bismarck, ND",
+                            "area_name": "Bismarck, ND MSA",
+                            "year": "2022",
+                            "median_income": 102600,
+                            "very_low": {
+                                   "il50_p1": 35950,
+                                   "il50_p2": 41050,
+                                   "il50_p3": 46200,
+                                   "il50_p4": 51300,
+                                   "il50_p5": 55450,
+                                   "il50_p6": 59550,
+                                   "il50_p7": 63650,
+                                   "il50_p8": 67750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21600,
+                                   "il30_p2": 24650,
+                                   "il30_p3": 27750,
+                                   "il30_p4": 30800,
+                                   "il30_p5": 33300,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 57500,
+                                   "il80_p2": 65700,
+                                   "il80_p3": 73900,
+                                   "il80_p4": 82100,
+                                   "il80_p5": 88700,
+                                   "il80_p6": 95250,
+                                   "il80_p7": 101850,
+                                   "il80_p8": 108400
+                            }
+                     }
+              ]
+       }
+}

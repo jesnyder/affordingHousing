@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 797,
+                                   "One-Bedroom": 850,
+                                   "Two-Bedroom": 1025,
+                                   "Three-Bedroom": 1407,
+                                   "Four-Bedroom": 1765,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 875,
+                                   "One-Bedroom": 905,
+                                   "Two-Bedroom": 1103,
+                                   "Three-Bedroom": 1485,
+                                   "Four-Bedroom": 1842,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 900,
+                                   "One-Bedroom": 929,
+                                   "Two-Bedroom": 1140,
+                                   "Three-Bedroom": 1499,
+                                   "Four-Bedroom": 1843,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 900,
+                                   "One-Bedroom": 921,
+                                   "Two-Bedroom": 1124,
+                                   "Three-Bedroom": 1445,
+                                   "Four-Bedroom": 1767,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1029,
+                                   "One-Bedroom": 1043,
+                                   "Two-Bedroom": 1264,
+                                   "Three-Bedroom": 1593,
+                                   "Four-Bedroom": 1892,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1047,
+                                   "One-Bedroom": 1048,
+                                   "Two-Bedroom": 1262,
+                                   "Three-Bedroom": 1560,
+                                   "Four-Bedroom": 1816,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "year": "2017",
+                            "median_income": 88300,
+                            "very_low": {
+                                   "il50_p1": 30950,
+                                   "il50_p2": 35350,
+                                   "il50_p3": 39750,
+                                   "il50_p4": 44150,
+                                   "il50_p5": 47700,
+                                   "il50_p6": 51250,
+                                   "il50_p7": 54750,
+                                   "il50_p8": 58300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18550,
+                                   "il30_p2": 21200,
+                                   "il30_p3": 23850,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 47600,
+                                   "il80_p2": 54400,
+                                   "il80_p3": 61200,
+                                   "il80_p4": 68000,
+                                   "il80_p5": 73450,
+                                   "il80_p6": 78900,
+                                   "il80_p7": 84350,
+                                   "il80_p8": 89800
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "year": "2018",
+                            "median_income": 92900,
+                            "very_low": {
+                                   "il50_p1": 32550,
+                                   "il50_p2": 37200,
+                                   "il50_p3": 41850,
+                                   "il50_p4": 46450,
+                                   "il50_p5": 50200,
+                                   "il50_p6": 53900,
+                                   "il50_p7": 57600,
+                                   "il50_p8": 61350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19500,
+                                   "il30_p2": 22300,
+                                   "il30_p3": 25100,
+                                   "il30_p4": 27850,
+                                   "il30_p5": 30100,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 50350,
+                                   "il80_p2": 57550,
+                                   "il80_p3": 64750,
+                                   "il80_p4": 71900,
+                                   "il80_p5": 77700,
+                                   "il80_p6": 83450,
+                                   "il80_p7": 89200,
+                                   "il80_p8": 94950
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "year": "2019",
+                            "median_income": 101200,
+                            "very_low": {
+                                   "il50_p1": 35450,
+                                   "il50_p2": 40500,
+                                   "il50_p3": 45550,
+                                   "il50_p4": 50600,
+                                   "il50_p5": 54650,
+                                   "il50_p6": 58700,
+                                   "il50_p7": 62750,
+                                   "il50_p8": 66800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21250,
+                                   "il30_p2": 24300,
+                                   "il30_p3": 27350,
+                                   "il30_p4": 30350,
+                                   "il30_p5": 32800,
+                                   "il30_p6": 35250,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 52850,
+                                   "il80_p2": 60400,
+                                   "il80_p3": 67950,
+                                   "il80_p4": 75500,
+                                   "il80_p5": 81550,
+                                   "il80_p6": 87600,
+                                   "il80_p7": 93650,
+                                   "il80_p8": 99700
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "year": "2020",
+                            "median_income": 101500,
+                            "very_low": {
+                                   "il50_p1": 35550,
+                                   "il50_p2": 40600,
+                                   "il50_p3": 45700,
+                                   "il50_p4": 50750,
+                                   "il50_p5": 54850,
+                                   "il50_p6": 58900,
+                                   "il50_p7": 62950,
+                                   "il50_p8": 67000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21350,
+                                   "il30_p2": 24400,
+                                   "il30_p3": 27450,
+                                   "il30_p4": 30450,
+                                   "il30_p5": 32900,
+                                   "il30_p6": 35350,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 54950,
+                                   "il80_p2": 62800,
+                                   "il80_p3": 70650,
+                                   "il80_p4": 78500,
+                                   "il80_p5": 84800,
+                                   "il80_p6": 91100,
+                                   "il80_p7": 97350,
+                                   "il80_p8": 103650
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI MSA",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "year": "2021",
+                            "median_income": 106600,
+                            "very_low": {
+                                   "il50_p1": 37300,
+                                   "il50_p2": 42600,
+                                   "il50_p3": 47950,
+                                   "il50_p4": 53250,
+                                   "il50_p5": 57550,
+                                   "il50_p6": 61800,
+                                   "il50_p7": 66050,
+                                   "il50_p8": 70300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 22400,
+                                   "il30_p2": 25600,
+                                   "il30_p3": 28800,
+                                   "il30_p4": 31950,
+                                   "il30_p5": 34550,
+                                   "il30_p6": 37100,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 55950,
+                                   "il80_p2": 63950,
+                                   "il80_p3": 71950,
+                                   "il80_p4": 79900,
+                                   "il80_p5": 86300,
+                                   "il80_p6": 92700,
+                                   "il80_p7": 99100,
+                                   "il80_p8": 105500
+                            }
+                     },
+                     {
+                            "county_name": "Washtenaw County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Ann Arbor, MI",
+                            "area_name": "Ann Arbor, MI MSA",
+                            "year": "2022",
+                            "median_income": 117800,
+                            "very_low": {
+                                   "il50_p1": 41250,
+                                   "il50_p2": 47150,
+                                   "il50_p3": 53050,
+                                   "il50_p4": 58900,
+                                   "il50_p5": 63650,
+                                   "il50_p6": 68350,
+                                   "il50_p7": 73050,
+                                   "il50_p8": 77750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 24750,
+                                   "il30_p2": 28300,
+                                   "il30_p3": 31850,
+                                   "il30_p4": 35350,
+                                   "il30_p5": 38200,
+                                   "il30_p6": 41050,
+                                   "il30_p7": 43850,
+                                   "il30_p8": 46700
+                            },
+                            "low": {
+                                   "il80_p1": 62600,
+                                   "il80_p2": 71550,
+                                   "il80_p3": 80500,
+                                   "il80_p4": 89400,
+                                   "il80_p5": 96600,
+                                   "il80_p6": 103750,
+                                   "il80_p7": 110900,
+                                   "il80_p8": 118050
+                            }
+                     }
+              ]
+       }
+}

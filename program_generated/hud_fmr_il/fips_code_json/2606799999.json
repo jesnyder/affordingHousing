@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 551,
+                                   "One-Bedroom": 555,
+                                   "Two-Bedroom": 737,
+                                   "Three-Bedroom": 976,
+                                   "Four-Bedroom": 1110,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 755,
+                                   "Three-Bedroom": 1003,
+                                   "Four-Bedroom": 1119,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 581,
+                                   "Two-Bedroom": 768,
+                                   "Three-Bedroom": 1004,
+                                   "Four-Bedroom": 1082,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 579,
+                                   "One-Bedroom": 582,
+                                   "Two-Bedroom": 767,
+                                   "Three-Bedroom": 975,
+                                   "Four-Bedroom": 1094,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 636,
+                                   "One-Bedroom": 640,
+                                   "Two-Bedroom": 844,
+                                   "Three-Bedroom": 1050,
+                                   "Four-Bedroom": 1197,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Kentwood, MI",
+                            "area_name": "Ionia County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 667,
+                                   "One-Bedroom": 672,
+                                   "Two-Bedroom": 884,
+                                   "Three-Bedroom": 1097,
+                                   "Four-Bedroom": 1302,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "year": "2017",
+                            "median_income": 57500,
+                            "very_low": {
+                                   "il50_p1": 20150,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25900,
+                                   "il50_p4": 28750,
+                                   "il50_p5": 31050,
+                                   "il50_p6": 33350,
+                                   "il50_p7": 35650,
+                                   "il50_p8": 37950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12100,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35650,
+                                   "il30_p8": 37950
+                            },
+                            "low": {
+                                   "il80_p1": 32200,
+                                   "il80_p2": 36800,
+                                   "il80_p3": 41400,
+                                   "il80_p4": 46000,
+                                   "il80_p5": 49700,
+                                   "il80_p6": 53400,
+                                   "il80_p7": 57050,
+                                   "il80_p8": 60750
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "year": "2018",
+                            "median_income": 60800,
+                            "very_low": {
+                                   "il50_p1": 21300,
+                                   "il50_p2": 24350,
+                                   "il50_p3": 27400,
+                                   "il50_p4": 30400,
+                                   "il50_p5": 32850,
+                                   "il50_p6": 35300,
+                                   "il50_p7": 37700,
+                                   "il50_p8": 40150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12800,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37700,
+                                   "il30_p8": 40150
+                            },
+                            "low": {
+                                   "il80_p1": 34100,
+                                   "il80_p2": 38950,
+                                   "il80_p3": 43800,
+                                   "il80_p4": 48650,
+                                   "il80_p5": 52550,
+                                   "il80_p6": 56450,
+                                   "il80_p7": 60350,
+                                   "il80_p8": 64250
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "year": "2019",
+                            "median_income": 62000,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 31000,
+                                   "il50_p5": 33500,
+                                   "il50_p6": 36000,
+                                   "il50_p7": 38450,
+                                   "il50_p8": 40950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13050,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38450,
+                                   "il30_p8": 40950
+                            },
+                            "low": {
+                                   "il80_p1": 34750,
+                                   "il80_p2": 39700,
+                                   "il80_p3": 44650,
+                                   "il80_p4": 49600,
+                                   "il80_p5": 53600,
+                                   "il80_p6": 57550,
+                                   "il80_p7": 61550,
+                                   "il80_p8": 65500
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "year": "2020",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 22800,
+                                   "il50_p2": 26050,
+                                   "il50_p3": 29300,
+                                   "il50_p4": 32550,
+                                   "il50_p5": 35200,
+                                   "il50_p6": 37800,
+                                   "il50_p7": 40400,
+                                   "il50_p8": 43000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43000
+                            },
+                            "low": {
+                                   "il80_p1": 36500,
+                                   "il80_p2": 41700,
+                                   "il80_p3": 46900,
+                                   "il80_p4": 52100,
+                                   "il80_p5": 56300,
+                                   "il80_p6": 60450,
+                                   "il80_p7": 64650,
+                                   "il80_p8": 68800
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Ionia County, MI",
+                            "year": "2021",
+                            "median_income": 66400,
+                            "very_low": {
+                                   "il50_p1": 23250,
+                                   "il50_p2": 26600,
+                                   "il50_p3": 29900,
+                                   "il50_p4": 33200,
+                                   "il50_p5": 35900,
+                                   "il50_p6": 38550,
+                                   "il50_p7": 41200,
+                                   "il50_p8": 43850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13950,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 43850
+                            },
+                            "low": {
+                                   "il80_p1": 37200,
+                                   "il80_p2": 42500,
+                                   "il80_p3": 47800,
+                                   "il80_p4": 53100,
+                                   "il80_p5": 57350,
+                                   "il80_p6": 61600,
+                                   "il80_p7": 65850,
+                                   "il80_p8": 70100
+                            }
+                     },
+                     {
+                            "county_name": "Ionia County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Kentwood, MI",
+                            "area_name": "Ionia County, MI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 73100,
+                            "very_low": {
+                                   "il50_p1": 25600,
+                                   "il50_p2": 29250,
+                                   "il50_p3": 32900,
+                                   "il50_p4": 36550,
+                                   "il50_p5": 39500,
+                                   "il50_p6": 42400,
+                                   "il50_p7": 45350,
+                                   "il50_p8": 48250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40950,
+                                   "il80_p2": 46800,
+                                   "il80_p3": 52650,
+                                   "il80_p4": 58500,
+                                   "il80_p5": 63200,
+                                   "il80_p6": 67900,
+                                   "il80_p7": 72550,
+                                   "il80_p8": 77250
+                            }
+                     }
+              ]
+       }
+}

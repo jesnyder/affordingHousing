@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 484,
+                                   "One-Bedroom": 577,
+                                   "Two-Bedroom": 743,
+                                   "Three-Bedroom": 1037,
+                                   "Four-Bedroom": 1217,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 505,
+                                   "One-Bedroom": 600,
+                                   "Two-Bedroom": 791,
+                                   "Three-Bedroom": 1103,
+                                   "Four-Bedroom": 1312,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 527,
+                                   "One-Bedroom": 621,
+                                   "Two-Bedroom": 821,
+                                   "Three-Bedroom": 1153,
+                                   "Four-Bedroom": 1394,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 805,
+                                   "Three-Bedroom": 1142,
+                                   "Four-Bedroom": 1286,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 545,
+                                   "One-Bedroom": 627,
+                                   "Two-Bedroom": 826,
+                                   "Three-Bedroom": 1168,
+                                   "Four-Bedroom": 1315,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI",
+                            "area_name": "Midland, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 582,
+                                   "One-Bedroom": 661,
+                                   "Two-Bedroom": 870,
+                                   "Three-Bedroom": 1210,
+                                   "Four-Bedroom": 1341,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "year": "2017",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "year": "2018",
+                            "median_income": 73400,
+                            "very_low": {
+                                   "il50_p1": 25700,
+                                   "il50_p2": 29400,
+                                   "il50_p3": 33050,
+                                   "il50_p4": 36700,
+                                   "il50_p5": 39650,
+                                   "il50_p6": 42600,
+                                   "il50_p7": 45550,
+                                   "il50_p8": 48450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15400,
+                                   "il30_p2": 17600,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 41100,
+                                   "il80_p2": 47000,
+                                   "il80_p3": 52850,
+                                   "il80_p4": 58700,
+                                   "il80_p5": 63400,
+                                   "il80_p6": 68100,
+                                   "il80_p7": 72800,
+                                   "il80_p8": 77500
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "year": "2019",
+                            "median_income": 74600,
+                            "very_low": {
+                                   "il50_p1": 26150,
+                                   "il50_p2": 29850,
+                                   "il50_p3": 33600,
+                                   "il50_p4": 37300,
+                                   "il50_p5": 40300,
+                                   "il50_p6": 43300,
+                                   "il50_p7": 46300,
+                                   "il50_p8": 49250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15700,
+                                   "il30_p2": 17950,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 41800,
+                                   "il80_p2": 47800,
+                                   "il80_p3": 53750,
+                                   "il80_p4": 59700,
+                                   "il80_p5": 64500,
+                                   "il80_p6": 69300,
+                                   "il80_p7": 74050,
+                                   "il80_p8": 78850
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "year": "2020",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 28200,
+                                   "il50_p2": 32200,
+                                   "il50_p3": 36250,
+                                   "il50_p4": 40250,
+                                   "il50_p5": 43500,
+                                   "il50_p6": 46700,
+                                   "il50_p7": 49950,
+                                   "il50_p8": 53150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16950,
+                                   "il30_p2": 19350,
+                                   "il30_p3": 21750,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 45100,
+                                   "il80_p2": 51550,
+                                   "il80_p3": 58000,
+                                   "il80_p4": 64400,
+                                   "il80_p5": 69600,
+                                   "il80_p6": 74750,
+                                   "il80_p7": 79900,
+                                   "il80_p8": 85050
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI MSA",
+                            "area_name": "Midland, MI MSA",
+                            "year": "2021",
+                            "median_income": 72100,
+                            "very_low": {
+                                   "il50_p1": 26800,
+                                   "il50_p2": 30600,
+                                   "il50_p3": 34450,
+                                   "il50_p4": 38250,
+                                   "il50_p5": 41350,
+                                   "il50_p6": 44400,
+                                   "il50_p7": 47450,
+                                   "il50_p8": 50500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16100,
+                                   "il30_p2": 18400,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42850,
+                                   "il80_p2": 49000,
+                                   "il80_p3": 55100,
+                                   "il80_p4": 61200,
+                                   "il80_p5": 66100,
+                                   "il80_p6": 71000,
+                                   "il80_p7": 75900,
+                                   "il80_p8": 80800
+                            }
+                     },
+                     {
+                            "county_name": "Midland County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Midland, MI",
+                            "area_name": "Midland, MI MSA",
+                            "year": "2022",
+                            "median_income": 94200,
+                            "very_low": {
+                                   "il50_p1": 29950,
+                                   "il50_p2": 34200,
+                                   "il50_p3": 38500,
+                                   "il50_p4": 42750,
+                                   "il50_p5": 46200,
+                                   "il50_p6": 49600,
+                                   "il50_p7": 53050,
+                                   "il50_p8": 56450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18000,
+                                   "il30_p2": 20550,
+                                   "il30_p3": 23100,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 47900,
+                                   "il80_p2": 54750,
+                                   "il80_p3": 61600,
+                                   "il80_p4": 68400,
+                                   "il80_p5": 73900,
+                                   "il80_p6": 79350,
+                                   "il80_p7": 84850,
+                                   "il80_p8": 90300
+                            }
+                     }
+              ]
+       }
+}

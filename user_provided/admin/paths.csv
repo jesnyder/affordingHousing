@@ -26,6 +26,7 @@ fmr_il_state_code,program_generated hud_fmr_il state_code_json
 
 # analyze_dataset referenced
 downloadHUD,user_provided downloadHUD
+geojson_counties_src,user_provided geojson us_counties.json
 
 # analyze_dataset created
 metro_fmr,program_generated metro_fmr
@@ -34,3 +35,6 @@ chart_js,docs js
 template_html,docs template_html.html
 fids_json,program_generated json_compiled fids.json
 slopes,program_generated df_compiled slopes.csv
+geojson_hud_county,docs js_map geojson_hud.js
+all_data_df,program_generated df_compiled all_data.csv
+summary_df,program_generated df_compiled summary.csv

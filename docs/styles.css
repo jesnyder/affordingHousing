@@ -32,6 +32,12 @@ body {
   height: 90vh;
 }
 
+.leaflet-container {
+    background: #ffffff;
+    outline: 0;
+}
+
+
 .leaflet-bottom.leaflet-left {
   width: 100%;
 }

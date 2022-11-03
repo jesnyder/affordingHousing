@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 461,
+                                   "One-Bedroom": 546,
+                                   "Two-Bedroom": 726,
+                                   "Three-Bedroom": 955,
+                                   "Four-Bedroom": 1001,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 481,
+                                   "One-Bedroom": 567,
+                                   "Two-Bedroom": 754,
+                                   "Three-Bedroom": 987,
+                                   "Four-Bedroom": 1045,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 495,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 771,
+                                   "Three-Bedroom": 1022,
+                                   "Four-Bedroom": 1073,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 478,
+                                   "One-Bedroom": 557,
+                                   "Two-Bedroom": 734,
+                                   "Three-Bedroom": 972,
+                                   "Four-Bedroom": 994,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 512,
+                                   "One-Bedroom": 589,
+                                   "Two-Bedroom": 776,
+                                   "Three-Bedroom": 1020,
+                                   "Four-Bedroom": 1064,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI",
+                            "area_name": "Bay City, MI MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 522,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 786,
+                                   "Three-Bedroom": 1031,
+                                   "Four-Bedroom": 1118,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "year": "2017",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 21050,
+                                   "il50_p2": 24050,
+                                   "il50_p3": 27050,
+                                   "il50_p4": 30050,
+                                   "il50_p5": 32500,
+                                   "il50_p6": 34900,
+                                   "il50_p7": 37300,
+                                   "il50_p8": 39700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12650,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 39700
+                            },
+                            "low": {
+                                   "il80_p1": 33650,
+                                   "il80_p2": 38450,
+                                   "il80_p3": 43250,
+                                   "il80_p4": 48050,
+                                   "il80_p5": 51900,
+                                   "il80_p6": 55750,
+                                   "il80_p7": 59600,
+                                   "il80_p8": 63450
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "year": "2018",
+                            "median_income": 60400,
+                            "very_low": {
+                                   "il50_p1": 21150,
+                                   "il50_p2": 24200,
+                                   "il50_p3": 27200,
+                                   "il50_p4": 30200,
+                                   "il50_p5": 32650,
+                                   "il50_p6": 35050,
+                                   "il50_p7": 37450,
+                                   "il50_p8": 39900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12700,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37450,
+                                   "il30_p8": 39900
+                            },
+                            "low": {
+                                   "il80_p1": 33850,
+                                   "il80_p2": 38650,
+                                   "il80_p3": 43500,
+                                   "il80_p4": 48300,
+                                   "il80_p5": 52200,
+                                   "il80_p6": 56050,
+                                   "il80_p7": 59900,
+                                   "il80_p8": 63800
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "year": "2019",
+                            "median_income": 59200,
+                            "very_low": {
+                                   "il50_p1": 21400,
+                                   "il50_p2": 24450,
+                                   "il50_p3": 27500,
+                                   "il50_p4": 30550,
+                                   "il50_p5": 33000,
+                                   "il50_p6": 35450,
+                                   "il50_p7": 37900,
+                                   "il50_p8": 40350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12850,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 37900,
+                                   "il30_p8": 40350
+                            },
+                            "low": {
+                                   "il80_p1": 34250,
+                                   "il80_p2": 39150,
+                                   "il80_p3": 44050,
+                                   "il80_p4": 48900,
+                                   "il80_p5": 52850,
+                                   "il80_p6": 56750,
+                                   "il80_p7": 60650,
+                                   "il80_p8": 64550
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "year": "2020",
+                            "median_income": 59500,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI MSA",
+                            "area_name": "Bay City, MI MSA",
+                            "year": "2021",
+                            "median_income": 63500,
+                            "very_low": {
+                                   "il50_p1": 22600,
+                                   "il50_p2": 25800,
+                                   "il50_p3": 29050,
+                                   "il50_p4": 32250,
+                                   "il50_p5": 34850,
+                                   "il50_p6": 37450,
+                                   "il50_p7": 40000,
+                                   "il50_p8": 42600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13550,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40000,
+                                   "il30_p8": 42600
+                            },
+                            "low": {
+                                   "il80_p1": 36150,
+                                   "il80_p2": 41300,
+                                   "il80_p3": 46450,
+                                   "il80_p4": 51600,
+                                   "il80_p5": 55750,
+                                   "il80_p6": 59900,
+                                   "il80_p7": 64000,
+                                   "il80_p8": 68150
+                            }
+                     },
+                     {
+                            "county_name": "Bay County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Bay City, MI",
+                            "area_name": "Bay City, MI MSA",
+                            "year": "2022",
+                            "median_income": 74800,
+                            "very_low": {
+                                   "il50_p1": 25250,
+                                   "il50_p2": 28850,
+                                   "il50_p3": 32450,
+                                   "il50_p4": 36050,
+                                   "il50_p5": 38950,
+                                   "il50_p6": 41850,
+                                   "il50_p7": 44750,
+                                   "il50_p8": 47600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15200,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 40400,
+                                   "il80_p2": 46200,
+                                   "il80_p3": 51950,
+                                   "il80_p4": 57700,
+                                   "il80_p5": 62350,
+                                   "il80_p6": 66950,
+                                   "il80_p7": 71550,
+                                   "il80_p8": 76200
+                            }
+                     }
+              ]
+       }
+}

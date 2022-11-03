@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 672,
+                                   "Two-Bedroom": 887,
+                                   "Three-Bedroom": 1228,
+                                   "Four-Bedroom": 1244,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 590,
+                                   "One-Bedroom": 705,
+                                   "Two-Bedroom": 925,
+                                   "Three-Bedroom": 1255,
+                                   "Four-Bedroom": 1354,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 587,
+                                   "One-Bedroom": 706,
+                                   "Two-Bedroom": 914,
+                                   "Three-Bedroom": 1232,
+                                   "Four-Bedroom": 1288,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 677,
+                                   "Two-Bedroom": 865,
+                                   "Three-Bedroom": 1141,
+                                   "Four-Bedroom": 1174,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 609,
+                                   "One-Bedroom": 660,
+                                   "Two-Bedroom": 826,
+                                   "Three-Bedroom": 1084,
+                                   "Four-Bedroom": 1120,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 665,
+                                   "One-Bedroom": 741,
+                                   "Two-Bedroom": 913,
+                                   "Three-Bedroom": 1180,
+                                   "Four-Bedroom": 1441,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "year": "2017",
+                            "median_income": 61900,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 30950,
+                                   "il50_p5": 33450,
+                                   "il50_p6": 35950,
+                                   "il50_p7": 38400,
+                                   "il50_p8": 40900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13000,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40900
+                            },
+                            "low": {
+                                   "il80_p1": 34650,
+                                   "il80_p2": 39600,
+                                   "il80_p3": 44550,
+                                   "il80_p4": 49500,
+                                   "il80_p5": 53500,
+                                   "il80_p6": 57450,
+                                   "il80_p7": 61400,
+                                   "il80_p8": 65350
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "year": "2018",
+                            "median_income": 63800,
+                            "very_low": {
+                                   "il50_p1": 22350,
+                                   "il50_p2": 25550,
+                                   "il50_p3": 28750,
+                                   "il50_p4": 31900,
+                                   "il50_p5": 34500,
+                                   "il50_p6": 37050,
+                                   "il50_p7": 39600,
+                                   "il50_p8": 42150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42150
+                            },
+                            "low": {
+                                   "il80_p1": 35750,
+                                   "il80_p2": 40850,
+                                   "il80_p3": 45950,
+                                   "il80_p4": 51050,
+                                   "il80_p5": 55150,
+                                   "il80_p6": 59250,
+                                   "il80_p7": 63350,
+                                   "il80_p8": 67400
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "year": "2019",
+                            "median_income": 65300,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "year": "2020",
+                            "median_income": 69400,
+                            "very_low": {
+                                   "il50_p1": 24300,
+                                   "il50_p2": 27800,
+                                   "il50_p3": 31250,
+                                   "il50_p4": 34700,
+                                   "il50_p5": 37500,
+                                   "il50_p6": 40300,
+                                   "il50_p7": 43050,
+                                   "il50_p8": 45850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14600,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38850,
+                                   "il80_p2": 44400,
+                                   "il80_p3": 49950,
+                                   "il80_p4": 55500,
+                                   "il80_p5": 59950,
+                                   "il80_p6": 64400,
+                                   "il80_p7": 68850,
+                                   "il80_p8": 73300
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "year": "2021",
+                            "median_income": 71400,
+                            "very_low": {
+                                   "il50_p1": 25000,
+                                   "il50_p2": 28600,
+                                   "il50_p3": 32150,
+                                   "il50_p4": 35700,
+                                   "il50_p5": 38600,
+                                   "il50_p6": 41450,
+                                   "il50_p7": 44300,
+                                   "il50_p8": 47150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15000,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 40000,
+                                   "il80_p2": 45700,
+                                   "il80_p3": 51400,
+                                   "il80_p4": 57100,
+                                   "il80_p5": 61700,
+                                   "il80_p6": 66250,
+                                   "il80_p7": 70850,
+                                   "il80_p8": 75400
+                            }
+                     },
+                     {
+                            "county_name": "Watauga County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Watauga County, NC",
+                            "year": "2022",
+                            "median_income": 82200,
+                            "very_low": {
+                                   "il50_p1": 27950,
+                                   "il50_p2": 31950,
+                                   "il50_p3": 35950,
+                                   "il50_p4": 39900,
+                                   "il50_p5": 43100,
+                                   "il50_p6": 46300,
+                                   "il50_p7": 49500,
+                                   "il50_p8": 52700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16800,
+                                   "il30_p2": 19200,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44700,
+                                   "il80_p2": 51100,
+                                   "il80_p3": 57500,
+                                   "il80_p4": 63850,
+                                   "il80_p5": 69000,
+                                   "il80_p6": 74100,
+                                   "il80_p7": 79200,
+                                   "il80_p8": 84300
+                            }
+                     }
+              ]
+       }
+}

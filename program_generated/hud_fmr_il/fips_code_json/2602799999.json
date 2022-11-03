@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 551,
+                                   "One-Bedroom": 555,
+                                   "Two-Bedroom": 737,
+                                   "Three-Bedroom": 1003,
+                                   "Four-Bedroom": 1016,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 572,
+                                   "One-Bedroom": 597,
+                                   "Two-Bedroom": 794,
+                                   "Three-Bedroom": 1025,
+                                   "Four-Bedroom": 1081,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 578,
+                                   "Two-Bedroom": 765,
+                                   "Three-Bedroom": 979,
+                                   "Four-Bedroom": 1034,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 525,
+                                   "One-Bedroom": 612,
+                                   "Two-Bedroom": 806,
+                                   "Three-Bedroom": 1008,
+                                   "Four-Bedroom": 1092,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 529,
+                                   "One-Bedroom": 609,
+                                   "Two-Bedroom": 802,
+                                   "Three-Bedroom": 1026,
+                                   "Four-Bedroom": 1088,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 593,
+                                   "One-Bedroom": 655,
+                                   "Two-Bedroom": 845,
+                                   "Three-Bedroom": 1102,
+                                   "Four-Bedroom": 1151,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 58200,
+                            "very_low": {
+                                   "il50_p1": 20400,
+                                   "il50_p2": 23300,
+                                   "il50_p3": 26200,
+                                   "il50_p4": 29100,
+                                   "il50_p5": 31450,
+                                   "il50_p6": 33800,
+                                   "il50_p7": 36100,
+                                   "il50_p8": 38450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36100,
+                                   "il30_p8": 38450
+                            },
+                            "low": {
+                                   "il80_p1": 32600,
+                                   "il80_p2": 37250,
+                                   "il80_p3": 41900,
+                                   "il80_p4": 46550,
+                                   "il80_p5": 50300,
+                                   "il80_p6": 54000,
+                                   "il80_p7": 57750,
+                                   "il80_p8": 61450
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 59200,
+                            "very_low": {
+                                   "il50_p1": 20750,
+                                   "il50_p2": 23700,
+                                   "il50_p3": 26650,
+                                   "il50_p4": 29600,
+                                   "il50_p5": 32000,
+                                   "il50_p6": 34350,
+                                   "il50_p7": 36750,
+                                   "il50_p8": 39100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36750,
+                                   "il30_p8": 39100
+                            },
+                            "low": {
+                                   "il80_p1": 33150,
+                                   "il80_p2": 37900,
+                                   "il80_p3": 42650,
+                                   "il80_p4": 47350,
+                                   "il80_p5": 51150,
+                                   "il80_p6": 54950,
+                                   "il80_p7": 58750,
+                                   "il80_p8": 62550
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 62700,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25100,
+                                   "il50_p3": 28250,
+                                   "il50_p4": 31350,
+                                   "il50_p5": 33900,
+                                   "il50_p6": 36400,
+                                   "il50_p7": 38900,
+                                   "il50_p8": 41400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38900,
+                                   "il30_p8": 41400
+                            },
+                            "low": {
+                                   "il80_p1": 35150,
+                                   "il80_p2": 40150,
+                                   "il80_p3": 45150,
+                                   "il80_p4": 50150,
+                                   "il80_p5": 54200,
+                                   "il80_p6": 58200,
+                                   "il80_p7": 62200,
+                                   "il80_p8": 66200
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 65900,
+                            "very_low": {
+                                   "il50_p1": 23100,
+                                   "il50_p2": 26400,
+                                   "il50_p3": 29700,
+                                   "il50_p4": 32950,
+                                   "il50_p5": 35600,
+                                   "il50_p6": 38250,
+                                   "il50_p7": 40900,
+                                   "il50_p8": 43500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13850,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43500
+                            },
+                            "low": {
+                                   "il80_p1": 36900,
+                                   "il80_p2": 42200,
+                                   "il80_p3": 47450,
+                                   "il80_p4": 52700,
+                                   "il80_p5": 56950,
+                                   "il80_p6": 61150,
+                                   "il80_p7": 65350,
+                                   "il80_p8": 69600
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI MSA",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 68200,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     },
+                     {
+                            "county_name": "Cass County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "South Bend-Mishawaka, IN-MI",
+                            "area_name": "Cass County, MI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74800,
+                            "very_low": {
+                                   "il50_p1": 26200,
+                                   "il50_p2": 29950,
+                                   "il50_p3": 33700,
+                                   "il50_p4": 37400,
+                                   "il50_p5": 40400,
+                                   "il50_p6": 43400,
+                                   "il50_p7": 46400,
+                                   "il50_p8": 49400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41900,
+                                   "il80_p2": 47900,
+                                   "il80_p3": 53900,
+                                   "il80_p4": 59850,
+                                   "il80_p5": 64650,
+                                   "il80_p6": 69450,
+                                   "il80_p7": 74250,
+                                   "il80_p8": 79050
+                            }
+                     }
+              ]
+       }
+}

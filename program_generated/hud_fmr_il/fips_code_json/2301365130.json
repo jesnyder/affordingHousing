@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 666,
+                                   "One-Bedroom": 671,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1111,
+                                   "Four-Bedroom": 1265,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 695,
+                                   "One-Bedroom": 700,
+                                   "Two-Bedroom": 886,
+                                   "Three-Bedroom": 1195,
+                                   "Four-Bedroom": 1320,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 731,
+                                   "One-Bedroom": 763,
+                                   "Two-Bedroom": 918,
+                                   "Three-Bedroom": 1282,
+                                   "Four-Bedroom": 1379,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 676,
+                                   "One-Bedroom": 706,
+                                   "Two-Bedroom": 842,
+                                   "Three-Bedroom": 1174,
+                                   "Four-Bedroom": 1242,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 771,
+                                   "One-Bedroom": 815,
+                                   "Two-Bedroom": 967,
+                                   "Three-Bedroom": 1329,
+                                   "Four-Bedroom": 1365,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 818,
+                                   "One-Bedroom": 829,
+                                   "Two-Bedroom": 1005,
+                                   "Three-Bedroom": 1332,
+                                   "Four-Bedroom": 1363,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "year": "2017",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "year": "2018",
+                            "median_income": 64000,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 32000,
+                                   "il50_p5": 34600,
+                                   "il50_p6": 37150,
+                                   "il50_p7": 39700,
+                                   "il50_p8": 42250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42250
+                            },
+                            "low": {
+                                   "il80_p1": 35850,
+                                   "il80_p2": 41000,
+                                   "il80_p3": 46100,
+                                   "il80_p4": 51200,
+                                   "il80_p5": 55300,
+                                   "il80_p6": 59400,
+                                   "il80_p7": 63500,
+                                   "il80_p8": 67600
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "year": "2019",
+                            "median_income": 65500,
+                            "very_low": {
+                                   "il50_p1": 22950,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29500,
+                                   "il50_p4": 32750,
+                                   "il50_p5": 35400,
+                                   "il50_p6": 38000,
+                                   "il50_p7": 40650,
+                                   "il50_p8": 43250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13800,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43250
+                            },
+                            "low": {
+                                   "il80_p1": 36700,
+                                   "il80_p2": 41950,
+                                   "il80_p3": 47200,
+                                   "il80_p4": 52400,
+                                   "il80_p5": 56600,
+                                   "il80_p6": 60800,
+                                   "il80_p7": 65000,
+                                   "il80_p8": 69200
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "year": "2020",
+                            "median_income": 68200,
+                            "very_low": {
+                                   "il50_p1": 23900,
+                                   "il50_p2": 27300,
+                                   "il50_p3": 30700,
+                                   "il50_p4": 34100,
+                                   "il50_p5": 36850,
+                                   "il50_p6": 39600,
+                                   "il50_p7": 42300,
+                                   "il50_p8": 45050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14350,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38200,
+                                   "il80_p2": 43650,
+                                   "il80_p3": 49100,
+                                   "il80_p4": 54550,
+                                   "il80_p5": 58950,
+                                   "il80_p6": 63300,
+                                   "il80_p7": 67650,
+                                   "il80_p8": 72050
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "year": "2021",
+                            "median_income": 70400,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31700,
+                                   "il50_p4": 35200,
+                                   "il50_p5": 38050,
+                                   "il50_p6": 40850,
+                                   "il50_p7": 43650,
+                                   "il50_p8": 46500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39450,
+                                   "il80_p2": 45050,
+                                   "il80_p3": 50700,
+                                   "il80_p4": 56300,
+                                   "il80_p5": 60850,
+                                   "il80_p6": 65350,
+                                   "il80_p7": 69850,
+                                   "il80_p8": 74350
+                            }
+                     },
+                     {
+                            "county_name": "Knox County, ME",
+                            "counties_msa": "",
+                            "town_name": "St. George town",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Knox County, ME",
+                            "year": "2022",
+                            "median_income": 79400,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31500,
+                                   "il50_p3": 35450,
+                                   "il50_p4": 39350,
+                                   "il50_p5": 42500,
+                                   "il50_p6": 45650,
+                                   "il50_p7": 48800,
+                                   "il50_p8": 51950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44100,
+                                   "il80_p2": 50400,
+                                   "il80_p3": 56700,
+                                   "il80_p4": 62950,
+                                   "il80_p5": 68000,
+                                   "il80_p6": 73050,
+                                   "il80_p7": 78100,
+                                   "il80_p8": 83100
+                            }
+                     }
+              ]
+       }
+}

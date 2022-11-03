@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 466,
+                                   "One-Bedroom": 509,
+                                   "Two-Bedroom": 637,
+                                   "Three-Bedroom": 824,
+                                   "Four-Bedroom": 900,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 467,
+                                   "One-Bedroom": 530,
+                                   "Two-Bedroom": 641,
+                                   "Three-Bedroom": 826,
+                                   "Four-Bedroom": 891,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 469,
+                                   "One-Bedroom": 550,
+                                   "Two-Bedroom": 646,
+                                   "Three-Bedroom": 840,
+                                   "Four-Bedroom": 875,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 541,
+                                   "One-Bedroom": 557,
+                                   "Two-Bedroom": 634,
+                                   "Three-Bedroom": 861,
+                                   "Four-Bedroom": 873,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 567,
+                                   "One-Bedroom": 581,
+                                   "Two-Bedroom": 662,
+                                   "Three-Bedroom": 921,
+                                   "Four-Bedroom": 927,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "McDonald County, MO",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 601,
+                                   "Two-Bedroom": 685,
+                                   "Three-Bedroom": 953,
+                                   "Four-Bedroom": 1090,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 45900,
+                            "very_low": {
+                                   "il50_p1": 17400,
+                                   "il50_p2": 19850,
+                                   "il50_p3": 22350,
+                                   "il50_p4": 24800,
+                                   "il50_p5": 26800,
+                                   "il50_p6": 28800,
+                                   "il50_p7": 30800,
+                                   "il50_p8": 32750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 26800,
+                                   "il30_p6": 28800,
+                                   "il30_p7": 30800,
+                                   "il30_p8": 32750
+                            },
+                            "low": {
+                                   "il80_p1": 27800,
+                                   "il80_p2": 31750,
+                                   "il80_p3": 35700,
+                                   "il80_p4": 39650,
+                                   "il80_p5": 42850,
+                                   "il80_p6": 46000,
+                                   "il80_p7": 49200,
+                                   "il80_p8": 52350
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 46400,
+                            "very_low": {
+                                   "il50_p1": 18600,
+                                   "il50_p2": 21250,
+                                   "il50_p3": 23900,
+                                   "il50_p4": 26550,
+                                   "il50_p5": 28700,
+                                   "il50_p6": 30800,
+                                   "il50_p7": 32950,
+                                   "il50_p8": 35050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 28700,
+                                   "il30_p6": 30800,
+                                   "il30_p7": 32950,
+                                   "il30_p8": 35050
+                            },
+                            "low": {
+                                   "il80_p1": 29750,
+                                   "il80_p2": 34000,
+                                   "il80_p3": 38250,
+                                   "il80_p4": 42500,
+                                   "il80_p5": 45900,
+                                   "il80_p6": 49300,
+                                   "il80_p7": 52700,
+                                   "il80_p8": 56100
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 45100,
+                            "very_low": {
+                                   "il50_p1": 19350,
+                                   "il50_p2": 22100,
+                                   "il50_p3": 24850,
+                                   "il50_p4": 27600,
+                                   "il50_p5": 29850,
+                                   "il50_p6": 32050,
+                                   "il50_p7": 34250,
+                                   "il50_p8": 36450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29850,
+                                   "il30_p6": 32050,
+                                   "il30_p7": 34250,
+                                   "il30_p8": 36450
+                            },
+                            "low": {
+                                   "il80_p1": 30950,
+                                   "il80_p2": 35350,
+                                   "il80_p3": 39750,
+                                   "il80_p4": 44150,
+                                   "il80_p5": 47700,
+                                   "il80_p6": 51250,
+                                   "il80_p7": 54750,
+                                   "il80_p8": 58300
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 48200,
+                            "very_low": {
+                                   "il50_p1": 19650,
+                                   "il50_p2": 22450,
+                                   "il50_p3": 25250,
+                                   "il50_p4": 28050,
+                                   "il50_p5": 30300,
+                                   "il50_p6": 32550,
+                                   "il50_p7": 34800,
+                                   "il50_p8": 37050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30300,
+                                   "il30_p6": 32550,
+                                   "il30_p7": 34800,
+                                   "il30_p8": 37050
+                            },
+                            "low": {
+                                   "il80_p1": 31450,
+                                   "il80_p2": 35950,
+                                   "il80_p3": 40450,
+                                   "il80_p4": 44900,
+                                   "il80_p5": 48500,
+                                   "il80_p6": 52100,
+                                   "il80_p7": 55700,
+                                   "il80_p8": 59300
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville-Springdale-Rogers, AR-MO MSA",
+                            "area_name": "McDonald County, MO HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 50500,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22550,
+                                   "il50_p3": 25350,
+                                   "il50_p4": 28150,
+                                   "il50_p5": 30450,
+                                   "il50_p6": 32700,
+                                   "il50_p7": 34950,
+                                   "il50_p8": 37200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 30450,
+                                   "il30_p6": 32700,
+                                   "il30_p7": 34950,
+                                   "il30_p8": 37200
+                            },
+                            "low": {
+                                   "il80_p1": 31550,
+                                   "il80_p2": 36050,
+                                   "il80_p3": 40550,
+                                   "il80_p4": 45050,
+                                   "il80_p5": 48700,
+                                   "il80_p6": 52300,
+                                   "il80_p7": 55900,
+                                   "il80_p8": 59500
+                            }
+                     },
+                     {
+                            "county_name": "McDonald County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "McDonald County, MO",
+                            "year": "2022",
+                            "median_income": 52700,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31450,
+                                   "il50_p5": 34000,
+                                   "il50_p6": 36500,
+                                   "il50_p7": 39000,
+                                   "il50_p8": 41550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36500,
+                                   "il30_p7": 39000,
+                                   "il30_p8": 41550
+                            },
+                            "low": {
+                                   "il80_p1": 35250,
+                                   "il80_p2": 40250,
+                                   "il80_p3": 45300,
+                                   "il80_p4": 50300,
+                                   "il80_p5": 54350,
+                                   "il80_p6": 58350,
+                                   "il80_p7": 62400,
+                                   "il80_p8": 66400
+                            }
+                     }
+              ]
+       }
+}

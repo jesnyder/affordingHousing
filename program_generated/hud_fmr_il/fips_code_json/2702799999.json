@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 491,
+                                   "One-Bedroom": 602,
+                                   "Two-Bedroom": 767,
+                                   "Three-Bedroom": 1117,
+                                   "Four-Bedroom": 1276,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 521,
+                                   "One-Bedroom": 643,
+                                   "Two-Bedroom": 810,
+                                   "Three-Bedroom": 1178,
+                                   "Four-Bedroom": 1411,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 561,
+                                   "One-Bedroom": 691,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1242,
+                                   "Four-Bedroom": 1509,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 555,
+                                   "One-Bedroom": 676,
+                                   "Two-Bedroom": 834,
+                                   "Three-Bedroom": 1203,
+                                   "Four-Bedroom": 1464,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 593,
+                                   "One-Bedroom": 712,
+                                   "Two-Bedroom": 873,
+                                   "Three-Bedroom": 1249,
+                                   "Four-Bedroom": 1512,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 597,
+                                   "One-Bedroom": 705,
+                                   "Two-Bedroom": 859,
+                                   "Three-Bedroom": 1220,
+                                   "Four-Bedroom": 1470,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "year": "2017",
+                            "median_income": 75200,
+                            "very_low": {
+                                   "il50_p1": 27550,
+                                   "il50_p2": 31450,
+                                   "il50_p3": 35400,
+                                   "il50_p4": 39300,
+                                   "il50_p5": 42450,
+                                   "il50_p6": 45600,
+                                   "il50_p7": 48750,
+                                   "il50_p8": 51900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16550,
+                                   "il30_p2": 18900,
+                                   "il30_p3": 21250,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 44050,
+                                   "il80_p2": 50350,
+                                   "il80_p3": 56650,
+                                   "il80_p4": 62900,
+                                   "il80_p5": 67950,
+                                   "il80_p6": 73000,
+                                   "il80_p7": 78000,
+                                   "il80_p8": 83050
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "year": "2018",
+                            "median_income": 82000,
+                            "very_low": {
+                                   "il50_p1": 29050,
+                                   "il50_p2": 33200,
+                                   "il50_p3": 37350,
+                                   "il50_p4": 41450,
+                                   "il50_p5": 44800,
+                                   "il50_p6": 48100,
+                                   "il50_p7": 51400,
+                                   "il50_p8": 54750
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17400,
+                                   "il30_p2": 19900,
+                                   "il30_p3": 22400,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 46450,
+                                   "il80_p2": 53050,
+                                   "il80_p3": 59700,
+                                   "il80_p4": 66300,
+                                   "il80_p5": 71650,
+                                   "il80_p6": 76950,
+                                   "il80_p7": 82250,
+                                   "il80_p8": 87550
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "year": "2019",
+                            "median_income": 84100,
+                            "very_low": {
+                                   "il50_p1": 29450,
+                                   "il50_p2": 33650,
+                                   "il50_p3": 37850,
+                                   "il50_p4": 42050,
+                                   "il50_p5": 45450,
+                                   "il50_p6": 48800,
+                                   "il50_p7": 52150,
+                                   "il50_p8": 55550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17700,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22750,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47150,
+                                   "il80_p2": 53850,
+                                   "il80_p3": 60600,
+                                   "il80_p4": 67300,
+                                   "il80_p5": 72700,
+                                   "il80_p6": 78100,
+                                   "il80_p7": 83500,
+                                   "il80_p8": 88850
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "year": "2020",
+                            "median_income": 89400,
+                            "very_low": {
+                                   "il50_p1": 31300,
+                                   "il50_p2": 35800,
+                                   "il50_p3": 40250,
+                                   "il50_p4": 44700,
+                                   "il50_p5": 48300,
+                                   "il50_p6": 51900,
+                                   "il50_p7": 55450,
+                                   "il50_p8": 59050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18800,
+                                   "il30_p2": 21450,
+                                   "il30_p3": 24150,
+                                   "il30_p4": 26800,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 50050,
+                                   "il80_p2": 57200,
+                                   "il80_p3": 64350,
+                                   "il80_p4": 71500,
+                                   "il80_p5": 77250,
+                                   "il80_p6": 82950,
+                                   "il80_p7": 88700,
+                                   "il80_p8": 94400
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN MSA",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "year": "2021",
+                            "median_income": 91300,
+                            "very_low": {
+                                   "il50_p1": 32000,
+                                   "il50_p2": 36550,
+                                   "il50_p3": 41100,
+                                   "il50_p4": 45650,
+                                   "il50_p5": 49350,
+                                   "il50_p6": 53000,
+                                   "il50_p7": 56650,
+                                   "il50_p8": 60300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19200,
+                                   "il30_p2": 21950,
+                                   "il30_p3": 24700,
+                                   "il30_p4": 27400,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 51150,
+                                   "il80_p2": 58450,
+                                   "il80_p3": 65750,
+                                   "il80_p4": 73050,
+                                   "il80_p5": 78900,
+                                   "il80_p6": 84750,
+                                   "il80_p7": 90600,
+                                   "il80_p8": 96450
+                            }
+                     },
+                     {
+                            "county_name": "Clay County, MN",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fargo, ND-MN",
+                            "area_name": "Fargo, ND-MN MSA",
+                            "year": "2022",
+                            "median_income": 100500,
+                            "very_low": {
+                                   "il50_p1": 35200,
+                                   "il50_p2": 40200,
+                                   "il50_p3": 45250,
+                                   "il50_p4": 50250,
+                                   "il50_p5": 54300,
+                                   "il50_p6": 58300,
+                                   "il50_p7": 62350,
+                                   "il50_p8": 66350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 21150,
+                                   "il30_p2": 24150,
+                                   "il30_p3": 27150,
+                                   "il30_p4": 30150,
+                                   "il30_p5": 32600,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 56300,
+                                   "il80_p2": 64350,
+                                   "il80_p3": 72400,
+                                   "il80_p4": 80400,
+                                   "il80_p5": 86850,
+                                   "il80_p6": 93300,
+                                   "il80_p7": 99700,
+                                   "il80_p8": 106150
+                            }
+                     }
+              ]
+       }
+}

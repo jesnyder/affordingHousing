@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 524,
+                                   "One-Bedroom": 527,
+                                   "Two-Bedroom": 701,
+                                   "Three-Bedroom": 950,
+                                   "Four-Bedroom": 1235,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 592,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 793,
+                                   "Three-Bedroom": 1068,
+                                   "Four-Bedroom": 1397,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 591,
+                                   "One-Bedroom": 595,
+                                   "Two-Bedroom": 787,
+                                   "Three-Bedroom": 1076,
+                                   "Four-Bedroom": 1382,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 592,
+                                   "One-Bedroom": 596,
+                                   "Two-Bedroom": 785,
+                                   "Three-Bedroom": 1092,
+                                   "Four-Bedroom": 1378,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 595,
+                                   "One-Bedroom": 599,
+                                   "Two-Bedroom": 790,
+                                   "Three-Bedroom": 1125,
+                                   "Four-Bedroom": 1368,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville, NC",
+                            "area_name": "Harnett County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 646,
+                                   "One-Bedroom": 651,
+                                   "Two-Bedroom": 856,
+                                   "Three-Bedroom": 1216,
+                                   "Four-Bedroom": 1465,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "year": "2017",
+                            "median_income": 51200,
+                            "very_low": {
+                                   "il50_p1": 18350,
+                                   "il50_p2": 21000,
+                                   "il50_p3": 23600,
+                                   "il50_p4": 26200,
+                                   "il50_p5": 28300,
+                                   "il50_p6": 30400,
+                                   "il50_p7": 32500,
+                                   "il50_p8": 34600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28300,
+                                   "il30_p6": 30400,
+                                   "il30_p7": 32500,
+                                   "il30_p8": 34600
+                            },
+                            "low": {
+                                   "il80_p1": 29350,
+                                   "il80_p2": 33550,
+                                   "il80_p3": 37750,
+                                   "il80_p4": 41900,
+                                   "il80_p5": 45300,
+                                   "il80_p6": 48650,
+                                   "il80_p7": 52000,
+                                   "il80_p8": 55350
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "year": "2018",
+                            "median_income": 62500,
+                            "very_low": {
+                                   "il50_p1": 20450,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26300,
+                                   "il50_p4": 29200,
+                                   "il50_p5": 31550,
+                                   "il50_p6": 33900,
+                                   "il50_p7": 36250,
+                                   "il50_p8": 38550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12250,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 36250,
+                                   "il30_p8": 38550
+                            },
+                            "low": {
+                                   "il80_p1": 32700,
+                                   "il80_p2": 37400,
+                                   "il80_p3": 42050,
+                                   "il80_p4": 46700,
+                                   "il80_p5": 50450,
+                                   "il80_p6": 54200,
+                                   "il80_p7": 57950,
+                                   "il80_p8": 61650
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "year": "2019",
+                            "median_income": 65000,
+                            "very_low": {
+                                   "il50_p1": 22500,
+                                   "il50_p2": 25700,
+                                   "il50_p3": 28900,
+                                   "il50_p4": 32100,
+                                   "il50_p5": 34700,
+                                   "il50_p6": 37250,
+                                   "il50_p7": 39850,
+                                   "il50_p8": 42400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13500,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42400
+                            },
+                            "low": {
+                                   "il80_p1": 35950,
+                                   "il80_p2": 41100,
+                                   "il80_p3": 46250,
+                                   "il80_p4": 51350,
+                                   "il80_p5": 55500,
+                                   "il80_p6": 59600,
+                                   "il80_p7": 63700,
+                                   "il80_p8": 67800
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "year": "2020",
+                            "median_income": 64800,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 42800
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41500,
+                                   "il80_p3": 46700,
+                                   "il80_p4": 51850,
+                                   "il80_p5": 56000,
+                                   "il80_p6": 60150,
+                                   "il80_p7": 64300,
+                                   "il80_p8": 68450
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Harnett County, NC",
+                            "year": "2021",
+                            "median_income": 63000,
+                            "very_low": {
+                                   "il50_p1": 22050,
+                                   "il50_p2": 25200,
+                                   "il50_p3": 28350,
+                                   "il50_p4": 31500,
+                                   "il50_p5": 34050,
+                                   "il50_p6": 36550,
+                                   "il50_p7": 39100,
+                                   "il50_p8": 41600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13250,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39100,
+                                   "il30_p8": 41600
+                            },
+                            "low": {
+                                   "il80_p1": 35300,
+                                   "il80_p2": 40350,
+                                   "il80_p3": 45400,
+                                   "il80_p4": 50400,
+                                   "il80_p5": 54450,
+                                   "il80_p6": 58500,
+                                   "il80_p7": 62500,
+                                   "il80_p8": 66550
+                            }
+                     },
+                     {
+                            "county_name": "Harnett County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Fayetteville, NC",
+                            "area_name": "Harnett County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74000,
+                            "very_low": {
+                                   "il50_p1": 24650,
+                                   "il50_p2": 28200,
+                                   "il50_p3": 31700,
+                                   "il50_p4": 35200,
+                                   "il50_p5": 38050,
+                                   "il50_p6": 40850,
+                                   "il50_p7": 43650,
+                                   "il50_p8": 46500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14800,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46500
+                            },
+                            "low": {
+                                   "il80_p1": 39450,
+                                   "il80_p2": 45050,
+                                   "il80_p3": 50700,
+                                   "il80_p4": 56300,
+                                   "il80_p5": 60850,
+                                   "il80_p6": 65350,
+                                   "il80_p7": 69850,
+                                   "il80_p8": 74350
+                            }
+                     }
+              ]
+       }
+}

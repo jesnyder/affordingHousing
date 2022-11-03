@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 526,
+                                   "One-Bedroom": 670,
+                                   "Two-Bedroom": 773,
+                                   "Three-Bedroom": 1105,
+                                   "Four-Bedroom": 1128,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 571,
+                                   "One-Bedroom": 721,
+                                   "Two-Bedroom": 828,
+                                   "Three-Bedroom": 1182,
+                                   "Four-Bedroom": 1245,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 744,
+                                   "One-Bedroom": 763,
+                                   "Two-Bedroom": 874,
+                                   "Three-Bedroom": 1245,
+                                   "Four-Bedroom": 1381,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 714,
+                                   "One-Bedroom": 735,
+                                   "Two-Bedroom": 837,
+                                   "Three-Bedroom": 1183,
+                                   "Four-Bedroom": 1325,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 803,
+                                   "One-Bedroom": 822,
+                                   "Two-Bedroom": 937,
+                                   "Three-Bedroom": 1305,
+                                   "Four-Bedroom": 1435,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Kentwood, MI",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 814,
+                                   "One-Bedroom": 852,
+                                   "Two-Bedroom": 971,
+                                   "Three-Bedroom": 1329,
+                                   "Four-Bedroom": 1381,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 72900,
+                            "very_low": {
+                                   "il50_p1": 25550,
+                                   "il50_p2": 29200,
+                                   "il50_p3": 32850,
+                                   "il50_p4": 36450,
+                                   "il50_p5": 39400,
+                                   "il50_p6": 42300,
+                                   "il50_p7": 45200,
+                                   "il50_p8": 48150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15300,
+                                   "il30_p2": 17500,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 40850,
+                                   "il80_p2": 46650,
+                                   "il80_p3": 52500,
+                                   "il80_p4": 58300,
+                                   "il80_p5": 63000,
+                                   "il80_p6": 67650,
+                                   "il80_p7": 72300,
+                                   "il80_p8": 77000
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 77000,
+                            "very_low": {
+                                   "il50_p1": 26950,
+                                   "il50_p2": 30800,
+                                   "il50_p3": 34650,
+                                   "il50_p4": 38500,
+                                   "il50_p5": 41600,
+                                   "il50_p6": 44700,
+                                   "il50_p7": 47750,
+                                   "il50_p8": 50850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16200,
+                                   "il30_p2": 18500,
+                                   "il30_p3": 20800,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 43150,
+                                   "il80_p2": 49300,
+                                   "il80_p3": 55450,
+                                   "il80_p4": 61600,
+                                   "il80_p5": 66550,
+                                   "il80_p6": 71500,
+                                   "il80_p7": 76400,
+                                   "il80_p8": 81350
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 84000,
+                            "very_low": {
+                                   "il50_p1": 29400,
+                                   "il50_p2": 33600,
+                                   "il50_p3": 37800,
+                                   "il50_p4": 42000,
+                                   "il50_p5": 45400,
+                                   "il50_p6": 48750,
+                                   "il50_p7": 52100,
+                                   "il50_p8": 55450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17650,
+                                   "il30_p2": 20200,
+                                   "il30_p3": 22700,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 47050,
+                                   "il80_p2": 53800,
+                                   "il80_p3": 60500,
+                                   "il80_p4": 67200,
+                                   "il80_p5": 72600,
+                                   "il80_p6": 78000,
+                                   "il80_p7": 83350,
+                                   "il80_p8": 88750
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 83600,
+                            "very_low": {
+                                   "il50_p1": 29300,
+                                   "il50_p2": 33450,
+                                   "il50_p3": 37650,
+                                   "il50_p4": 41800,
+                                   "il50_p5": 45150,
+                                   "il50_p6": 48500,
+                                   "il50_p7": 51850,
+                                   "il50_p8": 55200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 17600,
+                                   "il30_p2": 20100,
+                                   "il30_p3": 22600,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 46850,
+                                   "il80_p2": 53550,
+                                   "il80_p3": 60250,
+                                   "il80_p4": 66900,
+                                   "il80_p5": 72300,
+                                   "il80_p6": 77650,
+                                   "il80_p7": 83000,
+                                   "il80_p8": 88350
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Wyoming, MI MSA",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 87100,
+                            "very_low": {
+                                   "il50_p1": 30500,
+                                   "il50_p2": 34850,
+                                   "il50_p3": 39200,
+                                   "il50_p4": 43550,
+                                   "il50_p5": 47050,
+                                   "il50_p6": 50550,
+                                   "il50_p7": 54050,
+                                   "il50_p8": 57500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 18350,
+                                   "il30_p2": 20950,
+                                   "il30_p3": 23550,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 48800,
+                                   "il80_p2": 55800,
+                                   "il80_p3": 62750,
+                                   "il80_p4": 69700,
+                                   "il80_p5": 75300,
+                                   "il80_p6": 80900,
+                                   "il80_p7": 86450,
+                                   "il80_p8": 92050
+                            }
+                     },
+                     {
+                            "county_name": "Ottawa County, MI",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Grand Rapids-Kentwood, MI",
+                            "area_name": "Holland-Grand Haven, MI HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 94100,
+                            "very_low": {
+                                   "il50_p1": 32950,
+                                   "il50_p2": 37650,
+                                   "il50_p3": 42350,
+                                   "il50_p4": 47050,
+                                   "il50_p5": 50850,
+                                   "il50_p6": 54600,
+                                   "il50_p7": 58350,
+                                   "il50_p8": 62150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 19800,
+                                   "il30_p2": 22600,
+                                   "il30_p3": 25450,
+                                   "il30_p4": 28250,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 52750,
+                                   "il80_p2": 60250,
+                                   "il80_p3": 67800,
+                                   "il80_p4": 75300,
+                                   "il80_p5": 81350,
+                                   "il80_p6": 87350,
+                                   "il80_p7": 93400,
+                                   "il80_p8": 99400
+                            }
+                     }
+              ]
+       }
+}

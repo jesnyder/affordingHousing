@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 626,
+                                   "One-Bedroom": 721,
+                                   "Two-Bedroom": 877,
+                                   "Three-Bedroom": 1171,
+                                   "Four-Bedroom": 1221,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 649,
+                                   "Two-Bedroom": 790,
+                                   "Three-Bedroom": 1054,
+                                   "Four-Bedroom": 1117,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 515,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 768,
+                                   "Three-Bedroom": 993,
+                                   "Four-Bedroom": 1101,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 538,
+                                   "One-Bedroom": 680,
+                                   "Two-Bedroom": 825,
+                                   "Three-Bedroom": 1069,
+                                   "Four-Bedroom": 1195,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 564,
+                                   "One-Bedroom": 716,
+                                   "Two-Bedroom": 855,
+                                   "Three-Bedroom": 1107,
+                                   "Four-Bedroom": 1248,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS",
+                            "area_name": "Hattiesburg, MS HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 577,
+                                   "One-Bedroom": 723,
+                                   "Two-Bedroom": 868,
+                                   "Three-Bedroom": 1124,
+                                   "Four-Bedroom": 1272,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "year": "2017",
+                            "median_income": 51600,
+                            "very_low": {
+                                   "il50_p1": 18100,
+                                   "il50_p2": 20650,
+                                   "il50_p3": 23250,
+                                   "il50_p4": 25800,
+                                   "il50_p5": 27900,
+                                   "il50_p6": 29950,
+                                   "il50_p7": 32000,
+                                   "il50_p8": 34100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27900,
+                                   "il30_p6": 29950,
+                                   "il30_p7": 32000,
+                                   "il30_p8": 34100
+                            },
+                            "low": {
+                                   "il80_p1": 28950,
+                                   "il80_p2": 33050,
+                                   "il80_p3": 37200,
+                                   "il80_p4": 41300,
+                                   "il80_p5": 44650,
+                                   "il80_p6": 47950,
+                                   "il80_p7": 51250,
+                                   "il80_p8": 54550
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "year": "2018",
+                            "median_income": 58200,
+                            "very_low": {
+                                   "il50_p1": 20150,
+                                   "il50_p2": 23000,
+                                   "il50_p3": 25900,
+                                   "il50_p4": 28750,
+                                   "il50_p5": 31050,
+                                   "il50_p6": 33350,
+                                   "il50_p7": 35650,
+                                   "il50_p8": 37950
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33350,
+                                   "il30_p7": 35650,
+                                   "il30_p8": 37950
+                            },
+                            "low": {
+                                   "il80_p1": 32200,
+                                   "il80_p2": 36800,
+                                   "il80_p3": 41400,
+                                   "il80_p4": 46000,
+                                   "il80_p5": 49700,
+                                   "il80_p6": 53400,
+                                   "il80_p7": 57050,
+                                   "il80_p8": 60750
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "year": "2019",
+                            "median_income": 62800,
+                            "very_low": {
+                                   "il50_p1": 22000,
+                                   "il50_p2": 25150,
+                                   "il50_p3": 28300,
+                                   "il50_p4": 31400,
+                                   "il50_p5": 33950,
+                                   "il50_p6": 36450,
+                                   "il50_p7": 38950,
+                                   "il50_p8": 41450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38950,
+                                   "il30_p8": 41450
+                            },
+                            "low": {
+                                   "il80_p1": 35200,
+                                   "il80_p2": 40200,
+                                   "il80_p3": 45250,
+                                   "il80_p4": 50250,
+                                   "il80_p5": 54300,
+                                   "il80_p6": 58300,
+                                   "il80_p7": 62350,
+                                   "il80_p8": 66350
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "year": "2020",
+                            "median_income": 62600,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25050,
+                                   "il50_p3": 28200,
+                                   "il50_p4": 31300,
+                                   "il50_p5": 33850,
+                                   "il50_p6": 36350,
+                                   "il50_p7": 38850,
+                                   "il50_p8": 41350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 38850,
+                                   "il30_p8": 41350
+                            },
+                            "low": {
+                                   "il80_p1": 35100,
+                                   "il80_p2": 40100,
+                                   "il80_p3": 45100,
+                                   "il80_p4": 50100,
+                                   "il80_p5": 54150,
+                                   "il80_p6": 58150,
+                                   "il80_p7": 62150,
+                                   "il80_p8": 66150
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS MSA",
+                            "area_name": "Hattiesburg, MS MSA",
+                            "year": "2021",
+                            "median_income": 58900,
+                            "very_low": {
+                                   "il50_p1": 20850,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26800,
+                                   "il50_p4": 29750,
+                                   "il50_p5": 32150,
+                                   "il50_p6": 34550,
+                                   "il50_p7": 36900,
+                                   "il50_p8": 39300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 34550,
+                                   "il30_p7": 36900,
+                                   "il30_p8": 39300
+                            },
+                            "low": {
+                                   "il80_p1": 33350,
+                                   "il80_p2": 38100,
+                                   "il80_p3": 42850,
+                                   "il80_p4": 47600,
+                                   "il80_p5": 51450,
+                                   "il80_p6": 55250,
+                                   "il80_p7": 59050,
+                                   "il80_p8": 62850
+                            }
+                     },
+                     {
+                            "county_name": "Lamar County, MS",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Hattiesburg, MS",
+                            "area_name": "Hattiesburg, MS HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 62800,
+                            "very_low": {
+                                   "il50_p1": 22000,
+                                   "il50_p2": 25150,
+                                   "il50_p3": 28300,
+                                   "il50_p4": 31400,
+                                   "il50_p5": 33950,
+                                   "il50_p6": 36450,
+                                   "il50_p7": 38950,
+                                   "il50_p8": 41450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13590,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 36450,
+                                   "il30_p7": 38950,
+                                   "il30_p8": 41450
+                            },
+                            "low": {
+                                   "il80_p1": 35200,
+                                   "il80_p2": 40200,
+                                   "il80_p3": 45250,
+                                   "il80_p4": 50250,
+                                   "il80_p5": 54300,
+                                   "il80_p6": 58300,
+                                   "il80_p7": 62350,
+                                   "il80_p8": 66350
+                            }
+                     }
+              ]
+       }
+}

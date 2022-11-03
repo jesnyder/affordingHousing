@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 502,
+                                   "One-Bedroom": 505,
+                                   "Two-Bedroom": 671,
+                                   "Three-Bedroom": 900,
+                                   "Four-Bedroom": 1078,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 568,
+                                   "Two-Bedroom": 756,
+                                   "Three-Bedroom": 987,
+                                   "Four-Bedroom": 1239,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 565,
+                                   "One-Bedroom": 569,
+                                   "Two-Bedroom": 753,
+                                   "Three-Bedroom": 964,
+                                   "Four-Bedroom": 1257,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 612,
+                                   "One-Bedroom": 617,
+                                   "Two-Bedroom": 812,
+                                   "Three-Bedroom": 1012,
+                                   "Four-Bedroom": 1361,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 628,
+                                   "Two-Bedroom": 827,
+                                   "Three-Bedroom": 1029,
+                                   "Four-Bedroom": 1395,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC",
+                            "area_name": "Goldsboro, NC MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 641,
+                                   "One-Bedroom": 645,
+                                   "Two-Bedroom": 849,
+                                   "Three-Bedroom": 1049,
+                                   "Four-Bedroom": 1429,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "year": "2017",
+                            "median_income": 45000,
+                            "very_low": {
+                                   "il50_p1": 17750,
+                                   "il50_p2": 20250,
+                                   "il50_p3": 22800,
+                                   "il50_p4": 25300,
+                                   "il50_p5": 27350,
+                                   "il50_p6": 29350,
+                                   "il50_p7": 31400,
+                                   "il50_p8": 33400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 27350,
+                                   "il30_p6": 29350,
+                                   "il30_p7": 31400,
+                                   "il30_p8": 33400
+                            },
+                            "low": {
+                                   "il80_p1": 28350,
+                                   "il80_p2": 32400,
+                                   "il80_p3": 36450,
+                                   "il80_p4": 40500,
+                                   "il80_p5": 43750,
+                                   "il80_p6": 47000,
+                                   "il80_p7": 50250,
+                                   "il80_p8": 53500
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "year": "2018",
+                            "median_income": 57100,
+                            "very_low": {
+                                   "il50_p1": 19750,
+                                   "il50_p2": 22600,
+                                   "il50_p3": 25400,
+                                   "il50_p4": 28200,
+                                   "il50_p5": 30500,
+                                   "il50_p6": 32750,
+                                   "il50_p7": 35000,
+                                   "il50_p8": 37250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32750,
+                                   "il30_p7": 35000,
+                                   "il30_p8": 37250
+                            },
+                            "low": {
+                                   "il80_p1": 31600,
+                                   "il80_p2": 36100,
+                                   "il80_p3": 40600,
+                                   "il80_p4": 45100,
+                                   "il80_p5": 48750,
+                                   "il80_p6": 52350,
+                                   "il80_p7": 55950,
+                                   "il80_p8": 59550
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "year": "2019",
+                            "median_income": 58500,
+                            "very_low": {
+                                   "il50_p1": 20500,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26350,
+                                   "il50_p4": 29250,
+                                   "il50_p5": 31600,
+                                   "il50_p6": 33950,
+                                   "il50_p7": 36300,
+                                   "il50_p8": 38650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 33950,
+                                   "il30_p7": 36300,
+                                   "il30_p8": 38650
+                            },
+                            "low": {
+                                   "il80_p1": 32800,
+                                   "il80_p2": 37450,
+                                   "il80_p3": 42150,
+                                   "il80_p4": 46800,
+                                   "il80_p5": 50550,
+                                   "il80_p6": 54300,
+                                   "il80_p7": 58050,
+                                   "il80_p8": 61800
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "year": "2020",
+                            "median_income": 54100,
+                            "very_low": {
+                                   "il50_p1": 20350,
+                                   "il50_p2": 23250,
+                                   "il50_p3": 26150,
+                                   "il50_p4": 29050,
+                                   "il50_p5": 31400,
+                                   "il50_p6": 33700,
+                                   "il50_p7": 36050,
+                                   "il50_p8": 38350
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 33700,
+                                   "il30_p7": 36050,
+                                   "il30_p8": 38350
+                            },
+                            "low": {
+                                   "il80_p1": 32550,
+                                   "il80_p2": 37200,
+                                   "il80_p3": 41850,
+                                   "il80_p4": 46500,
+                                   "il80_p5": 50250,
+                                   "il80_p6": 53950,
+                                   "il80_p7": 57700,
+                                   "il80_p8": 61400
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC MSA",
+                            "area_name": "Goldsboro, NC MSA",
+                            "year": "2021",
+                            "median_income": 50500,
+                            "very_low": {
+                                   "il50_p1": 20500,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26350,
+                                   "il50_p4": 29250,
+                                   "il50_p5": 31600,
+                                   "il50_p6": 33950,
+                                   "il50_p7": 36300,
+                                   "il50_p8": 38650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 33950,
+                                   "il30_p7": 36300,
+                                   "il30_p8": 38650
+                            },
+                            "low": {
+                                   "il80_p1": 32800,
+                                   "il80_p2": 37450,
+                                   "il80_p3": 42150,
+                                   "il80_p4": 46800,
+                                   "il80_p5": 50550,
+                                   "il80_p6": 54300,
+                                   "il80_p7": 58050,
+                                   "il80_p8": 61800
+                            }
+                     },
+                     {
+                            "county_name": "Wayne County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Goldsboro, NC",
+                            "area_name": "Goldsboro, NC MSA",
+                            "year": "2022",
+                            "median_income": 59100,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29450,
+                                   "il50_p4": 32700,
+                                   "il50_p5": 35350,
+                                   "il50_p6": 37950,
+                                   "il50_p7": 40550,
+                                   "il50_p8": 43200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40550,
+                                   "il30_p8": 43200
+                            },
+                            "low": {
+                                   "il80_p1": 36650,
+                                   "il80_p2": 41850,
+                                   "il80_p3": 47100,
+                                   "il80_p4": 52300,
+                                   "il80_p5": 56500,
+                                   "il80_p6": 60700,
+                                   "il80_p7": 64900,
+                                   "il80_p8": 69050
+                            }
+                     }
+              ]
+       }
+}

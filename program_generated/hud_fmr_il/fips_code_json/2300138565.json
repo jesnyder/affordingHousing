@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 583,
+                                   "One-Bedroom": 660,
+                                   "Two-Bedroom": 832,
+                                   "Three-Bedroom": 1063,
+                                   "Four-Bedroom": 1270,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 608,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 847,
+                                   "Three-Bedroom": 1077,
+                                   "Four-Bedroom": 1328,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 712,
+                                   "Two-Bedroom": 915,
+                                   "Three-Bedroom": 1150,
+                                   "Four-Bedroom": 1460,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 613,
+                                   "One-Bedroom": 658,
+                                   "Two-Bedroom": 844,
+                                   "Three-Bedroom": 1068,
+                                   "Four-Bedroom": 1365,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 685,
+                                   "One-Bedroom": 737,
+                                   "Two-Bedroom": 947,
+                                   "Three-Bedroom": 1214,
+                                   "Four-Bedroom": 1484,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 717,
+                                   "One-Bedroom": 781,
+                                   "Two-Bedroom": 999,
+                                   "Three-Bedroom": 1297,
+                                   "Four-Bedroom": 1530,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "year": "2017",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 21250,
+                                   "il50_p2": 24300,
+                                   "il50_p3": 27350,
+                                   "il50_p4": 30350,
+                                   "il50_p5": 32800,
+                                   "il50_p6": 35250,
+                                   "il50_p7": 37650,
+                                   "il50_p8": 40100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12750,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40100
+                            },
+                            "low": {
+                                   "il80_p1": 34000,
+                                   "il80_p2": 38850,
+                                   "il80_p3": 43700,
+                                   "il80_p4": 48550,
+                                   "il80_p5": 52450,
+                                   "il80_p6": 56350,
+                                   "il80_p7": 60250,
+                                   "il80_p8": 64100
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "year": "2018",
+                            "median_income": 63900,
+                            "very_low": {
+                                   "il50_p1": 22400,
+                                   "il50_p2": 25600,
+                                   "il50_p3": 28800,
+                                   "il50_p4": 31950,
+                                   "il50_p5": 34550,
+                                   "il50_p6": 37100,
+                                   "il50_p7": 39650,
+                                   "il50_p8": 42200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13450,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42200
+                            },
+                            "low": {
+                                   "il80_p1": 35800,
+                                   "il80_p2": 40900,
+                                   "il80_p3": 46000,
+                                   "il80_p4": 51100,
+                                   "il80_p5": 55200,
+                                   "il80_p6": 59300,
+                                   "il80_p7": 63400,
+                                   "il80_p8": 67500
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "year": "2019",
+                            "median_income": 62600,
+                            "very_low": {
+                                   "il50_p1": 22700,
+                                   "il50_p2": 25950,
+                                   "il50_p3": 29200,
+                                   "il50_p4": 32400,
+                                   "il50_p5": 35000,
+                                   "il50_p6": 37600,
+                                   "il50_p7": 40200,
+                                   "il50_p8": 42800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13650,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42800
+                            },
+                            "low": {
+                                   "il80_p1": 36300,
+                                   "il80_p2": 41500,
+                                   "il80_p3": 46700,
+                                   "il80_p4": 51850,
+                                   "il80_p5": 56000,
+                                   "il80_p6": 60150,
+                                   "il80_p7": 64300,
+                                   "il80_p8": 68450
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "year": "2020",
+                            "median_income": 75900,
+                            "very_low": {
+                                   "il50_p1": 24500,
+                                   "il50_p2": 28000,
+                                   "il50_p3": 31500,
+                                   "il50_p4": 34950,
+                                   "il50_p5": 37750,
+                                   "il50_p6": 40550,
+                                   "il50_p7": 43350,
+                                   "il50_p8": 46150
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14700,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 39150,
+                                   "il80_p2": 44750,
+                                   "il80_p3": 50350,
+                                   "il80_p4": 55900,
+                                   "il80_p5": 60400,
+                                   "il80_p6": 64850,
+                                   "il80_p7": 69350,
+                                   "il80_p8": 73800
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME MSA",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "year": "2021",
+                            "median_income": 71200,
+                            "very_low": {
+                                   "il50_p1": 24950,
+                                   "il50_p2": 28500,
+                                   "il50_p3": 32050,
+                                   "il50_p4": 35600,
+                                   "il50_p5": 38450,
+                                   "il50_p6": 41300,
+                                   "il50_p7": 44150,
+                                   "il50_p8": 47000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39900,
+                                   "il80_p2": 45600,
+                                   "il80_p3": 51300,
+                                   "il80_p4": 56950,
+                                   "il80_p5": 61550,
+                                   "il80_p6": 66100,
+                                   "il80_p7": 70650,
+                                   "il80_p8": 75200
+                            }
+                     },
+                     {
+                            "county_name": "Androscoggin County, ME",
+                            "counties_msa": "",
+                            "town_name": "Leeds town",
+                            "metro_status": "1",
+                            "metro_name": "Lewiston-Auburn, ME",
+                            "area_name": "Lewiston-Auburn, ME MSA",
+                            "year": "2022",
+                            "median_income": 83600,
+                            "very_low": {
+                                   "il50_p1": 27900,
+                                   "il50_p2": 31850,
+                                   "il50_p3": 35850,
+                                   "il50_p4": 39800,
+                                   "il50_p5": 43000,
+                                   "il50_p6": 46200,
+                                   "il50_p7": 49400,
+                                   "il50_p8": 52550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16750,
+                                   "il30_p2": 19150,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44600,
+                                   "il80_p2": 51000,
+                                   "il80_p3": 57350,
+                                   "il80_p4": 63700,
+                                   "il80_p5": 68800,
+                                   "il80_p6": 73900,
+                                   "il80_p7": 79000,
+                                   "il80_p8": 84100
+                            }
+                     }
+              ]
+       }
+}

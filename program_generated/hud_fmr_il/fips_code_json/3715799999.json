@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 480,
+                                   "One-Bedroom": 483,
+                                   "Two-Bedroom": 642,
+                                   "Three-Bedroom": 837,
+                                   "Four-Bedroom": 885,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 514,
+                                   "Two-Bedroom": 683,
+                                   "Three-Bedroom": 901,
+                                   "Four-Bedroom": 930,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 510,
+                                   "One-Bedroom": 513,
+                                   "Two-Bedroom": 679,
+                                   "Three-Bedroom": 888,
+                                   "Four-Bedroom": 918,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 511,
+                                   "One-Bedroom": 514,
+                                   "Two-Bedroom": 677,
+                                   "Three-Bedroom": 895,
+                                   "Four-Bedroom": 917,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 534,
+                                   "One-Bedroom": 537,
+                                   "Two-Bedroom": 693,
+                                   "Three-Bedroom": 914,
+                                   "Four-Bedroom": 999,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 581,
+                                   "One-Bedroom": 585,
+                                   "Two-Bedroom": 755,
+                                   "Three-Bedroom": 991,
+                                   "Four-Bedroom": 1129,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 48500,
+                            "very_low": {
+                                   "il50_p1": 17400,
+                                   "il50_p2": 19900,
+                                   "il50_p3": 22400,
+                                   "il50_p4": 24850,
+                                   "il50_p5": 26850,
+                                   "il50_p6": 28850,
+                                   "il50_p7": 30850,
+                                   "il50_p8": 32850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 26850,
+                                   "il30_p6": 28850,
+                                   "il30_p7": 30850,
+                                   "il30_p8": 32850
+                            },
+                            "low": {
+                                   "il80_p1": 27900,
+                                   "il80_p2": 31850,
+                                   "il80_p3": 35850,
+                                   "il80_p4": 39800,
+                                   "il80_p5": 43000,
+                                   "il80_p6": 46200,
+                                   "il80_p7": 49400,
+                                   "il80_p8": 52550
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 55200,
+                            "very_low": {
+                                   "il50_p1": 19350,
+                                   "il50_p2": 22100,
+                                   "il50_p3": 24850,
+                                   "il50_p4": 27600,
+                                   "il50_p5": 29850,
+                                   "il50_p6": 32050,
+                                   "il50_p7": 34250,
+                                   "il50_p8": 36450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12140,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 32050,
+                                   "il30_p7": 34250,
+                                   "il30_p8": 36450
+                            },
+                            "low": {
+                                   "il80_p1": 30950,
+                                   "il80_p2": 35350,
+                                   "il80_p3": 39750,
+                                   "il80_p4": 44150,
+                                   "il80_p5": 47700,
+                                   "il80_p6": 51250,
+                                   "il80_p7": 54750,
+                                   "il80_p8": 58300
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 53400,
+                            "very_low": {
+                                   "il50_p1": 19350,
+                                   "il50_p2": 22100,
+                                   "il50_p3": 24850,
+                                   "il50_p4": 27600,
+                                   "il50_p5": 29850,
+                                   "il50_p6": 32050,
+                                   "il50_p7": 34250,
+                                   "il50_p8": 36450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12490,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 29850,
+                                   "il30_p6": 32050,
+                                   "il30_p7": 34250,
+                                   "il30_p8": 36450
+                            },
+                            "low": {
+                                   "il80_p1": 30950,
+                                   "il80_p2": 35350,
+                                   "il80_p3": 39750,
+                                   "il80_p4": 44150,
+                                   "il80_p5": 47700,
+                                   "il80_p6": 51250,
+                                   "il80_p7": 54750,
+                                   "il80_p8": 58300
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 61700,
+                            "very_low": {
+                                   "il50_p1": 20850,
+                                   "il50_p2": 23800,
+                                   "il50_p3": 26800,
+                                   "il50_p4": 29750,
+                                   "il50_p5": 32150,
+                                   "il50_p6": 34550,
+                                   "il50_p7": 36900,
+                                   "il50_p8": 39300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12760,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 34550,
+                                   "il30_p7": 36900,
+                                   "il30_p8": 39300
+                            },
+                            "low": {
+                                   "il80_p1": 33350,
+                                   "il80_p2": 38100,
+                                   "il80_p3": 42850,
+                                   "il80_p4": 47600,
+                                   "il80_p5": 51450,
+                                   "il80_p6": 55250,
+                                   "il80_p7": 59050,
+                                   "il80_p8": 62850
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC MSA",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 55000,
+                            "very_low": {
+                                   "il50_p1": 20500,
+                                   "il50_p2": 23400,
+                                   "il50_p3": 26350,
+                                   "il50_p4": 29250,
+                                   "il50_p5": 31600,
+                                   "il50_p6": 33950,
+                                   "il50_p7": 36300,
+                                   "il50_p8": 38650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12880,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 33950,
+                                   "il30_p7": 36300,
+                                   "il30_p8": 38650
+                            },
+                            "low": {
+                                   "il80_p1": 32800,
+                                   "il80_p2": 37450,
+                                   "il80_p3": 42150,
+                                   "il80_p4": 46800,
+                                   "il80_p5": 50550,
+                                   "il80_p6": 54300,
+                                   "il80_p7": 58050,
+                                   "il80_p8": 61800
+                            }
+                     },
+                     {
+                            "county_name": "Rockingham County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Greensboro-High Point, NC",
+                            "area_name": "Rockingham County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 55500,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26200,
+                                   "il50_p3": 29450,
+                                   "il50_p4": 32700,
+                                   "il50_p5": 35350,
+                                   "il50_p6": 37950,
+                                   "il50_p7": 40550,
+                                   "il50_p8": 43200
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 40550,
+                                   "il30_p8": 43200
+                            },
+                            "low": {
+                                   "il80_p1": 36650,
+                                   "il80_p2": 41850,
+                                   "il80_p3": 47100,
+                                   "il80_p4": 52300,
+                                   "il80_p5": 56500,
+                                   "il80_p6": 60700,
+                                   "il80_p7": 64900,
+                                   "il80_p8": 69050
+                            }
+                     }
+              ]
+       }
+}

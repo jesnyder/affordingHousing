@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 551,
+                                   "One-Bedroom": 554,
+                                   "Two-Bedroom": 735,
+                                   "Three-Bedroom": 1017,
+                                   "Four-Bedroom": 1117,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 527,
+                                   "One-Bedroom": 530,
+                                   "Two-Bedroom": 703,
+                                   "Three-Bedroom": 1008,
+                                   "Four-Bedroom": 1119,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 563,
+                                   "One-Bedroom": 565,
+                                   "Two-Bedroom": 748,
+                                   "Three-Bedroom": 1078,
+                                   "Four-Bedroom": 1184,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 542,
+                                   "One-Bedroom": 587,
+                                   "Two-Bedroom": 773,
+                                   "Three-Bedroom": 1115,
+                                   "Four-Bedroom": 1188,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 537,
+                                   "One-Bedroom": 612,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1155,
+                                   "Four-Bedroom": 1216,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 536,
+                                   "One-Bedroom": 622,
+                                   "Two-Bedroom": 807,
+                                   "Three-Bedroom": 1146,
+                                   "Four-Bedroom": 1248,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "year": "2017",
+                            "median_income": 59000,
+                            "very_low": {
+                                   "il50_p1": 20650,
+                                   "il50_p2": 23600,
+                                   "il50_p3": 26550,
+                                   "il50_p4": 29450,
+                                   "il50_p5": 31850,
+                                   "il50_p6": 34200,
+                                   "il50_p7": 36550,
+                                   "il50_p8": 38900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12400,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 36550,
+                                   "il30_p8": 38900
+                            },
+                            "low": {
+                                   "il80_p1": 33000,
+                                   "il80_p2": 37700,
+                                   "il80_p3": 42400,
+                                   "il80_p4": 47100,
+                                   "il80_p5": 50900,
+                                   "il80_p6": 54650,
+                                   "il80_p7": 58450,
+                                   "il80_p8": 62200
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "year": "2018",
+                            "median_income": 64600,
+                            "very_low": {
+                                   "il50_p1": 22650,
+                                   "il50_p2": 25850,
+                                   "il50_p3": 29100,
+                                   "il50_p4": 32300,
+                                   "il50_p5": 34900,
+                                   "il50_p6": 37500,
+                                   "il50_p7": 40100,
+                                   "il50_p8": 42650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13600,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 36200,
+                                   "il80_p2": 41400,
+                                   "il80_p3": 46550,
+                                   "il80_p4": 51700,
+                                   "il80_p5": 55850,
+                                   "il80_p6": 60000,
+                                   "il80_p7": 64150,
+                                   "il80_p8": 68250
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "year": "2019",
+                            "median_income": 63600,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25450,
+                                   "il50_p3": 28650,
+                                   "il50_p4": 31800,
+                                   "il50_p5": 34350,
+                                   "il50_p6": 36900,
+                                   "il50_p7": 39450,
+                                   "il50_p8": 42000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 42000
+                            },
+                            "low": {
+                                   "il80_p1": 35650,
+                                   "il80_p2": 40750,
+                                   "il80_p3": 45850,
+                                   "il80_p4": 50900,
+                                   "il80_p5": 55000,
+                                   "il80_p6": 59050,
+                                   "il80_p7": 63150,
+                                   "il80_p8": 67200
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "year": "2020",
+                            "median_income": 67000,
+                            "very_low": {
+                                   "il50_p1": 23450,
+                                   "il50_p2": 26800,
+                                   "il50_p3": 30150,
+                                   "il50_p4": 33500,
+                                   "il50_p5": 36200,
+                                   "il50_p6": 38900,
+                                   "il50_p7": 41550,
+                                   "il50_p8": 44250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14100,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 37550,
+                                   "il80_p2": 42900,
+                                   "il80_p3": 48250,
+                                   "il80_p4": 53600,
+                                   "il80_p5": 57900,
+                                   "il80_p6": 62200,
+                                   "il80_p7": 66500,
+                                   "il80_p8": 70800
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL MSA",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "year": "2021",
+                            "median_income": 62800,
+                            "very_low": {
+                                   "il50_p1": 22300,
+                                   "il50_p2": 25500,
+                                   "il50_p3": 28700,
+                                   "il50_p4": 31850,
+                                   "il50_p5": 34400,
+                                   "il50_p6": 36950,
+                                   "il50_p7": 39500,
+                                   "il50_p8": 42050
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13400,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 39500,
+                                   "il30_p8": 42050
+                            },
+                            "low": {
+                                   "il80_p1": 35700,
+                                   "il80_p2": 40800,
+                                   "il80_p3": 45900,
+                                   "il80_p4": 50950,
+                                   "il80_p5": 55050,
+                                   "il80_p6": 59150,
+                                   "il80_p7": 63200,
+                                   "il80_p8": 67300
+                            }
+                     },
+                     {
+                            "county_name": "Bollinger County, MO",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Cape Girardeau, MO-IL",
+                            "area_name": "Cape Girardeau, MO-IL MSA",
+                            "year": "2022",
+                            "median_income": 78400,
+                            "very_low": {
+                                   "il50_p1": 24950,
+                                   "il50_p2": 28500,
+                                   "il50_p3": 32050,
+                                   "il50_p4": 35600,
+                                   "il50_p5": 38450,
+                                   "il50_p6": 41300,
+                                   "il50_p7": 44150,
+                                   "il50_p8": 47000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 39900,
+                                   "il80_p2": 45600,
+                                   "il80_p3": 51300,
+                                   "il80_p4": 56950,
+                                   "il80_p5": 61550,
+                                   "il80_p6": 66100,
+                                   "il80_p7": 70650,
+                                   "il80_p8": 75200
+                            }
+                     }
+              ]
+       }
+}

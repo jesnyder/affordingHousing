@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 709,
+                                   "One-Bedroom": 713,
+                                   "Two-Bedroom": 891,
+                                   "Three-Bedroom": 1194,
+                                   "Four-Bedroom": 1553,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 655,
+                                   "One-Bedroom": 660,
+                                   "Two-Bedroom": 829,
+                                   "Three-Bedroom": 1120,
+                                   "Four-Bedroom": 1460,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 794,
+                                   "One-Bedroom": 799,
+                                   "Two-Bedroom": 993,
+                                   "Three-Bedroom": 1356,
+                                   "Four-Bedroom": 1744,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1039,
+                                   "One-Bedroom": 1045,
+                                   "Two-Bedroom": 1255,
+                                   "Three-Bedroom": 1717,
+                                   "Four-Bedroom": 2203,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1096,
+                                   "One-Bedroom": 1099,
+                                   "Two-Bedroom": 1279,
+                                   "Three-Bedroom": 1751,
+                                   "Four-Bedroom": 2213,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 1188,
+                                   "One-Bedroom": 1209,
+                                   "Two-Bedroom": 1378,
+                                   "Three-Bedroom": 1879,
+                                   "Four-Bedroom": 2359,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 61300,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24550,
+                                   "il50_p3": 27600,
+                                   "il50_p4": 30650,
+                                   "il50_p5": 33150,
+                                   "il50_p6": 35600,
+                                   "il50_p7": 38050,
+                                   "il50_p8": 40500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 40500
+                            },
+                            "low": {
+                                   "il80_p1": 34350,
+                                   "il80_p2": 39250,
+                                   "il80_p3": 44150,
+                                   "il80_p4": 49050,
+                                   "il80_p5": 53000,
+                                   "il80_p6": 56900,
+                                   "il80_p7": 60850,
+                                   "il80_p8": 64750
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 61300,
+                            "very_low": {
+                                   "il50_p1": 21500,
+                                   "il50_p2": 24550,
+                                   "il50_p3": 27600,
+                                   "il50_p4": 30650,
+                                   "il50_p5": 33150,
+                                   "il50_p6": 35600,
+                                   "il50_p7": 38050,
+                                   "il50_p8": 40500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12900,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38050,
+                                   "il30_p8": 40500
+                            },
+                            "low": {
+                                   "il80_p1": 34350,
+                                   "il80_p2": 39250,
+                                   "il80_p3": 44150,
+                                   "il80_p4": 49050,
+                                   "il80_p5": 53000,
+                                   "il80_p6": 56900,
+                                   "il80_p7": 60850,
+                                   "il80_p8": 64750
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 66400,
+                            "very_low": {
+                                   "il50_p1": 23250,
+                                   "il50_p2": 26600,
+                                   "il50_p3": 29900,
+                                   "il50_p4": 33200,
+                                   "il50_p5": 35900,
+                                   "il50_p6": 38550,
+                                   "il50_p7": 41200,
+                                   "il50_p8": 43850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13950,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37200,
+                                   "il80_p2": 42500,
+                                   "il80_p3": 47800,
+                                   "il80_p4": 53100,
+                                   "il80_p5": 57350,
+                                   "il80_p6": 61600,
+                                   "il80_p7": 65850,
+                                   "il80_p8": 70100
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 72500,
+                            "very_low": {
+                                   "il50_p1": 25100,
+                                   "il50_p2": 28650,
+                                   "il50_p3": 32250,
+                                   "il50_p4": 35800,
+                                   "il50_p5": 38700,
+                                   "il50_p6": 41550,
+                                   "il50_p7": 44400,
+                                   "il50_p8": 47300
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15050,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 40150,
+                                   "il80_p2": 45850,
+                                   "il80_p3": 51600,
+                                   "il80_p4": 57300,
+                                   "il80_p5": 61900,
+                                   "il80_p6": 66500,
+                                   "il80_p7": 71100,
+                                   "il80_p8": 75650
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC MSA",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 75500,
+                            "very_low": {
+                                   "il50_p1": 26300,
+                                   "il50_p2": 30050,
+                                   "il50_p3": 33800,
+                                   "il50_p4": 37550,
+                                   "il50_p5": 40600,
+                                   "il50_p6": 43600,
+                                   "il50_p7": 46600,
+                                   "il50_p8": 49600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15800,
+                                   "il30_p2": 18050,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 42100,
+                                   "il80_p2": 48100,
+                                   "il80_p3": 54100,
+                                   "il80_p4": 60100,
+                                   "il80_p5": 64950,
+                                   "il80_p6": 69750,
+                                   "il80_p7": 74550,
+                                   "il80_p8": 79350
+                            }
+                     },
+                     {
+                            "county_name": "Henderson County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Asheville, NC",
+                            "area_name": "Asheville, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 80000,
+                            "very_low": {
+                                   "il50_p1": 28150,
+                                   "il50_p2": 32150,
+                                   "il50_p3": 36150,
+                                   "il50_p4": 40150,
+                                   "il50_p5": 43400,
+                                   "il50_p6": 46600,
+                                   "il50_p7": 49800,
+                                   "il50_p8": 53000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16900,
+                                   "il30_p2": 19300,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 45000,
+                                   "il80_p2": 51400,
+                                   "il80_p3": 57850,
+                                   "il80_p4": 64250,
+                                   "il80_p5": 69400,
+                                   "il80_p6": 74550,
+                                   "il80_p7": 79700,
+                                   "il80_p8": 84850
+                            }
+                     }
+              ]
+       }
+}

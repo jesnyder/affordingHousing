@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 587,
+                                   "One-Bedroom": 591,
+                                   "Two-Bedroom": 786,
+                                   "Three-Bedroom": 983,
+                                   "Four-Bedroom": 1137,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 621,
+                                   "One-Bedroom": 625,
+                                   "Two-Bedroom": 831,
+                                   "Three-Bedroom": 1042,
+                                   "Four-Bedroom": 1214,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 614,
+                                   "One-Bedroom": 618,
+                                   "Two-Bedroom": 817,
+                                   "Three-Bedroom": 1024,
+                                   "Four-Bedroom": 1238,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 617,
+                                   "One-Bedroom": 621,
+                                   "Two-Bedroom": 818,
+                                   "Three-Bedroom": 1019,
+                                   "Four-Bedroom": 1255,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 626,
+                                   "One-Bedroom": 630,
+                                   "Two-Bedroom": 830,
+                                   "Three-Bedroom": 1032,
+                                   "Four-Bedroom": 1277,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC",
+                            "area_name": "Granville County, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 666,
+                                   "One-Bedroom": 670,
+                                   "Two-Bedroom": 863,
+                                   "Three-Bedroom": 1093,
+                                   "Four-Bedroom": 1349,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "year": "2017",
+                            "median_income": 57000,
+                            "very_low": {
+                                   "il50_p1": 19950,
+                                   "il50_p2": 22800,
+                                   "il50_p3": 25650,
+                                   "il50_p4": 28500,
+                                   "il50_p5": 30800,
+                                   "il50_p6": 33100,
+                                   "il50_p7": 35350,
+                                   "il50_p8": 37650
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35350,
+                                   "il30_p8": 37650
+                            },
+                            "low": {
+                                   "il80_p1": 31950,
+                                   "il80_p2": 36500,
+                                   "il80_p3": 41050,
+                                   "il80_p4": 45600,
+                                   "il80_p5": 49250,
+                                   "il80_p6": 52900,
+                                   "il80_p7": 56550,
+                                   "il80_p8": 60200
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "year": "2018",
+                            "median_income": 60100,
+                            "very_low": {
+                                   "il50_p1": 21050,
+                                   "il50_p2": 24050,
+                                   "il50_p3": 27050,
+                                   "il50_p4": 30050,
+                                   "il50_p5": 32500,
+                                   "il50_p6": 34900,
+                                   "il50_p7": 37300,
+                                   "il50_p8": 39700
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12650,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 37300,
+                                   "il30_p8": 39700
+                            },
+                            "low": {
+                                   "il80_p1": 33700,
+                                   "il80_p2": 38500,
+                                   "il80_p3": 43300,
+                                   "il80_p4": 48100,
+                                   "il80_p5": 51950,
+                                   "il80_p6": 55800,
+                                   "il80_p7": 59650,
+                                   "il80_p8": 63500
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "year": "2019",
+                            "median_income": 63300,
+                            "very_low": {
+                                   "il50_p1": 22200,
+                                   "il50_p2": 25350,
+                                   "il50_p3": 28500,
+                                   "il50_p4": 31650,
+                                   "il50_p5": 34200,
+                                   "il50_p6": 36750,
+                                   "il50_p7": 39250,
+                                   "il50_p8": 41800
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13300,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 41800
+                            },
+                            "low": {
+                                   "il80_p1": 35500,
+                                   "il80_p2": 40550,
+                                   "il80_p3": 45600,
+                                   "il80_p4": 50650,
+                                   "il80_p5": 54750,
+                                   "il80_p6": 58800,
+                                   "il80_p7": 62850,
+                                   "il80_p8": 66900
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "year": "2020",
+                            "median_income": 65300,
+                            "very_low": {
+                                   "il50_p1": 22900,
+                                   "il50_p2": 26150,
+                                   "il50_p3": 29400,
+                                   "il50_p4": 32650,
+                                   "il50_p5": 35300,
+                                   "il50_p6": 37900,
+                                   "il50_p7": 40500,
+                                   "il50_p8": 43100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13750,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 43100
+                            },
+                            "low": {
+                                   "il80_p1": 36600,
+                                   "il80_p2": 41800,
+                                   "il80_p3": 47050,
+                                   "il80_p4": 52250,
+                                   "il80_p5": 56450,
+                                   "il80_p6": 60650,
+                                   "il80_p7": 64800,
+                                   "il80_p8": 69000
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Granville County, NC",
+                            "year": "2021",
+                            "median_income": 68600,
+                            "very_low": {
+                                   "il50_p1": 24000,
+                                   "il50_p2": 27400,
+                                   "il50_p3": 30850,
+                                   "il50_p4": 34250,
+                                   "il50_p5": 37000,
+                                   "il50_p6": 39750,
+                                   "il50_p7": 42500,
+                                   "il50_p8": 45250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14400,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38400,
+                                   "il80_p2": 43850,
+                                   "il80_p3": 49350,
+                                   "il80_p4": 54800,
+                                   "il80_p5": 59200,
+                                   "il80_p6": 63600,
+                                   "il80_p7": 68000,
+                                   "il80_p8": 72350
+                            }
+                     },
+                     {
+                            "county_name": "Granville County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Durham-Chapel Hill, NC",
+                            "area_name": "Granville County, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 74800,
+                            "very_low": {
+                                   "il50_p1": 26200,
+                                   "il50_p2": 29950,
+                                   "il50_p3": 33700,
+                                   "il50_p4": 37400,
+                                   "il50_p5": 40400,
+                                   "il50_p6": 43400,
+                                   "il50_p7": 46400,
+                                   "il50_p8": 49400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 15750,
+                                   "il30_p2": 18310,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 41900,
+                                   "il80_p2": 47900,
+                                   "il80_p3": 53900,
+                                   "il80_p4": 59850,
+                                   "il80_p5": 64650,
+                                   "il80_p6": 69450,
+                                   "il80_p7": 74250,
+                                   "il80_p8": 79050
+                            }
+                     }
+              ]
+       }
+}

@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 659,
+                                   "One-Bedroom": 663,
+                                   "Two-Bedroom": 819,
+                                   "Three-Bedroom": 1110,
+                                   "Four-Bedroom": 1443,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 681,
+                                   "One-Bedroom": 685,
+                                   "Two-Bedroom": 857,
+                                   "Three-Bedroom": 1147,
+                                   "Four-Bedroom": 1509,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 664,
+                                   "One-Bedroom": 668,
+                                   "Two-Bedroom": 869,
+                                   "Three-Bedroom": 1156,
+                                   "Four-Bedroom": 1526,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 628,
+                                   "Two-Bedroom": 827,
+                                   "Three-Bedroom": 1101,
+                                   "Four-Bedroom": 1452,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 638,
+                                   "One-Bedroom": 642,
+                                   "Two-Bedroom": 846,
+                                   "Three-Bedroom": 1153,
+                                   "Four-Bedroom": 1465,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 692,
+                                   "One-Bedroom": 696,
+                                   "Two-Bedroom": 916,
+                                   "Three-Bedroom": 1264,
+                                   "Four-Bedroom": 1568,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "year": "2017",
+                            "median_income": 65100,
+                            "very_low": {
+                                   "il50_p1": 21950,
+                                   "il50_p2": 25100,
+                                   "il50_p3": 28250,
+                                   "il50_p4": 31350,
+                                   "il50_p5": 33900,
+                                   "il50_p6": 36400,
+                                   "il50_p7": 38900,
+                                   "il50_p8": 41400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13200,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 37140,
+                                   "il30_p8": 41320
+                            },
+                            "low": {
+                                   "il80_p1": 35150,
+                                   "il80_p2": 40150,
+                                   "il80_p3": 45150,
+                                   "il80_p4": 50150,
+                                   "il80_p5": 54200,
+                                   "il80_p6": 58200,
+                                   "il80_p7": 62200,
+                                   "il80_p8": 66200
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "year": "2018",
+                            "median_income": 68800,
+                            "very_low": {
+                                   "il50_p1": 24100,
+                                   "il50_p2": 27550,
+                                   "il50_p3": 31000,
+                                   "il50_p4": 34400,
+                                   "il50_p5": 37200,
+                                   "il50_p6": 39950,
+                                   "il50_p7": 42700,
+                                   "il50_p8": 45450
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 16550,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 42380
+                            },
+                            "low": {
+                                   "il80_p1": 38550,
+                                   "il80_p2": 44050,
+                                   "il80_p3": 49550,
+                                   "il80_p4": 55050,
+                                   "il80_p5": 59500,
+                                   "il80_p6": 63900,
+                                   "il80_p7": 68300,
+                                   "il80_p8": 72700
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "year": "2019",
+                            "median_income": 67200,
+                            "very_low": {
+                                   "il50_p1": 23550,
+                                   "il50_p2": 26900,
+                                   "il50_p3": 30250,
+                                   "il50_p4": 33600,
+                                   "il50_p5": 36300,
+                                   "il50_p6": 39000,
+                                   "il50_p7": 41700,
+                                   "il50_p8": 44400
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14150,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 39010,
+                                   "il30_p8": 43430
+                            },
+                            "low": {
+                                   "il80_p1": 37650,
+                                   "il80_p2": 43000,
+                                   "il80_p3": 48400,
+                                   "il80_p4": 53750,
+                                   "il80_p5": 58050,
+                                   "il80_p6": 62350,
+                                   "il80_p7": 66650,
+                                   "il80_p8": 70950
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "year": "2020",
+                            "median_income": 68900,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34450,
+                                   "il50_p5": 37250,
+                                   "il50_p6": 40000,
+                                   "il50_p7": 42750,
+                                   "il50_p8": 45500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44120
+                            },
+                            "low": {
+                                   "il80_p1": 38600,
+                                   "il80_p2": 44100,
+                                   "il80_p3": 49600,
+                                   "il80_p4": 55100,
+                                   "il80_p5": 59550,
+                                   "il80_p6": 63950,
+                                   "il80_p7": 68350,
+                                   "il80_p8": 72750
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "year": "2021",
+                            "median_income": 71200,
+                            "very_low": {
+                                   "il50_p1": 24950,
+                                   "il50_p2": 28500,
+                                   "il50_p3": 32050,
+                                   "il50_p4": 35600,
+                                   "il50_p5": 38450,
+                                   "il50_p6": 41300,
+                                   "il50_p7": 44150,
+                                   "il50_p8": 47000
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14950,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 39900,
+                                   "il80_p2": 45600,
+                                   "il80_p3": 51300,
+                                   "il80_p4": 56950,
+                                   "il80_p5": 61550,
+                                   "il80_p6": 66100,
+                                   "il80_p7": 70650,
+                                   "il80_p8": 75200
+                            }
+                     },
+                     {
+                            "county_name": "Carteret County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "0",
+                            "metro_name": "",
+                            "area_name": "Carteret County, NC",
+                            "year": "2022",
+                            "median_income": 85400,
+                            "very_low": {
+                                   "il50_p1": 27900,
+                                   "il50_p2": 31850,
+                                   "il50_p3": 35850,
+                                   "il50_p4": 39800,
+                                   "il50_p5": 43000,
+                                   "il50_p6": 46200,
+                                   "il50_p7": 49400,
+                                   "il50_p8": 52550
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16750,
+                                   "il30_p2": 19150,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 44600,
+                                   "il80_p2": 51000,
+                                   "il80_p3": 57350,
+                                   "il80_p4": 63700,
+                                   "il80_p5": 68800,
+                                   "il80_p6": 73900,
+                                   "il80_p7": 79000,
+                                   "il80_p8": 84100
+                            }
+                     }
+              ]
+       }
+}

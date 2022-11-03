@@ -1,0 +1,350 @@
+{
+       "responses": {
+              "fmr": [
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 597,
+                                   "One-Bedroom": 611,
+                                   "Two-Bedroom": 753,
+                                   "Three-Bedroom": 1038,
+                                   "Four-Bedroom": 1229,
+                                   "year": "2017"
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 573,
+                                   "One-Bedroom": 594,
+                                   "Two-Bedroom": 738,
+                                   "Three-Bedroom": 1002,
+                                   "Four-Bedroom": 1220,
+                                   "year": "2018"
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 558,
+                                   "One-Bedroom": 583,
+                                   "Two-Bedroom": 729,
+                                   "Three-Bedroom": 985,
+                                   "Four-Bedroom": 1211,
+                                   "year": "2019"
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 580,
+                                   "One-Bedroom": 617,
+                                   "Two-Bedroom": 763,
+                                   "Three-Bedroom": 1028,
+                                   "Four-Bedroom": 1256,
+                                   "year": "2020"
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 624,
+                                   "One-Bedroom": 670,
+                                   "Two-Bedroom": 825,
+                                   "Three-Bedroom": 1111,
+                                   "Four-Bedroom": 1322,
+                                   "year": "2021"
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "smallarea_status": "0",
+                            "basicdata": {
+                                   "Efficiency": 623,
+                                   "One-Bedroom": 664,
+                                   "Two-Bedroom": 808,
+                                   "Three-Bedroom": 1075,
+                                   "Four-Bedroom": 1249,
+                                   "year": "2022"
+                            }
+                     }
+              ],
+              "il": [
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "year": "2017",
+                            "median_income": 56900,
+                            "very_low": {
+                                   "il50_p1": 19950,
+                                   "il50_p2": 22800,
+                                   "il50_p3": 25650,
+                                   "il50_p4": 28450,
+                                   "il50_p5": 30750,
+                                   "il50_p6": 33050,
+                                   "il50_p7": 35300,
+                                   "il50_p8": 37600
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 12060,
+                                   "il30_p2": 16240,
+                                   "il30_p3": 20420,
+                                   "il30_p4": 24600,
+                                   "il30_p5": 28780,
+                                   "il30_p6": 32960,
+                                   "il30_p7": 35300,
+                                   "il30_p8": 37600
+                            },
+                            "low": {
+                                   "il80_p1": 31850,
+                                   "il80_p2": 36400,
+                                   "il80_p3": 40950,
+                                   "il80_p4": 45500,
+                                   "il80_p5": 49150,
+                                   "il80_p6": 52800,
+                                   "il80_p7": 56450,
+                                   "il80_p8": 60100
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "year": "2018",
+                            "median_income": 62500,
+                            "very_low": {
+                                   "il50_p1": 21900,
+                                   "il50_p2": 25000,
+                                   "il50_p3": 28150,
+                                   "il50_p4": 31250,
+                                   "il50_p5": 33750,
+                                   "il50_p6": 36250,
+                                   "il50_p7": 38750,
+                                   "il50_p8": 41250
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13150,
+                                   "il30_p2": 16460,
+                                   "il30_p3": 20780,
+                                   "il30_p4": 25100,
+                                   "il30_p5": 29420,
+                                   "il30_p6": 33740,
+                                   "il30_p7": 38060,
+                                   "il30_p8": 41250
+                            },
+                            "low": {
+                                   "il80_p1": 35000,
+                                   "il80_p2": 40000,
+                                   "il80_p3": 45000,
+                                   "il80_p4": 50000,
+                                   "il80_p5": 54000,
+                                   "il80_p6": 58000,
+                                   "il80_p7": 62000,
+                                   "il80_p8": 66000
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "year": "2019",
+                            "median_income": 61900,
+                            "very_low": {
+                                   "il50_p1": 21700,
+                                   "il50_p2": 24800,
+                                   "il50_p3": 27900,
+                                   "il50_p4": 30950,
+                                   "il50_p5": 33450,
+                                   "il50_p6": 35950,
+                                   "il50_p7": 38400,
+                                   "il50_p8": 40900
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 13000,
+                                   "il30_p2": 16910,
+                                   "il30_p3": 21330,
+                                   "il30_p4": 25750,
+                                   "il30_p5": 30170,
+                                   "il30_p6": 34590,
+                                   "il30_p7": 38400,
+                                   "il30_p8": 40900
+                            },
+                            "low": {
+                                   "il80_p1": 34650,
+                                   "il80_p2": 39600,
+                                   "il80_p3": 44550,
+                                   "il80_p4": 49500,
+                                   "il80_p5": 53500,
+                                   "il80_p6": 57450,
+                                   "il80_p7": 61400,
+                                   "il80_p8": 65350
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "year": "2020",
+                            "median_income": 68600,
+                            "very_low": {
+                                   "il50_p1": 23400,
+                                   "il50_p2": 26750,
+                                   "il50_p3": 30100,
+                                   "il50_p4": 33400,
+                                   "il50_p5": 36100,
+                                   "il50_p6": 38750,
+                                   "il50_p7": 41450,
+                                   "il50_p8": 44100
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14050,
+                                   "il30_p2": 17240,
+                                   "il30_p3": 21720,
+                                   "il30_p4": 26200,
+                                   "il30_p5": 30680,
+                                   "il30_p6": 35160,
+                                   "il30_p7": 39640,
+                                   "il30_p8": 44100
+                            },
+                            "low": {
+                                   "il80_p1": 37400,
+                                   "il80_p2": 42750,
+                                   "il80_p3": 48100,
+                                   "il80_p4": 53400,
+                                   "il80_p5": 57700,
+                                   "il80_p6": 61950,
+                                   "il80_p7": 66250,
+                                   "il80_p8": 70500
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC MSA",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "year": "2021",
+                            "median_income": 68900,
+                            "very_low": {
+                                   "il50_p1": 24150,
+                                   "il50_p2": 27600,
+                                   "il50_p3": 31050,
+                                   "il50_p4": 34450,
+                                   "il50_p5": 37250,
+                                   "il50_p6": 40000,
+                                   "il50_p7": 42750,
+                                   "il50_p8": 45500
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 14500,
+                                   "il30_p2": 17420,
+                                   "il30_p3": 21960,
+                                   "il30_p4": 26500,
+                                   "il30_p5": 31040,
+                                   "il30_p6": 35580,
+                                   "il30_p7": 40120,
+                                   "il30_p8": 44660
+                            },
+                            "low": {
+                                   "il80_p1": 38600,
+                                   "il80_p2": 44100,
+                                   "il80_p3": 49600,
+                                   "il80_p4": 55100,
+                                   "il80_p5": 59550,
+                                   "il80_p6": 63950,
+                                   "il80_p7": 68350,
+                                   "il80_p8": 72750
+                            }
+                     },
+                     {
+                            "county_name": "Davie County, NC",
+                            "counties_msa": "",
+                            "town_name": "",
+                            "metro_status": "1",
+                            "metro_name": "Winston-Salem, NC",
+                            "area_name": "Winston-Salem, NC HUD Metro FMR Area",
+                            "year": "2022",
+                            "median_income": 77400,
+                            "very_low": {
+                                   "il50_p1": 26950,
+                                   "il50_p2": 30800,
+                                   "il50_p3": 34650,
+                                   "il50_p4": 38500,
+                                   "il50_p5": 41600,
+                                   "il50_p6": 44700,
+                                   "il50_p7": 47750,
+                                   "il50_p8": 50850
+                            },
+                            "extremely_low": {
+                                   "il30_p1": 16200,
+                                   "il30_p2": 18500,
+                                   "il30_p3": 23030,
+                                   "il30_p4": 27750,
+                                   "il30_p5": 32470,
+                                   "il30_p6": 37190,
+                                   "il30_p7": 41910,
+                                   "il30_p8": 46630
+                            },
+                            "low": {
+                                   "il80_p1": 43150,
+                                   "il80_p2": 49300,
+                                   "il80_p3": 55450,
+                                   "il80_p4": 61600,
+                                   "il80_p5": 66550,
+                                   "il80_p6": 71500,
+                                   "il80_p7": 76400,
+                                   "il80_p8": 81350
+                            }
+                     }
+              ]
+       }
+}
