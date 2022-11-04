@@ -20,12 +20,12 @@ from admin import save_json
 from admin import save_value
 
 
-def analyze_dataset():
+def build_charts():
     """
     analyze dataset
     """
 
-    tasks = []
+    tasks = [1, 2]
 
     # json fids fmr and il
 
@@ -86,12 +86,12 @@ def write_geojson():
             feature['properties']['Income Level'] = {'value': value, 'color': calculate_rgb_color(value, 'il')}
 
             value = fid['data']['fmr'][-1]
-            feature['properties']['FMR'] = {'value': value, 'color': calculate_rgb_color(value, 'fid')}
+            feature['properties']['FMR'] = {'value': value, 'color': calculate_rgb_color(value, 'fmr')}
 
             value = fid['data']['ratio'][-1]
             feature['properties']['ratio'] = {'value': value, 'color': calculate_rgb_color(value, 'ratio')}
 
-            value = fid['data']['slope'][-1]
+            value = fid['data']['slope']
             feature['properties']['slope'] = {'value': value, 'color': calculate_rgb_color(value, 'slope')}
 
             feature['properties']['color'] = calculate_rgb_color(fid['data']['slope'], 'slope')
@@ -119,10 +119,20 @@ def calculate_rgb_color(value, type):
 
     df = retrieve_df('summary_df')
     name = type
-    try:
-        df = df[df['name'] == name]
-    except:
-        df = df[df['name'] == str(name + '_2022')]
+
+    if name in list(df['name']): name = str(name)
+    else: name = str(name + '_2022')
+
+    df = df[df['name'] == name]
+
+    #print('name = ')
+    #print(name)
+
+    #print('df = ')
+    #print(df)
+
+    #print('value = ')
+    #print(value)
 
     value_max = float(list(df['max'])[0])
     value_min = float(list(df['min'])[0])
@@ -136,11 +146,28 @@ def calculate_rgb_color(value, type):
     inc = 255*inc
 
     mods = [1, 0.1, 0]
-
-    # determine the rgb values
     r = int(inc*mods[0])
     g = int(255 - inc*mods[1])
     b = int(255 - inc*mods[2])
+
+    if 'il' in type:
+        mods = [0, 1, 1]
+        r = int(255)
+        g = int(inc*mods[1])
+        b = int(inc*mods[2])
+
+    if 'fmr' in type:
+        mods = [1, 1, 0]
+        r = int(inc*mods[0])
+        g = int(inc*mods[1])
+        b = int(255)
+
+    if 'ratio' in type:
+        mods = [1, 0, 1]
+        r = int(inc*mods[0])
+        g = int(255)
+        b = int(inc*mods[2])
+
 
     color_str = str('rgb( ' + str(r) + ' , ' +  str(g) + ' , ' + str(b) + ' )')
     #print('color_str = ' + str(color_str))

@@ -11,7 +11,7 @@ def main():
     Map clinical trials
     """
 
-    tasks = []
+    tasks = [0, 1,]
 
     if 0 not in tasks: build_dataset()
     if 1 not in tasks: analyze_dataset()
