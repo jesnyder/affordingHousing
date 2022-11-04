@@ -6,9 +6,11 @@ var hudIL = L.layerGroup();
 var hudFMR = L.layerGroup();
 var hudRatio = L.layerGroup();
 var hudSlope = L.layerGroup();
+var background = L.layerGroup();
 
 
-var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>';
+//var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>';
+var mbAttr = '';
 var mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
 
 
@@ -16,14 +18,15 @@ var streets = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomO
 
 var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+		// attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+		attribution: ' '
 	});
 
 
 //var map = L.map('map').setView([37.8, -96], 4);
 var map = L.map('map', {
-		center: [37.8, -96],
-		zoom: 4,
+		center: [37.25, -92],
+		zoom: 4.25,
 		minZoom: 4,
 		maxZoom: 18,
 		zoomSnap: 0.25,
@@ -40,6 +43,7 @@ var map = L.map('map', {
 		'Fair Market Rate (FMR)': hudFMR,
 		'Ratio (FMR/IL)': hudRatio,
 		'Slope': hudSlope,
+		//'Background': background
 	};
 
 	var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
@@ -50,10 +54,9 @@ var map = L.map('map', {
 
 	var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'
+		//attribution: '&copy; <a href="http://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'
+		//attribution: ''
 	}).addTo(map);
-
-
 
 
 // control that shows state info on hover
@@ -87,7 +90,7 @@ function style(feature) {
 			color: 'white',
 			dashArray: '3',
 			fillOpacity: 0.7,
-			fillColor: feature.properties['Arthritis-Crude Prevalence']['color']
+			fillColor: feature.properties['color']
 		};
 	}
 
@@ -141,14 +144,13 @@ function styleHudSlope(feature) {
 
 
 function highlightFeature(e) {
-
 		var layer = e.target;
 
 		layer.setStyle({
-			weight: 5,
-			color: '#666',
-			dashArray: '',
-			fillOpacity: 0.7
+			//weight: 5,
+			//color: '#666',
+			//dashArray: '',
+			//fillOpacity: 0.7
 		});
 
 		if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
@@ -178,6 +180,16 @@ function onEachFeature(feature, layer) {
 		});
 	}
 
+
+const polygon = L.polygon(
+	[[180, 180], [-180, 180], [-180, -180], [180, -180], [180, 180]],
+	{
+		color: 'white',
+		fillColor: 'white',
+		fillOpacity: 0.8,
+	}
+
+).addTo(map).addTo(background);
 
 var il = L.geoJson(hudstats, {
 		style: styleHudIL,

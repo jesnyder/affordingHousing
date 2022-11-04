@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <title>HUD Data</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.0/dist/leaflet.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.12.0/moment.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="js/leaflet.timeline.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.14.0.min.js"></script>
+
+    <link href="https://unpkg.com/tabulator-tables@4.8.1/dist/css/tabulator.min.css" rel="stylesheet">
+    <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.8.1/dist/js/tabulator.min.js"></script>
+
+  </head>
+
+  <body>
+
+    <!-- here in nav tag i have used two classes
+         that is navbar and background-->
+    <!-- each class declared in nav tag will be
+         used to design the form using CSS-->
+    <nav class="navbar background">
+        <!-- we have used list tag that is ul
+             to list the items-->
+             <ul class="nav-list">
+               <li><a href="../index.html">Welcome</a></li>
+               <li><a href=" ">Map</a></li>
+               <li><a href="../scatter/">Scatter</a></li>
+               <li><a href="../about/">About</a></li>
+             </ul>
+        <!-- we have used rightnav in order to design
+             the seachbar properly by using CSS-->
+      <!--
+        <div class="rightNav">
+      <!-- the value that search bar will take is text
+            <input type="text" name="search" id="search" />
+            <button class="btn btn-sm">Search</button>
+        </div>
+      --->
+    </nav>
+    <br>
+    <div id="map" style="margin-left: 3%; width:96% ; max-width:1000px;"></div>
+    <script type="text/javascript"  src="../js_map/geojson_hud.js"></script>
+    <script type="text/javascript"  src="../js_map/map.js"></script>
+
+
+
+
+  </body>
+</html>

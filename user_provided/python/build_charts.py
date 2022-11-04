@@ -25,7 +25,7 @@ def build_charts():
     analyze dataset
     """
 
-    tasks = [1, 2]
+    tasks = [3, 4]
 
     # json fids fmr and il
 

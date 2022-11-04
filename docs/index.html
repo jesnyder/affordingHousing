@@ -19,31 +19,37 @@
 
   <body>
 
-    HUD
-
+    <!-- here in nav tag i have used two classes
+         that is navbar and background-->
+    <!-- each class declared in nav tag will be
+         used to design the form using CSS-->
+    <nav class="navbar background">
+        <!-- we have used list tag that is ul
+             to list the items-->
+             <ul class="nav-list">
+                 <li><a href="index.html">Welcome</a></li>
+                 <li><a href="map/">Map</a></li>
+                 <li><a href="scatter/">Scatter</a></li>
+                 <li><a href="about/">About</a></li>
+                 <li><a href="chart/">Chart</a></li>
+             </ul>
+        <!-- we have used rightnav in order to design
+             the seachbar properly by using CSS-->
+      <!--
+        <div class="rightNav">
+      <!-- the value that search bar will take is text
+            <input type="text" name="search" id="search" />
+            <button class="btn btn-sm">Search</button>
+        </div>
+      --->
+    </nav>
+    <br>
     <div id="map" style="margin-left: 3%; width:96% ; max-width:1000px;"></div>
+    <script type="text/javascript"  src="js_map/rectangle.js"></script>
     <script type="text/javascript"  src="js_map/geojson_hud.js"></script>
     <script type="text/javascript"  src="js_map/map.js"></script>
 
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
-    <canvas id="first_scatter" height="150"  style="border:0px solid"></canvas>
-    <script src="js_scatter/scatter.js"></script>
-    </div>
 
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
-    <canvas id="0100199999_plot" height="150"  style="border:0px solid"></canvas>
-    <script src="js/0100199999.js"></script>
-    </div>
-
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
-    <canvas id="0100399999_plot" height="150"  style="border:0px solid"></canvas>
-    <script src="js/0100399999.js"></script>
-    </div>
-
-    <div id="container" style="text-align:center; width:80%; margin-left: 10%; max-width:800px;">
-    <canvas id="0100599999_plot" height="150"  style="border:0px solid"></canvas>
-    <script src="js/0100599999.js"></script>
-    </div>
 
 
 

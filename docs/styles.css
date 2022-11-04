@@ -6,16 +6,18 @@ body {
 
 
 
-h1   {color: #171B60;
+h1   {color:  #000000;
       font: 20px Calibri;
       font-weight: bold;
      }
-h2   {color: #0099D8;
+h2   {color:  #000000;
       font: 18px Calibri;
       font-weight: bold;
      }
-p    {color: #565656;
-      font: 16px Calibri}
+p    {color: #000000;
+      font: 16px Calibri;
+      font-weight: bold;
+    }
 
 html,
 body {
@@ -24,12 +26,12 @@ body {
 }
 #map {
   width: 100vw;
-  height: 90vh;
+  height: 80vh;
 }
 
 #map2 {
   width: 100vw;
-  height: 90vh;
+  height: 95vh;
 }
 
 .leaflet-container {
@@ -91,7 +93,7 @@ box-shadow: 0 0 .5em navy;
 }
 
 &.prop__name {
-color: lightcyan;
+color:  #000000;
 
 &[data-dir='1']:after { content: '▲'; }
 &[data-dir='-1']:after { content: '▼'; }
@@ -114,7 +116,7 @@ box-shadow: 0 0 .8em #000;
 
 thead {
 background: linear-gradient(#63666A, #28262b);
-color: lightcyan;
+color:  #000000;
 font-weight: 700;
 letter-spacing: 1px;
 text-transform: uppercase;
@@ -173,12 +175,13 @@ right: .5em;
 
 #my-list {
     padding-left: 50px;
-    padding: 10px;
+    padding: 0px;
 }
 
 li {
   padding-left: 10px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   color: black;
   text-indent: 0em;
   margin-left: 2em;
@@ -193,14 +196,66 @@ a {
 
 
 .legend {
-    line-height: 18px;
-    color: #555;
+    line-height: 10px;
+    color:  #000000;
     }
 
 .legend i {
       width: 18px;
-      height: 18px;
-      float: left;
-      margin-right: 8px;
+      height: 8px;
+      float: right;
+      margin-right: 20px;
       opacity: 0.7;
     }
+
+
+
+
+.navbar {
+    display: flex;
+    height: 20px;
+
+    /* This is used to make the navbar sticky, So that the
+    navbar stays at the top part even if we scroll */
+    position: sticky;
+    align-items: center;
+    justify-content: left;
+    top: 1px;
+
+    /*it specifies the mouse cursor to be displayed
+    when it is pointed over the element */
+    cursor: pointer;
+    }
+
+    .nav-list {
+    width: 90%;
+    display: flex;
+    }
+
+    .nav-list li {
+    list-style: none;
+    padding: 0px 0px 0px 0px;
+    }
+
+    .nav-list li a {
+    text-decoration: none;
+    font: helvetica;
+    color: white;
+    font-size: 18px;
+    }
+
+    .nav-list li a:hover {
+    color: yellow;
+    }
+
+    .rightNav {
+    width: 30%;
+    text-align: center;
+    }
+
+    .background {
+    background: rgba(0, 0, 0, 1);
+    background-blend-mode: darken;
+    background-size: cover;
+    }
+}

@@ -31,7 +31,7 @@ geojson_counties_src,user_provided geojson us_counties.json
 # analyze_dataset created
 metro_fmr,program_generated metro_fmr
 js_fmr,docs js
-chart_js,docs js
+chart_js,docs chart js
 template_html,docs template_html.html
 fids_json,program_generated json_compiled fids.json
 slopes,program_generated df_compiled slopes.csv
