@@ -10,6 +10,7 @@ saved_values,program_generated values saved_values.csv
 # build dataset_referenced
 auth_token,user_provided admin auth_token.csv
 porland_oregon_zips,user_provided admin portland_zips.csv
+census,user_provided downloadCensus alldata.csv
 
 # build_dataset created
 hud_ref,program_generated refs
@@ -39,3 +40,6 @@ geojson_hud_county,docs js_map geojson_hud.js
 all_data_df,program_generated df_compiled all_data.csv
 summary_df,program_generated df_compiled summary.csv
 scatter_js,docs js_scatter scatter.js
+
+# build_charts created
+plotly_scatter,docs scatter js_scatter plotly_scatter.js

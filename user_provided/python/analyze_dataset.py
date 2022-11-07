@@ -25,7 +25,7 @@ def analyze_dataset():
     analyze dataset
     """
 
-    tasks = []
+    tasks = [1, 2, 3, 4]
 
     # json fids fmr and il
     if 0 not in tasks: json_fids()
@@ -76,6 +76,7 @@ def summarize_values():
 
     df = retrieve_df('all_data_df')
     df_sum = pd.DataFrame()
+    
 
     for col_name in df.columns:
 
@@ -197,6 +198,7 @@ def json_fids():
 
         fil_src = os.path.join(fol_src, fil)
 
+
         """
         if str(fil[0]) != '0':
             #os.remove(fil_src)
@@ -222,11 +224,57 @@ def json_fids():
         fid['data']['fmr'] = list_fmr(ref_json)
         fid['data']['ratio'] = list_ratio(ref_json)
         fid['data']['slope'] = find_slope(ref_json)
+        fid['data']['population'] = find_population(ref_json, fid_code)
 
         fids.append(fid)
         fids_json['fid_count'] = len(fids)
         fids_json['fids'] = fids
         save_json(fids_json, retrieve_path('fids_json'))
+
+
+def find_population(ref_json, fid_code):
+    """
+    return population from downloaded census data
+    """
+
+    #print('ref_json = ')
+    #print(ref_json)
+
+    fid_census = fid_code[:5]
+    fid_state = fid_code[:2]
+    fid_county = fid_code[2:5]
+
+    print('fid_state = ' + str(fid_state))
+    print('fid_count = ' + str(fid_county))
+
+    df = retrieve_df('census')
+    pop_avg = sum(list(df['POPESTIMATE2020']))/len(list(df['POPESTIMATE2020']))
+    population2020  = 0
+    population2021 = 0
+
+    print('df[\'STATE\'] = ')
+    print(df['STATE'])
+
+    df = df[df['STATE'] == int(fid_state)]
+    df = df[df['COUNTY'] == int(fid_county)]
+
+    #assert(len(list(df['POPESTIMATE2020'])) > 0)
+    population = {}
+
+    if len(list(df['POPESTIMATE2020'])) > 0:
+        print('df = ')
+        print(df)
+        population2020 = list(df['POPESTIMATE2020'])[0]
+        population2021 = list(df['POPESTIMATE2021'])[0]
+
+        for colName in df.columns:
+
+            population[colName] = list(df[colName])[0]
+
+    population['2020'] = population2020
+    population['2021'] = population2021
+
+    return(population)
 
 
 def find_slope(ref_json):

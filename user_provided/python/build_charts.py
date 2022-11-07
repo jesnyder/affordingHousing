@@ -25,7 +25,7 @@ def build_charts():
     analyze dataset
     """
 
-    tasks = [3, 4]
+    tasks = [1, 2, 3, 4]
 
     # json fids fmr and il
 
@@ -33,8 +33,156 @@ def build_charts():
     if 2 not in tasks: template_html()
     if 3 not in tasks: write_geojson()
     if 4 not in tasks: make_scatter()
+    if 5 not in tasks: write_scatter_plotly()
     #analyze_hud_fmr()
     #template_html()
+
+
+
+def write_scatter_plotly():
+    """
+    write json to build scatter plot using plotly
+    save to docs/scatter_js
+    """
+
+    # establish empty list for json data from each year
+    # following this example
+    # https://plotly.com/javascript/bubble-charts/
+    bubble_data = []
+
+    # for each year data is available
+    years = np.arange(2017, 2023, 1)
+    for year in years:
+
+        if year != 2022: continue
+
+        print('year = ' + str(year))
+
+        ils, fmrs, names, ratios, slopes, descs, populations = [], [], [], [], [], [], []
+        # for each county in the compiled list of all counties
+        for fid in retrieve_json('fids_json')['fids']:
+
+            #print('fid = ')
+            #print(fid)
+
+            years_fid = fid['data']['year']
+            if year not in years_fid: continue
+
+            i = years_fid.index(year)
+
+
+            name = fid['desc']['county_name']
+            il = fid['data']['il'][i]
+            fmr = fid['data']['fmr'][i]
+            ratio = fid['data']['ratio'][-1]
+            slope = fid['data']['slope']
+            population = fid['data']['population']['2021']
+
+            desc = name + '<br>Year: ' + str(year) + '<br>Population: ' + str("{:,}".format(population))  # + '<br>' + str(slope)
+            if population == 0:
+                desc = name + '<br>Year: ' + str(year) + '<br>Population: ' + 'Not Found'  # + '<br>' + str(slope)
+
+            ils.append(il)
+            fmrs.append(fmr)
+            ratios.append(ratio)
+            names.append(name)
+            slopes.append(slope)
+            descs.append(desc)
+            populations.append(population)
+
+        trace = {}
+        trace['x'] = ils
+        trace['y'] = fmrs
+        trace['text'] = descs
+        trace['mode'] = 'markers'
+        trace['marker'] = build_markers(ils, fmrs, ratios, year, slopes, populations)
+
+        bubble_data.append(trace)
+
+    #print('bubble_data = ')
+    #print(bubble_data)
+
+    # write bubble chart layout
+    # https://plotly.com/javascript/bubble-charts/
+    bubble_layout = {}
+    bubble_layout['title'] = 'Income Level vs Fair Market Rent'
+    bubble_layout['showlegend'] = False
+    bubble_layout['yaxis'] = { 'title': 'Fair Market Rent - Efficiency'}
+    bubble_layout['xaxis'] = { 'title': 'Income Level'}
+    bubble_layout['height'] = 600
+    bubble_layout['width'] = 900
+
+    with open(retrieve_path('plotly_scatter'), "w") as f:
+        f.write('Plotly.newPlot(' + '"plotly_scatter", ' + '\n')
+        json.dump(bubble_data, f, indent = 4)
+        f.write(', ' + '\n')
+        json.dump(bubble_layout, f, indent = 4)
+        f.write(');')
+    f.close()
+
+
+def build_markers(ils, fmrs, ratios, year, slopes, populations):
+    """
+    return json describing markers
+    formatted for plotly
+    ref:
+    https://plotly.com/javascript/bubble-charts/
+    """
+
+    colors, opacities, sizes = [], [], []
+    for i in range(len(ils)):
+
+        color = scatter_plotly_color(slopes[i])
+        colors.append(color)
+        opacities.append(0.8)
+        print('populations[i] = ' + str(populations[i]))
+
+
+        size = math.pow(populations[i], 1/4)
+        if size == 0: size = 30
+        sizes.append(size)
+
+    marker = {}
+    marker['color'] = colors
+    #marker['opacity'] =opacities
+    marker['size'] = sizes
+
+    return(marker)
+
+
+def scatter_plotly_color(value):
+    """
+    assign a color based on slope
+    """
+
+    df = retrieve_df('summary_df')
+    df = df[df['name'] == 'slope']
+
+    value_max = float(list(df['max'])[0])
+    value_min = float(list(df['min'])[0])
+    value_avg = float(list(df['avg'])[0])
+
+    inc = (value_max - value)/(value_max - value_min)
+    if inc > 1: inc = 1
+    if inc < 0: inc = 0
+
+    inc = 255*inc
+
+    if value >= 0:
+        mods = [0, 1, 0]
+        r = int(255 - inc*mods[0])
+        g = int(0   + inc*mods[1])
+        b = int(255 - inc*mods[2])
+
+    else:
+        mods = [1, 0, 1]
+        r = int(0   + inc*mods[0])
+        g = int(255 + inc*mods[1])
+        b = int(0   + inc*mods[2])
+
+    color_str = str('rgb( ' + str(r) + ' , ' +  str(g) + ' , ' + str(b) + ' )')
+    #print('color_str = ' + str(color_str))
+    return(color_str)
 
 
 
